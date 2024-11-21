@@ -4,18 +4,18 @@
     <!--HMs in Unova-->
     <string block_id="0" entry_id="0" table_id="280">{09}</string> <!--Use Cut?-->
     <string block_id="0" entry_id="1" table_id="280">{09}</string> <!--Cut Used!-->
-    <string block_id="0" entry_id="2" table_id="280">No Cut.</string>
+    <string block_id="0" entry_id="2" table_id="280">Need HM-Cut!</string>
     <string block_id="0" entry_id="6" table_id="280">{09}</string> <!--Use Strength?-->
     <string block_id="0" entry_id="10" table_id="280">{09}</string> <!--Strength Used!-->
-    <string block_id="0" entry_id="8" table_id="280">No Strength.</string>
+    <string block_id="0" entry_id="8" table_id="280">Need HM-Strength!</string>
     <string block_id="0" entry_id="13" table_id="280">{09}</string> <!--Use Surf?-->
     <string block_id="0" entry_id="14" table_id="280">{09}</string> <!--Surf Used!-->
     <string block_id="0" entry_id="23" table_id="280">{09}</string> <!--Use Waterfall?-->
     <string block_id="0" entry_id="24" table_id="280">{09}</string> <!--Waterfall Used!-->
-    <string block_id="0" entry_id="25" table_id="280">No Waterfall.</string>
+    <string block_id="0" entry_id="25" table_id="280">Need HM-Waterfall!</string>
     <string block_id="0" entry_id="31" table_id="280">{09}</string> <!--Use Dive?-->
     <string block_id="0" entry_id="32" table_id="280">{09}</string> <!--Dive Used!-->
-    <string block_id="0" entry_id="30" table_id="280">No Dive.</string>
+    <string block_id="0" entry_id="30" table_id="280">Need HM-Dive!</string>
 
 <!--Npcs-->
     <!--Nurse Joy-->
@@ -26,8 +26,8 @@
     <string block_id="0" entry_id="8" table_id="346">{09}</string> <!--After Heal-->
 
     <!--Shop Npcs-->
-    <string block_id="0" entry_id="0" table_id="424">{09}</string> <!--Shopping Mall Npc greeting-->
-    <string block_id="0" entry_id="1" table_id="424">{09}</string> <!--Shopping Mall TM Npc-->
-    <string block_id="0" entry_id="3" table_id="424">{09}</string> <!--Shopping Mall Npc goodbye-->
+    <string block_id="0" entry_id="0" table_id="424">{09}</string> <!--Shop Npc greeting-->
+    <string block_id="0" entry_id="1" table_id="424">{09}</string> <!--Shop TM Npc-->
+    <string block_id="0" entry_id="3" table_id="424">{09}</string> <!--Shop Npc goodbye-->
 
 </ds_strings_archive>

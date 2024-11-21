@@ -13,8 +13,8 @@
     <string id="8601">\n\n\n\n {00} {01} \n\n\n\n</string> <!-- Restore PP with Item -->
 
     <!--HM's-->
-    <string id="16780421">{09}</string>
-    <string id="16780155">{09}</string> <!--Teleport-->
+    <string id="16780421">{09}</string> <!--Rock Smash in Unova-->
+    <string id="16780155">{09}</string> <!--Teleport/ Defog/ Flash / Dig (In All Regions)(I think Ocarina Summon)-->
 
     <!--Bag Items-->
 

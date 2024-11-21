@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <ds_strings_archive archive_type="0" lang="en" region_id="3">
 
+
+    <string block_id="0" entry_id="12" table_id="381">{09}</string> <!--Use Surf?-->
+    <string block_id="0" entry_id="13" table_id="381">{09}</string> <!--Surf Used!-->
+
 </ds_strings_archive>

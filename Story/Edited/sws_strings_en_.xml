@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <strings is_primary="0" lang="en" lang_full="English">
 
+
+<!--Npcs-->
+    <!--Pirate-->
+    <string id="16780100">Where to?</string> <!--Choose Region-->
+    <string id="16780104">Blimey.</string>
+    <string id="16780103">{09}</string> <!--Departure-->
+
     <!--Field Moves-->
     <string id="8600">\n</string> <!-- Restore PP Question -->
     <string id="8601">\n\n\n\n {00} {01} \n\n\n\n</string> <!-- Restore PP with Item -->
 
+    <!--HM's-->
+    <string id="16780421">{09}</string>
     <string id="16780155">{09}</string> <!--Teleport-->
 
     <!--Bag Items-->

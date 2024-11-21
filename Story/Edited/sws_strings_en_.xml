@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<strings is_primary="0" lang="en" lang_full="English">
+
+    <!--Field Moves-->
+    <string id="8600">\n</string> <!-- Restore PP Question -->
+    <string id="8601">\n\n\n\n {00} {01} \n\n\n\n</string> <!-- Restore PP with Item -->
+
+    <string id="16780155">{09}</string> <!--Teleport-->
+
+    <!--Bag Items-->
+
+    <!--Adventure Items-->
+    <string id="245079">&#x0000;Repel</string>
+    <string id="245076">&#x0001;Super Repel</string>
+    <string id="245077">&#x0002;Max Repel</string>
+    <string id="245078">&#x0003;Escape Rope</string>
+    <string id="101654">&#x0004;Lure</string>
+        <string id="101655">A lure which attracts wild {STRING_0} for 100 steps. It has several effects while active:\n\n- Encounter rates increased by +10%\n- Foes are slightly stronger than normal {STRING_0} in the area\n- You may encounter more foes at the same time\n- 5% chance to encounter lure-exclusive species\n\nConsumed upon use.</string>
+    <string id="101656">&#x0005;Super Lure</string>
+        <string id="101657">A lure which attracts wild {STRING_0} for 200 steps. It has several effects while active:\n\n- Encounter rates increased by +10%\n- Foes are slightly stronger than normal {STRING_0} in the area\n- You may encounter more foes at the same time\n- 5% chance to encounter lure-exclusive species\n\nConsumed upon use.</string>
+    <string id="101658">&#x0006;Expert Lure</string>
+        <string id="101659">A lure which attracts wild {STRING_0} for 250 steps. It has several effects while active:\n\n- Encounter rates increased by +10%\n- Foes are slightly stronger than normal {STRING_0} in the area\n- You may encounter more foes at the same time\n- 5% chance to encounter lure-exclusive species\n\nConsumed upon use.</string>
+    <string id="101709">&#x0007;Legendary Lure</string>
+        <string id="101710">A special lure which attracts roaming Legendary {STRING_0} and others for 300 steps. It has several effects while active:\n\n- +15% encounter rates\n- +30% chance to encounter a Roaming Legendary if not already captured\n- Foes are stronger than normal encounters in the area\n- You may encounter more foes at the same time\n- 8% chance to encounter lure-exclusive species\n\nConsumed upon use.</string>
+    <string id="101660">&#x0008;Premium Lure</string>
+        <string id="101661">A premium lure which attracts wild {STRING_0} for 200 steps. It has several effects while active:\n\n- +25% encounter rates\n- Foes are stronger than normal encounters in the area\n- You may encounter more foes at the same time\n- 10% chance to encounter lure-exclusive species\n- Small hordes (3) may increase in size\n- If you encounter a Shiny {STRING_0}, "Secret Shiny" rates are increased by +25%\n\nConsumed upon use.</string>
+    <string id="101662">&#x0009;Premium Super Lure</string>
+        <string id="101663">A premium lure which attracts wild {STRING_0} for 300 steps. It has several effects while active:\n\n- +25% encounter rates\n- Foes are stronger than normal encounters in the area\n- You may encounter more foes at the same time\n- 10% chance to encounter lure-exclusive species\n- Small hordes (3) may increase in size\n- If you encounter a Shiny {STRING_0}, "Secret Shiny" rates are increased by +25%\n\nConsumed upon use.</string>
+    <string id="101664">&#x00010;Premium Max Lure</string>
+        <string id="101665">A premium lure which attracts wild {STRING_0} for 400 steps. It has several effects while active:\n\n- +25% encounter rates\n- Foes are stronger than normal encounters in the area\n- You may encounter more foes at the same time\n- 10% chance to encounter lure-exclusive species\n- Small hordes (3) may increase in size\n- If you encounter a Shiny {STRING_0}, "Secret Shiny" rates are increased by +25%\n\nConsumed upon use.</string>
+    <string id="245094">&#x0011;Honey</string>
+
+
+    <!--Breeding Items-->
+    <string id="245229">&#x0000;Everstone</string>
+    <string id="245294">&#x0001;Power Weight (HP)</string>
+    <string id="245289">&#x0002;Power Bracer (ATK)</string>
+    <string id="245290">&#x0003;Power Belt (DEF)</string>
+    <string id="245291">&#x0004;Power Lens (Sp.ATK)</string>
+    <string id="245292">&#x0005;Power Band (Sp.DEF)</string>
+    <string id="245293">&#x0006;Power Anklet (SPEED)</string>
+    <string id="245254">&#x0007;Sea Incense</string>
+    <string id="245255">&#x0008;Lax Incense</string>
+    <string id="245320">&#x0009;Pure Incense</string>
+    <string id="245319">&#x0010;Luck Incense</string>
+    <string id="245318">&#x0011;Rose Incense</string>
+    <string id="245317">&#x0012;Wave Incense</string>
+    <string id="245316">&#x0013;Full Incense</string>
+    <string id="245315">&#x0014;Rock Incense</string>
+    <string id="245314">&#x0015;Odd Incense</string>
+
+</strings>

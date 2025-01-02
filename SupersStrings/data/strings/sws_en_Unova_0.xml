@@ -2,8 +2,8 @@
 <ds_strings_archive archive_type="0" is_primary="0" lang="en" region_id="2">
 
     <!-- Sweet Scent-->
-    <string block_id="0" entry_id="52" table_id="8">\n</string> <!--Using Sweet Scent-->
-    <string block_id="0" entry_id="53" table_id="8">\n</string> <!--Using Sweet Scent-->
+    <string block_id="0" entry_id="52" table_id="8">{00} used\n{01}!</string> <!--Using Sweet Scent-->
+    <string block_id="0" entry_id="53" table_id="8">{00} used\n{01}!</string> <!--Using Sweet Scent-->
     
     <!--PokeDex TODO: maybe make sure this is accurate just incase-->
     <string block_id="0" entry_id="0" table_id="268">????.? lbs.</string>

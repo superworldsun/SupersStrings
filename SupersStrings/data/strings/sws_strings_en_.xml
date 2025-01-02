@@ -2,9 +2,6 @@
 <strings is_primary="0" lang="en" lang_full="English">
 
 
-    <!--Misc-->
-    <string id="2372">♦♦Shiny♦♦ {STRING_0}</string>
-
 <!--Npcs-->
     <!--Pirate-->
     <string id="16780100">Where to?</string> <!--Choose Region-->
@@ -12,8 +9,8 @@
     <string id="16780103">{09}</string> <!--Departure-->
 
     <!--Field Moves-->
-    <string id="8600">Restore pp?\n</string> <!-- Restore PP Question -->
-    <string id="8601">\n\n\n\n\n\n\n\n\n\n\n {00} {01} \n\n\n\n\n\n\n\n\n\n\n</string> <!-- Restore PP with Item -->
+    <string id="8600">\n</string> <!-- Restore PP Question -->
+    <string id="8601">\n\n\n\n {00} {01} \n\n\n\n</string> <!-- Restore PP with Item -->
 
     <!--HM's-->
     <string id="16780421">{09}</string> <!--Rock Smash in Unova-->

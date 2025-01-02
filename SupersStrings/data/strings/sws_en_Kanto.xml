@@ -8,11 +8,7 @@
     <string id="1826775">{09}</string> <!--Cut Used!-->
     <string id="1826787">Need HM-Cut!</string>
     <string id="1826973">{09}</string> <!--Use Rock Smash?-->
-    <string id="1827042">{09}</string> <!--Rock Smash Used!-->
-    <string id="1827226">{09}</string> <!--Use Strength?-->
-    <string id="1827322">{09}</string> <!--Strength Used!-->
-    <string id="1827396">Need HM-Strength!</string>
-    <string id="1827460">{09}</string> <!--You can push boulders around-->
+    <string id="1827042">Need HM-Rock Smash!</string> <!--Rock Smash Used!-->
 
 
 </strings>

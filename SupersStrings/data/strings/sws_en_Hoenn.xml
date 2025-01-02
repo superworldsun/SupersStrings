@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<strings is_override="0" is_primary="0" lang="en">
+
+
+    <!--HMs in Hoenn-->
+    <string id="271124538">{09}</string> <!--Use Rock Smash?-->
+    <string id="271003606">{09}</string> <!--Use Surf?-->
+    <string id="271125134">{09}</string> <!--HM Waterfall is active TODO double check if Ocarina is causing it-->
+    <string id="271125187">{09}</string> <!--Use Waterfall?-->
+
+<!--Npcs-->
+    <!--Nurse Joy-->
+    <string id="271001323">{09}</string> <!--Healing from NJ-->
+    <string id="271002048">{09}</string> <!--Waiting...-->
+    <string id="271001496">{09}</string> <!--Thanks for waiting-->
+    <string id="271001563">{09}</string> <!--After Heal-->
+    <!--RYDEL (Bike Shop)-->
+    <string id="270594555">{09}</string> <!--Switch Bikes?-->
+    <string id="270594607">{09}</string> <!--Bike Switched-->
+    <string id="270594659">The MACH BIKE was exchanged for an ACRO BIKE!\nUse this to Hop across gaps and ledges!</string>
+    <string id="270594708">The ACRO BIKE was exchanged for a MACH BIKE!\nUse this to Speed across Cracked floors and go up slopes!</string>
+    <string id="270594756">{09}</string> <!--Ending convo-->
+    <string id="270594493">{09}</string> <!--Ending convo-->
+
+<!--Objects-->
+    <!--Bike Shop HandBook-->
+        <!--MACH BIKE HandBook-->
+        <string id="270595408">Press + Control Pad in the direction\nyou want to go.\n\nWant to read a different page?</string>
+        <!--ACRO BIKE HandBook-->
+        <string id="270595887">The Page is torn out...\n[This function isn't possible]\n\nWant to read a different page?</string> <!--Wheelies-->
+        <string id="270596248">The Page is torn out...\n[This function isn't possible]\n\nWant to read a different page?</string> <!--Jump-->
+
+</strings>

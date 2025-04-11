@@ -640,16 +640,26 @@
 
                         <!--Fossils Items-->
     <string id="245101">&#xE;&#xA600;Helix Fossil</string>
+    <string id="135101">A fossil of an ancient {STRING_150138} that\nlived in the sea. It appears to be\npart of a seashell.</string>
     <string id="245102">&#xE;&#xA601;Dome Fossil</string>
-    <string id="245103">&#xE;&#xA602;Old Amber</string>
+    <string id="135102">A fossil of an ancient {STRING_150140} that\nlived in the sea. It appears to be\npart of a shell.</string>
+    <string id="245103">&#xE;&#xA602;Old Amber (Fossil)</string>
+    <string id="135103">A piece of amber that contains the\ngenetic material of an ancient {STRING_150142}.\nIt is clear with a reddish tint.</string>
     <string id="245099">&#xE;&#xA603;Root Fossil</string>
+    <string id="135099">A fossil of an ancient {STRING_150345} that\nlived in the sea. It appears to be\npart of a plant root.</string>
     <string id="245100">&#xE;&#xA604;Claw Fossil</string>
+    <string id="135100">A fossil of an ancient {STRING_150347} that\nlived in the sea. It appears to be\npart of a claw.</string>
     <string id="245104">&#xE;&#xA605;Armor Fossil</string>
+    <string id="135104">A fossil from a prehistoric {STRING_150410}\nthat lived on the land. It appears to\nbe part of a collar.</string>
     <string id="245105">&#xE;&#xA606;Skull Fossil</string>
+    <string id="135105">A fossil from a prehistoric {STRING_150408}\nthat lived on the land. It appears to\nbe part of a head.</string>
     <string id="245572">&#xE;&#xA607;Cover Fossil</string>
+    <string id="135572">A fossil of an ancient {STRING_150564} that\nlived in the sea in ancient times.\nIt appears to be part of its back.</string>
     <string id="245573">&#xE;&#xA608;Plume Fossil</string>
+    <string id="135573">A fossil of an ancient {STRING_150566} that\nflew in the sky in ancient times.\nIt appears to be part of its wing.</string>
 
-                        <!--Money Items-->
+
+    <!--Money Items-->
     <string id="245485">&#xF;&#x0;Red Apricorn</string>
     <string id="245486">&#xF;&#x1;Blu Apricorn</string>
     <string id="245487">&#xF;&#x2;Ylw Apricorn</string>

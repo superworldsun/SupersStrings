@@ -243,7 +243,12 @@
             <!--Come again-->
                 <string id="271001563">We hope to see you again!</string>
 
-    <!--Bike Shop-->
+        <!--Ash Collector-->
+        <string id="270988298">Oh! You've got a lot of ashes, huff-puff!\nI'll make you a glass item, huff-puff!\nWhich one would you like, huff-puff?</string>
+        <string id="270988506">A {02} it is, then, huff-puff!\nOkay! I'll make it for you, huff-puff.\nJust wait a little while, huff-puff.</string>
+        <string id="270988611">A {02}, huff-puff?\nThere's not enough ash here to make that, though, huff-puff.\nLet's see... {03} is the number of steps you'll need to walk\nthrough volcanic ash for me to make that item, huff-puff.\nWhich item would you rather have me make instead, huff-puff?</string>
+
+        <!--Bike Shop-->
         <!--RYDEL (Bike Shop)-->
             <string id="270594555">RYDEL: Oh? Were you thinking about switching BIKES?</string> <!--Switch Bikes?-->
             <string id="270594607">RYDEL: Okay, no problem! I'll switch BIKES for you!</string> <!--Bike Switched-->

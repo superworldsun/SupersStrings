@@ -22,6 +22,16 @@
     <!--Apricorn Tree cooldown-->
     <string block_id="0" entry_id="2" table_id="23">[ON COOLDOWN]\n[Recharge takes 6 IRL hours or 1 Game Day]\nThere are no Apricorns...</string>
 
+    <string block_id="0" entry_id="0" table_id="23">It's an Apricorn Tree!</string>
+    <string block_id="0" entry_id="1" table_id="23">...It's a {01}!</string>
+
+    <string block_id="0" entry_id="7" table_id="21">Red Apricorn</string>
+    <string block_id="0" entry_id="8" table_id="21">Yellow Apricorn</string>
+    <string block_id="0" entry_id="9" table_id="21">Blue Apricorn</string>
+    <string block_id="0" entry_id="10" table_id="21">Green Apricorn</string>
+    <string block_id="0" entry_id="11" table_id="21">Pink Apricorn</string>
+    <string block_id="0" entry_id="12" table_id="21">White Apricorn</string>
+    <string block_id="0" entry_id="13" table_id="21">Black Apricorn</string>
 
 
 <!--Npc-->
@@ -148,12 +158,22 @@
         <!--Healing from NJ-->
         <string block_id="0" entry_id="83" table_id="40">Good morning! Welcome to the Pokémon Center.\nWe restore your tired Pokémon to full health.\nWould you like to rest your Pokémon? </string>
         <string block_id="0" entry_id="0" table_id="40">Hello, and welcome to the Pokémon Center.\nWe restore your tired Pokémon to full health.\nWould you like to rest your Pokémon?</string>
-        <!--Waiting...-->
+        <string block_id="0" entry_id="84" table_id="40">Hello, and welcome to the Pokémon Center.\nWe restore your tired Pokémon to full health.\nWould you like to rest your Pokémon? </string>
+
+    <!--Waiting...-->
             <string block_id="0" entry_id="1" table_id="40">OK, I'll take your Pokémon for a few seconds.</string>
         <!--Thanks for waiting-->
             <string block_id="0" entry_id="2" table_id="40">Thank you for waiting.\nWe've restored your Pokémon to full health.</string>
         <!--Come back-->
             <string block_id="0" entry_id="3" table_id="40">Please, come back again any time!</string>
+    <!--Kurt-->
+        <!--First talking-->
+            <string block_id="0" entry_id="4" table_id="571">Kurt: You have Apricorns for me?\nFine! I'll turn them into Poké Balls.</string>
+        <!--Ball Made-->
+            <string block_id="0" entry_id="8" table_id="571">Kurt: Ah, {00}!\nI just finished your Poké Ball. Here!</string>
+            <string block_id="0" entry_id="10" table_id="571">Kurt: That turned out great.\nTry catching Pokémon with it.</string>
+
+
 
     <!--Goldenrod City Game Corner-->
         <!--Mr. Game-->

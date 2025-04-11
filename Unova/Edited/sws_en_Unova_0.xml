@@ -1,11 +1,49 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <ds_strings_archive archive_type="0" is_primary="0" lang="en" region_id="2">
+    <!--=Credits to SuperWorldSun for all strings-->
+    <!--=Credits to C4v for sourcing pokedex catch rate-->
 
     <!-- Sweet Scent-->
     <string block_id="0" entry_id="52" table_id="8">\n</string> <!--Using Sweet Scent-->
     <string block_id="0" entry_id="53" table_id="8">\n</string> <!--Using Sweet Scent-->
-    
-    <!--PokeDex TODO: maybe make sure this is accurate just incase-->
+    <!--Gyms-->
+        <!--Chili End Battle-->
+            <string block_id="0" entry_id="128" table_id="189">\n\n</string>
+        <!--Cilan End Battle-->
+            <string block_id="0" entry_id="134" table_id="189">\n\n</string>
+        <!--Cress End Battle-->
+            <string block_id="0" entry_id="131" table_id="189">\n\n</string>
+        <!--Lenora End Battle-->
+            <string block_id="0" entry_id="143" table_id="189">\n\n</string>
+        <!--Burgh End Battle-->
+            <string block_id="0" entry_id="151" table_id="189">\n\n</string>
+        <!--Elesa End Battle-->
+            <string block_id="0" entry_id="154" table_id="189">\n\n</string>
+        <!--Clay End Battle-->
+            <string block_id="0" entry_id="165" table_id="189">\n\n</string>
+        <!--Skyla End Battle-->
+            <string block_id="0" entry_id="168" table_id="189">\n\n</string>
+        <!--Brycen End Battle-->
+            <string block_id="0" entry_id="420" table_id="189">\n\n</string>
+        <!--Iris End Battle-->
+            <string block_id="0" entry_id="423" table_id="189">\n\n</string>
+    <!--Elite Four-->
+        <!--Shauntal End Battle-->
+            <string block_id="0" entry_id="654" table_id="189">\n\n</string>
+            <string block_id="0" entry_id="1577" table_id="189">\n\n</string>
+        <!--Grimsley End Battle-->
+            <string block_id="0" entry_id="658" table_id="189">\n\n</string>
+            <string block_id="0" entry_id="1581" table_id="189">\n\n</string>
+        <!--Caitlin End Battle-->
+            <string block_id="0" entry_id="666" table_id="189">\n\n</string>
+            <string block_id="0" entry_id="1589" table_id="189">\n\n</string>
+        <!--Marshal End Battle-->
+            <string block_id="0" entry_id="662" table_id="189">\n\n</string>
+            <string block_id="0" entry_id="1585" table_id="189">\n\n</string>
+        <!--Alder lost Battle-->
+            <string block_id="0" entry_id="1761" table_id="189">\n\n</string>
+
+    <!--PokeDex Weight-->
     <string block_id="0" entry_id="0" table_id="268">????.? lbs.</string>
     <string block_id="0" entry_id="1" table_id="268">15.2 lbs.　　　Catch rate: 45</string>
     <string block_id="0" entry_id="2" table_id="268">28.7 lbs.　　　Catch rate: 30</string>
@@ -729,7 +767,10 @@
     <string block_id="0" entry_id="507" table_id="268">32.4 lbs.　　　Catch rate: 120</string>
     <string block_id="0" entry_id="566" table_id="268">20.9 lbs.　　　Catch rate: 45</string>
     <string block_id="0" entry_id="639" table_id="268">573.2 lbs.　　　Catch rate: 3</string>
+
     <string block_id="0" entry_id="637" table_id="268">101.4 lbs.　　　Catch rate: 15</string>
+<!--    <string block_id="0" entry_id="637" table_id="268">101.4 lbs.　　　Catch rate: 15\n\n Weak: Rock x4 | Flying x2 | Water x2 |\n\n Resist: Grass x4 | Fighting x2 | Bug x2 | \n Steel x2 | ice x2 | </string>-->
+
     <string block_id="0" entry_id="532" table_id="268">27.6 lbs.　　　Catch rate: 180</string>
     <string block_id="0" entry_id="712" table_id="268">705.5 lbs.　　　Catch rate: </string>
     <string block_id="0" entry_id="612" table_id="268">232.6 lbs.　　　Catch rate: 45</string>

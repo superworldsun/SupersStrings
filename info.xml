@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource name="SupersStoryStrings" version="1.0" description="Strings with several tweaks and enhancements" author="superworldsun" weblink="">
+    <strings string_revision="1">
+        <!-- All paths to strings files must be defined here -->
+        <string path="Strings/sws_en_Hoenn.xml"/>
+        <string path="Strings/sws_en_Johto.xml"/>
+        <string path="Strings/sws_en_Kanto.xml"/>
+        <string path="Strings/sws_en_Sinnoh.xml"/>
+        <string path="Strings/sws_en_Unova_0.xml"/>
+		<string path="Strings/sws_en_Unova_1.xml"/>
+		<string path="Strings/sws_strings_en_.xml"/>
+    </strings>
+</resource>

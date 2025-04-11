@@ -123,7 +123,7 @@
     <string id="245254">&#xB;&#xA007;Sea Incense (Water)</string>
     <string id="245255">&#xB;&#xA008;Lax Incense (DEF)</string>
     <string id="135255">An item to be held by a {STRING_0}.\nIt slightly reduces the foe's Accuracy by 10%.\n\nIf held by a {STRING_150202} while breeding, it may help them produce a {STRING_150360} egg.</string>
-    <string id="245320">&#xB;&#xA009;Pure Incense</string>
+    <string id="245320">&#xB;&#xA009;Pure Incense (Repel)</string>
     <string id="135320">An item to be held by a {STRING_0}.\nIt slightly reduces the chance of encountering wild {STRING_0} by a third.\n\nIf held by a {STRING_150358} while breeding, it may help them produce a {STRING_150433} egg.</string>
     <string id="245319">&#xB;&#xA010;Luck Incense</string>
     <string id="245318">&#xB;&#xA011;Rose Incense (Grass)</string>
@@ -257,6 +257,7 @@
                 <!--Raising/out of battle Items-->
     <string id="245228">&#xC;&#xA600;Smoke Ball (Repel)</string>
     <string id="245224">&#xC;&#xA601;Cleanse Tag (Repel)</string>
+    <string id="135224">An item to be held by a Pokémon.\nIt helps keep wild Pokémon away by a third if the holder is the first one in the party.</string>
     <string id="100000">&#xC;&#xA602;Training Link (Train)</string>
     <string id="245216">&#xC;&#xA603;Exp. Share (Train)</string>
     <string id="245218">&#xC;&#xA604;Soothe Bell (Train)</string>

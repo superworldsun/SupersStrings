@@ -120,13 +120,15 @@
     <string id="245291">&#xB;&#xA004;Power Lens (Sp.ATK)</string>
     <string id="245292">&#xB;&#xA005;Power Band (Sp.DEF)</string>
     <string id="245293">&#xB;&#xA006;Power Anklet (SPEED)</string>
-    <string id="245254">&#xB;&#xA007;Sea Incense</string>
-    <string id="245255">&#xB;&#xA008;Lax Incense</string>
+    <string id="245254">&#xB;&#xA007;Sea Incense (Water)</string>
+    <string id="245255">&#xB;&#xA008;Lax Incense (DEF)</string>
+    <string id="135255">An item to be held by a {STRING_0}.\nIt slightly reduces the foe's Accuracy by 10%.\n\nIf held by a {STRING_150202} while breeding, it may help them produce a {STRING_150360} egg.</string>
     <string id="245320">&#xB;&#xA009;Pure Incense</string>
+    <string id="135320">An item to be held by a {STRING_0}.\nIt slightly reduces the chance of encountering wild {STRING_0} by a third.\n\nIf held by a {STRING_150358} while breeding, it may help them produce a {STRING_150433} egg.</string>
     <string id="245319">&#xB;&#xA010;Luck Incense</string>
     <string id="245318">&#xB;&#xA011;Rose Incense (Grass)</string>
     <string id="245317">&#xB;&#xA012;Wave Incense (Water)</string>
-    <string id="245316">&#xB;&#xA013;Full Incense</string>
+    <string id="245316">&#xB;&#xA013;Full Incense (SPEED-)</string>
     <string id="245315">&#xB;&#xA014;Rock Incense (Rock)</string>
     <string id="245314">&#xB;&#xA015;Odd Incense (Psychic)</string>
 
@@ -243,7 +245,7 @@
     <string id="101241">An item to be held by a {STRING_0}. When {STRING_110433} takes effect, the holder's Speed is lowered by 1 stage.\n\nThis item is consumed upon use.</string>
 
     <!--Change properties of user Items-->
-    <string id="245539">&#xC;&#xA400;Float Stone</string>
+    <string id="245539">&#xC;&#xA400;Float Stone (Weight)</string>
     <string id="135539">A very light stone. It reduces the\nweight of a Pokémon by half when held.</string>
 
     <!--Weather Items-->
@@ -253,8 +255,8 @@
     <string id="245282">&#xC;&#xA403;Icy Rock (Snow)</string>
 
                 <!--Raising/out of battle Items-->
-    <string id="245228">&#xC;&#xA600;Smoke Ball </string>
-    <string id="245224">&#xC;&#xA601;Cleanse Tag</string>
+    <string id="245228">&#xC;&#xA600;Smoke Ball (Repel)</string>
+    <string id="245224">&#xC;&#xA601;Cleanse Tag (Repel)</string>
     <string id="100000">&#xC;&#xA602;Training Link (Train)</string>
     <string id="245216">&#xC;&#xA603;Exp. Share (Train)</string>
     <string id="245218">&#xC;&#xA604;Soothe Bell (Train)</string>
@@ -331,7 +333,7 @@
     <string id="245561">&#xD;&#xA216;Dragon Gem</string>
     <string id="245562">&#xD;&#xA217;Dark Gem</string>
 
-                    <!--Evo Items-->
+                    <!--Evolution Items-->
     <string id="245233">&#xD;&#xA301;Metal Coat (Steel)(EVO)</string>
     <string id="245221">&#xD;&#xA302;King's Rock (ATK)(EVO)</string>
     <string id="135221">An item to be held by a Pokémon.\nWhen the holder inflicts damage,\nthe target may flinch by 10%. Effect does not apply to moves that already grant flinch or multi hit moves.</string>
@@ -359,6 +361,11 @@
     <string id="245107">&#xD;&#xA320;Shiny Stone (EVO)</string>
     <string id="245108">&#xD;&#xA321;Dusk Stone (EVO)</string>
     <string id="245109">&#xD;&#xA322;Dawn Stone (EVO)</string>
+
+    <!--Boost Items-->
+    <string id="245223">Amulet Coin (+50%)</string>
+    <string id="101130">Small Lucky Egg (+50%)</string>
+    <string id="245231">Lucky Egg (+100%)</string>
 
     <!--Misc Items-->
 
@@ -563,24 +570,24 @@
     <string id="11199">&#xE;&#xA239;Secret Shiny Particle Effect</string>
 
                 <!--Mysterious Pokeballs-->
-    <string id="101730">&#xE;&#xA250;Mysterious {STRING_245016}</string>
-    <string id="101754">&#xE;&#xA251;Mysterious {STRING_245013}</string>
-    <string id="101769">&#xE;&#xA252;Mysterious {STRING_245004}</string>
-    <string id="101771">&#xE;&#xA253;Mysterious {STRING_245003}</string>
-    <string id="101773">&#xE;&#xA254;Mysterious {STRING_245002}</string>
-    <string id="101775">&#xE;&#xA255;Mysterious {STRING_245012}</string>
+    <string id="101730">&#xE;&#xA250;Mysterious Cherish Ball</string>
+    <string id="101754">&#xE;&#xA251;Mysterious Dusk Ball</string>
+    <string id="101769">&#xE;&#xA252;Mysterious Poké Ball</string>
+    <string id="101771">&#xE;&#xA253;Mysterious Great Ball</string>
+    <string id="101773">&#xE;&#xA254;Mysterious Ultra Ball</string>
+    <string id="101775">&#xE;&#xA255;Mysterious Premier Ball</string>
 
-    <string id="101783">&#xE;&#xA256;Mysterious {STRING_245016} (2024)</string>
+    <string id="101783">&#xE;&#xA256;Mysterious Cherish Ball (2024)</string>
 
-    <string id="101714">&#xE;&#xA257;Mysterious {STRING_245004} (2023)</string>
-    <string id="101716">&#xE;&#xA258;Mysterious {STRING_245003} (2023)</string>
-    <string id="101718">&#xE;&#xA259;Mysterious {STRING_245002} (2023)</string>
-    <string id="101720">&#xE;&#xA260;Mysterious {STRING_245012} (2023)</string>
+    <string id="101714">&#xE;&#xA257;Mysterious Poké Ball (2023)</string>
+    <string id="101716">&#xE;&#xA258;Mysterious Great Ball (2023)</string>
+    <string id="101718">&#xE;&#xA259;Mysterious Ultra Ball</string>
+    <string id="101720">&#xE;&#xA260;Mysterious Premier Ball (2023)</string>
 
-    <string id="101668">&#xE;&#xA261;Mysterious {STRING_245004} (2022)</string>
-    <string id="101672">&#xE;&#xA262;Mysterious {STRING_245003} (2022)</string>
-    <string id="101674">&#xE;&#xA263;Mysterious {STRING_245002} (2022)</string>
-    <string id="101676">&#xE;&#xA264;Mysterious {STRING_245012} (2022)</string>
+    <string id="101668">&#xE;&#xA261;Mysterious Poké Ball (2022)</string>
+    <string id="101672">&#xE;&#xA262;Mysterious Great Ball (2022)</string>
+    <string id="101674">&#xE;&#xA263;Mysterious Ultra Ball</string>
+    <string id="101676">&#xE;&#xA264;Mysterious Premier Ball (2022)</string>
 
 
 
@@ -658,50 +665,55 @@
     <string id="245573">&#xE;&#xA608;Plume Fossil</string>
     <string id="135573">A fossil of an ancient {STRING_150566} that\nflew in the sky in ancient times.\nIt appears to be part of its wing.</string>
 
-
     <!--Money Items-->
     <string id="245485">&#xF;&#x0;Red Apricorn</string>
-    <string id="245486">&#xF;&#x1;Blu Apricorn</string>
-    <string id="245487">&#xF;&#x2;Ylw Apricorn</string>
-    <string id="245488">&#xF;&#x3;Grn Apricorn</string>
-    <string id="245489">&#xF;&#x4;Pnk Apricorn</string>
-    <string id="245490">&#xF;&#x5;Wht Apricorn</string>
-    <string id="245491">&#xF;&#x6;Blk Apricorn</string>
-
-    <string id="245580">&#xF;&#xA10;BalmMushroom</string>
-    <string id="245087">&#xF;&#xA11;Big Mushroom</string>
-    <string id="245086">&#xF;&#xA12;TinyMushroom</string>
+    <string id="135485">A red Apricorn.\nUsed to craft a {STRING_245493}\n at {STRING_144129} with Kurt for $1,250.\nIt assails your nostrils.</string>
+    <string id="245486">&#xF;&#x1;Blue Apricorn</string>
+    <string id="135486">A blue Apricorn.\nUsed to craft a {STRING_245494}\n at {STRING_144129} with Kurt for $1,000.\nIt smells a bit like grass.</string>
+    <string id="245487">&#xF;&#x2;Yellow Apricorn</string>
+    <string id="135487">A yellow Apricorn.\nUsed to craft a {STRING_245498}\n at {STRING_144129} with Kurt for $500.\nIt has an invigorating scent.</string>
+    <string id="245488">&#xF;&#x3;Green Apricorn</string>
+    <string id="135488">A green Apricorn.\nUsed to craft a {STRING_245497}\n at {STRING_144129} with Kurt for $500.\nIt has a mysterious, aromatic scent.</string>
+    <string id="245489">&#xF;&#x4;Pink Apricorn</string>
+    <string id="135489">A pink Apricorn.\nUsed to craft a {STRING_245496}\n at {STRING_144129} with Kurt for $1,250.\nIt has a nice, sweet scent.</string>
+    <string id="245490">&#xF;&#x5;White Apricorn</string>
+    <string id="135490">A white Apricorn.\nUsed to craft a {STRING_245492}\n at {STRING_144129} with Kurt for $500.\nIt doesn't smell like anything.</string>
+    <string id="245491">&#xF;&#x6;Black Apricorn</string>
+    <string id="135491">A black Apricorn\nUsed to craft a {STRING_245495}\n at {STRING_144129} with Kurt for $500.\nIt has an indescribable scent.</string>
     <string id="245093">&#xF;&#xA13;Heart Scale</string>
-    <string id="245089">&#xF;&#xA14;Big Pearl</string>
-    <string id="245582">&#xF;&#xA15;Pearl String</string>
-    <string id="245088">&#xF;&#xA16;Pearl</string>
-    <string id="245581">&#xF;&#xA17;Big Nugget</string>
-    <string id="245092">&#xF;&#xA18;Nugget</string>
-    <string id="245106">&#xF;&#xA19;Rare Bone</string>
-    <string id="245583">&#xF;&#xA20;Comet Shard</string>
-    <string id="245091">&#xF;&#xA21;Star Piece</string>
-    <string id="245090">&#xF;&#xA22;Stardust</string>
-    <string id="245071">&#xF;&#xA23;Shoal Shell</string>
-    <string id="245070">&#xF;&#xA24;Shoal Salt</string>
-    <string id="245072">&#xF;&#xA25;Red Shard</string>
-    <string id="245073">&#xF;&#xA26;Blue Shard</string>
-    <string id="245074">&#xF;&#xA27;Yellow Shard</string>
-    <string id="245075">&#xF;&#xA28;Green Shard</string>
-    <string id="245571">&#xF;&#xA29;Pretty Feather</string>
+    <string id="245072">&#xF;&#xA14;Red Shard (Valuable)</string>
+    <string id="245073">&#xF;&#xA15;Blue Shard (Valuable)</string>
+    <string id="245074">&#xF;&#xA16;Yellow Shard (Valuable)</string>
+    <string id="245075">&#xF;&#xA17;Green Shard (Valuable)</string>
+    <string id="245580">&#xF;&#xA18;BalmMushroom (Valuable)</string>
+    <string id="245087">&#xF;&#xA19;Big Mushroom (Valuable)</string>
+    <string id="245086">&#xF;&#xA20;Tiny Mushroom (Valuable)</string>
+    <string id="245089">&#xF;&#xA21;Big Pearl (Valuable)</string>
+    <string id="245582">&#xF;&#xA22;Pearl String (Valuable)</string>
+    <string id="245088">&#xF;&#xA23;Pearl (Valuable)</string>
+    <string id="245581">&#xF;&#xA24;Big Nugget (Valuable)</string>
+    <string id="245092">&#xF;&#xA25;Nugget (Valuable)</string>
+    <string id="245106">&#xF;&#xA26;Rare Bone (Valuable)</string>
+    <string id="245583">&#xF;&#xA27;Comet Shard (Valuable)</string>
+    <string id="245091">&#xF;&#xA28;Star Piece (Valuable)</string>
+    <string id="245090">&#xF;&#xA29;Stardust (Valuable)</string>
+    <string id="245071">&#xF;&#xA30;Shoal Shell (Valuable)</string>
+    <string id="245070">&#xF;&#xA31;Shoal Salt (Valuable)</string>
+    <string id="245571">&#xF;&#xA32;Pretty Feather (Valuable)</string>
 
-    <string id="245065">&#xF;&#xA30;Blue Flute</string>
-    <string id="245066">&#xF;&#xA31;Yellow Flute</string>
-    <string id="245067">&#xF;&#xA32;Red Flute</string>
-    <string id="245068">&#xF;&#xA33;Black Flute</string>
-    <string id="245069">&#xF;&#xA34;White Flute</string>
+    <string id="245065">&#xF;&#xA33;Blue Flute (Valuable)</string>
+    <string id="245066">&#xF;&#xA34;Yellow Flute (Valuable)</string>
+    <string id="245067">&#xF;&#xA35;Red Flute (Valuable)</string>
+    <string id="245068">&#xF;&#xA36;Black Flute (Valuable)</string>
+    <string id="245069">&#xF;&#xA37;White Flute (Valuable)</string>
 
-    <string id="245590">&#xF;&#xA40;Relic Crown</string>
-    <string id="245589">&#xF;&#xA41;Relic Statue</string>
-    <string id="245588">&#xF;&#xA42;Relic Band</string>
-    <string id="245587">&#xF;&#xA43;Relic Vase</string>
-    <string id="245586">&#xF;&#xA44;Relic Gold</string>
-    <string id="245585">&#xF;&#xA45;Relic Silver</string>
-    <string id="245584">&#xF;&#xA46;Relic Copper</string>
+    <string id="245590">&#xF;&#xA40;Relic Crown (Valuable)</string>
+    <string id="245589">&#xF;&#xA41;Relic Statue (Valuable)</string>
+    <string id="245588">&#xF;&#xA42;Relic Band (Valuable)</string>
+    <string id="245587">&#xF;&#xA43;Relic Vase (Valuable)</string>
+    <string id="245586">&#xF;&#xA44;Relic Gold (Valuable)</string>
+    <string id="245585">&#xF;&#xA45;Relic Silver (Valuable)</string>
+    <string id="245584">&#xF;&#xA46;Relic Copper (Valuable)</string>
 
                 <!--Halloween Cookies-->
     <string id="101603">&#xA001;Broom Cookie</string>

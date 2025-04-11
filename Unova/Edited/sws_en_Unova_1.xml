@@ -145,6 +145,7 @@
 
     <!--Nurse Joy-->
     <string block_id="0" entry_id="1" table_id="346">Good morning! Welcome to the Pokémon Center.\nWe restore your tired Pokémonto full health.\nWould you like to rest your Pokémon?</string> <!--Morning Healing from NJ-->
+    <string block_id="0" entry_id="2" table_id="346">Hello, and welcome to the Pokémon Center.\nWe restore your tired Pokémon to full health.\nWould you like to rest your Pokémon?</string>
 
      <!--Healing from NJ-->
     <string block_id="0" entry_id="0" table_id="346">Hello, and welcome to the Pokémon Center.\nWe restore your tired Pokémon to full health.\nWould you like to rest your Pokémon?</string>

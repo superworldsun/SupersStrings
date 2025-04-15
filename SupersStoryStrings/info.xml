@@ -8,6 +8,6 @@
         <string path="Strings/sws_en_Sinnoh.xml"/>
         <string path="Strings/sws_en_Unova_0.xml"/>
 		<string path="Strings/sws_en_Unova_1.xml"/>
-		<string path="Strings/sws_strings_en_.xml"/>
+		<string path="Strings/sws_strings_en.xml"/>
     </strings>
 </resource>

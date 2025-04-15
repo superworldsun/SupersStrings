@@ -6,23 +6,16 @@
     <!--Misc-->
             <string id="5019">☆Shiny☆ {00}</string>
 
-            <!--Most yes or no, testing needed-->
-            <string id="50">▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔\n\n\n\n\n\n[ Yes ]\n\n\n\n\n\n▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁</string>
-            <string id="51">▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔\n[ No ]\n▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁</string>
-
-            <!--Main menu logins-->
-            <string id="1000">▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔\n\n\n\n\nLOGIN\n\n\n\n\n▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁</string>
-            <string id="1003">▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔\n\n\n\n\nLogging in...\n\n\n\n\n▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁</string>
 
     <!--Hoenn Secret Base (No Secret Power)-->
     <string id="270776032">A small crevice is seen on the wall.\nA {STRING_110290} may allow you to break it open.</string>
 
     <!--Berry Farming-->
-            <string id="16780326">{09}</string> <!--planting first seed?-->
-            <string id="16780314">{09}</string> <!--Dried to death-->
-            <string id="16780319">{09}</string> <!--Watered to death-->
-            <string id="16780322">{09}</string> <!--Never picked-->
-            <string id="16780329">{09}</string>
+            <string id="16780326">It's soft fertile soil.\nWould you like to plant seeds?</string> <!--planting first seed?-->
+            <string id="16780314">This plant is dead.\nIt looks like it did not get enough water.\nDo you want to clean up the plot?</string> <!--Dried to death-->
+            <string id="16780319">This plant is dead.\nIt looks like it was overwatered.\nDo you want to clean up the plot?</string> <!--Watered to death-->
+            <string id="16780322">This plant is dead.\nIt looks like it was fully grown, but never picked.\nDo you want to clean up the plot?</string> <!--Never picked-->
+            <string id="16780329">There are {01} {00}!\nWould you like to pick the {00}?</string>
 
         <!--Baron Moray (prismatic pearl guy)-->
             <string id="16780430">Ho-Ho! Your eyes do not deceive you. Those are my incredibly\nrare Shiny {00} and {01}! My name is Baron Moray,\nworld-renowned connoisseur of Shiny {STRING_0}! I'm here to\noffer you a fantastic deal, you see! Trade your Shiny {STRING_0}\nto me, and I'll give you Prismatic Pearls in exchange.</string>
@@ -41,37 +34,37 @@
     <!--Npcs-->
 
     <!--Hoenn Battle frontier Move tutor-->
-    <string id="16779040">{09}</string>
-    <string id="16779041">{09}</string>
-    <string id="16779046">{09}</string>
+    <string id="16779040">Hello! I am the Special Move Tutor, I can teach your {STRING_0}\nmoves they cannot normally learn in exchange for Battle Points.</string>
+    <string id="16779041">Would you like me to teach a special move to your {STRING_0}?</string>
+    <string id="16779046">Thank you for using the Battle Point Exchange Service.</string>
     <!--Daycare Breeder-->
-    <string id="16779080">{09}</string>
-    <string id="16779082">{09}</string>
-    <string id="16779083">{09}</string>
-    <string id="16779087">{09}</string>
+    <string id="16779080">I'm the {STRING_10}. I breed {STRING_0} to help them\nunlock their true potential. Your {STRING_0} seem healthy!\nHow about a trade? I'll keep two of your {STRING_0},\nand in return I will give you an egg.</string>
+    <string id="16779082">You won't get these {STRING_0} back.\nAre you sure?</string>
+    <string id="16779083">Which {STRING_0} would you like to trade?</string>
+    <string id="16779087">Ah, it's you! You're just in time. Your {STRING_0} had an Egg!\nAs promised, it belongs to you.</string>
 
     <!--Move Maniac(Silver hair in PC)-->
-    <string id="16779020">{09}</string>
+    <string id="16779020">My brothers call me a Move Maniac. I can teach every move\na {STRING_0} could have learned while leveling up, and I can\nmake it forget any of them.</string>
     <!--Move Master(Red hair in PC of kanto)-->
-    <string id="16779000">{09}</string>
+    <string id="16779000">I'm the Move Master of {00}! My brothers and I have\nscoured the lands to learn every technique we can!</string>
 
     <!--Bike Modifier-->
-    <string id="16780200">{09}</string>
+    <string id="16780200">Did you know you can modify a Bicycle's appearance?\nWith our Bicycle skins you can stand out!</string>
 
     <!--Elite four door guard-->
     <string id="16777231">Sorry, this instance is still on cooldown. You can enter again in\n{00}.</string>
 
     <!--LNY-->
         <!--Grandma Turn in-->
-        <string id="16805082">{09}</string> <!--No pokemon in party-->
-        <string id="16805085">{09}</string> <!--Pokemon in party-->
-        <string id="16805083">{09}</string> <!--Submit Pokemon-->
-        <string id="16805092">{09}</string> <!--Submit Pokemon and hit reward-->
+        <string id="16805082">Would you kindly bring some {STRING_0} from swarms?\n For 8 of them, I'll offer you a {STRING_101730}.</string> <!--No pokemon in party-->
+        <string id="16805085">Ah.. I love the spring.\nHave you caught more of those unruly\n{STRING_0} for me?</string> <!--Pokemon in party-->
+        <string id="16805083">Ohoho~ Thank you!\nIt'll be {00} more until the next reward.</string> <!--Submit Pokemon-->
+        <string id="16805092">Ohoho~ Thank you!\nHere, take this.</string> <!--Submit Pokemon and hit reward-->
 
     <!--Pirate-->
-    <string id="16780100">{09}</string> <!--Choose Region-->
-    <string id="16780104">{09}</string> <!--Said no-->
-    <string id="16780103">{09}</string> <!--Departure-->
+    <string id="16780100">Where to?</string> <!--Choose Region-->
+    <string id="16780104">Blimey.</string> <!--Said no-->
+    <string id="16780103">Aye, we be off then!</string> <!--Departure-->
 
     <!--Field Moves-->
     <string id="8600">Restore pp?\n</string> <!-- Restore PP Question -->
@@ -855,7 +848,7 @@
         <string id="135497">A {STRING_245004} which makes a {STRING_0} very happy upon capture, giving them 78% happiness. These offer a catch rate of 2.5x on {STRING_0} which have a happiness evolution in their evolution line.</string>
     <string id="245014">&#xA010;Heal Ball</string>
     <string id="245495">&#xA011;Heavy Ball</string>
-        <string id="135495">A Poké Ball for catching very heavy\nPokémon.\n\n1.0x for species with &#x3C; [100kg  220.46lbs]\n2.0x for species with &#x3C; [200kg  440.92lbs]\n3.0x for species with &#x3C; [300kg  661.38lbs]\n4.0x for species with &#x3E;= [300kg  661.38lbs]</string>
+        <string id="135495">A Poké Ball for catching very heavy\nPokémon.\n\n1.0x for species with &#x3C; [100kg | 220.46lbs]\n2.0x for species with &#x3C; [200kg | 440.92lbs]\n3.0x for species with &#x3C; [300kg | 661.38lbs]\n4.0x for species with &#x3E;= [300kg | 661.38lbs]</string>
     <string id="245493">&#xA012;Level Ball</string>
     <string id="245496">&#xA013;Love Ball</string>
     <string id="245494">&#xA014;Lure Ball</string>
@@ -975,29 +968,29 @@
 
 <!--Natures-->
     <string id="180000">Hardy [-]</string>
-    <string id="180001">Lonely [+Atk-Def]</string>
-    <string id="180002">Brave [+Atk-Speed]</string>
-    <string id="180003">Adamant [+Atk-Sp.Atk]</string>
-    <string id="180004">Naughty [+Atk-Sp.Def]</string>
-    <string id="180005">Bold [+Def-Atk]</string>
+    <string id="180001">Lonely [+Atk|-Def]</string>
+    <string id="180002">Brave [+Atk|-Speed]</string>
+    <string id="180003">Adamant [+Atk|-Sp.Atk]</string>
+    <string id="180004">Naughty [+Atk|-Sp.Def]</string>
+    <string id="180005">Bold [+Def|-Atk]</string>
     <string id="180006">Docile [-]</string>
-    <string id="180007">Relaxed [+Def-Speed]</string>
-    <string id="180008">Impish [+Def-Sp.Atk]</string>
-    <string id="180009">Lax [+Def-Sp.Def]</string>
-    <string id="180010">Timid [+Speed-Atk]</string>
-    <string id="180011">Hasty [+Speed-Def]</string>
+    <string id="180007">Relaxed [+Def|-Speed]</string>
+    <string id="180008">Impish [+Def|-Sp.Atk]</string>
+    <string id="180009">Lax [+Def|-Sp.Def]</string>
+    <string id="180010">Timid [+Speed|-Atk]</string>
+    <string id="180011">Hasty [+Speed|-Def]</string>
     <string id="180012">Serious [-]</string>
-    <string id="180013">Jolly [+Speed-Sp.Atk]</string>
-    <string id="180014">Naive [+Speed-Sp.Def]</string>
-    <string id="180015">Modest [+Sp.Atk-Atk]</string>
-    <string id="180016">Mild [+Sp.Atk-Def]</string>
-    <string id="180017">Quiet [+Sp.Atk-Speed]</string>
+    <string id="180013">Jolly [+Speed|-Sp.Atk]</string>
+    <string id="180014">Naive [+Speed|-Sp.Def]</string>
+    <string id="180015">Modest [+Sp.Atk|-Atk]</string>
+    <string id="180016">Mild [+Sp.Atk|-Def]</string>
+    <string id="180017">Quiet [+Sp.Atk|-Speed]</string>
     <string id="180018">Bashful [-]</string>
-    <string id="180019">Rash [+Sp.Atk-Sp.Def]</string>
-    <string id="180020">Calm [+Sp.Def-Atk]</string>
-    <string id="180021">Gentle [+Sp.Def-Def]</string>
-    <string id="180022">Sassy [+Sp.Def-Speed]</string>
-    <string id="180023">Careful [+Sp.Def-Sp.Atk]</string>
+    <string id="180019">Rash [+Sp.Atk|-Sp.Def]</string>
+    <string id="180020">Calm [+Sp.Def|-Atk]</string>
+    <string id="180021">Gentle [+Sp.Def|-Def]</string>
+    <string id="180022">Sassy [+Sp.Def|-Speed]</string>
+    <string id="180023">Careful [+Sp.Def|-Sp.Atk]</string>
     <string id="180024">Quirky [-]</string>
 
 <!--Abilities-->

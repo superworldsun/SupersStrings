@@ -1,21 +1,39 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <strings is_primary="0" lang="en" lang_full="English">
     <!--=Credits to SuperWorldSun for all strings-->
-
+    <!--=SupersSpeedStrings Version-->
 
     <!--Misc-->
-            <string id="5019">☆Shiny☆ {00}</string>
+    <string id="5019">☆Shiny {00}☆</string>
 
+    <string id="6802">You have been disconnected from the game server\nfor being AFK.</string>
+
+    <!--Most yes or no buttons-->
+    <string id="50">▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔\n\n\n\n\n\n[ Yes ]\n\n\n\n\n\n▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁</string>
+    <string id="51">▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔\n[ No ]\n▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁</string>
+
+    <string id="52">▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔\n\n[ OK ]\n\n▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁</string>
+
+    <!--Main menu logins-->
+    <string id="1000">▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔\n\n\n\n\n[ LOGIN ]\n\n\n\n\n▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁</string>
+    <string id="1003">▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔\n\n\n\n\nLogging in...\n\n\n\n\n▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁</string>
+    <!--PC Buttons-->
+    <string id="2351">\n[ {01}'s PC ]\n</string>
+    <string id="2352">\n[ Global Trade Link ]\n</string>
+    <string id="2353">[ Mail ]</string>
+    <string id="53">[ Cancel ]</string>
+    <string id="54">[ Save ]</string>
+    <string id="60">▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔\n\n[ Accept ]\n\n▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁</string>
 
     <!--Hoenn Secret Base (No Secret Power)-->
     <string id="270776032">A small crevice is seen on the wall.\nA {STRING_110290} may allow you to break it open.</string>
 
     <!--Berry Farming-->
-            <string id="16780326">It's soft fertile soil.\nWould you like to plant seeds?</string> <!--planting first seed?-->
-            <string id="16780314">This plant is dead.\nIt looks like it did not get enough water.\nDo you want to clean up the plot?</string> <!--Dried to death-->
-            <string id="16780319">This plant is dead.\nIt looks like it was overwatered.\nDo you want to clean up the plot?</string> <!--Watered to death-->
-            <string id="16780322">This plant is dead.\nIt looks like it was fully grown, but never picked.\nDo you want to clean up the plot?</string> <!--Never picked-->
-            <string id="16780329">There are {01} {00}!\nWould you like to pick the {00}?</string>
+            <string id="16780326">{09}</string> <!--planting first seed?-->
+            <string id="16780314">{09}</string> <!--Dried to death-->
+            <string id="16780319">{09}</string> <!--Watered to death-->
+            <string id="16780322">{09}</string> <!--Never picked-->
+            <string id="16780329">{09}</string>
 
         <!--Baron Moray (prismatic pearl guy)-->
             <string id="16780430">Ho-Ho! Your eyes do not deceive you. Those are my incredibly\nrare Shiny {00} and {01}! My name is Baron Moray,\nworld-renowned connoisseur of Shiny {STRING_0}! I'm here to\noffer you a fantastic deal, you see! Trade your Shiny {STRING_0}\nto me, and I'll give you Prismatic Pearls in exchange.</string>
@@ -30,26 +48,46 @@
     <!--Using prismatic pearl-->
             <string id="16780460">Are you sure you want to transfer the Hidden Ability\nattribute from {00} to {01}?\n{02} Prismatic Pearls will be consumed.</string>
 
-
-    <!--Npcs-->
+<!--Npcs-->
+    <!--Johto Safari Zone Gate Npc choice select-->
+    <string id="16780135">{09}</string>
 
     <!--Hoenn Battle frontier Move tutor-->
-    <string id="16779040">Hello! I am the Special Move Tutor, I can teach your {STRING_0}\nmoves they cannot normally learn in exchange for Battle Points.</string>
-    <string id="16779041">Would you like me to teach a special move to your {STRING_0}?</string>
-    <string id="16779046">Thank you for using the Battle Point Exchange Service.</string>
+    <string id="16779040">{09}</string>
+    <string id="16779041">{09}</string>
+    <string id="16779046">{09}</string>
     <!--Daycare Breeder-->
-    <string id="16779080">I'm the {STRING_10}. I breed {STRING_0} to help them\nunlock their true potential. Your {STRING_0} seem healthy!\nHow about a trade? I'll keep two of your {STRING_0},\nand in return I will give you an egg.</string>
-    <string id="16779082">You won't get these {STRING_0} back.\nAre you sure?</string>
-    <string id="16779083">Which {STRING_0} would you like to trade?</string>
-    <string id="16779087">Ah, it's you! You're just in time. Your {STRING_0} had an Egg!\nAs promised, it belongs to you.</string>
+    <string id="16779080">{09}</string>
+    <string id="16779082">{09}</string>
+    <string id="16779083">{09}</string>
+    <string id="16779087">{09}</string>
 
     <!--Move Maniac(Silver hair in PC)-->
-    <string id="16779020">My brothers call me a Move Maniac. I can teach every move\na {STRING_0} could have learned while leveling up, and I can\nmake it forget any of them.</string>
-    <!--Move Master(Red hair in PC of kanto)-->
-    <string id="16779000">I'm the Move Master of {00}! My brothers and I have\nscoured the lands to learn every technique we can!</string>
+    <string id="16779020">{09}</string>
+    <string id="16779022">{09}</string>
+    <string id="16779023">{09}</string>
+    <string id="16779024">{09}</string>
+    <string id="16779035">{09}</string>
+    <string id="16779051">You do not have enough money.</string>
+    <string id="16779052">It will cost {00}x {01} to teach {02}.\nIs this OK?</string>
+    <string id="16779053">Come back with {00}x {01}.</string>
+    <string id="16779057">{09}</string>
+    <string id="16779031">{09}</string>
+    <string id="16779030">This {STRING_0} can't forget its only move!</string>
+    <string id="16779032">It'll cost ${00} for {02} to forget {01}.\nAre you sure you want to forget it?</string>
+    <string id="16779033">{09}</string>
+    <string id="16779034">{09}</string>
+
+    <!--Move Master(Move tutor in every region pc)-->
+    <string id="16779000">{09}</string>
+    <string id="16779002">Tutor a {STRING_0} of yours?</string>
+    <string id="16779003">{09}</string>
+    <string id="16779054">It will cost {00}x {01} and\n{02}x {03} to teach {04}.\nIs this OK?</string>
+    <string id="16779007">{09}</string>
+    <string id="16779004">{09}</string>
 
     <!--Bike Modifier-->
-    <string id="16780200">Did you know you can modify a Bicycle's appearance?\nWith our Bicycle skins you can stand out!</string>
+    <string id="16780200">{09}</string>
 
     <!--Elite four door guard-->
     <string id="16777231">Sorry, this instance is still on cooldown. You can enter again in\n{00}.</string>
@@ -62,9 +100,19 @@
         <string id="16805092">Ohoho~ Thank you!\nHere, take this.</string> <!--Submit Pokemon and hit reward-->
 
     <!--Pirate-->
-    <string id="16780100">Where to?</string> <!--Choose Region-->
-    <string id="16780104">Blimey.</string> <!--Said no-->
-    <string id="16780103">Aye, we be off then!</string> <!--Departure-->
+    <string id="16780100">{09}</string> <!--Choose Region-->
+    <string id="16780104">{09}</string> <!--Said no-->
+    <string id="16780103">{09}</string> <!--Departure-->
+
+    <!--Stylist-->
+    <string id="16780170">{09}</string>
+    <string id="16780179">Hi, I'm your personal stylist! Wait... Is that a {00}?\nIf you want, we can use that to change anything\nabout yourself!\nWhat can I do for you today?</string>
+    <string id="16780172">It'll cost ${00} for your makeover.\nIs that okay?</string>
+    <string id="16780173">I'm sorry, but you don't have enough money.</string>
+    <string id="16780174">{09}</string>
+    <string id="16780175">{09}</string>
+    <string id="16780176">Are you sure you want to use your {00}?</string>
+    <string id="16780171">{09}</string>
 
     <!--Field Moves-->
     <string id="8600">Restore pp?\n</string> <!-- Restore PP Question -->
@@ -590,8 +638,6 @@
     <string id="101674">&#xE;&#xA263;Mysterious Ultra Ball</string>
     <string id="101676">&#xE;&#xA264;Mysterious Premier Ball (2022)</string>
 
-
-
                 <!--Sealed/Event Items-->
     <string id="100079">&#xE;&#xA300;Pumpking Goodie Bag</string>
     <string id="100035">&#xE;&#xA301;Goodie Bag</string>
@@ -966,32 +1012,107 @@
     <!--Berry Powder-->
     <string id="101112">&#xA089;Berry Powder</string>
 
-<!--Natures-->
-    <string id="180000">Hardy [-]</string>
-    <string id="180001">Lonely [+Atk|-Def]</string>
-    <string id="180002">Brave [+Atk|-Speed]</string>
-    <string id="180003">Adamant [+Atk|-Sp.Atk]</string>
-    <string id="180004">Naughty [+Atk|-Sp.Def]</string>
-    <string id="180005">Bold [+Def|-Atk]</string>
-    <string id="180006">Docile [-]</string>
-    <string id="180007">Relaxed [+Def|-Speed]</string>
-    <string id="180008">Impish [+Def|-Sp.Atk]</string>
-    <string id="180009">Lax [+Def|-Sp.Def]</string>
-    <string id="180010">Timid [+Speed|-Atk]</string>
-    <string id="180011">Hasty [+Speed|-Def]</string>
-    <string id="180012">Serious [-]</string>
-    <string id="180013">Jolly [+Speed|-Sp.Atk]</string>
-    <string id="180014">Naive [+Speed|-Sp.Def]</string>
-    <string id="180015">Modest [+Sp.Atk|-Atk]</string>
-    <string id="180016">Mild [+Sp.Atk|-Def]</string>
-    <string id="180017">Quiet [+Sp.Atk|-Speed]</string>
-    <string id="180018">Bashful [-]</string>
-    <string id="180019">Rash [+Sp.Atk|-Sp.Def]</string>
-    <string id="180020">Calm [+Sp.Def|-Atk]</string>
-    <string id="180021">Gentle [+Sp.Def|-Def]</string>
-    <string id="180022">Sassy [+Sp.Def|-Speed]</string>
-    <string id="180023">Careful [+Sp.Def|-Sp.Atk]</string>
-    <string id="180024">Quirky [-]</string>
+    <!--Key Items-->
+        <!--Kanto || Hoenn-->
+            <!--Usable-->
+                <string id="240360">&#xA000;Bicycle</string><!--Kanto & Hoenn-->
+                <string id="240262">&#xA001;Old Rod</string><!--Kanto & Hoenn-->
+                <string id="240263">&#xA002;Good Rod</string><!--Kanto & Hoenn-->
+                <string id="240264">&#xA003;Super Rod</string><!--Kanto & Hoenn-->
+                <string id="240268">&#xA004;Wailmer Pail</string><!--Hoenn-->
+                <string id="240261">&#xA005;Item finder</string><!--Kanto & Hoenn-->
+                <string id="240361">&#xA006;Town Map</string><!--Kanto & Hoenn-->
+                <string id="240260">&#xA007;A Coin Case</string><!--Kanto-->
+                <string id="240270">&#xA008;Soot Sack</string><!--Hoenn-->
+                     <string id="7">&#xA020;POKéNAV</string><!--Hoenn-->
+                <string id="240350">&#xA009;Poké Flute</string><!--Kanto-->
+                <string id="240362">&#xA009;Vs Seeker</string><!--Kanto-->
+            <!--Storyline Items Kanto-->
+                <string id="240265">S.S. Ticket</string>
+
+    <!--Johto-->
+        <!--Usable-->
+            <string id="249450">&#xA000;Bicycle</string>
+            <string id="249445">&#xA001;Old Rod</string>
+            <string id="249446">&#xA002;Good Rod</string>
+            <string id="249447">&#xA003;Super Rod</string>
+            <string id="249471">&#xA004;Dowsing MCHN</string>
+            <string id="249442">&#xA005;Town Map</string>
+            <string id="249444">&#xA006;Coin Case</string>
+            <string id="249435">&#xA007;Fashion Case</string>
+            <string id="249468">&#xA008;Apricorn Box</string>
+            <string id="249470">&#xA009;Berry Pots</string>
+            <string id="249477">&#xA010;SquirtBottle</string>
+            <string id="249465">&#xA011;Vs. Recorder</string>
+            <string id="249469">&#xA012;UNOWN Report</string>
+            <string id="249476">&#xA013;Basement Key</string>
+            <string id="249475">&#xA014;Card Key</string>
+            <string id="249472">&#xA015;Blue Card</string>
+            <string id="249474">&#xA016;Clear Bell</string>
+            <string id="249483">&#xA017;Rainbow Wing</string>
+            <string id="249478">&#xA018;Red Scale</string>
+            <string id="249535">&#xA019;Blue Orb</string>
+
+    <!--Sinnoh-->
+        <!--Usable-->
+            <string id="245471">&#xA000;Dowsing MCHN</string>
+        <!--Storyline-->
+            <string id="248450">&#xA000;Bicycle</string>
+            <string id="248445">&#xA001;Old Rod</string>
+            <string id="248446">&#xA002;Good Rod</string>
+            <string id="248447">&#xA003;Super Rod</string>
+            <string id="248428">&#xA004;Explorer Kit</string>
+            <string id="248442">&#xA005;Town Map</string>
+            <string id="248444">&#xA006;Coin Case</string>
+            <string id="248435">&#xA007;Fashion Case</string>
+            <string id="248443">&#xA008;Vs. Seeker</string>
+            <string id="248465">&#xA009;Vs. Recorder</string>
+            <string id="248437">&#xA010;Pal Pad</string>
+            <string id="248433">&#xA011;Journal</string>
+            <string id="248464">&#xA012;SecretPotion</string>
+            <string id="248440">&#xA013;Galactic Key</string>
+            <string id="248438">&#xA014;Works Key</string>
+            <string id="248451">&#xA015;Suite Key</string>
+
+    <!--Unova-->
+        <!--Usable-->
+            <string id="245447">&#xA000;Super Rod</string>
+            <string id="245448">&#xA001;Sprayduck</string>
+            <string id="245471">&#xA002;Dowsing MCHN</string>
+            <string id="245437">&#xA003;Pal Pad</string>
+            <string id="245578">&#xA004;Prop Case</string>
+            <string id="245621">&#xA005;Xtransceiver</string>
+        <!--Storyline-->
+            <string id="245450">&#xA000;Bicycle</string>
+            <string id="245442">&#xA001;Town Map</string>
+            <string id="245465">&#xA003;Vs. Recorder</string>
+
+    <!--Natures-->
+        <string id="180000">Hardy [-]</string>
+        <string id="180001">Lonely [+Atk|-Def]</string>
+        <string id="180002">Brave [+Atk|-Spe]</string>
+        <string id="180003">Adamant [+Atk|-SpA]</string>
+        <string id="180004">Naughty [+Atk|-SpD]</string>
+        <string id="180005">Bold [+Def|-Atk]</string>
+        <string id="180006">Docile [-]</string>
+        <string id="180007">Relaxed [+Def|-Spe]</string>
+        <string id="180008">Impish [+Def|-SpA]</string>
+        <string id="180009">Lax [+Def|-SpD]</string>
+        <string id="180010">Timid [+Spe|-Atk]</string>
+        <string id="180011">Hasty [+Spe|-Def]</string>
+        <string id="180012">Serious [-]</string>
+        <string id="180013">Jolly [+Spe|-SpA]</string>
+        <string id="180014">Naive [+Spe|-SpD]</string>
+        <string id="180015">Modest [+SpA|-Atk]</string>
+        <string id="180016">Mild [+SpA|-Def]</string>
+        <string id="180017">Quiet [+SpA|-Spe]</string>
+        <string id="180018">Bashful [-]</string>
+        <string id="180019">Rash [+SpA|-SpD]</string>
+        <string id="180020">Calm [+SpD|-Atk]</string>
+        <string id="180021">Gentle [+SpD|-Def]</string>
+        <string id="180022">Sassy [+SpD|-Spe]</string>
+        <string id="180023">Careful [+SpD|-SpA]</string>
+        <string id="180024">Quirky [-]</string>
 
 <!--Abilities-->
 <!--    <string id="220001">The stench may cause\nthe target to flinch.</string> &lt;!&ndash;Stench&ndash;&gt;-->

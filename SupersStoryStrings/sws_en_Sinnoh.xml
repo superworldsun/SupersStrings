@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <ds_strings_archive archive_type="0" lang="en" region_id="3">
     <!--=Credits to SuperWorldSun for all strings-->
+    <!--=SupersStoryStrings Version-->
 
     <!--HMs in Sinnoh-->
     <string block_id="0" entry_id="12" table_id="381">{09}</string> <!--Use Surf?-->
@@ -165,11 +166,38 @@
         <!--Shop Npcs-->
             <string block_id="0" entry_id="37" table_id="213">Welcome! What do you need?</string> <!--Shop Npc greeting-->
 
+    <!--DayCare Lady-->
+        <string block_id="0" entry_id="15" table_id="547">I'm the Day-Care Lady. We can raise Pokémon for you.\nWould you like us to raise your Pokémon?</string>
+        <string block_id="0" entry_id="16" table_id="547">Which Pokémon should we raise for you?\n\n</string>
+        <string block_id="0" entry_id="17" table_id="547">Fine, we'll raise your {00} for a while.\nCome back for it later.\n\n</string>
+        <string block_id="0" entry_id="18" table_id="547">We can raise two of your Pokémon.\nWould you like us to raise another?</string>
+        <string block_id="0" entry_id="20" table_id="547">Oh, fine, then. Come again.</string>
+        <string block_id="0" entry_id="22" table_id="547">Do you want to take back the other one, too?</string>
+        <string block_id="0" entry_id="24" table_id="547">Ah, it's you! Good to see you. Now, about your Pokémon...\n\n</string>
+        <string block_id="0" entry_id="25" table_id="547">By level, your {00} has\ngrown by about {01}.\n\n</string>
+        <string block_id="0" entry_id="26" table_id="547">Your Pokémon team is full.\nMake room, then come see me.</string>
+        <string block_id="0" entry_id="27" table_id="547">Which Pokémon will you take back?</string>
+        <string block_id="0" entry_id="28" table_id="547">If you want your {00} back,\nit will cost ${01}.</string>
+        <string block_id="0" entry_id="29" table_id="547">Excellent! Here's your Pokémon.\n\n</string>
+        <string block_id="0" entry_id="30" table_id="547">{01} took {00} back\nfrom the Day-Care Lady.\n\n</string>
+        <string block_id="0" entry_id="31" table_id="547">Oh? But you only have one Pokémon with you.\nYou can't go off without a Pokémon.\nCome back another time.</string>
+
+    <!--DayCare Lady-->
+        <string block_id="0" entry_id="33" table_id="547">If you leave me that Pokémon, what are you gonna battle with?\nCome back another time.</string>
+
+    <!--Both breeders-->
+        <string block_id="0" entry_id="23" table_id="547">Very good. Come again.</string>
+
     <!--The Great Marsh (Safari)-->
         <!--Game Clerk-->
             <string block_id="0" entry_id="0" table_id="136">Welcome to the Great Marsh, the home of Pastoria's\nSafari Game! All you can catch for just $500!\nWould you like to play a Safari Game?</string>
+            <string block_id="0" entry_id="1" table_id="136">That will be $500, please.\n\n</string>
+            <string block_id="0" entry_id="2" table_id="136">Here are your Safari Balls.\n\n</string>
+            <string block_id="0" entry_id="3" table_id="136">{00} received 30 Safari Balls.\n\n</string>
             <string block_id="0" entry_id="4" table_id="136">We'll let you know when your game is over.\nUntil then, enjoy yourself, please!\nOff you go on your wild excursion!\n\n</string>
             <string block_id="0" entry_id="10" table_id="136">OK. I'll relieve you of your remaining Safari Balls.\nThank you for playing. We hope to see you again.\n\n</string>
+            <string block_id="0" entry_id="9" table_id="136">You still have time left.\nAre you sure you want to exit the Great Marsh?</string>
+
         <!--Bug catcher at top stairs-->
             <string block_id="0" entry_id="3" table_id="137">Each Area in the Marsh has different Pokémon depending\non the day. Here is the list of areas and there rotations!\n\nArea 1\n \n-Sunday: Skorupi\n-Monday: Croagunk\n-Tuesday: Croagunk\n-Wednesday: Carnivine\n-Thursday: Croagunk\n-Friday: Skorupi\n-Saturday: Skorupi\n\nArea 2\n \n-Sunday: Skorupi\n-Monday: Skorupi\n-Tuesday: Croagunk\n-Wednesday: Croagunk\n-Thursday: Carnivine\n-Friday: Croagunk\n-Saturday: Skorupi\n\nArea 3\n \n-Sunday: Croagunk\n-Monday: Skorupi\n-Tuesday: Skorupi\n-Wednesday: Croagunk\n-Thursday: Croagunk\n-Friday: Carnivine\n-Saturday: Croagunk\n\nArea 4\n \n-Sunday: Carnivine\n-Monday: Croagunk\n-Tuesday: Skorupi\n-Wednesday: Skorupi\n-Thursday: Croagunk\n-Friday: Croagunk\n-Saturday: Carnivine\n\nArea 5\n \n-Sunday: Croagunk\n-Monday: Carnivine\n-Tuesday: Croagunk\n-Wednesday: Skorupi\n-Thursday: Skorupi\n-Friday: Croagunk\n-Saturday: Croagunk\n\nArea 6\n \n-Sunday: Croagunk\n-Monday: Croagunk\n-Tuesday: Carnivine\n-Wednesday: Croagunk\n-Thursday: Skorupi\n-Friday: Skorupi\n-Saturday: Croagunk</string>
         <!--Stone Signs inside marsh-->
@@ -179,6 +207,11 @@
             <string block_id="0" entry_id="1" table_id="243">Great Marsh Area 4\n \n-Sunday: Carnivine\n-Monday: Croagunk\n-Tuesday: Skorupi\n-Wednesday: Skorupi\n-Thursday: Croagunk\n-Friday: Croagunk\n-Saturday: Carnivine</string>
             <string block_id="0" entry_id="1" table_id="244">Great Marsh Area 5\n \n-Sunday: Croagunk\n-Monday: Carnivine\n-Tuesday: Croagunk\n-Wednesday: Skorupi\n-Thursday: Skorupi\n-Friday: Croagunk\n-Saturday: Croagunk</string>
             <string block_id="0" entry_id="2" table_id="245">Great Marsh Area 6\n \n-Sunday: Croagunk\n-Monday: Croagunk\n-Tuesday: Carnivine\n-Wednesday: Croagunk\n-Thursday: Skorupi\n-Friday: Skorupi\n-Saturday: Croagunk</string>
+         <!--inside Marsh-->
+            <string block_id="0" entry_id="3" table_id="538">Where would you like to go?</string>
+            <string block_id="0" entry_id="4" table_id="538">{00} didn't board the Quick Tram.</string>
+            <string block_id="0" entry_id="0" table_id="538">Ding-dong! Time's up!\nYour Safari Game is over.</string>
+            <string block_id="0" entry_id="1" table_id="538">Ding-dong! You've run out of Safari Balls.\nYour Safari Game is over.</string>
 
 
 

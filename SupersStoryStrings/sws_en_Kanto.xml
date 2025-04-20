@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <strings is_override="0" is_primary="0" lang="en">
     <!--=Credits to SuperWorldSun for all strings-->
+    <!--=SupersStoryStrings Version-->
 
 <!--Npc-->
     <!--Gym-->
@@ -97,23 +98,57 @@
             <string id="1544611">OAK: {01}.\nYou understand that your victory was not just your own doing.\nThe bond you share with your POKéMON is marvelous.\n{01}! Come with me!</string>
             <string id="1544751">OAK: Er-hem! Congratulations, {01}!\nThis floor is the POKéMON HALL OF FAME. POKéMON LEAGUE\nCHAMPIONS are honored for their exploits here. Their POKéMON\nare also recorded in the HALL OF FAME. {01}!\nYou have worked hard to become the new LEAGUE CHAMPION.\nCongratulations, {01},\nyou and your POKéMON are HALL OF FAMERS!</string>
 
-    <!--Nurse Joy-->
-        <!--Healing from NJ-->
-            <string id="1725571">Welcome to our POKéMON CENTER!\nWould you like me to heal your\nPOKéMON back to perfect health?</string>
-        <!--Waiting...-->
-            <string id="1725665">Okay, I'll take your POKéMON for a few seconds.</string>
-        <!--Thanks for waiting-->
-            <string id="1725739">Thank you for waiting.\nWe've restored your POKéMON to full health.</string>
-        <!--Come back-->
-            <string id="1725713">We hope to see you again!</string>
+        <!--Nurse Joy-->
+            <!--Healing from NJ-->
+                <string id="1725571">Welcome to our POKéMON CENTER!\nWould you like me to heal your\nPOKéMON back to perfect health?</string>
+            <!--Waiting...-->
+                <string id="1725665">Okay, I'll take your POKéMON for a few seconds.</string>
+            <!--Thanks for waiting-->
+                <string id="1725739">Thank you for waiting.\nWe've restored your POKéMON to full health.</string>
+            <!--Come back-->
+                <string id="1725713">We hope to see you again!</string>
+
+        <!--Shop Npc-->
+            <string id="1729041">Hi, there! May I help you?</string>
+            <string id="1724816">Please come again!</string>
+
+        <!--DayCare Man (Route 5)-->
+            <string id="1695078">I run the DAY-CARE service.\nWould you like me to raise one of your POKéMON?</string>
+            <string id="1695292">You're back already? Your {02} needs to\nspend some more time with me.</string>
+            <string id="1695360">You owe me ${03} for the return\nof this POKéMON.</string>
+            <string id="1695407">Thank you! Here's your POKéMON.</string>
+            <string id="1695439">{01} got {02}\nback from the DAY-CARE MAN.</string>
+            <string id="1695477">Oh? You only have one POKéMON with you.</string>
+
+        <!--DayCare Lady (Four Island)-->
+            <string id="1832932">I'm the DAY-CARE LADY. We can raise POKéMON for you.\nWould you like us to raise one?</string>
+            <string id="1833056">Fine, we'll raise your {02} for a while.\nCome back for it later.</string>
+            <string id="1695225">Fine, I'll look after your {02} for a while.</string>
+            <string id="1833119">We can raise two of your POKéMON.\nWould you like us to raise one more POKéMON for you?</string>
+            <string id="1695268">Come see me in a while.</string>
+            <string id="1833352">Ah, it's you! Good to see you.\nYour POKéMON can only be doing good!</string>
+            <string id="1833420">By level, your {02} has grown by {03}.</string>
+            <string id="1833455">Your POKéMON party is full.\nMake room, then come see me.</string>
+            <string id="1833531">If you want your {02} back, it will cost ${03}.</string>
+            <string id="1833575">Perfect! Here's your POKéMON.</string>
+            <string id="1833605">{01} took back {02} from\nthe DAY-CARE LADY.</string>
+            <string id="1833704">Will you take your POKéMON back?</string>
+            <string id="1833295">Will you take back the other one, too?</string>
+        <!--Breeder-->
+            <string id="1695517">If you leave me that POKéMON, what will you battle with?</string>
+
+        <!--Breeder & DayCares end text-->
+            <string id="1695196">Fine. Come anytime you like.</string>
 
     <!--Safari-->
         <!--Left clerk-->
             <string id="1670832">Hi! Is it your first time here at the SAFARI ZONE?</string>
             <string id="1670883">The SAFARI ZONE actually has four zones in it. Each zone has\ndifferent kinds of POKéMON, even some rare ones. Use the\nsupplied SAFARI BALLS to catch them. You can also throw\nBAIT or ROCKS besides the SAFARI BALLS. If you throw BAIT,\nthe POKéMON becomes less likely to flee, but harder to catch.\nIf you throw ROCKS, the POKéMON becomes more likely to flee,\nbut easier to catch. When you run out of time or SAFARI BALLS,\nit's game over for you!</string>
         <!--Right clerk-->
+            <string id="1670251">Welcome to the SAFARI ZONE!</string>
             <string id="1670279">For just $500, you can play the SAFARI GAME.\nYou can roam the wide-open safari and catch what you like.\nWould you like to play?</string>
             <string id="1670407">That'll be $500, please!\nWe only use a special kind of POKé BALLS here.</string>
+            <string id="1670480">{01} received 30 SAFARI BALLS\nfrom the attendant.</string>
             <string id="1670528">We'll call you on the PA when you run out of time\nor SAFARI BALLS. Well, I'll wish you the best of luck!</string>
             <string id="1670633">Okay. Please come again!</string>
         <!--PA Announcement-->

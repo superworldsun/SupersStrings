@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <ds_strings_archive archive_type="0" lang="en" region_id="4">
     <!--=Credits to SuperWorldSun for all strings-->
+    <!--=SupersStoryStrings Version-->
 
 <!--Safari-->
 
@@ -194,6 +195,24 @@
             <string block_id="0" entry_id="10" table_id="117">Welcome! I run the Pokémon Salon! I'm the older and\nbetter of the two Haircut Brothers. I can make your Pokémon\nbeautiful for just $500. Grooming gives a better look.\nYour Pokémon will become friendlier and more beautiful.\nWould you like me to do that? </string>
         <!--Younger brother barber shop-->
             <string block_id="0" entry_id="17" table_id="117">Welcome to the Pokémon Salon!I'm the younger and less\nexpensive of the two Haircut Brothers. I'll spruce up your\nPokémon for just $300. Grooming gives a better look.\nYour Pokémon will become friendlier and more beautiful.\nSo? How about it?</string>
+
+    <!--DayCare Lady (Route 34)-->
+        <string block_id="0" entry_id="21" table_id="439">I'm the Day-Care Lady. We can raise Pokémon for you.\nWould you like us to raise your Pokémon? </string>
+        <string block_id="0" entry_id="36" table_id="439">Oh? But you only have one Pokémon with you.\nYou can't go off without a Pokémon. Come back another time.</string>
+        <string block_id="0" entry_id="23" table_id="439">Fine, we'll raise your {00} for a while.\nCome back for it later.\n\n</string>
+        <string block_id="0" entry_id="24" table_id="439">We can raise two of your Pokémon.\nWould you like us to raise another? </string>
+        <string block_id="0" entry_id="32" table_id="439">Your Pokémon team is full.\nMake room, then come see me.</string>
+        <string block_id="0" entry_id="30" table_id="439">Ah, it's you! Good to see you.\nNow, about your Pokémon...\n\n</string>
+        <string block_id="0" entry_id="31" table_id="439">By level, your {00} has\ngrown by about {01}.\n\n</string>
+        <string block_id="0" entry_id="37" table_id="439">Do you want your Pokémon back? </string>
+        <string block_id="0" entry_id="33" table_id="439">If you want your {00} back,\nit will cost ${01}. </string>
+        <string block_id="0" entry_id="35" table_id="439">{01} took {00} back\nfrom the Day-Care Lady.\n\n</string>
+        <string block_id="0" entry_id="28" table_id="439">Do you want to take back the other one, too? </string>
+
+    <!--Breeder (Route 34)-->
+        <string block_id="0" entry_id="38" table_id="439">If you leave me that Pokémon, what are you gonna battle with?\nCome back another time.</string>
+    <!--Both breeders (Route 34)-->
+        <string block_id="0" entry_id="29" table_id="439">Very good. Come again.</string>
 
     <!--HMs in Johto-->
             <!--HM CUT-->

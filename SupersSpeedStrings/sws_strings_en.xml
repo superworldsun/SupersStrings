@@ -9,7 +9,7 @@
     <string id="6802">You have been disconnected from the game server\nfor being AFK.</string>
 
     <!--Most yes or no buttons-->
-    <string id="50">▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔\n\n\n\n\n\n[ Yes ]\n\n\n\n\n\n▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁</string>
+    <string id="50">▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔\n\n\n[ Yes ]\n\n\n▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁</string>
     <string id="51">▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔\n[ No ]\n▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁</string>
 
     <string id="52">▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔\n\n[ OK ]\n\n▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁</string>
@@ -24,6 +24,10 @@
     <string id="53">[ Cancel ]</string>
     <string id="54">[ Save ]</string>
     <string id="60">▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔\n\n[ Accept ]\n\n▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁</string>
+    <string id="63">▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔\n[ Reject ]\n▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁</string>
+    <string id="203">▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔\n[ Accept Trade Request ]\n▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁</string>
+    <string id="204">▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔\n[ Reject Trade Request ]\n▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁</string>
+    <string id="1902">▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔\n[ Change ]\n▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁</string>
 
     <!--Hoenn Secret Base (No Secret Power)-->
     <string id="270776032">A small crevice is seen on the wall.\nA {STRING_110290} may allow you to break it open.</string>
@@ -116,7 +120,7 @@
 
     <!--Field Moves-->
     <string id="8600">Restore pp?\n</string> <!-- Restore PP Question -->
-    <string id="8601">\n\n\n\n\n\n\n\n\n\n\n {00} {01} \n\n\n\n\n\n\n\n\n\n\n</string> <!-- Restore PP with Item -->
+    <string id="8601">▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔\n\n\n\n\n\n\n\n\n\n{00} {01}\n\n\n\n\n\n\n\n\n\n▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁</string> <!-- Restore PP with Item -->
 
     <!--HM's-->
     <string id="16780421">{09}</string> <!--Rock Smash in Unova-->

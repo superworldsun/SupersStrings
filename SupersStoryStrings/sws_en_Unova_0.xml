@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <ds_strings_archive archive_type="0" is_primary="0" lang="en" region_id="2">
     <!--=Credits to SuperWorldSun for all strings-->
+    <!--=SupersStoryStrings Version-->
     <!--=Credits to C4v for sourcing pokedex catch rate-->
 
     <!-- Sweet Scent-->
@@ -196,9 +197,9 @@
     <string block_id="0" entry_id="149" table_id="268">463.0 lbs.　　　Catch rate: 45</string>
     <string block_id="0" entry_id="150" table_id="268">269.0 lbs.　　　Catch rate: 3</string>
     <string block_id="0" entry_id="151" table_id="268">8.8 lbs.　　　Catch rate: 45</string>
-    <string block_id="0" entry_id="152" table_id="268">14.1 lbs.　　　Catch rate: 30</string>
-    <string block_id="0" entry_id="153" table_id="268">34.8 lbs.　　　Catch rate: 15</string>
-    <string block_id="0" entry_id="154" table_id="268">221.6 lbs.　　　Catch rate: 45</string>
+    <string block_id="0" entry_id="152" table_id="268">14.1 lbs.　　　Catch rate: 45</string>
+    <string block_id="0" entry_id="153" table_id="268">34.8 lbs.　　　Catch rate: 30</string>
+    <string block_id="0" entry_id="154" table_id="268">221.6 lbs.　　　Catch rate: 15</string>
     <string block_id="0" entry_id="155" table_id="268">17.4 lbs.　　　Catch rate: 45</string>
     <string block_id="0" entry_id="156" table_id="268">41.9 lbs.　　　Catch rate: 30</string>
     <string block_id="0" entry_id="157" table_id="268">175.3 lbs.　　　Catch rate: 15</string>
@@ -647,7 +648,7 @@
     <string block_id="0" entry_id="551" table_id="268">33.5 lbs.　　　Catch rate: 180</string>
     <string block_id="0" entry_id="621" table_id="268">306.4 lbs.　　　Catch rate: 45</string>
     <string block_id="0" entry_id="584" table_id="268">126.8 lbs.　　　Catch rate: 45</string>
-    <string block_id="0" entry_id="497" table_id="268">138.9 lbs.　　　Catch rate: 45</string>
+    <string block_id="0" entry_id="497" table_id="268">138.9 lbs.　　　Catch rate: 15</string>
     <string block_id="0" entry_id="537" table_id="268">136.7 lbs.　　　Catch rate: 45</string>
     <string block_id="0" entry_id="592" table_id="268">72.8 lbs.　　　Catch rate: 190</string>
     <string block_id="0" entry_id="618" table_id="268">24.3 lbs.　　　Catch rate: 75</string>

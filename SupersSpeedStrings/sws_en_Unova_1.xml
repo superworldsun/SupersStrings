@@ -24,54 +24,54 @@
         <!--Chili Battle-->
             <string block_id="0" entry_id="11" table_id="12">{09}</string>
         <!--Chili on Cooldown-->
-            <string block_id="0" entry_id="29" table_id="12">[ON COOLDOWN]\n[$8632]  /  +50%[$12948]  /  +75%[$15106]  /  +100%[$17264]\n \nChili: Oh! It's you!\nYour fire is more intense than when you got the Trio Badge!</string>
+            <string block_id="0" entry_id="29" table_id="12">[ON COOLDOWN / 18 Hours]\n[$8632]  /  +50%[$12948]  /  +75%[$15106]  /  +100%[$17264]\n \nChili: Oh! It's you!\nYour fire is more intense than when you got the Trio Badge!</string>
 
         <!--Cilan Battle-->
             <string block_id="0" entry_id="12" table_id="12">{09}</string>
         <!--Cilan on Cooldown-->
-            <string block_id="0" entry_id="28" table_id="12">[ON COOLDOWN]\n[$8632]  /  +50%[$12948]  /  +75%[$15106]  /  +100%[$17264]\n \nCilan: In the Unova region, um, we are still novice Gym Leaders.\nWhich means, well, that other Gym Leaders are much stronger\nthan we are. Going...slow...and steady...is OK, so... we compete\nwith one another and get, um, stronger and stronger.</string>
+            <string block_id="0" entry_id="28" table_id="12">[ON COOLDOWN / 18 Hours]\n[$8632]  /  +50%[$12948]  /  +75%[$15106]  /  +100%[$17264]\n \nCilan: In the Unova region, um, we are still novice Gym Leaders.\nWhich means, well, that other Gym Leaders are much stronger\nthan we are. Going...slow...and steady...is OK, so... we compete\nwith one another and get, um, stronger and stronger.</string>
 
         <!--Cress Battle-->
             <string block_id="0" entry_id="13" table_id="12">{09}</string>
         <!--Cress on Cooldown-->
-            <string block_id="0" entry_id="30" table_id="12">[ON COOLDOWN]\n[$8632]  /  +50%[$12948]  /  +75%[$15106]  /  +100%[$17264]\n \nCress: ...We heard about the incident with N's Castle. If we\nhad received the message in time, the three of us could\nhave helped.</string>
+            <string block_id="0" entry_id="30" table_id="12">[ON COOLDOWN / 18 Hours]\n[$8632]  /  +50%[$12948]  /  +75%[$15106]  /  +100%[$17264]\n \nCress: ...We heard about the incident with N's Castle. If we\nhad received the message in time, the three of us could\nhave helped.</string>
 
         <!--Lenora Battle-->
             <string block_id="0" entry_id="0" table_id="24">{09}</string>
         <!--Lenora on Cooldown-->
-            <string block_id="0" entry_id="9" table_id="24">[ON COOLDOWN]\n[$8736]  /  +50%[$13104]  /  +75%[$15288]  /  +100%[$17472]\n \nLenora: Oh, it's you! As always, you're raising your Pokémon\nwith a lot of love! By the way, ol' Clay contacted me recently.\nHe said you can find Pokémon Fossils in Twist Mountain!\nGo check it out if you like!</string>
+            <string block_id="0" entry_id="9" table_id="24">[ON COOLDOWN / 18 Hours]\n[$8736]  /  +50%[$13104]  /  +75%[$15288]  /  +100%[$17472]\n \nLenora: Oh, it's you! As always, you're raising your Pokémon\nwith a lot of love! By the way, ol' Clay contacted me recently.\nHe said you can find Pokémon Fossils in Twist Mountain!\nGo check it out if you like!</string>
 
         <!--Burgh Battle-->
             <string block_id="0" entry_id="0" table_id="34">{09}</string>
         <!--Burgh on Cooldown-->
-            <string block_id="0" entry_id="6" table_id="34">[ON COOLDOWN]\n[$8840]  /  +50%[$13260]  /  +75%[$15470]  /  +100%[$17680]\n \nBurgh: Heya! This is what I do.\nI keep raising Pokémon and drawing pictures inspired by the\nPokémon I raise. It's what I love to do.\nMy life hums with energy. What could be better?</string>
+            <string block_id="0" entry_id="6" table_id="34">[ON COOLDOWN / 18 Hours]\n[$8840]  /  +50%[$13260]  /  +75%[$15470]  /  +100%[$17680]\n \nBurgh: Heya! This is what I do.\nI keep raising Pokémon and drawing pictures inspired by the\nPokémon I raise. It's what I love to do.\nMy life hums with energy. What could be better?</string>
         <!--Random NPC on button-->
             <string block_id="0" entry_id="9" table_id="34">{09}</string>
 
         <!--Elesa Battle-->
             <string block_id="0" entry_id="0" table_id="68">{09}</string>
         <!--Elesa on Cooldown-->
-            <string block_id="0" entry_id="7" table_id="68">[ON COOLDOWN]\n[$8944]  /  +50%[$13416]  /  +75%[$15652]  /  +100%[$17888]\n \nElesa: I think the real me is the one who battles with Pokémon as\na Gym Leader. A model's job is to make someone else's vision\nlook like a reality. It's interesting, but it's not easy...</string>
+            <string block_id="0" entry_id="7" table_id="68">[ON COOLDOWN / 18 Hours]\n[$8944]  /  +50%[$13416]  /  +75%[$15652]  /  +100%[$17888]\n \nElesa: I think the real me is the one who battles with Pokémon as\na Gym Leader. A model's job is to make someone else's vision\nlook like a reality. It's interesting, but it's not easy...</string>
 
         <!--Clay Battle-->
             <string block_id="0" entry_id="0" table_id="102">{09}</string>
         <!--Clay on Cooldown-->
-            <string block_id="0" entry_id="6" table_id="102">[ON COOLDOWN]\n[$9048]  /  +50%[$13572]  /  +75%[$15834]  /  +100%[$18096]\n \nClay: Mrrmph! You, huh? Remember what I done told ya? If ya\nthink ya can go, go wherever, and if ya think ya can do somethin',\nkeep doin' it. Do things how ya want! Decide yer own limits.</string>
+            <string block_id="0" entry_id="6" table_id="102">[ON COOLDOWN / 18 Hours]\n[$9048]  /  +50%[$13572]  /  +75%[$15834]  /  +100%[$18096]\n \nClay: Mrrmph! You, huh? Remember what I done told ya? If ya\nthink ya can go, go wherever, and if ya think ya can do somethin',\nkeep doin' it. Do things how ya want! Decide yer own limits.</string>
 
         <!--Skyla Battle-->
             <string block_id="0" entry_id="0" table_id="113">{09}</string>
         <!--Skyla on Cooldown-->
-            <string block_id="0" entry_id="6" table_id="113">[ON COOLDOWN]\n[$9152]  /  +50%[$13728]  /  +75%[$16016]  /  +100%[$18304]\n \nSkyla: Are you and your Pokémon well? Our battle together was\nso much fun. Now, my Pokémon and I have started training again.\nI don't usually let people travel in my cargo plane, but battling\nwith you was such a blast that I'd make an exception.</string>
+            <string block_id="0" entry_id="6" table_id="113">[ON COOLDOWN / 18 Hours]\n[$9152]  /  +50%[$13728]  /  +75%[$16016]  /  +100%[$18304]\n \nSkyla: Are you and your Pokémon well? Our battle together was\nso much fun. Now, my Pokémon and I have started training again.\nI don't usually let people travel in my cargo plane, but battling\nwith you was such a blast that I'd make an exception.</string>
 
         <!--Brycen Battle-->
             <string block_id="0" entry_id="0" table_id="119">{09}</string>
         <!--Brycen on Cooldown-->
-            <string block_id="0" entry_id="7" table_id="119">[ON COOLDOWN]\n[$9256]  /  +50%[$13884]  /  +75%[$16198]  /  +100%[$18512]\n \nBrycen: In the past, when I was hurt and depressed, Alder shared\nthis with me... There is strength in being with other people and\nPokémon. Receiving their support makes you stronger. The\nyoung man named Cheren also seems to understand this now.</string>
+            <string block_id="0" entry_id="7" table_id="119">[ON COOLDOWN / 18 Hours]\n[$9256]  /  +50%[$13884]  /  +75%[$16198]  /  +100%[$18512]\n \nBrycen: In the past, when I was hurt and depressed, Alder shared\nthis with me... There is strength in being with other people and\nPokémon. Receiving their support makes you stronger. The\nyoung man named Cheren also seems to understand this now.</string>
 
         <!--Iris Battle-->
             <string block_id="0" entry_id="0" table_id="126">{09}</string>
         <!--Iris on Cooldown-->
-            <string block_id="0" entry_id="6" table_id="126">[ON COOLDOWN]\n[$9360]  /  +50%[$14040]  /  +75%[$16380]  /  +100%[$18720]\n \nYou've been on a journey and seen a lot of the world. I'm like\nthat, too! I'm from way out in the country. I'm really happy that\nI've gotten to meet lots of different people and Pokémon!!</string>
+            <string block_id="0" entry_id="6" table_id="126">[ON COOLDOWN / 18 Hours]\n[$9360]  /  +50%[$14040]  /  +75%[$16380]  /  +100%[$18720]\n \nYou've been on a journey and seen a lot of the world. I'm like\nthat, too! I'm from way out in the country. I'm really happy that\nI've gotten to meet lots of different people and Pokémon!!</string>
 
     <!--Elite Four-->
         <!--Door Guard-->
@@ -144,6 +144,52 @@
             <string block_id="0" entry_id="3" table_id="150">{09}</string>
             <string block_id="0" entry_id="4" table_id="150">{09}</string>
 
+    <!--first time walking into Cnythias house-->
+    <string block_id="0" entry_id="0" table_id="456">{09}</string>
+    <string block_id="0" entry_id="1" table_id="456">{09}</string>
+    <string block_id="0" entry_id="2" table_id="456">{09}</string>
+    <string block_id="0" entry_id="3" table_id="456">{09}</string>
+    <!--Cnythia say yes-->
+    <string block_id="0" entry_id="4" table_id="456">{09}</string>
+    <!--Cnythia say no-->
+    <string block_id="0" entry_id="5" table_id="456">{09}</string>
+    <!--come back before first fight-->
+    <string block_id="0" entry_id="6" table_id="456">{09}</string>
+    <!--win first fight-->
+    <string block_id="0" entry_id="7" table_id="456">{09}</string>
+    <!--first cool down-->
+    <string block_id="0" entry_id="8" table_id="456">{09}</string>
+
+
+    <!--Cnythia Rematches-->
+    <!--Cnythia interaction-->
+    <string block_id="0" entry_id="9" table_id="456">{09}</string>
+    <!--Cnythia say yes-->
+    <string block_id="0" entry_id="10" table_id="456">{09}</string>
+    <string block_id="0" entry_id="15" table_id="456">{09}</string>
+
+    <!--Cnythia say no-->
+    <string block_id="0" entry_id="11" table_id="456">{09}</string>
+    <!--Cnythia say no-->
+    <string block_id="0" entry_id="16" table_id="456">{09}</string>
+
+    <!--Cnythia Lost-->
+    <string block_id="0" entry_id="18" table_id="456">[ON COOLDOWN / 18 Hours]\n[$16560]  /  +50%[$24840]  /  +75%[$28980]  /  +100%[$33120]\n \nCynthia: When you meet Trainers, battle them to learn about the\nkind of people they are. Observe the Pokémon they choose, which\nmoves they taught them, and which items the Pokémon hold.\nYou don't need words at such times...\nIf you want to know more about me...\nCome to Sinnoh!</string>
+    <!--Cnythia cooldown-->
+    <string block_id="0" entry_id="13" table_id="456">[ON COOLDOWN / 18 Hours]\n[$16560]  /  +50%[$24840]  /  +75%[$28980]  /  +100%[$33120]\n \nCynthia: For some reason, this reminds me of a time when\nI told a Trainer like you to go see many, many more places\nand to meet many more Pokémon. For me, it has really\nbeen worthwhile to come all the way to far Unova. Why?\nBecause... I met you, and my world got wider!</string>
+
+
+
+    <!--Morimoto interact-->
+    <string block_id="0" entry_id="9" table_id="53">{09}</string>
+    <!--Morimoto say yes-->
+    <string block_id="0" entry_id="10" table_id="53">{09}</string>
+    <!--Morimoto say no-->
+    <string block_id="0" entry_id="12" table_id="53">{09}</string>
+    <!--Morimoto Lost/cooldown-->
+    <string block_id="0" entry_id="11" table_id="53">[ON COOLDOWN / 18 Hours]\n[$15660]  /  +50%[$23490]  /  +75%[27405]  /  +100%[31320]\n \nYou think about battles very thoroughly.\nI lost, but I learned a lot from you.\nBesides, it was fun! Come back again tomorrow.</string>
+
+
     <!--Nurse Joy-->
     <string block_id="0" entry_id="1" table_id="346">{09}</string> <!--Morning Healing from NJ-->
     <string block_id="0" entry_id="2" table_id="346">{09}</string>
@@ -163,10 +209,32 @@
     <!--After Heal-->
     <string block_id="0" entry_id="8" table_id="346">{09}</string>
 
-
     <!--Shop Npcs-->
     <string block_id="0" entry_id="0" table_id="424">{09}</string> <!--Shop Npc greeting-->
     <string block_id="0" entry_id="1" table_id="424">{09}</string> <!--Shop TM Npc-->
     <string block_id="0" entry_id="3" table_id="424">{09}</string> <!--Shop Npc goodbye-->
+
+    <!--Funny Walking npc Text-->
+    <string block_id="0" entry_id="27" table_id="159">I got a 0 Phase Zorua</string>
+    <string block_id="0" entry_id="28" table_id="159">Do you not know how PokeMMO works? Please do not argue with me.</string>
+    <string block_id="0" entry_id="29" table_id="159">Do people really Masterball Alphas?</string>
+    <string block_id="0" entry_id="30" table_id="159">I got my first shiny, Tentacruel!</string>
+    <string block_id="0" entry_id="31" table_id="159">When is the next event?</string>
+    <string block_id="0" entry_id="32" table_id="159">I swear im Shiny locked</string>
+    <string block_id="0" entry_id="33" table_id="159">I'm 200k Dry</string>
+    <string block_id="0" entry_id="34" table_id="159">Trubbish is my favorite Pokemon!</string>
+    <string block_id="0" entry_id="35" table_id="159">Whats an easy money making method?</string>
+    <string block_id="0" entry_id="36" table_id="159">Nah, i'd Win.</string>
+    <string block_id="0" entry_id="37" table_id="159">Where to get the bike in Kanto</string>
+    <string block_id="0" entry_id="38" table_id="159">I need these Pheno Pokemon to finish my pokedex, they're impossible to find!!!</string>
+    <string block_id="0" entry_id="39" table_id="159">Can anyone help me beat E4</string>
+    <string block_id="0" entry_id="40" table_id="159">252+ SpA Choice Specs Kyogre Water Spout (150 BP) vs. 0 HP / 0- SpD Your Argument in Rain: 594-698 (173.1 - 203.4%) -- guaranteed OHKO</string>
+    <string block_id="0" entry_id="41" table_id="159">Can someone price check my pokemon?</string>
+    <string block_id="0" entry_id="42" table_id="159">[this message has been deleted by a mod]</string>
+    <string block_id="0" entry_id="43" table_id="159">Gen 6 When?</string>
+    <string block_id="0" entry_id="44" table_id="159">WOW, SupersStrings is awesome!</string>
+    <string block_id="0" entry_id="45" table_id="159">Hey guys, did you know that in terms of human companionship, Flareon is objectively the most huggable Pokemon? While their maximum temperature is likely too much for most, they are capable of controlling it, so they can set themselves to the perfect temperature for you. Along with that, they have a lot of fluff, making them undeniably incredibly soft to touch. But that's not all, they have a very respectable special defense stat of 110, which means that they are likely very calm and resistant to emotional damage. Because of this, if you have a bad day, you can vent to it while hugging it, and it won't mind. It can make itself even more endearing with moves like Charm and Baby Doll Eyes, ensuring that you never have a prolonged bout of depression ever again.</string>
+    <string block_id="0" entry_id="46" table_id="159">I Masterballed an Alpha</string>
+    <string block_id="0" entry_id="47" table_id="159">Can someone give me a Pokemon?</string>
 
 </ds_strings_archive>

@@ -30,56 +30,56 @@
         <!--Roark End Battle-->
             <string block_id="0" entry_id="5" table_id="617">\n\n</string>
         <!--Roark on Cooldown-->
-            <string block_id="0" entry_id="5" table_id="67">[ON COOLDOWN]\n[$8632]  /  +50%[$12948]  /  +75%[$15106]  /  +100%[$17264]\n \nIn this region of Sinnoh, there are seven other Gym Leaders.\nI should warn you--they're a lot tougher than I am!</string>
+            <string block_id="0" entry_id="5" table_id="67">[ON COOLDOWN / 18 Hours]\n[$8632]  /  +50%[$12948]  /  +75%[$15106]  /  +100%[$17264]\n \nIn this region of Sinnoh, there are seven other Gym Leaders.\nI should warn you--they're a lot tougher than I am!</string>
 
         <!--Gardenia-->
             <string block_id="0" entry_id="0" table_id="87">[$8736]  /  +50%[$13104]  /  +75%[$15288]  /  +100%[$17472]\n \nYou kept me waiting! I'm Eterna's Gym Leader, Gardenia,\nthe Grass-type master! When I first saw you, I was convinced\nyou'd find your way to me. My hunch was right on the money.\nYou have a winning aura about you. So, anyway, this will be fun.\nLet's have our battle!\n\n</string>
         <!--Gardenia End Battle-->
             <string block_id="0" entry_id="1227" table_id="617">\n\n</string>
         <!--Gardenia on Cooldown-->
-            <string block_id="0" entry_id="5" table_id="87">[ON COOLDOWN]\n[$8736]  /  +50%[$13104]  /  +75%[$15288]  /  +100%[$17472]\n \nYup! If there's one thing I can tell about you, it's this! You and\nyour Pokémon are gonna get even tougher, and I mean seriously!</string>
+            <string block_id="0" entry_id="5" table_id="87">[ON COOLDOWN / 18 Hours]\n[$8736]  /  +50%[$13104]  /  +75%[$15288]  /  +100%[$17472]\n \nYup! If there's one thing I can tell about you, it's this! You and\nyour Pokémon are gonna get even tougher, and I mean seriously!</string>
 
         <!--Fantina-->
             <string block_id="0" entry_id="0" table_id="109">[$8840]  /  +50%[$13260]  /  +75%[$15470]  /  +100%[$17680]\n \nOhohoho!! Finally, you have arrived!\nSince I came to this country, always I try to learn new things.\nThey hold Contests in this city? I say to myself, enfin, I will excel.\nThat is why I dress this way. C'est une performance!\nAlso, I study Pokémon very much. I have come to be Gym Leader.\nAnd, uh, so it shall be that you challenge me.\nBut I shall win. That is what a Gym Leader does, non?\n\n</string>
         <!--Fantina End Battle-->
             <string block_id="0" entry_id="1290" table_id="617">\n\n</string>
         <!--Fantina on Cooldown-->
-            <string block_id="0" entry_id="5" table_id="109">[ON COOLDOWN]\n[$8840]  /  +50%[$13260]  /  +75%[$15470]  /  +100%[$17680]\n \nThree Gym Badges... But you must not forget this.\nThere are many other Trainers. Strong Trainers, too.\nThere are many more in Sinnoh. Have patience!\nYou must become stronger, one at a time.</string>
+            <string block_id="0" entry_id="5" table_id="109">[ON COOLDOWN / 18 Hours]\n[$8840]  /  +50%[$13260]  /  +75%[$15470]  /  +100%[$17680]\n \nThree Gym Badges... But you must not forget this.\nThere are many other Trainers. Strong Trainers, too.\nThere are many more in Sinnoh. Have patience!\nYou must become stronger, one at a time.</string>
 
         <!--Maylene-->
             <string block_id="0" entry_id="0" table_id="144">[$8944]  /  +50%[$13416]  /  +75%[$15652]  /  +100%[$17888]\n \nHello. I'm pleased to meet you. I'm Maylene, and I'm\nthe Gym Leader. I don't really know what it means to be\nstrong, or how I got to be the Gym Leader. But I will do the\nbest I can as the Gym Leader. I take battling very seriously.\nWhenever you're ready!\n\n</string>
         <!--Maylene End Battle-->
             <string block_id="0" entry_id="1275" table_id="617">\n\n</string>
         <!--Maylene on Cooldown-->
-            <string block_id="0" entry_id="5" table_id="144">[ON COOLDOWN]\n[$8944]  /  +50%[$13416]  /  +75%[$15652]  /  +100%[$17888]\n \nGee, I'm hungry... Oh, sorry, it's nothing. I didn't say anything.\n{00}, I can't explain what it means to be strong.\nI don't know how much effort goes into being strong... But\nbeing with Pokémon lets us keep making the effort, doesn't it?</string>
+            <string block_id="0" entry_id="5" table_id="144">[ON COOLDOWN / 18 Hours]\n[$8944]  /  +50%[$13416]  /  +75%[$15652]  /  +100%[$17888]\n \nGee, I'm hungry... Oh, sorry, it's nothing. I didn't say anything.\n{00}, I can't explain what it means to be strong.\nI don't know how much effort goes into being strong... But\nbeing with Pokémon lets us keep making the effort, doesn't it?</string>
 
         <!--Crasher Wake-->
             <string block_id="0" entry_id="0" table_id="133">[$9048]  /  +50%[$13572]  /  +75%[$15834]  /  +100%[$18096]\n \nWelcome! I don't get challenged very often!\nThe glory you are now beholding is the Pastoria Gym Leader!\nThat's right, I'm Crasher Wake! My Pokémon were toughened\nup by stormy white waters! They'll take everything you can\nthrow at them and then pull you under! Victory will be ours!\nCome on, let's get it done!\n\n</string>
         <!--Crasher Wake End Battle-->
             <string block_id="0" entry_id="1242" table_id="617">\n\n</string>
         <!--Crasher Wake on Cooldown-->
-            <string block_id="0" entry_id="5" table_id="133">[ON COOLDOWN]\n[$9048]  /  +50%[$13572]  /  +75%[$15834]  /  +100%[$18096]\n \nThe styles of battling and winning are as widely varied as\nTrainers are. Do you want to know how I battle? I battle so\nI can say I had fun at the end, whether I win or lose!</string>
+            <string block_id="0" entry_id="5" table_id="133">[ON COOLDOWN / 18 Hours]\n[$9048]  /  +50%[$13572]  /  +75%[$15834]  /  +100%[$18096]\n \nThe styles of battling and winning are as widely varied as\nTrainers are. Do you want to know how I battle? I battle so\nI can say I had fun at the end, whether I win or lose!</string>
 
         <!--Byron-->
             <string block_id="0" entry_id="0" table_id="56">[$9152]  /  +50%[$13728]  /  +75%[$16016]  /  +100%[$18304]\n \nAh! That's Oreburgh's Gym Badge! I see, I see! You've defeated\nmy son. But that's no surprise. He still has much to learn.\nIn place of my son Roark, I, Byron, will take your challenge!\n\n</string>
         <!--Byron End Battle-->
             <string block_id="0" entry_id="1163" table_id="617">\n\n</string>
         <!--Byron on Cooldown-->
-            <string block_id="0" entry_id="5" table_id="56">[ON COOLDOWN]\n[$9152]  /  +50%[$13728]  /  +75%[$16016]  /  +100%[$18304]\n \nGwahahahaha! The Sinnoh region is vast! Tough Trainers like you\nand {01} crop up constantly to challenge the old guard! With\nmore young Trainers like my son and you two taking charge, the\nfuture of Pokémon is bright! But I'm not stepping aside just yet!\nI merely need to rededicate myself to training on Iron Island.</string>
+            <string block_id="0" entry_id="5" table_id="56">[ON COOLDOWN / 18 Hours]\n[$9152]  /  +50%[$13728]  /  +75%[$16016]  /  +100%[$18304]\n \nGwahahahaha! The Sinnoh region is vast! Tough Trainers like you\nand {01} crop up constantly to challenge the old guard! With\nmore young Trainers like my son and you two taking charge, the\nfuture of Pokémon is bright! But I'm not stepping aside just yet!\nI merely need to rededicate myself to training on Iron Island.</string>
 
         <!--Candice Battle-->
             <string block_id="0" entry_id="0" table_id="178">[$9256]  /  +50%[$13884]  /  +75%[$16198]  /  +100%[$18512]\n \nYou want to challenge Candice? Sure thing! I was waiting for\nsomeone tough! But I should tell you, I'm tough because I know\nhow to focus. Pokémon, fashion, romance... It's all about focus!\nI'll show you just what I mean. Get ready to lose!\n\n</string>
         <!--Candice End Battle-->
             <string block_id="0" entry_id="1317" table_id="617">\n\n</string>
         <!--Candice on Cooldown-->
-            <string block_id="0" entry_id="5" table_id="178">[ON COOLDOWN]\n[$9256]  /  +50%[$13884]  /  +75%[$16198]  /  +100%[$18512]\n \nDo you think I should try to act more like an Ice-type Gym Leader?\nLike, do you think I should be more cool and distant?\nThat sort of thing I have trouble with.</string>
+            <string block_id="0" entry_id="5" table_id="178">[ON COOLDOWN / 18 Hours]\n[$9256]  /  +50%[$13884]  /  +75%[$16198]  /  +100%[$18512]\n \nDo you think I should try to act more like an Ice-type Gym Leader?\nLike, do you think I should be more cool and distant?\nThat sort of thing I have trouble with.</string>
 
         <!--Volkner Battle-->
             <string block_id="0" entry_id="0" table_id="165">[$9360]  /  +50%[$14040]  /  +75%[$16380]  /  +100%[$18720]\n \n...All right, challenger. It's not often, but some Trainers\nmanage to come and challenge me. But they've all been boring\nbattles. I didn't break a sweat beating them....Sigh... I'm Volkner,\nthe Gym Leader. They say I'm the top Gym Leader in Sinnoh, but...\nAnyway, I guess we'd better get this done. I hope you're the\nTrainer who'll make me remember how fun it is to battle!\n\n</string>
         <!--Volkner End Battle-->
             <string block_id="0" entry_id="1339" table_id="617">\n\n</string>
         <!--Volkner on Cooldown-->
-            <string block_id="0" entry_id="5" table_id="165">[ON COOLDOWN]\n[$9360]  /  +50%[$14040]  /  +75%[$16380]  /  +100%[$18720]\n \nYour next step is the Pokémon League challenge. It's time for\nyou to cross the sea and win your way through the gauntlet that\nis Victory Road. Demonstrate to the Pokémon League your\nmastery of your team. Against you, even the Elite Four will be\npushed to fend off your challenge!</string>
+            <string block_id="0" entry_id="5" table_id="165">[ON COOLDOWN / 18 Hours]\n[$9360]  /  +50%[$14040]  /  +75%[$16380]  /  +100%[$18720]\n \nYour next step is the Pokémon League challenge. It's time for\nyou to cross the sea and win your way through the gauntlet that\nis Victory Road. Demonstrate to the Pokémon League your\nmastery of your team. Against you, even the Elite Four will be\npushed to fend off your challenge!</string>
 
     <!--Elite Four-->
         <!--Door Guard-->

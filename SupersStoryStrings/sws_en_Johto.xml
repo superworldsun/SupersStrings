@@ -42,35 +42,35 @@
         <!--Falkner End Battle-->
             <string block_id="0" entry_id="85" table_id="728">\n\n</string>
         <!--Falkner on Cooldown-->
-            <string block_id="0" entry_id="5" table_id="558">[ON COOLDOWN]\n[$8632]  /  +50%[$12948]  /  +75%[$15106]  /  +100%[$17264]\n \nFalkner: There are Pokémon Gyms in cities and towns ahead.\nYou should test your skills at these Gyms. As for your next\nmove... I would suggest Azalea Town. I'm going to train harder\nto become the greatest Bird Keeper of all!</string>
+            <string block_id="0" entry_id="5" table_id="558">[ON COOLDOWN / 18 Hours]\n[$8632]  /  +50%[$12948]  /  +75%[$15106]  /  +100%[$17264]\n \nFalkner: There are Pokémon Gyms in cities and towns ahead.\nYou should test your skills at these Gyms. As for your next\nmove... I would suggest Azalea Town. I'm going to train harder\nto become the greatest Bird Keeper of all!</string>
 
         <!--Bugsy Battle-->
             <string block_id="0" entry_id="0" table_id="567">[$8736]  /  +50%[$13104]  /  +75%[$15288]  /  +100%[$17472]\n \nBugsy: I'm Bugsy! I never lose when it comes to Bug-type\nPokémon. My research is going to make me the authority on\nBug-type Pokémon! Let me demonstrate what I've learned\nfrom my studies.\n\n</string>
         <!--Bugsy End Battle-->
             <string block_id="0" entry_id="88" table_id="728">\n\n</string>
         <!--Bugsy on Cooldown-->
-            <string block_id="0" entry_id="6" table_id="567">[ON COOLDOWN]\n[$8736]  /  +50%[$13104]  /  +75%[$15288]  /  +100%[$17472]\n \nBugsy: Bug-type Pokémon are deep. There are many mysteries\nto explore. Study your top choices thoroughly.</string>
+            <string block_id="0" entry_id="6" table_id="567">[ON COOLDOWN / 18 Hours]\n[$8736]  /  +50%[$13104]  /  +75%[$15288]  /  +100%[$17472]\n \nBugsy: Bug-type Pokémon are deep. There are many mysteries\nto explore. Study your top choices thoroughly.</string>
 
         <!--Whitney Battle-->
             <string block_id="0" entry_id="0" table_id="582">[$8840]  /  +50%[$13260]  /  +75%[$15470]  /  +100%[$17680]\n \nWhitney: Hi! I'm Whitney!...You!I saw you at the Radio Tower just\nnow. Everyone was into Pokémon, so I got into it, too! Pokémon\nare super cute! You want to battle? I'm warning you--I'm good!\n\n</string>
         <!--Whitney End Battle-->
             <string block_id="0" entry_id="91" table_id="728">\n\n</string>
         <!--Whitney on Cooldown-->
-            <string block_id="0" entry_id="8" table_id="582">[ON COOLDOWN]\n[$8840]  /  +50%[$13260]  /  +75%[$15470]  /  +100%[$17680]\n \nWhitney: Ah, that was a good cry! Come for a visit again! Bye-bye!</string>
+            <string block_id="0" entry_id="8" table_id="582">[ON COOLDOWN / 18 Hours]\n[$8840]  /  +50%[$13260]  /  +75%[$15470]  /  +100%[$17680]\n \nWhitney: Ah, that was a good cry! Come for a visit again! Bye-bye!</string>
 
         <!--Morty Battle-->
             <string block_id="0" entry_id="0" table_id="614">[$8944]  /  +50%[$13416]  /  +75%[$15652]  /  +100%[$17888]\n \nMorty: It's good of you to have come. Here in Ecruteak, Pokémon\nhave long been revered. It's said that a rainbow-hued Pokémon\nwill come down to appear before a truly powerful Trainer.\nI believed that tale, so I have secretly trained here all my life. As\na result, I can now see what others cannot. I see a shadow of the\nperson who will make the Pokémon appear. I believe that person\nis me! You're going to help me reach that level!\n\n</string>
         <!--Morty End Battle-->
             <string block_id="0" entry_id="94" table_id="728">\n\n</string>
         <!--Morty on Cooldown-->
-            <string block_id="0" entry_id="6" table_id="614">[ON COOLDOWN]\n[$8944]  /  +50%[$13416]  /  +75%[$15652]  /  +100%[$17888]\n \nMorty: I get it... The person the Kimono Girls were talking about\nmust be you... Never mind. You should be strong enough to go\nacross the sea. When you go west and then south, you'll reach\nOlivine City. Why don't you head for it?</string>
+            <string block_id="0" entry_id="6" table_id="614">[ON COOLDOWN / 18 Hours]\n[$8944]  /  +50%[$13416]  /  +75%[$15652]  /  +100%[$17888]\n \nMorty: I get it... The person the Kimono Girls were talking about\nmust be you... Never mind. You should be strong enough to go\nacross the sea. When you go west and then south, you'll reach\nOlivine City. Why don't you head for it?</string>
 
         <!--Chuck Battle-->
             <string block_id="0" entry_id="0" table_id="574">[$9048]  /  +50%[$13572]  /  +75%[$15834]  /  +100%[$18096]\n \nChuck: Ooomph! The pounding waterfall right onto my head...\nArrgh! Why did you stop the waterfall from pouring on me! You\njust spoiled my training! I have to warn you that I am a strong\nTrainer training every day under this waterfall! What? It has\nnothing to do with Pokémon?...That's true!......Come on.\nWe shall do battle!\n\n</string>
         <!--Chuck End Battle-->
             <string block_id="0" entry_id="100" table_id="728">\n\n</string>
         <!--Chuck on Cooldown-->
-            <string block_id="0" entry_id="8" table_id="574">[ON COOLDOWN]\n[$9048]  /  +50%[$13572]  /  +75%[$15834]  /  +100%[$18096]\n \nChuck: Wahahah! I enjoyed battling you! But a loss is a loss!\nFrom now on, I'm going to train 24 hours a day!</string>
+            <string block_id="0" entry_id="8" table_id="574">[ON COOLDOWN / 18 Hours]\n[$9048]  /  +50%[$13572]  /  +75%[$15834]  /  +100%[$18096]\n \nChuck: Wahahah! I enjoyed battling you! But a loss is a loss!\nFrom now on, I'm going to train 24 hours a day!</string>
         <!--Chuck in waterfall-->
             <string block_id="0" entry_id="9" table_id="574">[$9048]  /  +50%[$13572]  /  +75%[$15834]  /  +100%[$18096]\n \nHe's so into his training, he doesn't seem to notice you.</string>
 
@@ -80,14 +80,14 @@
         <!--Jasmine End Battle-->
             <string block_id="0" entry_id="97" table_id="728">\n\n</string>
         <!--Jasmine on Cooldown-->
-            <string block_id="0" entry_id="6" table_id="606">[ON COOLDOWN]\n[$9152]  /  +50%[$13728]  /  +75%[$16016]  /  +100%[$18304]\n \nJasmine: Um... I don't know how to say this, but good luck...</string>
+            <string block_id="0" entry_id="6" table_id="606">[ON COOLDOWN / 18 Hours]\n[$9152]  /  +50%[$13728]  /  +75%[$16016]  /  +100%[$18304]\n \nJasmine: Um... I don't know how to say this, but good luck...</string>
 
         <!--Pryce Battle-->
             <string block_id="0" entry_id="0" table_id="622">[$9256]  /  +50%[$13884]  /  +75%[$16198]  /  +100%[$18512]\n \nPryce: Pokémon have many experiences in their lives, just like\nwe do. I, too, have seen and suffered much in my life. Since I am \nyour elder, let me show you what I mean. I have been training\nPokémon since before you were born. I do not lose easily. I,\nPryce--the Winter Trainer--shall demonstrate my power!\n\n</string>
         <!--Pryce End Battle-->
             <string block_id="0" entry_id="103" table_id="728">\n\n</string>
         <!--Pryce on Cooldown-->
-            <string block_id="0" entry_id="6" table_id="622">[ON COOLDOWN]\n[$9256]  /  +50%[$13884]  /  +75%[$16198]  /  +100%[$18512]\n \nPryce: It is you... Since you are here,\nwhy don't we take a picture together?</string>
+            <string block_id="0" entry_id="6" table_id="622">[ON COOLDOWN / 18 Hours]\n[$9256]  /  +50%[$13884]  /  +75%[$16198]  /  +100%[$18512]\n \nPryce: It is you... Since you are here,\nwhy don't we take a picture together?</string>
             <string block_id="0" entry_id="10" table_id="622">Your Photo Album is full.\nAccess your PC to delete some pictures.</string>
             <string block_id="0" entry_id="9" table_id="622">Pryce: That's OK, too. Suit yourself.</string>
 
@@ -96,7 +96,7 @@
         <!--Clair End Battle-->
             <string block_id="0" entry_id="106" table_id="728">\n\n</string>
         <!--Clair on Cooldown-->
-            <string block_id="0" entry_id="9" table_id="631">[ON COOLDOWN]\n[$9360]  /  +50%[$14040]  /  +75%[$16380]  /  +100%[$18720]\n \nClair: What's the matter? Aren't you headed to the Pokémon\nLeague? Your face...it tells me you have some unfinished\nbusiness... Wait a sec! You came from New Bark Town where\nProfessor Elm's Lab is, right? You may want to go back to\nNew Bark Town. Whatever you have to face from now, it'll be\nmore difficult. But don't you dare give up! If you do, I'll feel\neven worse about having lost to you!...Give it your all.</string>
+            <string block_id="0" entry_id="9" table_id="631">[ON COOLDOWN / 18 Hours]\n[$9360]  /  +50%[$14040]  /  +75%[$16380]  /  +100%[$18720]\n \nClair: What's the matter? Aren't you headed to the Pokémon\nLeague? Your face...it tells me you have some unfinished\nbusiness... Wait a sec! You came from New Bark Town where\nProfessor Elm's Lab is, right? You may want to go back to\nNew Bark Town. Whatever you have to face from now, it'll be\nmore difficult. But don't you dare give up! If you do, I'll feel\neven worse about having lost to you!...Give it your all.</string>
 
     <!--Elite Four-->
         <!--Door Guard-->

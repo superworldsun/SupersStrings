@@ -24,56 +24,56 @@
         <!--Roxanne End Battle-->
             <string id="270613753">\n\n</string>
         <!--Roxanne on Cooldown-->
-            <string id="270612903">[ON COOLDOWN]\n[$8632]  /  +50%[$]  /  +75%[$]  /  +100%[$]\n \nSince you are so strong, you should challenge other GYM LEADERS.\nBy battling many TRAINERS, you should learn many things.</string>
+            <string id="270612903">[ON COOLDOWN / 18 Hours]\n[$8632]  /  +50%[$]  /  +75%[$]  /  +100%[$]\n \nSince you are so strong, you should challenge other GYM LEADERS.\nBy battling many TRAINERS, you should learn many things.</string>
 
         <!--Brawly Battle-->
             <string id="270521028">[$8736]  /  +50%[$13104]  /  +75%[$15288]  /  +100%[$17472]\n \nBRAWLY: A wave may draw back, but it always returns to\nthe shore. A giant wave of a talent like you...I knew you\nwould return! Show me how much higher you've gone!</string>
         <!--Brawly End Battle-->
             <string id="270521191">\n\n</string>
         <!--Brawly on Cooldown-->
-            <string id="270520845">[ON COOLDOWN]\n[$8736]  /  +50%[$13104]  /  +75%[$15288]  /  +100%[$17472]\n \nI can see your talent becoming a giant wave to cause a\nstorm of astonishment among TRAINERS one day!</string>
+            <string id="270520845">[ON COOLDOWN / 18 Hours]\n[$8736]  /  +50%[$13104]  /  +75%[$15288]  /  +100%[$17472]\n \nI can see your talent becoming a giant wave to cause a\nstorm of astonishment among TRAINERS one day!</string>
 
         <!--Wattson Battle-->
             <string id="270592423">[$8840]  /  +50%[$13260]  /  +75%[$15470]  /  +100%[$17680]\n \nWATTSON: Ah-ha! Here at last! I know what you want.\nYou want to battle my POKéMON! Wahahahaha!\nI'll make sparks fly from you! Don't say I didn't warn you!</string>
         <!--Wattson End Battle-->
             <string id="270592578">\n\n</string>
         <!--Wattson on Cooldown-->
-            <string id="270592293">[ON COOLDOWN]\n[$8840]  /  +50%[$13260]  /  +75%[$15470]  /  +100%[$17680]\n \nWahahahah! Go forth and endeavor, youngster!</string>
+            <string id="270592293">[ON COOLDOWN / 18 Hours]\n[$8840]  /  +50%[$13260]  /  +75%[$15470]  /  +100%[$17680]\n \nWahahahah! Go forth and endeavor, youngster!</string>
 
         <!--Flannery Battle-->
             <string id="270530049">[$8944]  /  +50%[$13416]  /  +75%[$15652]  /  +100%[$17888]\n \nFLANNERY: Losing a battle isn't going to deflate me.\nI love POKéMON. I love to battle. And... I love this GYM!\nLet's exchange superhot moves in another battle!</string>
         <!--Flannery End Battle-->
             <string id="270530207">\n\n</string>
         <!--Flannery on Cooldown-->
-            <string id="270529862">[ON COOLDOWN]\n[$8944]  /  +50%[$13416]  /  +75%[$15652]  /  +100%[$17888]\n \nYour power reminds me of someone... Oh! I know! You battle\nlike NORMAN, the GYM LEADER of PETALBURG.</string>
+            <string id="270529862">[ON COOLDOWN / 18 Hours]\n[$8944]  /  +50%[$13416]  /  +75%[$15652]  /  +100%[$17888]\n \nYour power reminds me of someone... Oh! I know! You battle\nlike NORMAN, the GYM LEADER of PETALBURG.</string>
 
         <!--Norman Battle-->
             <string id="270562466">[$9048]  /  +50%[$13572]  /  +75%[$15834]  /  +100%[$18096]\n \nDAD: {01}...\nI had a feeling that you would come. I would never refuse to\naccept a challenge from you. You do understand, don't you?\nInside a GYM, it doesn't matter that we are a parent and child.\n...No, because we are parent and child, we owe it to each other\nto do the best we can. Isn't that right, {01}?</string>
         <!--Norman End Battle-->
             <string id="270562766">\n\n</string>
         <!--Norman on Cooldown-->
-            <string id="270562807">[ON COOLDOWN]\n[$9048]  /  +50%[$13572]  /  +75%[$15834]  /  +100%[$18096]\n \nDAD: {01}...\nWhat is your dream? My dream... Hahaha...\nIt has already come true, actually.</string>
+            <string id="270562807">[ON COOLDOWN / 18 Hours]\n[$9048]  /  +50%[$13572]  /  +75%[$15834]  /  +100%[$18096]\n \nDAD: {01}...\nWhat is your dream? My dream... Hahaha...\nIt has already come true, actually.</string>
 
         <!--Winona Battle-->
             <string id="270627072">[$9152]  /  +50%[$13728]  /  +75%[$16016]  /  +100%[$18304]\n \nWINONA: We humans can never escape gravity's pull on the\nground. But by striving for excellence, we have the power\nto soar! You have scaled the pinnacle as the reigning\nCHAMPION. Please, allow me to see your power at full flight!</string>
         <!--Winona End Battle-->
             <string id="270627302">\n\n</string>
         <!--Winona on Cooldown-->
-            <string id="270626929">[ON COOLDOWN]\n[$9152]  /  +50%[$13728]  /  +75%[$16016]  /  +100%[$18304]\n \nThough I fell to you, I will remain devoted to BIRD POKéMON.</string>
+            <string id="270626929">[ON COOLDOWN / 18 Hours]\n[$9152]  /  +50%[$13728]  /  +75%[$16016]  /  +100%[$18304]\n \nThough I fell to you, I will remain devoted to BIRD POKéMON.</string>
 
         <!--Tate & Liza Battle-->
             <string id="270671115">[$9256]  /  +50%[$13884]  /  +75%[$16198]  /  +100%[$18512]\n \nTATE: POKéMON... LIZA: POKéMON...\nTATE: By changing the party's mix...\nLIZA: The battle style changes.\nTATE: But me... LIZA: But me...\nTATE: I'll always be with LIZA!\nLIZA: I'll always be with TATE!\nTATE: Our combination...\nLIZA: We'll show you again and again!</string>
         <!--Tate & Liza End Battle-->
             <string id="270671365">\n\n</string>
         <!--Tate & Liza on Cooldown-->
-            <string id="270670621">[ON COOLDOWN]\n[$9256]  /  +50%[$13884]  /  +75%[$16198]  /  +100%[$18512]\n \nTATE: Looks like the bond between you and your POKéMON\nis far stronger than the bond that we share as twins.\nLIZA: You will become even stronger!\nWe've battled you, so we know.</string>
+            <string id="270670621">[ON COOLDOWN / 18 Hours]\n[$9256]  /  +50%[$13884]  /  +75%[$16198]  /  +100%[$18512]\n \nTATE: Looks like the bond between you and your POKéMON\nis far stronger than the bond that we share as twins.\nLIZA: You will become even stronger!\nWe've battled you, so we know.</string>
 
         <!--Juan Battle-->
             <string id="270686544">[$9360]  /  +50%[$14040]  /  +75%[$16380]  /  +100%[$18720]\n \nJUAN: Ah, this GYM had returned to its usual state of serenity...\nBut our young typhoon has returned to put us to the test again!\nWell, my friend, most certainly! I shall be delighted to dance\nwith you as often as you wish!</string>
         <!--Juan End Battle-->
             <string id="270686766">\n\n</string>
         <!--Juan on Cooldown-->
-            <string id="270686072">[ON COOLDOWN]\n[$9360]  /  +50%[$14040]  /  +75%[$16380]  /  +100%[$18720]\n \nThe TRAINERS who have gathered all the GYM BADGES of HOENN\nshould make way to the ultimate destination. The POKéMON\nLEAGUE. Travel to the easternmost reaches of HOENN, to the\nisland EVER GRANDE. There, you shall find the POKéMON\nLEAGUE.</string>
+            <string id="270686072">[ON COOLDOWN / 18 Hours]\n[$9360]  /  +50%[$14040]  /  +75%[$16380]  /  +100%[$18720]\n \nThe TRAINERS who have gathered all the GYM BADGES of HOENN\nshould make way to the ultimate destination. The POKéMON\nLEAGUE. Travel to the easternmost reaches of HOENN, to the\nisland EVER GRANDE. There, you shall find the POKéMON\nLEAGUE.</string>
 
     <!--Elite Four-->
         <!--Door Guard-->

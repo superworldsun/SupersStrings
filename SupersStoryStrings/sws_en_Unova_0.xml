@@ -44,6 +44,11 @@
         <!--Alder lost Battle-->
             <string block_id="0" entry_id="1761" table_id="189">\n\n</string>
 
+        <!--Morimoto-->
+            <string block_id="0" entry_id="1342" table_id="189">\n\n</string>
+        <!--Cnythia-->
+            <string block_id="0" entry_id="1599" table_id="189">\n\n</string>
+
     <!--PokeDex Weight-->
     <string block_id="0" entry_id="0" table_id="268">????.? lbs.</string>
     <string block_id="0" entry_id="1" table_id="268">15.2 lbs.　　　Catch rate: 45</string>

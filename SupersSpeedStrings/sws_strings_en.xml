@@ -17,17 +17,20 @@
     <!--Main menu logins-->
     <string id="1000">▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔\n\n\n\n\n[ LOGIN ]\n\n\n\n\n▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁</string>
     <string id="1003">▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔\n\n\n\n\nLogging in...\n\n\n\n\n▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁</string>
-    <!--PC Buttons-->
+    <!--PC Buttons & Other-->
     <string id="2351">\n[ {01}'s PC ]\n</string>
     <string id="2352">\n[ Global Trade Link ]\n</string>
     <string id="2353">[ Mail ]</string>
     <string id="53">[ Cancel ]</string>
     <string id="54">[ Save ]</string>
+    <string id="1410">▔▔▔▔▔▔▔▔▔▔▔\n[ Use ]\n▁▁▁▁▁▁▁▁▁▁▁</string>
     <string id="60">▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔\n\n[ Accept ]\n\n▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁</string>
     <string id="63">▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔\n[ Reject ]\n▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁</string>
     <string id="203">▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔\n[ Accept Trade Request ]\n▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁</string>
     <string id="204">▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔\n[ Reject Trade Request ]\n▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁</string>
     <string id="1902">▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔\n[ Change ]\n▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁</string>
+    <string id="8118">▔▔▔▔\n[ Max ]\n▁▁▁▁</string>
+    <string id="49">▔▔▔▔\n[ All ]\n▁▁▁▁</string>
 
     <!--Hoenn Secret Base (No Secret Power)-->
     <string id="270776032">A small crevice is seen on the wall.\nA {STRING_110290} may allow you to break it open.</string>
@@ -634,12 +637,12 @@
 
     <string id="101714">&#xE;&#xA257;Mysterious Poké Ball (2023)</string>
     <string id="101716">&#xE;&#xA258;Mysterious Great Ball (2023)</string>
-    <string id="101718">&#xE;&#xA259;Mysterious Ultra Ball</string>
+    <string id="101718">&#xE;&#xA259;Mysterious Ultra Ball (2023)</string>
     <string id="101720">&#xE;&#xA260;Mysterious Premier Ball (2023)</string>
 
     <string id="101668">&#xE;&#xA261;Mysterious Poké Ball (2022)</string>
     <string id="101672">&#xE;&#xA262;Mysterious Great Ball (2022)</string>
-    <string id="101674">&#xE;&#xA263;Mysterious Ultra Ball</string>
+    <string id="101674">&#xE;&#xA263;Mysterious Ultra Ball (2022)</string>
     <string id="101676">&#xE;&#xA264;Mysterious Premier Ball (2022)</string>
 
                 <!--Sealed/Event Items-->
@@ -776,10 +779,10 @@
     <string id="101742">&#xA007;Werewolf Cookie</string>
 
                 <!--Revival Items-->
-    <string id="245044">&#xA050;Sacred Ash (Revive)</string>
-    <string id="245029">&#xA051;Max Revive (Revive)</string>
-    <string id="245028">&#xA052;Revive (Revive)</string>
-    <string id="245037">&#xA053;Revival Herb (Revive)</string>
+    <string id="245029">&#xA050;Max Revive (Revive)</string>
+    <string id="245028">&#xA051;Revive (Revive)</string>
+    <string id="245037">&#xA052;Revival Herb (Revive)</string>
+    <string id="245044">&#xA053;Sacred Ash (Revive)</string>
 
                 <!--HP Healing Items-->
     <string id="245023">&#xA100;Full Restore (HP)(Status)</string>
@@ -1000,15 +1003,15 @@
     <string id="100067">&#xA075;Very Sour Seed</string>
 
     <!--PokeBlocks-->
-    <string id="270600">&#xA076;RED POKéBLOCK</string>
+    <string id="270600">&#xA076;RED POKéBLOCK (Cool)</string>
     <string id="101212">&#xA077;{STRING_270600} Plus</string>
-    <string id="270601">&#xA078;BLUE POKéBLOCK</string>
+    <string id="270601">&#xA078;BLUE POKéBLOCK (Beauty)</string>
     <string id="101214">&#xA079;{STRING_270601} Plus</string>
-    <string id="270602">&#xA080;PINK POKéBLOCK</string>
+    <string id="270602">&#xA080;PINK POKéBLOCK (Cute)</string>
     <string id="101216">&#xA081;{STRING_270602} Plus</string>
-    <string id="270603">&#xA082;GREEN POKéBLOCK</string>
+    <string id="270603">&#xA082;GREEN POKéBLOCK (Smart)</string>
     <string id="101218">&#xA083;{STRING_270603} Plus</string>
-    <string id="270604">&#xA084;YELLOW POKéBLOCK</string>
+    <string id="270604">&#xA084;YELLOW POKéBLOCK (Tough)</string>
     <string id="101220">&#xA085;{STRING_270604} Plus</string>
     <string id="270612">&#xA086;WHITE POKéBLOCK</string>
     <string id="101222">&#xA087;{STRING_270612} Plus</string>
@@ -1090,6 +1093,33 @@
             <string id="245450">&#xA000;Bicycle</string>
             <string id="245442">&#xA001;Town Map</string>
             <string id="245465">&#xA003;Vs. Recorder</string>
+
+    <!--    &lt;!&ndash;Cosmetics&ndash;&gt;-->
+    <!--        &lt;!&ndash;2015&ndash;&gt;-->
+    <!--            &lt;!&ndash;Hat&ndash;&gt;-->
+    <!--                <string id="21029">Knight Helmet</string>&lt;!&ndash;Limited&ndash;&gt;-->
+    <!--                <string id="21089">Ghost Costume</string>&lt;!&ndash;Limited&ndash;&gt;-->
+    <!--                <string id="21087">Jack-O-Lantern Mask</string>&lt;!&ndash;Limited&ndash;&gt;-->
+    <!--                <string id="21091">Santa's Little Helper Hat</string>&lt;!&ndash;Limited&ndash;&gt;-->
+    <!--                <string id="21090">Holly Hairclip</string>&lt;!&ndash;Limited&ndash;&gt;-->
+    <!--                <string id="21088">Vampire Fangs</string>&lt;!&ndash;Limited&ndash;&gt;-->
+    <!--            &lt;!&ndash;Shirt&ndash;&gt;-->
+    <!--                <string id="26013">Santa's Little Helper Outfit</string>&lt;!&ndash;Limited&ndash;&gt;-->
+    <!--            &lt;!&ndash;Back&ndash;&gt;-->
+    <!--                <string id="25010">Witch's Broomstick</string>&lt;!&ndash;Limited&ndash;&gt;-->
+    <!--                <string id="25011">Pumpkin Backpack</string>&lt;!&ndash;Limited&ndash;&gt;-->
+    <!--                <string id="25012">Candy Cane</string>&lt;!&ndash;Limited&ndash;&gt;-->
+    <!--        &lt;!&ndash;2014&ndash;&gt;-->
+    <!--            &lt;!&ndash;Hat&ndash;&gt;-->
+    <!--                <string id="21030">Kyu Hat</string>&lt;!&ndash;Limited&ndash;&gt;-->
+    <!--            &lt;!&ndash;Hair&ndash;&gt;-->
+    <!--                <string id="22042">THE ELECTRIC STORM</string>&lt;!&ndash;Limited&ndash;&gt;&lt;!&ndash;Colored&ndash;&gt;-->
+    <!--            &lt;!&ndash;Shirt&ndash;&gt;-->
+    <!--                <string id="26000">Desu's Lab Coat (Colour)</string>&lt;!&ndash;Limited&ndash;&gt;-->
+    <!--                <string id="26011">Desu's Lab Coat</string>&lt;!&ndash;Limited&ndash;&gt;-->
+    <!--        &lt;!&ndash;2013&ndash;&gt;-->
+    <!--            &lt;!&ndash;Hat&ndash;&gt;-->
+    <!--                <string id="21064">Party Hat</string>-->
 
     <!--Natures-->
         <string id="180000">Hardy [-]</string>

@@ -3,6 +3,10 @@
     <!--=Credits to SuperWorldSun for all strings-->
     <!--=SupersStoryStrings Version-->
 
+    <!--Fishing-->
+        <string block_id="0" entry_id="3" table_id="263">{09}</string><!--Bite-->
+        <string block_id="0" entry_id="4" table_id="263">{09}</string><!--No Bite-->
+
     <!--HMs in Unova-->
     <string block_id="0" entry_id="0" table_id="280">{09}</string> <!--Use Cut?-->
     <string block_id="0" entry_id="1" table_id="280">{09}</string> <!--Cut Used!-->
@@ -18,6 +22,10 @@
     <string block_id="0" entry_id="31" table_id="280">{09}</string> <!--Use Dive?-->
     <string block_id="0" entry_id="32" table_id="280">{09}</string> <!--Dive Used!-->
     <string block_id="0" entry_id="30" table_id="280">Need HM-Dive!</string>
+    <!--These 3 are used in all regions-->
+    <string block_id="0" entry_id="27" table_id="280">{09}</string><!--Flash Used!-->
+    <string block_id="0" entry_id="28" table_id="280">{09}</string><!--Teleport Used!-->
+    <string block_id="0" entry_id="29" table_id="280">{09}</string><!--Dig Used!-->
 
 <!--Npcs-->
     <!--Gyms-->
@@ -189,25 +197,24 @@
     <!--Morimoto Lost/cooldown-->
         <string block_id="0" entry_id="11" table_id="53">[ON COOLDOWN / 18 Hours]\n[$15660]  /  +50%[$23490]  /  +75%[27405]  /  +100%[31320]\n \nYou think about battles very thoroughly.\nI lost, but I learned a lot from you.\nBesides, it was fun! Come back again tomorrow.</string>
 
-
     <!--Nurse Joy-->
-    <string block_id="0" entry_id="1" table_id="346">Good morning! Welcome to the Pokémon Center.\nWe restore your tired Pokémonto full health.\nWould you like to rest your Pokémon?</string> <!--Morning Healing from NJ-->
-    <string block_id="0" entry_id="2" table_id="346">Hello, and welcome to the Pokémon Center.\nWe restore your tired Pokémon to full health.\nWould you like to rest your Pokémon?</string>
+    <string block_id="0" entry_id="1" table_id="346">{09}</string> <!--Morning Healing from NJ-->
+    <string block_id="0" entry_id="2" table_id="346">{09}</string>
 
-     <!--Healing from NJ-->
-    <string block_id="0" entry_id="0" table_id="346">Hello, and welcome to the Pokémon Center.\nWe restore your tired Pokémon to full health.\nWould you like to rest your Pokémon?</string>
+    <!--Healing from NJ-->
+    <string block_id="0" entry_id="0" table_id="346">{09}</string>
 
     <!--saying no...-->
-    <string block_id="0" entry_id="8" table_id="346">We hope to see you again!</string>
+    <string block_id="0" entry_id="8" table_id="346">{09}</string>
 
     <!--Waiting...-->
-    <string block_id="0" entry_id="6" table_id="346">OK, I'll take your Pokémon for a few seconds.</string>
+    <string block_id="0" entry_id="6" table_id="346">{09}</string>
 
     <!--Thanks for waiting-->
-    <string block_id="0" entry_id="7" table_id="346">Thank you for waiting.\nWe've restored your Pokémon to full health.</string>
+    <string block_id="0" entry_id="7" table_id="346">{09}</string>
 
     <!--After Heal-->
-    <string block_id="0" entry_id="8" table_id="346">We hope to see you again!</string>
+    <string block_id="0" entry_id="8" table_id="346">{09}</string>
 
     <!--Shop Npcs-->
     <string block_id="0" entry_id="0" table_id="424">{09}</string> <!--Shop Npc greeting-->

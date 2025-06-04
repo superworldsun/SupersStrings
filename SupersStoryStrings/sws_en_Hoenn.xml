@@ -240,16 +240,15 @@
                     <string id="270923770">Hello, this is the EXCHANGE SERVICE CORNER. We exchange\nthe Battle Points you have collected for lovely prizes.\nPlease choose a prize from this list.</string>
                     <string id="270925586">Thank you very much.\nPlease visit us when you have saved up Battle Points.</string>
 
-
         <!--Nurse Joy-->
             <!--Healing from NJ-->
-                <string id="271001323">Hello, and welcome to the POKéMON CENTER.\nWe restore your tired POKéMON to full health.\nWould you like to rest your POKéMON?</string>
+                <string id="271001323">{09}</string>
             <!--Waiting...-->
-                <string id="271002048">Okay, I'll take your POKéMON for a few seconds.</string>
+                <string id="271002048">{09}</string>
             <!--Thanks for waiting-->
-                <string id="271001496">Thank you for waiting.\nWe've restored your POKéMON to full health.</string>
+                <string id="271001496">{09}</string>
             <!--Come again-->
-                <string id="271001563">We hope to see you again!</string>
+                <string id="271001563">{09}</string>
 
             <!--DayCare Lady (Route 117)-->
             <string id="271131380">I'm the DAY-CARE LADY. We can raise POKéMON for you.\nWould you like us to raise one?</string>

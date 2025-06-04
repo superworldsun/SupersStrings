@@ -779,7 +779,7 @@
     <string block_id="0" entry_id="241" table_id="268">166.4 lbs.   |   Catch rate: 45   |   0% M / 100% F\n\nWeak: Fighting 2x\nResist: Ghost 0x</string>
     <!--Blissey-->
     <string block_id="0" entry_id="242" table_id="245">4'11"   |   Growth: Fast   |   Base EXP: 635</string>
-    <string block_id="0" entry_id="242" table_id="268">103.2 lbs.   |   Catch rate: 30   |   50% M / 50% F\n\nWeak: Fighting 2x\nResist: Ghost 0x</string>
+    <string block_id="0" entry_id="242" table_id="268">103.2 lbs.   |   Catch rate: 30   |   0% M / 100% F\n\nWeak: Fighting 2x\nResist: Ghost 0x</string>
     <!--Raikou-->
     <string block_id="0" entry_id="243" table_id="245">6'03"   |   Growth: Slow   |   Base EXP: 261</string>
     <string block_id="0" entry_id="243" table_id="268">392.4 lbs.   |   Catch rate: 3   |   0% M / 0% F\n\nWeak: Ground x2\nResist: Electric x2 | Flying x2 | Steel x2</string>

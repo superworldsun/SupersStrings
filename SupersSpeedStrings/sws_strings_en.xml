@@ -5,19 +5,22 @@
 
     <!--Misc-->
     <string id="5019">☆Shiny {00}☆</string>
-
     <string id="6802">You have been disconnected from the game server\nfor being AFK.</string>
+
+    <!--Picking Berries-->
+    <string id="16780331">{09}</string>
 
     <!--Most yes or no buttons-->
     <string id="50">▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔\n\n\n[ Yes ]\n\n\n▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁</string>
     <string id="51">▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔\n[ No ]\n▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁</string>
-
     <string id="52">▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔\n\n[ OK ]\n\n▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁</string>
 
     <!--Main menu logins-->
     <string id="1000">▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔\n\n\n\n\n[ LOGIN ]\n\n\n\n\n▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁</string>
     <string id="1003">▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔\n\n\n\n\nLogging in...\n\n\n\n\n▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁</string>
+
     <!--PC Buttons & Other-->
+    <string id="2350">{09}</string><!--Opening PC-->
     <string id="2351">\n[ {01}'s PC ]\n</string>
     <string id="2352">\n[ Global Trade Link ]\n</string>
     <string id="2353">[ Mail ]</string>
@@ -31,6 +34,11 @@
     <string id="1902">▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔\n[ Change ]\n▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁</string>
     <string id="8118">▔▔▔▔\n[ Max ]\n▁▁▁▁</string>
     <string id="49">▔▔▔▔\n[ All ]\n▁▁▁▁</string>
+    <string id="5841">▔▔▔▔▔\n[ Clear ]\n▁▁▁▁▁</string>
+    <string id="5844">▔▔▔▔▔▔\n[ Reply\n▁▁▁▁▁▁</string>
+    <string id="5835">▔▔▔▔▔▔\n[ Read Mail ]\n▁▁▁▁▁▁</string>
+    <string id="5834">▔▔▔▔▔▔\n[ Send Mail ]\n▁▁▁▁▁▁</string>
+    <string id="5848">▔▔▔▔▔▔\n[ Sent Mail ]\n▁▁▁▁▁▁</string>
 
     <!--Hoenn Secret Base (No Secret Power)-->
     <string id="270776032">A small crevice is seen on the wall.\nA {STRING_110290} may allow you to break it open.</string>
@@ -921,70 +929,77 @@
     <string id="245001">&#xA022;Master Ball</string>
 
     <!--Berries Items-->
-    <string id="245149">&#xA000;Cheri Berry (Paralysis)</string>
-    <string id="245150">&#xA001;Chesto Berry (Sleep)</string>
-    <string id="245151">&#xA002;Pecha Berry (Poison)</string>
-    <string id="245152">&#xA003;Rawst Berry (Burn)</string>
-    <string id="245153">&#xA004;Aspear Berry (Frozen)</string>
-    <string id="245154">&#xA005;Leppa Berry (PP)</string>
-    <string id="245155">&#xA006;Oran Berry</string>
-    <string id="245156">&#xA007;Persim Berry (Confusion)</string>
-    <string id="245157">&#xA008;Lum Berry (Status)</string>
-    <string id="245158">&#xA009;Sitrus Berry</string>
-    <string id="245159">&#xA010;Figy Berry</string>
-    <string id="245160">&#xA011;Wiki Berry</string>
-    <string id="245161">&#xA012;Mago Berry</string>
-    <string id="245162">&#xA013;Aguav Berry</string>
-    <string id="245163">&#xA014;Iapapa Berry</string>
-    <string id="245164">&#xA015;Razz Berry</string>
-    <string id="245165">&#xA016;Bluk Berry</string>
-    <string id="245166">&#xA017;Nanab Berry</string>
-    <string id="245167">&#xA018;Wepear Berry</string>
-    <string id="245168">&#xA019;Pinap Berry</string>
-    <string id="245169">&#xA020;Pomeg Berry (HP)</string>
-    <string id="245170">&#xA021;Kelpsy Berry (ATK)</string>
-    <string id="245171">&#xA022;Qualot Berry (DEF)</string>
-    <string id="245172">&#xA023;Hondew Berry (Sp.ATK)</string>
-    <string id="245173">&#xA024;Grepa Berry (Sp.DEF)</string>
-    <string id="245174">&#xA025;Tamato Berry (SPEED)</string>
-    <string id="245175">&#xA026;Cornn Berry</string>
-    <string id="245176">&#xA027;Magost Berry</string>
-    <string id="245177">&#xA028;Rabuta Berry</string>
-    <string id="245178">&#xA029;Nomel Berry</string>
-    <string id="245179">&#xA030;Spelon Berry</string>
-    <string id="245180">&#xA031;Pamtre Berry</string>
-    <string id="245181">&#xA032;Watmel Berry</string>
-    <string id="245182">&#xA033;Durin Berry</string>
-    <string id="245183">&#xA034;Belue Berry</string>
-    <string id="245184">&#xA035;Occa Berry</string>
-    <string id="245185">&#xA036;Passho Berry</string>
-    <string id="245186">&#xA037;Wacan Berry</string>
-    <string id="245187">&#xA038;Rindo Berry</string>
-    <string id="245188">&#xA039;Yache Berry</string>
-    <string id="245189">&#xA040;Chople Berry</string>
-    <string id="245190">&#xA041;Kebia Berry</string>
-    <string id="245191">&#xA042;Shuca Berry</string>
-    <string id="245192">&#xA043;Coba Berry</string>
-    <string id="245193">&#xA044;Payapa Berry</string>
-    <string id="245194">&#xA045;Tanga Berry</string>
-    <string id="245195">&#xA046;Charti Berry</string>
-    <string id="245196">&#xA047;Kasib Berry</string>
-    <string id="245197">&#xA048;Haban Berry</string>
-    <string id="245198">&#xA049;Colbur Berry</string>
-    <string id="245199">&#xA050;Babiri Berry</string>
-    <string id="245200">&#xA051;Chilan Berry</string>
-    <string id="245201">&#xA052;Liechi Berry</string>
-    <string id="245202">&#xA053;Ganlon Berry</string>
-    <string id="245203">&#xA054;Salac Berry</string>
-    <string id="245204">&#xA055;Petaya Berry</string>
-    <string id="245205">&#xA056;Apicot Berry</string>
-    <string id="245206">&#xA057;Lansat Berry</string>
-    <string id="245207">&#xA058;Starf Berry</string>
-    <string id="245208">&#xA059;Enigma Berry</string>
-    <string id="245209">&#xA060;Micle Berry</string>
-    <string id="245210">&#xA061;Custap Berry</string>
-    <string id="245211">&#xA062;Jaboca Berry</string>
-    <string id="245212">&#xA063;Rowap Berry</string>
+        <!--Status-->
+        <string id="245149">&#xA000;Cheri Berry (Paralysis)</string>
+        <string id="245150">&#xA001;Chesto Berry (Sleep)</string>
+        <string id="245151">&#xA002;Pecha Berry (Poison)</string>
+        <string id="245152">&#xA003;Rawst Berry (Burn)</string>
+        <string id="245153">&#xA004;Aspear Berry (Frozen)</string>
+        <string id="245154">&#xA005;Leppa Berry (PP)</string>
+        <string id="245156">&#xA006;Persim Berry (Confusion)</string>
+        <string id="245157">&#xA007;Lum Berry (Status)</string>
+        <!--Healing-->
+        <string id="245155">&#xA008;Oran Berry (HP)</string>
+        <string id="245158">&#xA009;Sitrus Berry (HP)</string>
+        <string id="245208">&#xA010;Enigma Berry (HP)</string>
+        <string id="245159">&#xA011;Figy Berry (HP)</string>
+        <string id="245160">&#xA012;Wiki Berry (HP)</string>
+        <string id="245161">&#xA013;Mago Berry (HP)</string>
+        <string id="245162">&#xA014;Aguav Berry (HP)</string>
+        <string id="245163">&#xA015;Iapapa Berry (HP)</string>
+        <!--Super Effective Reducers-->
+        <string id="245184">&#xA016;Occa Berry (Fire)</string>
+        <string id="245185">&#xA017;Passho Berry (Water)</string>
+        <string id="245186">&#xA018;Wacan Berry (Electric)</string>
+        <string id="245187">&#xA019;Rindo Berry (Grass)</string>
+        <string id="245188">&#xA020;Yache Berry (Ice)</string>
+        <string id="245189">&#xA021;Chople Berry (Fighting)</string>
+        <string id="245190">&#xA022;Kebia Berry (Poison)</string>
+        <string id="245191">&#xA023;Shuca Berry (Ground)</string>
+        <string id="245192">&#xA024;Coba Berry (Flying)</string>
+        <string id="245193">&#xA025;Payapa Berry (Psychic)</string>
+        <string id="245194">&#xA026;Tanga Berry (Bug)</string>
+        <string id="245195">&#xA027;Charti Berry (Rock)</string>
+        <string id="245196">&#xA028;Kasib Berry (Ghost)</string>
+        <string id="245197">&#xA029;Haban Berry (Dragon)</string>
+        <string id="245198">&#xA030;Colbur Berry (Dark)</string>
+        <string id="245199">&#xA031;Babiri Berry (Steel)</string>
+        <string id="245200">&#xA032;Chilan Berry (Normal)</string>
+        <!--Stat boost-->
+        <string id="245201">&#xA033;Liechi Berry (+Atk)</string>
+        <string id="245202">&#xA034;Ganlon Berry (+Def)</string>
+        <string id="245203">&#xA035;Salac Berry (+Speed)</string>
+        <string id="245204">&#xA036;Petaya Berry (+Sp.Atk)</string>
+        <string id="245205">&#xA037;Apicot Berry (+Sp.Def)</string>
+        <string id="245206">&#xA038;Lansat Berry (+Crit)</string>
+        <string id="245207">&#xA039;Starf Berry (+Stat)</string>
+        <string id="245209">&#xA040;Micle Berry (+Accuracy)</string>
+        <string id="245210">&#xA041;Custap Berry (+Prio)</string>
+        <!--No u-->
+        <string id="245211">&#xA042;Jaboca Berry (Atk = Dmg)</string>
+        <string id="245212">&#xA043;Rowap Berry (SpAtk = Dmg)</string>
+        <!--EV Berries-->
+        <string id="245169">&#xA044;Pomeg Berry (HP)</string>
+        <string id="245170">&#xA045;Kelpsy Berry (ATK)</string>
+        <string id="245171">&#xA046;Qualot Berry (DEF)</string>
+        <string id="245172">&#xA047;Hondew Berry (Sp.ATK)</string>
+        <string id="245173">&#xA048;Grepa Berry (Sp.DEF)</string>
+        <string id="245174">&#xA049;Tamato Berry (SPEED)</string>
+        <!--Useless-->
+        <string id="245164">&#xA050;Razz Berry (Rare)</string>
+        <string id="245165">&#xA051;Bluk Berry (Rare)</string>
+        <string id="245166">&#xA052;Nanab Berry (Rare)</string>
+        <string id="245167">&#xA053;Wepear Berry (Rare)</string>
+        <string id="245168">&#xA054;Pinap Berry (Rare)</string>
+        <string id="245175">&#xA055;Cornn Berry (Rare)</string>
+        <string id="245176">&#xA056;Magost Berry (Rare)</string>
+        <string id="245177">&#xA057;Rabuta Berry (Rare)</string>
+        <string id="245178">&#xA058;Nomel Berry (Rare)</string>
+        <string id="245179">&#xA059;Spelon Berry (Rare)</string>
+        <string id="245180">&#xA060;Pamtre Berry (Rare)</string>
+        <string id="245181">&#xA061;Watmel Berry (Rare)</string>
+        <string id="245182">&#xA062;Durin Berry (Rare)</string>
+        <string id="245183">&#xA063;Belue Berry (Rare)</string>
 
     <!--Harvest tool-->
     <string id="100047">&#xA064;Unbreakable Harvesting Tool</string>

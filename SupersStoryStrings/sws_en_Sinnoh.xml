@@ -153,18 +153,18 @@
 
         <!--Nurse Joy-->
             <!--Healing from NJ-->
-                <string block_id="0" entry_id="0" table_id="213">Hello, and welcome to the Pokémon Center.\nWe restore your tired Pokémon to full health.\nWould you like to rest your Pokémon?</string>
-                <string block_id="0" entry_id="120" table_id="213">Good morning! Welcome to the Pokémon Center.\nWe restore your tired Pokémon to full health.\nWould you like to rest your Pokémon?</string>
-                <string block_id="0" entry_id="121" table_id="213">Hello, and welcome to the Pokémon Center.\nWe restore your tired Pokémon to full health.\nWould you like to rest your Pokémon?</string>
+                <string block_id="0" entry_id="0" table_id="213">{09}</string>
+                <string block_id="0" entry_id="120" table_id="213">{09}</string>
+                <string block_id="0" entry_id="121" table_id="213">{09}</string>
             <!--Waiting...-->
-                <string block_id="0" entry_id="1" table_id="213">OK, I'll take your Pokémon for a few seconds.</string>
+                <string block_id="0" entry_id="1" table_id="213">{09}</string>
             <!--Thanks for waiting-->
-                <string block_id="0" entry_id="2" table_id="213">Thank you for waiting.\nWe've restored your Pokémon to full health.</string>
+                <string block_id="0" entry_id="2" table_id="213">{09}</string>
             <!--After Heal-->
-                <string block_id="0" entry_id="3" table_id="213">We hope to see you again!</string>
+                <string block_id="0" entry_id="3" table_id="213">{09}</string>
 
         <!--Shop Npcs-->
-            <string block_id="0" entry_id="37" table_id="213">Welcome! What do you need?</string> <!--Shop Npc greeting-->
+            <string block_id="0" entry_id="37" table_id="213">{09}</string> <!--Shop Npc greeting-->
 
     <!--DayCare Lady-->
         <string block_id="0" entry_id="15" table_id="547">I'm the Day-Care Lady. We can raise Pokémon for you.\nWould you like us to raise your Pokémon?</string>

@@ -157,16 +157,16 @@
 
     <!--Nurse Joy-->
         <!--Healing from NJ-->
-        <string block_id="0" entry_id="83" table_id="40">Good morning! Welcome to the Pokémon Center.\nWe restore your tired Pokémon to full health.\nWould you like to rest your Pokémon? </string>
-        <string block_id="0" entry_id="0" table_id="40">Hello, and welcome to the Pokémon Center.\nWe restore your tired Pokémon to full health.\nWould you like to rest your Pokémon?</string>
-        <string block_id="0" entry_id="84" table_id="40">Hello, and welcome to the Pokémon Center.\nWe restore your tired Pokémon to full health.\nWould you like to rest your Pokémon? </string>
+        <string block_id="0" entry_id="83" table_id="40">{09}</string>
+        <string block_id="0" entry_id="0" table_id="40">{09}</string>
+        <string block_id="0" entry_id="84" table_id="40">{09}</string>
 
     <!--Waiting...-->
-            <string block_id="0" entry_id="1" table_id="40">OK, I'll take your Pokémon for a few seconds.</string>
+            <string block_id="0" entry_id="1" table_id="40">{09}</string>
         <!--Thanks for waiting-->
-            <string block_id="0" entry_id="2" table_id="40">Thank you for waiting.\nWe've restored your Pokémon to full health.</string>
+            <string block_id="0" entry_id="2" table_id="40">{09}</string>
         <!--Come back-->
-            <string block_id="0" entry_id="3" table_id="40">Please, come back again any time!</string>
+            <string block_id="0" entry_id="3" table_id="40">{09}</string>
     <!--Kurt-->
         <!--First talking-->
             <string block_id="0" entry_id="4" table_id="571">Kurt: You have Apricorns for me?\nFine! I'll turn them into Poké Balls.</string>
@@ -214,6 +214,12 @@
     <!--Both breeders (Route 34)-->
         <string block_id="0" entry_id="29" table_id="439">Very good. Come again.</string>
 
+    <!--HO-OH-->
+    <string block_id="0" entry_id="4" table_id="58">{09}</string>
+    <string id="16777274">{09}</string>
+    <!--Red-->
+    <string block_id="0" entry_id="0" table_id="126">{09}</string>
+
     <!--HMs in Johto-->
             <!--HM CUT-->
             <string block_id="0" entry_id="0" table_id="211">{09}</string>
@@ -248,7 +254,7 @@
             <string block_id="0" entry_id="28" table_id="211">{09}</string>
             <!--HM Whirlpool-->
             <string block_id="0" entry_id="29" table_id="211">{09}</string>
-            <string block_id="0" entry_id="30" table_id="211">{{09}</string>
+            <string block_id="0" entry_id="30" table_id="211">{09}</string>
             <string block_id="0" entry_id="31" table_id="211">The water is swirling and spinning around with a mighty roar.</string>
             <!--HM Headbutt-->
             <string block_id="0" entry_id="32" table_id="211">{09}</string>

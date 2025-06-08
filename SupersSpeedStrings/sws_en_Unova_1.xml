@@ -3,6 +3,10 @@
     <!--=Credits to SuperWorldSun for all strings-->
     <!--=SupersSpeedStrings Version-->
 
+    <!--Fishing-->
+        <string block_id="0" entry_id="3" table_id="263">{09}</string><!--Bite-->
+        <string block_id="0" entry_id="4" table_id="263">{09}</string><!--No Bite-->
+
     <!--HMs in Unova-->
     <string block_id="0" entry_id="0" table_id="280">{09}</string> <!--Use Cut?-->
     <string block_id="0" entry_id="1" table_id="280">{09}</string> <!--Cut Used!-->
@@ -18,6 +22,10 @@
     <string block_id="0" entry_id="31" table_id="280">{09}</string> <!--Use Dive?-->
     <string block_id="0" entry_id="32" table_id="280">{09}</string> <!--Dive Used!-->
     <string block_id="0" entry_id="30" table_id="280">{09}</string>
+    <!--These 3 are used in all regions-->
+    <string block_id="0" entry_id="27" table_id="280">{09}</string><!--Flash Used!-->
+    <string block_id="0" entry_id="28" table_id="280">{09}</string><!--Teleport Used!-->
+    <string block_id="0" entry_id="29" table_id="280">{09}</string><!--Dig Used!-->
 
 <!--Npcs-->
     <!--Gyms-->

@@ -3,7 +3,7 @@ name: Create and Release Mods
 on:
   push:
     tags:
-      - 'v*.*.*' # This workflow will run whenever a new tag like v1.0.0, v1.3.1-beta is pushed
+      - 'v*.*.*' # This workflow will run whenever a new tag like v1.0.0 is pushed
 
 jobs:
   build-and-release:
@@ -13,44 +13,33 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      # Define a variable for the release tag (e.g., v1.3.1-beta)
-      # This makes it easier to reuse throughout the workflow.
-      - name: Get tag name
-        id: get_tag
-        run: echo "TAG_NAME=${GITHUB_REF_NAME}" >> $GITHUB_OUTPUT
-
       - name: Create SupersStoryStrings Mod
         run: |
-          MOD_VERSION="${{ steps.get_tag.outputs.TAG_NAME }}" # Get the version from the previous step
-          MOD_FILE_BASE_NAME="SupersStoryStrings-${MOD_VERSION}" # e.g., SupersStoryStrings-v1.3.1-beta
-          
           # Change directory into the SupersStoryStrings/ source folder
           cd SupersStoryStrings/
-          # Zip all contents (.) into the appropriately named .zip file,
+          # Zip all contents (.) into the SupersStoryStrings.zip file,
           # placing it one directory up (in the repo root).
-          zip -r -q "../${MOD_FILE_BASE_NAME}.zip" .
+          # -r for recursion, -q for quiet output.
+          zip -r -q ../SupersStoryStrings.zip .
           # Change back to the repository root
           cd ../
           # Rename the .zip file to .mod
-          mv "${MOD_FILE_BASE_NAME}.zip" "${MOD_FILE_BASE_NAME}.mod"
-          echo "SupersStoryStrings Mod created: ${MOD_FILE_BASE_NAME}.mod"
+          mv SupersStoryStrings.zip SupersStoryStrings.mod
+          echo "SupersStoryStrings Mod created: SupersStoryStrings.mod"
         working-directory: ${{ github.workspace }}
 
       - name: Create SupersSpeedStrings Mod
         run: |
-          MOD_VERSION="${{ steps.get_tag.outputs.TAG_NAME }}" # Get the version from the previous step
-          MOD_FILE_BASE_NAME="SupersSpeedStrings-${MOD_VERSION}" # e.g., SupersSpeedStrings-v1.3.1-beta
-
           # Change directory into the SupersSpeedStrings/ source folder
           cd SupersSpeedStrings/
-          # Zip all contents (.) into the appropriately named .zip file,
+          # Zip all contents (.) into the SupersSpeedStrings.zip file,
           # placing it one directory up (in the repo root).
-          zip -r -q "../${MOD_FILE_BASE_NAME}.zip" .
+          zip -r -q ../SupersSpeedStrings.zip .
           # Change back to the repository root
           cd ../
           # Rename the .zip file to .mod
-          mv "${MOD_FILE_BASE_NAME}.zip" "${MOD_FILE_BASE_NAME}.mod"
-          echo "SupersSpeedStrings Mod created: ${MOD_FILE_BASE_NAME}.mod"
+          mv SupersSpeedStrings.zip SupersSpeedStrings.mod
+          echo "SupersSpeedStrings Mod created: SupersSpeedStrings.mod"
         working-directory: ${{ github.workspace }}
 
       - name: Create GitHub Release
@@ -69,18 +58,16 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           upload_url: ${{ steps.create_release.outputs.upload_url }}
-          # Use the same dynamically generated filename for the asset path and name
-          asset_path: ./SupersStoryStrings-${{ steps.get_tag.outputs.TAG_NAME }}.mod
-          asset_name: SupersStoryStrings-${{ steps.get_tag.outputs.TAG_NAME }}.mod
+          asset_path: ./SupersStoryStrings.mod
+          asset_name: SupersStoryStrings.mod
           asset_content_type: application/octet-stream
 
       - name: Upload SupersSpeedStrings Mod to Release
-        uses: actions:upload-release-asset@v1
+        uses: actions/upload-release-asset@v1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           upload_url: ${{ steps.create_release.outputs.upload_url }}
-          # Use the same dynamically generated filename for the asset path and name
-          asset_path: ./SupersSpeedStrings-${{ steps.get_tag.outputs.TAG_NAME }}.mod
-          asset_name: SupersSpeedStrings-${{ steps.get_tag.outputs.TAG_NAME }}.mod
+          asset_path: ./SupersSpeedStrings.mod
+          asset_name: SupersSpeedStrings.mod
           asset_content_type: application/octet-stream

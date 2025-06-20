@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<strings is_override="0" is_primary="0" lang="en">
+    <!--=Credits to SuperWorldSun for all strings-->
+    <!--=SupersStoryStrings Version-->
+
+    <!--HMs in Hoenn-->
+    <string id="271124538">{09}</string> <!--Use Rock Smash?-->
+    <string id="271124780">{09}</string> <!--Use Strength?-->
+    <string id="271003606">{09}</string> <!--Use Surf?-->
+    <string id="271125480">{09}</string> <!--Use Dive? (Above)-->
+    <string id="271125614">{09}</string> <!--Use Dive? (Bellow)-->
+    <string id="271124270">{09}</string> <!--Use Cut??-->
+    <string id="271125134">{09}</string> <!--HM Waterfall is active TODO double check if Ocarina is causing it-->
+    <string id="271125187">{09}</string> <!--Use Waterfall?-->
+
+    <!--Pokemon using an HM-->
+    <string id="271124337">{09}</string>
+    <string id="271125014">{09}</string> <!--Strength used-->
+
+<!--Npcs-->
+    <!--Gyms-->
+        <!--Roxanne Battle-->
+            <string id="270613551">[$8632]  /  +50%[$12948]  /  +75%[$15106]  /  +100%[$17264]\n \nROXANNE: I'm so glad to see you again. I'm ROXANNE, the\nGYM LEADER here. I'm sure we've both experienced many\nbattles since we last met. I would like to see how much\nbetter we've become. Let us battle!</string>
+        <!--Roxanne End Battle-->
+            <string id="270613753">\n\n</string>
+        <!--Roxanne on Cooldown-->
+            <string id="270612903">[ON COOLDOWN / 18 Hours]\n[$8632]  /  +50%[$]  /  +75%[$]  /  +100%[$]\n \nSince you are so strong, you should challenge other GYM LEADERS.\nBy battling many TRAINERS, you should learn many things.</string>
+
+        <!--Brawly Battle-->
+            <string id="270521028">[$8736]  /  +50%[$13104]  /  +75%[$15288]  /  +100%[$17472]\n \nBRAWLY: A wave may draw back, but it always returns to\nthe shore. A giant wave of a talent like you...I knew you\nwould return! Show me how much higher you've gone!</string>
+        <!--Brawly End Battle-->
+            <string id="270521191">\n\n</string>
+        <!--Brawly on Cooldown-->
+            <string id="270520845">[ON COOLDOWN / 18 Hours]\n[$8736]  /  +50%[$13104]  /  +75%[$15288]  /  +100%[$17472]\n \nI can see your talent becoming a giant wave to cause a\nstorm of astonishment among TRAINERS one day!</string>
+
+        <!--Wattson Battle-->
+            <string id="270592423">[$8840]  /  +50%[$13260]  /  +75%[$15470]  /  +100%[$17680]\n \nWATTSON: Ah-ha! Here at last! I know what you want.\nYou want to battle my POKéMON! Wahahahaha!\nI'll make sparks fly from you! Don't say I didn't warn you!</string>
+        <!--Wattson End Battle-->
+            <string id="270592578">\n\n</string>
+        <!--Wattson on Cooldown-->
+            <string id="270592293">[ON COOLDOWN / 18 Hours]\n[$8840]  /  +50%[$13260]  /  +75%[$15470]  /  +100%[$17680]\n \nWahahahah! Go forth and endeavor, youngster!</string>
+
+        <!--Flannery Battle-->
+            <string id="270530049">[$8944]  /  +50%[$13416]  /  +75%[$15652]  /  +100%[$17888]\n \nFLANNERY: Losing a battle isn't going to deflate me.\nI love POKéMON. I love to battle. And... I love this GYM!\nLet's exchange superhot moves in another battle!</string>
+        <!--Flannery End Battle-->
+            <string id="270530207">\n\n</string>
+        <!--Flannery on Cooldown-->
+            <string id="270529862">[ON COOLDOWN / 18 Hours]\n[$8944]  /  +50%[$13416]  /  +75%[$15652]  /  +100%[$17888]\n \nYour power reminds me of someone... Oh! I know! You battle\nlike NORMAN, the GYM LEADER of PETALBURG.</string>
+
+        <!--Norman Battle-->
+            <string id="270562466">[$9048]  /  +50%[$13572]  /  +75%[$15834]  /  +100%[$18096]\n \nDAD: {01}...\nI had a feeling that you would come. I would never refuse to\naccept a challenge from you. You do understand, don't you?\nInside a GYM, it doesn't matter that we are a parent and child.\n...No, because we are parent and child, we owe it to each other\nto do the best we can. Isn't that right, {01}?</string>
+        <!--Norman End Battle-->
+            <string id="270562766">\n\n</string>
+        <!--Norman on Cooldown-->
+            <string id="270562807">[ON COOLDOWN / 18 Hours]\n[$9048]  /  +50%[$13572]  /  +75%[$15834]  /  +100%[$18096]\n \nDAD: {01}...\nWhat is your dream? My dream... Hahaha...\nIt has already come true, actually.</string>
+
+        <!--Winona Battle-->
+            <string id="270627072">[$9152]  /  +50%[$13728]  /  +75%[$16016]  /  +100%[$18304]\n \nWINONA: We humans can never escape gravity's pull on the\nground. But by striving for excellence, we have the power\nto soar! You have scaled the pinnacle as the reigning\nCHAMPION. Please, allow me to see your power at full flight!</string>
+        <!--Winona End Battle-->
+            <string id="270627302">\n\n</string>
+        <!--Winona on Cooldown-->
+            <string id="270626929">[ON COOLDOWN / 18 Hours]\n[$9152]  /  +50%[$13728]  /  +75%[$16016]  /  +100%[$18304]\n \nThough I fell to you, I will remain devoted to BIRD POKéMON.</string>
+
+        <!--Tate & Liza Battle-->
+            <string id="270671115">[$9256]  /  +50%[$13884]  /  +75%[$16198]  /  +100%[$18512]\n \nTATE: POKéMON... LIZA: POKéMON...\nTATE: By changing the party's mix...\nLIZA: The battle style changes.\nTATE: But me... LIZA: But me...\nTATE: I'll always be with LIZA!\nLIZA: I'll always be with TATE!\nTATE: Our combination...\nLIZA: We'll show you again and again!</string>
+        <!--Tate & Liza End Battle-->
+            <string id="270671365">\n\n</string>
+        <!--Tate & Liza on Cooldown-->
+            <string id="270670621">[ON COOLDOWN / 18 Hours]\n[$9256]  /  +50%[$13884]  /  +75%[$16198]  /  +100%[$18512]\n \nTATE: Looks like the bond between you and your POKéMON\nis far stronger than the bond that we share as twins.\nLIZA: You will become even stronger!\nWe've battled you, so we know.</string>
+
+        <!--Juan Battle-->
+            <string id="270686544">[$9360]  /  +50%[$14040]  /  +75%[$16380]  /  +100%[$18720]\n \nJUAN: Ah, this GYM had returned to its usual state of serenity...\nBut our young typhoon has returned to put us to the test again!\nWell, my friend, most certainly! I shall be delighted to dance\nwith you as often as you wish!</string>
+        <!--Juan End Battle-->
+            <string id="270686766">\n\n</string>
+        <!--Juan on Cooldown-->
+            <string id="270686072">[ON COOLDOWN / 18 Hours]\n[$9360]  /  +50%[$14040]  /  +75%[$16380]  /  +100%[$18720]\n \nThe TRAINERS who have gathered all the GYM BADGES of HOENN\nshould make way to the ultimate destination. The POKéMON\nLEAGUE. Travel to the easternmost reaches of HOENN, to the\nisland EVER GRANDE. There, you shall find the POKéMON\nLEAGUE.</string>
+
+    <!--Elite Four-->
+        <!--Door Guard-->
+            <string id="270702312">Beyond this point, only those TRAINERS who have collected all\nthe GYM BADGES are permitted to enter. TRAINER, let us\nconfirm that you have all the GYM BADGES.</string>
+            <string id="270702575">TRAINER! Believe in yourself and your POKéMON, and go forth!</string>
+
+        <!--Sidney Battle-->
+            <string id="270696359">Welcome, challenger! I'm SIDNEY of the ELITE FOUR. I like\nthat look you're giving me. I guess you'll give me a good match.\nThat's good! Looking real good! All right! You and me, let's enjoy\na battle that can only be staged here in the POKéMON LEAGUE!</string>
+        <!--Sidney End Battle-->
+            <string id="270696610">\n\n</string>
+        <!--Sidney on Cooldown-->
+            <string id="270696684">Well, listen to what this loser has to say. You've got what it takes\nto go far. Now, go on to the next room and enjoy your next battle!</string>
+
+        <!--Phoebe Battle-->
+            <string id="270696974">Ahahaha! I'm PHOEBE of the ELITE FOUR. I did my training on\nMT. PYRE. While I trained, I gained the ability to commune with\nGHOST-type POKéMON. Yes, the bond I developed with POKéMON is\nextremely tight. So, come on, just try and see if you can\neven inflict damage on my POKéMON!</string>
+        <!--Phoebe End Battle-->
+            <string id="270697253">\n\n</string>
+        <!--Phoebe on Cooldown-->
+            <string id="270697283">There's a definite bond between you and your POKéMON, too. I\ndidn't recognize it, so it's only natural that I lost. Yup, I'd like to\nsee how far your bond will carry you. Go ahead, move on to the\nnext room.</string>
+
+        <!--Glacia Battle-->
+            <string id="270697644">Welcome, my name is GLACIA of the ELITE FOUR. I've traveled\nfrom afar to HOENN so that I may hone my ice skills. But all I\nhave seen are challenges by weak TRAINERS and their POKéMON.\nWhat about you? It would please me to no end if I could go\nall out against you!</string>
+        <!--Glacia End Battle-->
+            <string id="270697908">\n\n</string>
+        <!--Glacia on Cooldown-->
+            <string id="270698048">Advance to the next room. And there, confirm the truly\nfearsome side of the POKéMON LEAGUE.</string>
+
+        <!--Drake Battle-->
+            <string id="270698302">I am the last of the POKéMON LEAGUE ELITE FOUR, DRAKE the\nDRAGON master! In their natural state, POKéMON are wild living\nthings. They are free. At times, they hinder us. At times, they help\nus. For us to battle with POKéMON as partners, do you know what\nit takes? Do you know what is needed? If you don't, then you will\nnever prevail over me!</string>
+        <!--Drake End Battle-->
+            <string id="270698645">\n\n</string>
+        <!--Drake on Cooldown-->
+            <string id="270698672">You deserve every credit for coming this far as a TRAINER of\nPOKéMON. You do seem to know what is needed. Yes, what a\nTRAINER needs is a virtuous heart. POKéMON touch the good\nhearts of TRAINERS and learn good from wrong. They touch the\ngood hearts of TRAINERS and grow strong. Go! Go onwards!\nThe CHAMPION is waiting!</string>
+
+        <!--Wallace Battle-->
+            <string id="270699596">WALLACE: Welcome, {01}{05}.\nThat incident in SOOTOPOLIS CITY... That was superb work,\nputting an end to that crisis all by yourself. Oops! It wouldn't be\nfair to say that you alone ended the crisis. You overcame that\ndifficult situation by working as one with your POKéMON. We\nTRAINERS raise POKéMON by giving them items and by teaching\nthem new techniques for battle. But we ourselves also learn\nmany things from POKéMON. And this is where your\nachievements are put to the test against what others like you\nhave achieved. Now! Who can most elegantly dance with their\nPOKéMON in HOENN? Show me right here and now!</string>
+        <!--Wallace End Battle-->
+            <string id="270700204">\n\n</string>
+        <!--Wallace Beat-->
+            <string id="270700390">WALLACE: The POKéMON you sent into battle...\nAt times they danced like a spring breeze, and at times they\nstruck like lightning. It was with light, yet surefooted, elegance\nthat you led your POKéMON. Even I felt bedazzled by your\nmasterful performance! You now stand at the glorious peak of\nthe POKéMON LEAGUE. I now proclaim you to be the new\nHOENN region...</string>
+        <!--May-->
+            <string id="270700746">MAY: {01}{05}!\nHere's some advice before you challenge the CHAMPION...</string>
+            <string id="270700811">MAY: Huh?  What, what, what? {01}{05}...\nCould it be that... It's already over?</string>
+        <!--Brendan-->
+            <string id="270700882">BRENDAN: {01}!\n\nHow would you like some advice before\nyou challenge the CHAMPION?...</string>
+            <string id="270700962">BRENDAN: {01}...\n\nAre you trying to tell me...\nYou've beaten the CHAMPION?</string>
+        <!--Prof. Birch-->
+            <string id="270701030">PROF. BIRCH: See? What did I tell you, {06}? Didn't I tell you\nthat you don't need to worry about {01}{05}?\n... ... ... ... ... ... ... ... {01}{05}, you've finally\ndone it. When I heard that you defeated your own father at the\nPETALBURG GYM, I thought perhaps you had a chance... But to\nthink you've actually become the CHAMPION! Ah, yes! What\nbecame of your POKéDEX? Here, let me see.</string>
+            <string id="271213373">Hmhm... On a nationwide basis...\nYou've seen {02} POKéMON,\nand you've caught {03} POKéMON...</string>
+            <string id="271211820">Hmhm...\nSo, you've seen {02} POKéMON,\nand you've caught {03} POKéMON...</string>
+            <string id="270701389">PROF. BIRCH: Anyways,congratulations!\nNow, go proudly into the final room!</string>
+        <!--Wallace-->
+            <string id="270701465">WALLACE: {01}{05}...\nNo, let me rephrase that properly. The new CHAMPION!\nCome with me.</string>
+            <string id="270701547">WALLACE: I'm sorry, but... From here on, only those TRAINERS\nwho have become CHAMPIONS may enter. You'll have to wait\noutside with PROF. BIRCH.</string>
+        <!--May-->
+            <string id="270701689">MAY: Groan...\n... ... ... ... ... ... ... ...\n... ... ... ... ... ... ... ...\nI'm just joking! That's okay! That's the rule!\n{01}{05}! Honestly, congratulations!</string>
+        <!--Brendan-->
+            <string id="270701813">BRENDAN: Whaaaat?!\n... ... ... ... ...\n... ... ... ... ... ... ... ...\nIt can't be helped if that's the rule.\n{01}, way to go! Congratulations!</string>
+        <!--Wallace-->
+            <string id="270702862">WALLACE: This room... This is where we keep records of\nPOKéMON that prevailed through harsh battles. It is here that\nthe LEAGUE CHAMPIONS are honored.</string>
+            <string id="270703011">WALLACE: Come on, let's record your name as a TRAINER who\ntriumphed over the POKéMON LEAGUE, and the names of the\npartners who battled with you.</string>
+
+        <!--Battle Frontier-->
+            <!--Battle Tower-->
+                <!--All clerks within battle areas-->
+                    <string id="270793991">We look forward to seeing you on another challenge!</string>
+                    <string id="270794043">The BATTLE ROOM offers two levels of challenge, Level 50\nand Open Level. Which is your choice?</string>
+                <!--First clerk-->
+                    <string id="270796087">Where the talents of TRAINERS are put to the test!\nWelcome to the BATTLE TOWER!\nI am your guide to the SINGLE BATTLE ROOMS.</string>
+                    <string id="270796211">Would you like to take the SINGLE BATTLE ROOM challenge?</string>
+                    <string id="270796710">Now please select the three POKéMON that are to be entered.</string>
+                    <string id="270794791">Excuse me! You don't have three eligible POKéMON. You must\nhave three different POKéMON of Level 50 or less to enter.\nThey also must be holding different kinds of items.\nEGGS{02} ineligible. Please come see me when you are ready.</string>
+                    <string id="270795019">Excuse me! You don't have three eligible POKéMON. You must\nhave three different POKéMON to enter. They also must be\nholding different kinds of items. EGGS{02} ineligible.\nPlease come see me when you are ready.</string>
+                    <string id="270796268">The BATTLE TOWER's SINGLE BATTLE ROOMS are facilities for\nconducting SINGLE BATTLES with three POKéMON. There are\nmany SINGLE BATTLE ROOMS in the BATTLE TOWER for team\nbattles. In each of the SINGLE BATTLE ROOMS, seven TRAINERS\nawait your challenge. If you manage to defeat all seven, you\nwill earn Battle Points. If you want to interrupt your challenge,\nplease save the game. If you don't save before interrupting,\nyou will be disqualified.</string>
+                <!--Second clerk-->
+                    <string id="270796770">Where the talents of TRAINERS are put to the test!\nWelcome to the BATTLE TOWER!\nI am your guide to the DOUBLE BATTLE ROOMS.</string>
+                    <string id="270796894">Would you like to take the DOUBLE BATTLE ROOM challenge?</string>
+                    <string id="270797392">Now please select the four POKéMON that are to be entered.</string>
+                    <string id="270795227">Excuse me! You don't have four eligible POKéMON. You must\nhave four different POKéMON of Level 50 or less to enter.\nThey also must be holding different kinds of items.\nEGGS{02} ineligible. Please come see me when you are ready.</string>
+                    <string id="270795453">Excuse me! You don't have four eligible POKéMON. You must\nhave four different POKéMON to enter. They also must be\nholding different kinds of items. EGGS{02} ineligible.\nPlease come see me when you are ready.</string>
+                    <string id="270796951">The BATTLE TOWER's DOUBLE BATTLE ROOMS are facilities for\nconducting DOUBLE BATTLES with four POKéMON. There are\nmany DOUBLE BATTLE ROOMS in the BATTLE TOWER for team\nbattles. In each of the DOUBLE BATTLE ROOMS, seven TRAINERS\nawait your challenge. If you manage to defeat all seven, you\nwill earn Battle Points. If you want to interrupt your challenge,\nplease save the game. If you don't save before interrupting,\nyou will be disqualified.</string>
+                <!--Third clerk-->
+                    <string id="270797451">Where the talents of TRAINERS are put to the test!\nWelcome to the BATTLE TOWER!\nI am your guide to the MULTI BATTLE ROOMS.</string>
+                    <string id="270797574">Would you like to take the MULTI BATTLE ROOM challenge?</string>
+                    <string id="270798299">Now please select the two POKéMON that are to be entered.</string>
+                    <string id="270795659">Excuse me! You don't have two eligible POKéMON. You must\nhave two different POKéMON of Level 50 or less to enter.\nThey also must be holding different kinds of items.\nEGGS{02} ineligible. Please come see me when you are ready.</string>
+                    <string id="270795883">Excuse me! You don't have two eligible POKéMON. You must\nhave two different POKéMON to enter. They also must be\nholding different kinds of items. EGGS{02} ineligible.\nPlease come see me when you are ready.</string>
+                    <string id="270797630">The BATTLE TOWER's MULTI BATTLE ROOMS are facilities for\nconducting MULTI BATTLES. For MULTI BATTLES, you must\npartner with a TRAINER in the TOWER and enter with two\nPOKéMON each. Inside the TOWER is a room named the\nBATTLE SALON where you may meet other TRAINERS. There,\nyou must find a TRAINER to act as your partner in MULTI\nBATTLES. Once you have partnered up, you will be shown to a\nMULTI BATTLE ROOM. In the MULTI BATTLE ROOM, seven tag\nteams await your challenge. If you manage to defeat all seven\nteams, you will earn Battle Points. If you want to interrupt\nyour challenge, please save the game. If you don't save\nbefore interrupting, you will be disqualified.</string>
+                <!--Fourth clerk-->
+                    <string id="270798357">Where the talents of TRAINERS are put to the test!\nWelcome to the BATTLE TOWER!\nI am your guide to the LINK MULTI BATTLE ROOMS.</string>
+                    <string id="270798485">Would you like to take the LINK MULTI BATTLE ROOM challenge?</string>
+                    <string id="270799424">The LINK MULTI BATTLE ROOM challenge is only for two\nlinked players.</string>
+                    <string id="270798546">The BATTLE TOWER's MULTI BATTLE ROOMS are facilities for\nconducting MULTI BATTLES with a friend. You must link with\nyour friend. You must partner with your friend and enter two\ndifferent kinds of POKéMON. There are many MULTI BATTLE\nROOMS in the BATTLE TOWER for team battles. In a MULTI\nBATTLE ROOM, seven tag teams await you and your friend to\nmake a tag-team challenge. If you manage to defeat all seven\nteams, you will earn Battle Points. Please beware that unlike\nother ROOMS, you may not interrupt your challenge. Once you\nstart, you must battle seven MULTI BATTLES in a row nonstop.</string>
+                <!--Left info board-->
+                    <string id="270800262">The BATTLE TOWER is a facility where four types of battles\nare waged SINGLE BATTLE, DOUBLE BATTLE, MULTI BATTLE,\nand LINK MULTI BATTLE. For each of these types, there are\nseparate BATTLE ROOMS. Please speak with a guide\noffering the type of battle you wish to enter.</string>
+                    <string id="270800531">Depending on the BATTLE ROOM you are entering,\nyou will be required to take a certain number of POKéMON.\nThe SINGLE BATTLE mode requires three POKéMON.\nThe DOUBLE BATTLE mode requires four,\nand the MULTI modes both require two.</string>
+                    <string id="270800759">The BATTLE SALON is where you must find a partner to form\na tag team for the MULTI BATTLE ROOM challenge. Choose the\nbest partner for you by examining other TRAINERS' POKéMON\nand their moves. You may choose a new tag partner after\nwinning seven straight matches.</string>
+                    <string id="270801022">The LINK MULTI BATTLE Mode is for two friends to mount a\nchallenge together. You and your friend must be linked together.\nYou must choose two POKéMON at the registration counter.\nThese POKéMON must be different from those of your friend.\nYou may not interrupt this challenge in the middle,\nunlike other modes.</string>
+            <!--Battle Factory-->
+                    <string id="270901704">First, we will hold your POKéMON for safekeeping.\nYou may then choose from our selection of POKéMON.</string>
+                    <string id="270896105">Which level do you wish to challenge?\nLevel 50 or Open Level?</string>
+                    <string id="270896069">We look forward to your next visit.</string>
+                <!--First Clerk-->
+                    <string id="270895342">Where the intelligence of TRAINERS is put to the test!\nWelcome to the BATTLE FACTORY!\nI am your guide to the Battle Swap Single Tournament.</string>
+                    <string id="270895482">Would you like to take the Battle Swap Single challenge?</string>
+                    <string id="270895539">The Battle Swap Single Tournament is a SINGLE BATTLE\ncompetition using only rental POKéMON. First, you will be\nloaned three POKéMON specifically for this event. Using the\nsupplied rental POKéMON,you must conduct a SINGLE BATTLE.\nIf you win, you are permitted to trade one of your rental\nPOKéMON. Repeat this cycle of battling and trading if you win\nseven times in a row, you will earn Battle Points. If you want to\ninterrupt your challenge, please save the game. If you don't save,\nyou will be disqualified from your challenge.</string>
+                    <string id="270896327">Thank you for participating! I will return your\nPOKéMON in exchange for our rental POKéMON.\nI must also save the event results. Please wait.</string>
+                <!--Second Clerk-->
+                    <string id="270897043">Where the intelligence of TRAINERS is put to the test!\nWelcome to the BATTLE FACTORY!\nI am your guide to the Battle Swap Double Tournament.</string>
+                    <string id="270897183">Would you like to take the Battle Swap Double challenge?</string>
+                    <string id="270897240">The Battle Swap Double Tournament is a DOUBLE BATTLE\ncompetition using only rental POKéMON. First, you will be\nloaned three POKéMON specifically for this event. Using the\nsupplied rental POKéMON, you must conduct a DOUBLE BATTLE.\nIf you win, you are permitted to trade one of your rental\nPOKéMON. Repeat this cycle of battling and trading if you win\nseven times in a row, you will earn Battle Points. If you want to\ninterrupt your challenge, please save the game. If you don't\nsave before interrupting, you will be disqualified.</string>
+                <!--Center Info Board-->
+                    <string id="270899046">In a Battle Swap event, you may use only three POKéMON.\nWhether you are renting or swapping, your team may not\nhave two or more of the same POKéMON.</string>
+                    <string id="270899195">You may swap POKéMON only with the TRAINER you have just\ndefeated. You may swap for only those POKéMON used by the\nbeaten TRAINER.</string>
+                    <string id="270899326">After every battle you win, you may swap for one of your\ndefeated opponent's POKéMON. You will not be able to swap\nPOKéMON with the seventh TRAINER in the event.</string>
+                    <string id="270899488">There are two key points to be aware of when swapping\nPOKéMON. First, when swapping, you can't check the stats\nof the POKéMON you are about to receive. Second, the\nPOKéMON on your team are lined up in sequence, depending\non the order in which you rented them. This sequence\nremains unchanged even when swaps are made.</string>
+                    <string id="270899806">In the Open Level, the rental POKéMON and the opposing\nTRAINERS' POKéMON are all Level 100.</string>
+            <!--Battle Pike-->
+                <!--Left Info Board-->
+                    <string id="270911044">The BAG and POKéNAV may not be used during a Battle\nChoice challenge.</string>
+                    <string id="270911114">During a Battle Choice challenge, any BERRY or HERB\nheld by POKéMON will be effective only once.</string>
+                    <string id="270911211">During a Battle Choice challenge, the sequence of POKéMON\ncannot be changed. The sequence must be set before starting\nyour challenge.</string>
+            <!--Battle Palace-->
+                <!--Both Clerks-->
+                    <string id="270852312">When you have fortified your heart\nand POKéMON, you must return.</string>
+                    <string id="270852377">There are two BATTLE HALLS, Level 50 and Open Level.\nWhich is your choice of a challenge?</string>
+                    <string id="270853017">Good. Now, you must select your three POKéMON.</string>
+                    <string id="270852467">Sigh... You do not have the three POKéMON required for the\nchallenge. To enter, you must provide three different kinds of\nPOKéMON. These POKéMON must all be of Level 50 or lower.\nThey also must not be holding the same kinds of items. EGGS{02}\nineligible. Come back when you have made your preparations.</string>
+                    <string id="270852766">Sigh... You do not have the three POKéMON required for the\nchallenge. To enter, you must provide three different kinds of\nPOKéMON. They also must not be holding the same kinds of\nitems. EGGS{02} ineligible. Come back when you have made your\npreparations.</string>
+                <!--First Clerk-->
+                    <string id="270851419">Where the hearts of TRAINERS are put to the test.\nI welcome you to the BATTLE PALACE.\nI accept challenges to the SINGLE BATTLE HALLS.</string>
+                    <string id="270851607">In the BATTLE PALACE, there are several auditoriums for\nSINGLE BATTLES that are named SINGLE BATTLE HALLS.\nThe SINGLE BATTLES are conducted in the usual way, except\nwith one crucial rule that must be obeyed. TRAINERS are\npermitted only to switch their POKéMON in and out. TRAINERS\nare otherwise forbidden to command their POKéMON. The\nPOKéMON are to behave according to their nature and battle\non their own. You must put your trust in your POKéMON and\nwatch over them. If you achieve the honor of beating seven\nTRAINERS in succession, we will present you with Battle Points.\nIf you want to interrupt your challenge, you must save the game.\nIf you don't save before interrupting, you will be disqualified.</string>
+                    <string id="270851553">Do you wish to take the SINGLE BATTLE HALL challenge?</string>
+                <!--First Clerk-->
+                    <string id="270854918">Where the hearts of TRAINERS are put to the test.\nI welcome you to the BATTLE PALACE.\nI accept challenges to the DOUBLE BATTLE HALLS.</string>
+                    <string id="270855106">In the BATTLE PALACE, there are several auditoriums for\nDOUBLE BATTLES that are named DOUBLE BATTLE HALLS.\nThe DOUBLE BATTLES are conducted in the usual way, except\nwith one crucial rule that must be obeyed. TRAINERS are\npermitted only to switch their POKéMON in and out. TRAINERS\nare otherwise forbidden to command their POKéMON. The\nPOKéMON are to behave according to their nature and battle\non their own. You must put your trust in your POKéMON and\nwatch over them. If you achieve the honor of beating seven\nTRAINERS in succession, we will present you with Battle Points.\nIf you want to interrupt your challenge, please save the game.\nIf you don't save before interrupting, you will be disqualified.</string>
+                    <string id="270855052">Do you wish to take the DOUBLE BATTLE HALL challenge?</string>
+                <!--Center Info Board-->
+                    <string id="270856107">Here, POKéMON are required to think and battle by themselves.\nUnlike in the wild, POKéMON that live with people behave\ndifferently depending on their nature.</string>
+                    <string id="270856265">Depending on its nature, a POKéMON may prefer to attack no\nmatter what. Another POKéMON may prefer to protect itself from\nany harm. Yet another may enjoy vexing or confounding its foes.\nDue to its nature, a POKéMON will have favorite moves that it is\ngood at using. It may also dislike certain moves that it has\ntrouble using.</string>
+                    <string id="270856592">There are offensive moves that inflict direct damage on the\nfoe. There are defensive moves that are used to prepare for\nenemy attacks or used to heal HP and so on. There are also\nother somewhat-odd moves that may enfeeble the foes with\nstat problems including poison and paralysis. POKéMON will\nconsider using moves in these three categories.</string>
+                    <string id="270856936">When not under command by its TRAINER, a POKéMON may be\nunable to effectively use certain moves. A POKéMON is not good\nat using any move that it dislikes. If a POKéMON only knows\nmoves that do not match its nature, it will often be unable\nto live up to its potential.</string>
+                    <string id="270857204">Depending on its nature, a POKéMON may start using moves\nthat don't match its nature when it is in trouble. If a POKéMON\nbegins behaving oddly in a pinch, watch it carefully.</string>
+
+            <!--Battle Arena-->
+                <!--Battle Clerk-->
+                    <string id="270885222">Where the battling spirit of TRAINERS is put to the test!\nI welcome you to the BATTLE ARENA!\nI am your guide to the Set KO Tourney!</string>
+                    <string id="270885452">In the BATTLE ARENA, we undertake the Set KO Tourney. All\nparticipants enter with a team of three POKéMON. The three\nPOKéMON must be lined up in the order in which they are to\nappear. During battle, the POKéMON will appear one at a\ntime in the preset order. Once a POKéMON enters battle, it must\nremain out until the match is decided. If a match remains\nundecided in three turns, it goes to judging. If you wish to\ninterrupt your challenge, please save the game. If you don't\nsave, you will not be able to continue with your challenge.\nIf you pull off the feat of beating seven TRAINERS in succession,\nwe will present you with Battle Points.</string>
+                    <string id="270886163">The BATTLE ARENA offers two levels of challenge, Level 50\nand Open Level. Which is your choice?</string>
+                    <string id="270885354">Now, do you wish to take the BATTLE ARENA challenge?</string>
+                    <string id="270886259">Very well, now select your three POKéMON, please.</string>
+                    <string id="270886568">My dear challenger! You do not have the three POKéMON\nrequired for entry. To qualify, you must bring three different\nkinds of POKéMON. The three different POKéMON must all be\nLevel 50 or lower. They also must not hold the same kinds\nof items. EGGS{02} ineligible. When you have made your\npreparations, please do return.</string>
+                    <string id="270886309">My dear challenger! You do not have the three POKéMON\nrequired for entry. To qualify, you must bring three different\nkinds of POKéMON. They also must not hold the same kinds of\nitems. EGGS{02} ineligible. When you have made your preparations,\nplease do return.</string>
+                    <string id="270885407">We await your challenge on another occasion!</string>
+                <!--Left Info Board-->
+                    <string id="270888450">The Set KO Tourney has special rules, unlike standard battles.\nFirst, one battle lasts only three turns. If the outcome is not\ndecided after three turns, it goes to judging. The REFEREE will\nchoose the winner based on how the POKéMON battled.\nAlso, a POKéMON cannot be switched out until its battle's\noutcome is decided.</string>
+                    <string id="270888771">The first judging factor is «Mind.»\nThis factor evaluates how aggressive the battlers were.\nThe judging is based on how often the TRAINERS ordered\nthe use of offensive moves.</string>
+                    <string id="270888946">The second judging factor is «Skill.»\nThis factor evaluates how effectively POKéMON moves were\nused. If a move worked successfully, the Skill rating goes up.\nIf a move failed, the Skill rating is lowered. If it was an offensive\nmove, the Skill rating goes up if the move was «super effective»\nand goes down if it was «not very effective.» The Skill rating will\nnot go up for moves such as PROTECT and DETECT. If the\nopponent used PROTECT or DETECT, and your POKéMON\nfailed to hit with a move, its Skill rating will not go down.</string>
+                    <string id="270889474">The third judging factor is «Body.»\nThis factor is based on how much HP remained at the end of a\nbattle. The rating takes into account how much HP a POKéMON\nhad at the start of battle, and what remained at the end.</string>
+
+
+            <!--Battle Frontier Shop-->
+                <!--Store clerk-->
+                    <string id="270923770">Hello, this is the EXCHANGE SERVICE CORNER. We exchange\nthe Battle Points you have collected for lovely prizes.\nPlease choose a prize from this list.</string>
+                    <string id="270925586">Thank you very much.\nPlease visit us when you have saved up Battle Points.</string>
+
+        <!--Nurse Joy-->
+            <!--Healing from NJ-->
+                <string id="271001323">{09}</string>
+            <!--Waiting...-->
+                <string id="271002048">{09}</string>
+            <!--Thanks for waiting-->
+                <string id="271001496">{09}</string>
+            <!--Come again-->
+                <string id="271001563">{09}</string>
+
+            <!--DayCare Lady (Route 117)-->
+            <string id="271131380">I'm the DAY-CARE LADY. We can raise POKéMON for you.\nWould you like us to raise one?</string>
+            <string id="271132091">Oh? But you have just one POKéMON.\nCome back another time.</string>
+            <string id="271131504">Fine, we'll raise your {02} for a while.\nCome back for it later.</string>
+            <string id="271131567">We can raise two of your POKéMON.\nWould you like us to raise one more?</string>
+            <string id="271131784">Ah, it's you! Good to see you.\nYour POKéMON can only be doing good!</string>
+            <string id="271132150">Will you take your POKéMON back?</string>
+            <string id="271132021">Perfect! Here's your POKéMON.</string>
+            <string id="271132051">{01} took back {02} from\nthe DAY-CARE LADY.</string>
+            <string id="271131727">Will you take back the other one, too?</string>
+
+            <!--Breeder-->
+            <string id="271132183">If you leave me that POKéMON, what will you battle with?\nCome back another time.</string>
+
+            <!--Both breeders and daycare-->
+            <string id="271131670">Oh, fine, then. Come again.</string>
+
+        <!--Pokemart Store-->
+            <string id="271002145">Welcome!\nHow may I serve you?</string>
+            <string id="271002175">Please come again!</string>
+
+        <!--Ash Collector-->
+        <string id="270988298">Oh! You've got a lot of ashes, huff-puff!\nI'll make you a glass item, huff-puff!\nWhich one would you like, huff-puff?</string>
+        <string id="270988506">A {02} it is, then, huff-puff!\nOkay! I'll make it for you, huff-puff.\nJust wait a little while, huff-puff.</string>
+        <string id="270988611">A {02}, huff-puff?\nThere's not enough ash here to make that, though, huff-puff.\nLet's see... {03} is the number of steps you'll need to walk\nthrough volcanic ash for me to make that item, huff-puff.\nWhich item would you rather have me make instead, huff-puff?</string>
+
+        <!--Bike Shop-->
+        <!--RYDEL (Bike Shop)-->
+            <string id="270594555">RYDEL: Oh? Were you thinking about switching BIKES?</string> <!--Switch Bikes?-->
+            <string id="270594607">RYDEL: Okay, no problem! I'll switch BIKES for you!</string> <!--Bike Switched-->
+            <string id="270594659">The MACH BIKE was exchanged for an ACRO BIKE!\n[Use the ACRO BIKE to Hop across gaps and ledges!]</string>
+            <string id="270594708">The ACRO BIKE was exchanged for a MACH BIKE!\n[Use the MACH BIKE to Speed across Cracked floors\nand go up slopes!]</string>
+            <string id="270594756">RYDEL: Good, good!\nI'm happy that you like it!</string> <!--Ending convo-->
+            <string id="270594493">RYDEL: If you get the urge to switch\nBIKES, just come see me!</string> <!--Ending convo-->
+    <!--Bike Shop HandBook-->
+        <!--MACH BIKE HandBook-->
+            <string id="270595141">It's a handbook on the MACH BIKE.\nWhich page do you want to read?</string>
+            <string id="270595207">A BIKE moves in the direction that the + Control Pad is pressed.\nIt will speed up once it gets rolling.\nTo stop, release the + Control Pad.\nThe BIKE will slow to a stop.\n \nWant to read a different page?</string>
+            <string id="270595408">Press + Control Pad in the direction you want to go.\n \nWant to read a different page?</string>
+            <string id="270595610">There are small sandy slopes throughout the HOENN region.\nThe loose, crumbly sand makes it impossible to climb normally.\nBut if you have a MACH BIKE, you can zip up a sandy slope.\n \nWant to read a different page?</string>
+        <!--ACRO BIKE HandBook-->
+            <string id="270595821">It's a handbook on the ACRO BIKE.\nWhich page do you want to read?</string>
+            <string id="270595887">The Page is torn out...\n[This function isn't possible]\n \nWant to read a different page?</string> <!--Wheelies-->
+            <string id="270596085">Keeping the B Button pressed, your BIKE can hop on the spot.\nThis technique is called a bunny hop.\nYou can ride while hopping, too.\n \nWant to read a different page?</string> <!--B hops-->
+            <string id="270596248">The Page is torn out...\n[This function isn't possible]\n \nWant to read a different page?</string> <!--Jump-->
+
+
+    <!--Safari-->
+        <!--Left Clerk-->
+            <string id="271208308">Welcome to the SAFARI ZONE! All you can catch for just $500!\nWould you like to play a SAFARI Game?</string>
+            <string id="271208475">That will be $500, please.</string>
+            <string id="271208502">Here are your SAFARI BALLS.</string>
+            <string id="271208530">{01} received 30 SAFARI BALLS.</string>
+            <string id="271208559">We'll let you know when your game is over.\nSo, until then, enjoy yourself, please!\nOff you go on your wild excursion!</string>
+            <string id="271208407">Okay.\nPlease play another time!</string>
+        <!--Right Clerk-->
+            <string id="271208097">When you enter the SAFARI ZONE, you start with 30\nSAFARI BALLS for catching POKéMON. The SAFARI Game\nis over when you run out of SAFARI BALLS, or when you've\nwalked 500 steps. Come in and enjoy the SAFARI ZONE!</string>
+        <!--Outside safari door helper-->
+            <string id="271209131">Good luck!\nIf you need anything, don't hesitate to tell me, please!</string>
+            <string id="271208916">You still have time left.\nWould you like to exit the SAFARI ZONE now?</string>
+            <string id="271208986">Please enjoy the rest of your wild adventure!</string>
+            <string id="271209032">Okay. I'll take back your remaining SAFARI BALLS.\nThank you for playing. We hope to see you again.</string>
+
+
+    <!--Contest hall-->
+        <!--Left Clerk-->
+            <string id="271035815">Hello!\nThis is the reception counter for\nPOKéMON CONTESTS.\nOh? It appears that you don't have a POKéBLOCK CASE yet.\nIn that case, we need to provide you with this!</string>
+            <string id="271036072">Hello!\nThis is the reception counter for\nPOKéMON CONTESTS.</string>
+        <!--Right Clerk-->
+            <string id="16780410">Did you know you can enter a contest with up to three\nother friends? Just link up with them before you sign up!</string>
+
+    <!--Mt Chimney-->
+        <!--Meteorite Machine-->
+            <string id="270728978">A METEORITE is fitted on a mysterious machine...\nDo you want to remove the METEORITE?</string>
+            <string id="270729062">{01} removed the METEORITE from\nthe mysterious machine.</string>
+            <string id="270729116">{01} left the METEORITE where it was.</string>
+            <string id="270729152">This mysterious machine...\nIt makes no response whatsoever.</string>
+
+    <!--Norman's Gym Doors-->
+        <string id="270561822">«SPEED ROOM,» the sign says.\nDo you want to go through?</string>
+        <string id="270561920">«ACCURACY ROOM,» the sign says.\nDo you want to go through?</string>
+        <string id="270561979">«CONFUSION ROOM,» the sign says.\nDo you want to go through?</string>
+        <string id="270562039">«DEFENSE ROOM,» the sign says.\nDo you want to go through?</string>
+        <string id="270562097">«RECOVERY ROOM,» the sign says.\nDo you want to go through?</string>
+        <string id="270562156">«STRENGTH ROOM,» the sign says.\nDo you want to go through?</string>
+        <string id="270562215">«ONE-HIT KO ROOM,» the sign says.\nDo you want to go through?</string>
+        <string id="270562276">«GYM LEADER'S ROOM\n«See for yourself what POKéMON await you!» the sign says.\nDo you want to go through?</string>
+
+</strings>

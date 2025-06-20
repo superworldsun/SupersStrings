@@ -1,0 +1,1894 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<strings is_primary="0" lang="en" lang_full="English">
+    <!--=Credits to SuperWorldSun for all strings-->
+    <!--=SupersStoryStrings Version-->
+
+    <!--Misc-->
+    <string id="5019">☆Shiny {00}☆</string>
+    <string id="6802">You have been disconnected from the game server\nfor being AFK.</string>
+
+    <!--Picking Berries-->
+    <string id="16780331">{09}</string>
+
+    <!--Most yes or no buttons-->
+    <string id="50">▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔\n\n\n[ Yes ]\n\n\n▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁</string>
+    <string id="51">▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔\n[ No ]\n▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁</string>
+    <string id="52">▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔\n\n[ OK ]\n\n▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁</string>
+
+    <!--Main menu logins-->
+    <string id="1000">▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔\n\n\n\n\n[ LOGIN ]\n\n\n\n\n▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁</string>
+    <string id="1003">▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔\n\n\n\n\nLogging in...\n\n\n\n\n▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁</string>
+
+    <!--PC Buttons & Other-->
+    <string id="2350">{09}</string><!--Opening PC-->
+    <string id="2351">\n[ {01}'s PC ]\n</string>
+    <string id="2352">\n[ Global Trade Link ]\n</string>
+    <string id="2353">[ Mail ]</string>
+    <string id="53">[ Cancel ]</string>
+    <string id="54">[ Save ]</string>
+    <string id="1410">▔▔▔▔▔▔▔▔▔▔▔\n[ Use ]\n▁▁▁▁▁▁▁▁▁▁▁</string>
+    <string id="60">▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔\n\n[ Accept ]\n\n▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁</string>
+    <string id="63">▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔\n[ Reject ]\n▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁</string>
+    <string id="203">▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔\n[ Accept Trade Request ]\n▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁</string>
+    <string id="204">▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔\n[ Reject Trade Request ]\n▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁</string>
+    <string id="1902">▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔\n[ Change ]\n▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁</string>
+    <string id="8118">▔▔▔▔\n[ Max ]\n▁▁▁▁</string>
+    <string id="49">▔▔▔▔\n[ All ]\n▁▁▁▁</string>
+    <string id="5841">▔▔▔▔▔\n[ Clear ]\n▁▁▁▁▁</string>
+    <string id="5844">▔▔▔▔▔▔\n[ Reply\n▁▁▁▁▁▁</string>
+    <string id="5835">▔▔▔▔▔▔\n[ Read Mail ]\n▁▁▁▁▁▁</string>
+    <string id="5834">▔▔▔▔▔▔\n[ Send Mail ]\n▁▁▁▁▁▁</string>
+    <string id="5848">▔▔▔▔▔▔\n[ Sent Mail ]\n▁▁▁▁▁▁</string>
+
+    <!--Hoenn Secret Base (No Secret Power)-->
+    <string id="270776032">A small crevice is seen on the wall.\nA {STRING_110290} may allow you to break it open.</string>
+
+    <!--Berry Farming-->
+            <string id="16780326">It's soft fertile soil.\nWould you like to plant seeds?</string> <!--planting first seed?-->
+            <string id="16780314">This plant is dead.\nIt looks like it did not get enough water.\nDo you want to clean up the plot?</string> <!--Dried to death-->
+            <string id="16780319">This plant is dead.\nIt looks like it was overwatered.\nDo you want to clean up the plot?</string> <!--Watered to death-->
+            <string id="16780322">This plant is dead.\nIt looks like it was fully grown, but never picked.\nDo you want to clean up the plot?</string> <!--Never picked-->
+            <string id="16780329">There are {01} {00}!\nWould you like to pick the {00}?</string>
+
+        <!--Baron Moray (prismatic pearl guy)-->
+            <string id="16780430">Ho-Ho! Your eyes do not deceive you. Those are my incredibly\nrare Shiny {00} and {01}! My name is Baron Moray,\nworld-renowned connoisseur of Shiny {STRING_0}! I'm here to\noffer you a fantastic deal, you see! Trade your Shiny {STRING_0}\nto me, and I'll give you Prismatic Pearls in exchange.</string>
+            <string id="16780447">I'm glad you asked! Prismatic Pearls allow your {STRING_0} to\ntransfer its Hidden Ability potential to another {STRING_0}\nof the same species. Prismatic Pearls are only able to be\nproduced by certain {STRING_150366}, and my family's {STRING_150366}\nfarm is the sole provider capable of making them at-scale!</string>
+            <string id="16780449">Hm...\n\nSorry!\nI can't take {STRING_0} which were\ngiven as a Gift!</string>
+            <string id="16780432">Hmm...\nIt doesn't seem like you have any\nShiny {STRING_0} with you!</string>
+            <string id="16780435">Hm... ... ...\nYep, that's a Shiny {01}!\nI'll give you {00} Prismatic Pearl(s)for your Shiny {01}.\nIs that agreeable?</string>
+            <string id="16780442">Hm... That's a pretty rare {01}!\nHow about {00} Prismatic Pearl(s)?</string>
+            <string id="16780441">Wow! That's a really rare {01}! I must have it!\nHow about {00} Prismatic Pearl(s) for your Shiny {01}?</string>
+            <string id="16780443">Thanks for the trade! Want to exchange more?</string>
+
+    <!--Using prismatic pearl-->
+            <string id="16780460">Are you sure you want to transfer the Hidden Ability\nattribute from {00} to {01}?\n{02} Prismatic Pearls will be consumed.</string>
+
+<!--Npcs-->
+    <!--Johto Safari Zone Gate Npc choice select-->
+    <string id="16780135">Where would you like to start?</string>
+
+    <!--Hoenn Battle frontier Move tutor-->
+    <string id="16779040">Hello! I am the Special Move Tutor, I can teach your {STRING_0}\nmoves they cannot normally learn in exchange for Battle Points.</string>
+    <string id="16779041">Would you like me to teach a special move to your {STRING_0}?</string>
+    <string id="16779046">Thank you for using the Battle Point Exchange Service.</string>
+    <!--Daycare Breeder-->
+    <string id="16779080">I'm the {STRING_10}. I breed {STRING_0} to help them\nunlock their true potential. Your {STRING_0} seem healthy!\nHow about a trade? I'll keep two of your {STRING_0},\nand in return I will give you an egg.</string>
+    <string id="16779082">You won't get these {STRING_0} back.\nAre you sure?</string>
+    <string id="16779083">Which {STRING_0} would you like to trade?</string>
+    <string id="16779087">Ah, it's you! You're just in time. Your {STRING_0} had an Egg!\nAs promised, it belongs to you.</string>
+
+    <!--Move Maniac(Silver hair in PC)-->
+    <string id="16779020">My brothers call me a Move Maniac. I can teach every\nmove a {STRING_0} could have learned while leveling up,\nand I can make it forget any of them.</string>
+    <string id="16779022">Do you want to relearn or forget a move?</string>
+    <string id="16779023">I see. Come back if you change your mind.</string>
+    <string id="16779024">{00} now knows {01}!</string>
+    <string id="16779035">Which {STRING_0} should relearn a move?</string>
+    <string id="16779051">You do not have enough money.</string>
+    <string id="16779052">It will cost {00}x {01} to teach {02}.\nIs this OK?</string>
+    <string id="16779053">Come back with {00}x {01}.</string>
+    <string id="16779057">Which {STRING_0} should have its move removed?</string>
+    <string id="16779031">OK. Which move should {00} forget?</string>
+    <string id="16779030">This {STRING_0} can't forget its only move!</string>
+    <string id="16779032">It'll cost ${00} for {02} to forget {01}.\nAre you sure you want to forget it?</string>
+    <string id="16779033">Poof!\n{00} forgot {01}!</string>
+    <string id="16779034">Do you want to relearn or forget another move?</string>
+
+    <!--Move Master(Move tutor in every region pc)-->
+    <string id="16779000">I'm the Move Master of {00}! My brothers and I have\nscoured the lands to learn every technique we can!</string>
+    <string id="16779002">Do you want me to tutor a {STRING_0} of yours?</string>
+    <string id="16779003">Which {STRING_0} should be tutored?</string>
+    <string id="16779054">It will cost {00}x {01} and\n{02}x {03} to teach {04}.\nIs this OK?</string>
+    <string id="16779007">Sorry, I don't have anything I can teach that {STRING_0}!</string>
+    <string id="16779004">Come back if you change your mind.</string>
+
+    <!--Bike Modifier-->
+    <string id="16780200">Did you know you can modify a Bicycle's appearance?\nWith our Bicycle skins you can stand out!</string>
+
+    <!--Elite four door guard-->
+    <string id="16777231">Sorry, this instance is still on cooldown. You can enter again in\n{00}.</string>
+
+    <!--LNY-->
+        <!--Grandma Turn in-->
+        <string id="16805082">Would you kindly bring some {STRING_0} from swarms?\n For 8 of them, I'll offer you a {STRING_101730}.</string> <!--No pokemon in party-->
+        <string id="16805085">Ah.. I love the spring.\nHave you caught more of those unruly\n{STRING_0} for me?</string> <!--Pokemon in party-->
+        <string id="16805083">Ohoho~ Thank you!\nIt'll be {00} more until the next reward.</string> <!--Submit Pokemon-->
+        <string id="16805092">Ohoho~ Thank you!\nHere, take this.</string> <!--Submit Pokemon and hit reward-->
+
+    <!--Pirate-->
+    <string id="16780100">Where to?</string> <!--Choose Region-->
+    <string id="16780104">Blimey.</string> <!--Said no-->
+    <string id="16780103">Aye, we be off then!</string> <!--Departure-->
+
+    <!--Stylist-->
+    <string id="16780170">Hi, I'm your personal stylist! Would you like a makeover?</string>
+    <string id="16780179">Hi, I'm your personal stylist! Wait... Is that a {00}?\nIf you want, we can use that to change anything about yourself!\nWhat can I do for you today?</string>
+    <string id="16780172">It'll cost ${00} for your makeover.\nIs that okay?</string>
+    <string id="16780173">I'm sorry, but you don't have enough money.</string>
+    <string id="16780174">Okay, I'll get started!</string>
+    <string id="16780175">Wow! You look amazing!</string>
+    <string id="16780176">Are you sure you want to use your {00}?</string>
+    <string id="16780171">Come back soon!</string>
+
+    <!--Field Moves-->
+    <string id="8600">Restore pp?\n</string> <!-- Restore PP Question -->
+    <string id="8601">▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔\n\n\n\n\n\n\n\n\n\n{00} {01}\n\n\n\n\n\n\n\n\n\n▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁</string> <!-- Restore PP with Item -->
+
+    <!--HM's-->
+    <string id="16780421">{09}</string> <!--Rock Smash in Unova-->
+    <string id="16780155">{09}</string> <!--Teleport/ Defog/ Flash / Dig (In All Regions)(I think Ocarina Summon)-->
+
+<!--Bag Items-->
+    <!--Adventure Items-->
+    <string id="245079">&#xA000;Repel</string>
+    <string id="245076">&#xA001;Super Repel</string>
+    <string id="245077">&#xA002;Max Repel</string>
+    <string id="101654">&#xA003;Lure</string>
+<!--        <string id="101655">A lure which attracts wild {STRING_0} for 100 steps. It has several effects while active:\n\n- Encounter rates increased by +10%\n- Foes are slightly stronger than normal {STRING_0} in the area\n- You may encounter more foes at the same time\n- 5% chance to encounter lure-exclusive species\n\nConsumed upon use.</string>-->
+    <string id="101656">&#xA004;Super Lure</string>
+<!--        <string id="101657">A lure which attracts wild {STRING_0} for 200 steps. It has several effects while active:\n\n- Encounter rates increased by +10%\n- Foes are slightly stronger than normal {STRING_0} in the area\n- You may encounter more foes at the same time\n- 5% chance to encounter lure-exclusive species\n\nConsumed upon use.</string>-->
+    <string id="101658">&#xA005;Expert Lure</string>
+<!--        <string id="101659">A lure which attracts wild {STRING_0} for 250 steps. It has several effects while active:\n\n- Encounter rates increased by +10%\n- Foes are slightly stronger than normal {STRING_0} in the area\n- You may encounter more foes at the same time\n- 5% chance to encounter lure-exclusive species\n\nConsumed upon use.</string>-->
+    <string id="101709">&#xA006;Legendary Lure</string>
+<!--        <string id="101710">A special lure which attracts roaming Legendary {STRING_0} and others for 300 steps. It has several effects while active:\n\n- +15% encounter rates\n- +30% chance to encounter a Roaming Legendary if not already captured\n- Foes are stronger than normal encounters in the area\n- You may encounter more foes at the same time\n- 8% chance to encounter lure-exclusive species\n\nConsumed upon use.</string>-->
+    <string id="101660">&#xA007;Premium Lure</string>
+<!--        <string id="101661">A premium lure which attracts wild {STRING_0} for 200 steps. It has several effects while active:\n\n- +25% encounter rates\n- Foes are stronger than normal encounters in the area\n- You may encounter more foes at the same time\n- 10% chance to encounter lure-exclusive species\n- Small hordes (3) may increase in size\n- If you encounter a Shiny {STRING_0}, "Secret Shiny" rates are increased by +25%\n\nConsumed upon use.</string>-->
+    <string id="101662">&#xA008;Premium Super Lure</string>
+<!--        <string id="101663">A premium lure which attracts wild {STRING_0} for 300 steps. It has several effects while active:\n\n- +25% encounter rates\n- Foes are stronger than normal encounters in the area\n- You may encounter more foes at the same time\n- 10% chance to encounter lure-exclusive species\n- Small hordes (3) may increase in size\n- If you encounter a Shiny {STRING_0}, "Secret Shiny" rates are increased by +25%\n\nConsumed upon use.</string>-->
+    <string id="101664">&#xA009;Premium Max Lure</string>
+<!--        <string id="101665">A premium lure which attracts wild {STRING_0} for 400 steps. It has several effects while active:\n\n- +25% encounter rates\n- Foes are stronger than normal encounters in the area\n- You may encounter more foes at the same time\n- 10% chance to encounter lure-exclusive species\n- Small hordes (3) may increase in size\n- If you encounter a Shiny {STRING_0}, "Secret Shiny" rates are increased by +25%\n\nConsumed upon use.</string>-->
+
+    <string id="101302">&#xA010;{STRING_110019} Ocarina</string><!--Fly-->
+    <string id="101300">&#xA011;{STRING_110015} Ocarina</string><!--Cut-->
+    <string id="101310">&#xA012;{STRING_110249} Ocarina</string><!--Rock Smash-->
+    <string id="101306">&#xA013;{STRING_110070} Ocarina</string><!--Strength-->
+    <string id="101316">&#xA014;{STRING_110431} Ocarina</string><!--Rock Climb-->
+    <string id="101304">&#xA015;{STRING_110057} Ocarina</string><!--Surf-->
+    <string id="101312">&#xA016;{STRING_110127} Ocarina</string><!--Waterfall-->
+    <string id="101314">&#xA017;{STRING_110291} Ocarina</string><!--Dive-->
+    <string id="101320">&#xA018;{STRING_110250} Ocarina</string><!--Whirlpool-->
+    <string id="101308">&#xA019;{STRING_110148} Ocarina</string><!--Flash-->
+    <string id="101318">&#xA020;{STRING_110432} Ocarina</string><!--Defog-->
+    <string id="101322">&#xA021;{STRING_110091} Ocarina</string><!--Dig-->
+    <string id="101324">&#xA022;{STRING_110100} Ocarina</string><!--Teleport-->
+    <string id="101326">&#xA023;{STRING_110029} Ocarina</string><!--HeadButt-->
+
+    <string id="245078">&#xA024;Escape Rope</string>
+    <string id="245094">&#xA025;Honey</string>
+
+    <!--Breeding Items-->
+    <string id="245229">&#xB;&#xA000;Everstone</string>
+    <string id="245294">&#xB;&#xA001;Power Weight (HP)</string>
+    <string id="245289">&#xB;&#xA002;Power Bracer (ATK)</string>
+    <string id="245290">&#xB;&#xA003;Power Belt (DEF)</string>
+    <string id="245291">&#xB;&#xA004;Power Lens (Sp.ATK)</string>
+    <string id="245292">&#xB;&#xA005;Power Band (Sp.DEF)</string>
+    <string id="245293">&#xB;&#xA006;Power Anklet (SPEED)</string>
+    <string id="245254">&#xB;&#xA007;Sea Incense (Water)</string>
+    <string id="245255">&#xB;&#xA008;Lax Incense (DEF)</string>
+    <string id="135255">An item to be held by a {STRING_0}.\nIt slightly reduces the foe's Accuracy by 10%.\n\nIf held by a {STRING_150202} while breeding, it may help them produce a {STRING_150360} egg.</string>
+    <string id="245320">&#xB;&#xA009;Pure Incense (Repel)</string>
+    <string id="135320">An item to be held by a {STRING_0}.\nIt slightly reduces the chance of encountering wild {STRING_0} by a third.\n\nIf held by a {STRING_150358} while breeding, it may help them produce a {STRING_150433} egg.</string>
+    <string id="245319">&#xB;&#xA010;Luck Incense</string>
+    <string id="245318">&#xB;&#xA011;Rose Incense (Grass)</string>
+    <string id="245317">&#xB;&#xA012;Wave Incense (Water)</string>
+    <string id="245316">&#xB;&#xA013;Full Incense (SPEED-)</string>
+    <string id="245315">&#xB;&#xA014;Rock Incense (Rock)</string>
+    <string id="245314">&#xB;&#xA015;Odd Incense (Psychic)</string>
+
+    <!--Hold Items-->
+                <!--Offensive Items-->
+    <string id="245220">&#xC;&#xA000;Choice Band (ATK)</string>
+    <string id="245297">&#xC;&#xA001;Choice Specs (ATK)</string>
+    <string id="245287">&#xC;&#xA002;Choice Scarf (ATK)(SPEED)</string>
+    <string id="101192">&#xC;&#xA003;Punching Glove (ATK)</string>
+    <string id="245266">&#xC;&#xA004;Muscle Band (ATK)</string>
+    <string id="245270">&#xC;&#xA005;Life Orb (ATK)</string>
+    <string id="245268">&#xC;&#xA006;Expert Belt (ATK)</string>
+    <string id="245296">&#xC;&#xA007;Big Root (ATK)</string>
+        <string id="135296">A Pokémon held item that boosts the\npower of HP-stealing moves to let the\nholder recover more HP.\n\nit restores 30% more HP than it otherwise would. Additionally, a Pokémon holding a Big Root regains 30% more HP from Leech Seed, Ingrain and Aqua Ring.</string>
+    <string id="245277">&#xC;&#xA008;Metronome (ATK)</string>
+    <string id="245286">&#xC;&#xA009;Grip Claw (ATK)</string>
+    <string id="101198">&#xC;&#xA00A;Loaded Dice (ATK)</string>
+    <string id="245544">&#xC;&#xA00B;Binding Band (ATK)</string>
+    <string id="245253">&#xC;&#xA00C;Shell Bell (ATK)</string>
+    <string id="245267">&#xC;&#xA00D;Wise Glasses (ATK)</string>
+        <string id="135267">An item to be held by a Pokémon. It is\na thick pair of glasses that slightly\nboosts the power of special moves by 10%.</string>
+    <string id="245265">&#xC;&#xA00E;Wide Lens (ATK)</string>
+        <string id="135265">An item to be held by a Pokémon.\nIt is a magnifying lens that slightly\nboosts the accuracy of moves by 10%.</string>
+    <string id="245232">&#xC;&#xA00F;Scope Lens (ATK)</string>
+        <string id="135232">An item to be held by a Pokémon.\nIt is a lens that boosts the holder's\ncritical-hit ratio by 1 stage.</string>
+    <string id="245276">&#xC;&#xA010;Zoom Lens (ATK)</string>
+        <string id="135276">An item to be held by a Pokémon.\nIf the holder moves after its target,\nits accuracy will be boosted by %20.</string>
+    <string id="245225">&#xC;&#xA011;Soul Dew (ATK)</string>
+    <string id="245135">&#xC;&#xA012;Adamant Orb (ATK)</string>
+    <string id="135135">A brightly gleaming orb to be held by\nDialga. It boosts the power of Dragon-\nand Steel-type moves by 20%.</string>
+    <string id="245136">&#xC;&#xA013;Lustrous Orb (ATK)</string>
+    <string id="135136">A beautifully glowing orb to be held by\nPalkia. It boosts the power of Dragon-\nand Water-type moves by 20%.</string>
+    <string id="245112">&#xC;&#xA014;Griseous Orb (ATK)</string>
+        <string id="135112">A glowing orb to be held by Giratina.\nIt boosts the power of Dragon- and\nGhost-type moves by 20%.</string>
+    <string id="245236">&#xC;&#xA015;Light Ball (ATK)</string>
+    <string id="245258">&#xC;&#xA016;Thick Club (ATK)</string>
+    <string id="135258">An item to be held by Cubone or\nMarowak. It is a hard bone of some\nsort that boosts the Attack stat by double.</string>
+    <string id="245226">&#xC;&#xA017;DeepSeaTooth (ATK)</string>
+    <string id="135226">An item to be held by Clamperl.\nA fang that gleams a sharp silver, it\nraises the Sp. Atk stat by double.</string>
+    <string id="245259">&#xC;&#xA018;Leek (ATK)</string>
+    <string id="135259">An item to be held by Farfetch'd. It is\na very long and stiff stalk of leek\nthat boosts the critical-hit ratio by\n2 stages.</string>
+    <string id="245256">&#xC;&#xA019;Lucky Punch (ATK)</string>
+        <string id="135256">An item to be held by Chansey. It is a\npair of gloves that boosts Chansey's\ncritical-hit ratio by 2 stages.</string>
+
+            <!--Consumable Offensive Items-->
+    <string id="245271">&#xC;&#xA100;Power Herb (ATK)</string>
+    <string id="101228">&#xC;&#xA101;Weakness Policy (ATK)</string>
+    <string id="101230">&#xC;&#xA102;Blunder Policy (ATK)</string>
+    <string id="101234">&#xC;&#xA103;Throat Spray (ATK)</string>
+        <string id="101235">An item to be held by a {STRING_0}. When the holder successfully uses a sound-based move, Sp. Attack is raised by 1 stage.\n\nConsumed upon use.</string>
+    <string id="101232">&#xC;&#xA104;Mirror Herb (ATK)</string>
+    <string id="101246">&#xC;&#xA105;Snowball (ATK)</string>
+        <string id="101247">An item to be held by a {STRING_0}. If the holder is hit by an Ice-type move, their Attack will increase by 1 stage.\n\nConsumed upon use.</string>
+    <string id="245545">&#xC;&#xA106;Absorb Bulb (ATK)</string>
+        <string id="135545">A consumable bulb. If the holder is hit\nby a Water-type move, its Sp. Atk\nwill rise by 1 stage.</string>
+    <string id="245546">&#xC;&#xA107;Cell Battery (ATK)</string>
+        <string id="135546">A consumable battery. If the\nholder is hit by an Electric-type\nmove, its Attack will rise by 1 stage.</string>
+
+    <!--Defensive Items-->
+    <string id="101178">&#xC;&#xA200;Assault Vest (DEF)</string>
+    <string id="245538">&#xC;&#xA201;Eviolite (DEF)</string>
+        <string id="135538">A mysterious evolutionary lump. When\nheld, it raises the Defense and Sp. Def by 50% of a Pokémon that can still evolve.</string>
+    <string id="245234">&#xC;&#xA202;Leftovers (DEF)</string>
+    <string id="245281">&#xC;&#xA203;Black Sludge (DEF)</string>
+    <string id="245269">&#xC;&#xA204;Light Clay (DEF)</string>
+    <string id="245272">&#xC;&#xA205;Toxic Orb (DEF)</string>
+    <string id="245273">&#xC;&#xA206;Flame Orb (DEF)</string>
+    <string id="245540">&#xC;&#xA207;Rocky Helmet (DEF)</string>
+    <string id="101180">&#xC;&#xA208;Heavy-Duty Boots (DEF)</string>
+    <string id="101194">&#xC;&#xA209;Pure Amulet (DEF)</string>
+    <string id="101196">&#xC;&#xA210;Covert Cloak (DEF)</string>
+    <string id="245230">&#xC;&#xA211;Focus Band (DEF)</string>
+        <string id="135230">An item to be held by a Pokémon.\nThe holder may endure a potential KO\nattack, leaving it with just 1HP 12% of the time.</string>
+    <string id="101226">&#xC;&#xA212;Safety Goggles (DEF)</string>
+    <string id="101238">&#xC;&#xA213;Protective Pads (DEF)</string>
+    <string id="101236">&#xC;&#xA214;Ability Shield (DEF)</string>
+    <string id="101244">&#xC;&#xA215;Utility Umbrella (DEF)</string>
+    <string id="245543">&#xC;&#xA216;Ring Target (DEF)</string>
+    <string id="245280">&#xC;&#xA217;Destiny Knot (DEF)</string>
+    <string id="245288">&#xC;&#xA218;Sticky Barb (DEF)</string>
+    <string id="245213">&#xC;&#xA219;BrightPowder (DEF)</string>
+        <string id="135213">An item to be held by a POKéMON.\nIt casts a tricky glare that lowers\nthe opponent's accuracy by 10%. The effect does not apply to one-hit KO moves</string>
+    <string id="245257">&#xC;&#xA220;Metal Powder (DEF)</string>
+        <string id="135257">An item to be held by Ditto.\nExtremely fine yet hard, this odd\npowder boosts the Defense stat by double. It does not work when Ditto is transformed.</string>
+    <string id="245227">&#xC;&#xA221;DeepSeaScale (DEF)</string>
+        <string id="135227">An item to be held by Clamperl.\nA scale that shines a faint pink, it\nraises the Sp. Def stat by 50%.</string>
+
+    <!--Consumable Defensive Items-->
+    <string id="245275">&#xC;&#xA300;Focus Sash (DEF)</string>
+    <string id="245541">&#xC;&#xA301;Air Balloon (DEF)</string>
+        <string id="135541">When held by a Pokémon, the Pokémon\nwill float into the air. When the holder\nis attacked, this item will burst.\n\nThis item is consumed upon use.</string>
+    <string id="245542">&#xC;&#xA302;Red Card (DEF)</string>
+    <string id="135542">A card with a mysterious power. When\nthe holder is struck by a foe, the\nattacker is removed from battle.\n\nThis item is consumed upon use.</string>
+    <string id="245547">&#xC;&#xA303;Eject Button (DEF)</string>
+    <string id="135547">If the holder is hit by an attack, it will\nswitch with another Pokémon in\nyour party.\n\nThis item is consumed upon use.</string>
+    <string id="101242">&#xC;&#xA304;Eject Pack (DEF)</string>
+    <string id="101248">&#xC;&#xA305;Luminous Moss (DEF)</string>
+    <string id="101249">An item to be held by a {STRING_0}. If the holder is hit by a Water-type move, their Sp. Defense will increase by 1 stage.\n\nConsumed upon use.</string>
+    <string id="245214">&#xC;&#xA306;White Herb (DEF)</string>
+    <string id="135214">A held item which restores any negative stat stage in battle.\n\nThis item is consumed upon use.</string>
+    <string id="245219">&#xC;&#xA307;Mental Herb (DEF)</string>
+
+    <!--Speed/Run-->
+    <string id="245217">&#xC;&#xA350;Quick Claw (SPEED+)</string>
+    <string id="135217">An item to be held by a Pokémon.\nA light, sharp claw that lets the\nbearer move first occasionally by 20% regardless of Trick Room and Stall.</string>
+    <string id="245295">&#xC;&#xA351;Shed Shell (SPEED+)</string>
+    <string id="245274">&#xC;&#xA352;Quick Powder (SPEED+)</string>
+    <string id="135274">An item to be held by Ditto.\nExtremely fine yet hard, this odd\npowder boosts the Speed stat by double. It does not work when Ditto is transformed.</string>
+    <string id="245279">&#xC;&#xA353;Lagging Tail (SPEED-)</string>
+        <string id="135279">An item to be held by a Pokémon.\nIt is tremendously heavy and makes\nthe holder move slower than usual.\n\nForces the holder to move last in its priority bracket, regardless of its Speed</string>
+    <string id="245278">&#xC;&#xA354;Iron Ball (SPEED-)</string>
+        <string id="135278">A Pokémon held item that cuts Speed in half.\nIt makes Flying-type and levitating\nholders susceptible to Ground moves.</string>
+    <string id="101240">&#xC;&#xA355;Room Service (SPEED-)</string>
+    <string id="101241">An item to be held by a {STRING_0}. When {STRING_110433} takes effect, the holder's Speed is lowered by 1 stage.\n\nThis item is consumed upon use.</string>
+
+    <!--Change properties of user Items-->
+    <string id="245539">&#xC;&#xA400;Float Stone (Weight)</string>
+    <string id="135539">A very light stone. It reduces the\nweight of a Pokémon by half when held.</string>
+
+    <!--Weather Items-->
+    <string id="245284">&#xC;&#xA400;Heat Rock (Sun)</string>
+    <string id="245285">&#xC;&#xA401;Damp Rock (Rain)</string>
+    <string id="245283">&#xC;&#xA402;Smooth Rock (Sand)</string>
+    <string id="245282">&#xC;&#xA403;Icy Rock (Snow)</string>
+
+                <!--Raising/out of battle Items-->
+    <string id="245228">&#xC;&#xA600;Smoke Ball (Repel)</string>
+    <string id="245224">&#xC;&#xA601;Cleanse Tag (Repel)</string>
+    <string id="135224">An item to be held by a Pokémon.\nIt helps keep wild Pokémon away by a third if the holder is the first one in the party.</string>
+    <string id="100000">&#xC;&#xA602;Training Link (Train)</string>
+    <string id="245216">&#xC;&#xA603;Exp. Share (Train)</string>
+    <string id="245218">&#xC;&#xA604;Soothe Bell (Train)</string>
+    <string id="245215">&#xC;&#xA605;Macho Brace (Train)</string>
+
+                <!--20% Type Boost Items-->
+    <string id="245251">&#xD;&#xA001;Silk Scarf (Normal)</string>
+    <string id="245241">&#xD;&#xA002;Black Belt (Fighting)</string>
+    <string id="245244">&#xD;&#xA003;Sharp Beak (Flying)</string>
+    <string id="245245">&#xD;&#xA004;Poison Barb (Poison)</string>
+    <string id="245237">&#xD;&#xA005;Soft Sand (Ground)</string>
+    <string id="245238">&#xD;&#xA006;Hard Stone (Rock)</string>
+    <string id="245222">&#xD;&#xA007;SilverPowder (Bug)</string>
+    <string id="245247">&#xD;&#xA008;Spell Tag (Ghost)</string>
+    <string id="245249">&#xD;&#xA009;Charcoal (Fire)</string>
+    <string id="245243">&#xD;&#xA010;Mystic Water (Water)</string>
+    <string id="245239">&#xD;&#xA011;Miracle Seed (Grass)</string>
+    <string id="245242">&#xD;&#xA012;Magnet (Electric)</string>
+    <string id="245248">&#xD;&#xA013;TwistedSpoon (Psychic)</string>
+    <string id="245246">&#xD;&#xA014;NeverMeltIce (Ice)</string>
+    <string id="245250">&#xD;&#xA015;Dragon Fang (Dragon)</string>
+    <string id="245240">&#xD;&#xA016;BlackGlasses (Dark)</string>
+
+    <!--Plates Items-->
+    <string id="245303">&#xD;&#xA101;Fist Plate (Fighting)</string>
+        <string id="135303">An item to be held by a Pokémon.\nIt is a stone tablet that boosts the\npower of Fighting-type moves by 20%.</string>
+    <string id="245306">&#xD;&#xA102;Sky Plate (Flying)</string>
+        <string id="135306">An item to be held by a Pokémon.\nIt is a stone tablet that boosts the\npower of Flying-type moves by 20%.</string>
+    <string id="245304">&#xD;&#xA103;Toxic Plate (Poison)</string>
+        <string id="135304">An item to be held by a Pokémon.\nIt is a stone tablet that boosts the\npower of Poison-type moves by 20%.</string>
+    <string id="245305">&#xD;&#xA104;Earth Plate (Ground)</string>
+        <string id="135305">An item to be held by a Pokémon.\nIt is a stone tablet that boosts the\npower of Ground-type moves by 20%.</string>
+    <string id="245309">&#xD;&#xA105;Stone Plate (Rock)</string>
+        <string id="135309">An item to be held by a Pokémon.\nIt is a stone tablet that boosts the\npower of Rock-type moves by 20%.</string>
+    <string id="245308">&#xD;&#xA106;Insect Plate (Bug)</string>
+        <string id="135308">An item to be held by a Pokémon.\nIt is a stone tablet that boosts the\npower of Bug-type moves by 20%.</string>
+    <string id="245310">&#xD;&#xA107;Spooky Plate (Ghost)</string>
+        <string id="135310">An item to be held by a Pokémon.\nIt is a stone tablet that boosts the\npower of Ghost-type moves by 20%.</string>
+    <string id="245313">&#xD;&#xA108;Iron Plate (Steel)</string>
+        <string id="135313">An item to be held by a Pokémon.\nIt is a stone tablet that boosts the\npower of Steel-type moves by 20%.</string>
+    <string id="245298">&#xD;&#xA109;Flame Plate (Fire)</string>
+        <string id="135298">An item to be held by a Pokémon.\nIt is a stone tablet that boosts the\npower of Fire-type moves by 20%.</string>
+    <string id="245299">&#xD;&#xA110;Splash Plate (Water)</string>
+        <string id="135299">An item to be held by a Pokémon.\nIt is a stone tablet that boosts the\npower of Water-type moves by 20%.</string>
+    <string id="245301">&#xD;&#xA111;Meadow Plate (Grass)</string>
+        <string id="135301">An item to be held by a Pokémon.\nIt is a stone tablet that boosts the\npower of Grass-type moves by 20%.</string>
+    <string id="245300">&#xD;&#xA112;Zap Plate (Electric)</string>
+        <string id="135300">An item to be held by a Pokémon.\nIt is a stone tablet that boosts the\npower of Electric-type moves by 20%.</string>
+    <string id="245307">&#xD;&#xA113;Mind Plate (Psychic)</string>
+        <string id="135307">An item to be held by a Pokémon.\nIt is a stone tablet that boosts the\npower of Psychic-type moves by 20%.</string>
+    <string id="245302">&#xD;&#xA114;Icicle Plate (Ice)</string>
+        <string id="135302">An item to be held by a Pokémon.\nIt is a stone tablet that boosts the\npower of Ice-type moves by 20%.</string>
+    <string id="245311">&#xD;&#xA115;Draco Plate (Dragon)</string>
+        <string id="135311">An item to be held by a Pokémon.\nIt is a stone tablet that boosts the\npower of Dragon-type moves by 20%.</string>
+    <string id="245312">&#xD;&#xA116;Dread Plate (Dark)</string>
+        <string id="135312">An item to be held by a Pokémon.\nIt is a stone tablet that boosts the\npower of Dark-type moves by 20%.</string>
+
+    <!--Gems Items-->
+    <string id="245564">&#xD;&#xA201;Normal Gem</string>
+    <string id="245553">&#xD;&#xA202;Fighting Gem</string>
+    <string id="245556">&#xD;&#xA203;Flying Gem</string>
+    <string id="245554">&#xD;&#xA204;Poison Gem</string>
+    <string id="245555">&#xD;&#xA205;Ground Gem</string>
+    <string id="245559">&#xD;&#xA206;Rock Gem</string>
+    <string id="245558">&#xD;&#xA207;Bug Gem</string>
+    <string id="245560">&#xD;&#xA208;Ghost Gem</string>
+    <string id="245563">&#xD;&#xA209;Steel Gem</string>
+    <string id="245548">&#xD;&#xA210;Fire Gem</string>
+    <string id="245549">&#xD;&#xA211;Water Gem</string>
+    <string id="245551">&#xD;&#xA212;Grass Gem</string>
+    <string id="245550">&#xD;&#xA213;Electric Gem</string>
+    <string id="245557">&#xD;&#xA214;Psychic Gem</string>
+    <string id="245552">&#xD;&#xA215;Ice Gem</string>
+    <string id="245561">&#xD;&#xA216;Dragon Gem</string>
+    <string id="245562">&#xD;&#xA217;Dark Gem</string>
+
+                    <!--Evolution Items-->
+    <string id="245233">&#xD;&#xA301;Metal Coat (Steel)(EVO)</string>
+    <string id="245221">&#xD;&#xA302;King's Rock (ATK)(EVO)</string>
+    <string id="135221">An item to be held by a Pokémon.\nWhen the holder inflicts damage,\nthe target may flinch by 10%. Effect does not apply to moves that already grant flinch or multi hit moves.</string>
+    <string id="245327">&#xD;&#xA303;Razor Fang (ATK)(EVO)</string>
+    <string id="135327">An item to be held by a Pokémon.\nIt may make foes and allies flinch\nwhen the holder inflicts damage by 10%.</string>
+    <string id="245326">&#xD;&#xA304;Razor Claw (ATK)(EVO)</string>
+    <string id="135326">An item to be held by a Pokémon.\nIt is a sharply hooked claw that ups\nthe holder's critical-hit ratio by 1 stage.</string>
+
+    <string id="245252">&#xD;&#xA305;Up-Grade (EVO)</string>
+    <string id="245324">&#xD;&#xA306;Dubious Disc (EVO)</string>
+    <string id="245321">&#xD;&#xA307;Protector (EVO)</string>
+    <string id="245322">&#xD;&#xA308;Electirizer (EVO)</string>
+    <string id="245323">&#xD;&#xA309;Magmarizer (EVO)</string>
+    <string id="245325">&#xD;&#xA310;Reaper Cloth (EVO)</string>
+    <string id="245235">&#xD;&#xA311;Dragon Scale (EVO)</string>
+    <string id="245537">&#xD;&#xA312;Prism Scale (EVO)</string>
+    <string id="245110">&#xD;&#xA313;Oval Stone (EVO)</string>
+
+    <string id="245082">&#xD;&#xA314;Fire Stone (EVO)</string>
+    <string id="245084">&#xD;&#xA315;Water Stone (EVO)</string>
+    <string id="245083">&#xD;&#xA316;Thunderstone (EVO)</string>
+    <string id="245080">&#xD;&#xA317;Sun Stone (EVO)</string>
+    <string id="245081">&#xD;&#xA318;Moon Stone (EVO)</string>
+    <string id="245085">&#xD;&#xA319;Leaf Stone (EVO)</string>
+    <string id="245107">&#xD;&#xA320;Shiny Stone (EVO)</string>
+    <string id="245108">&#xD;&#xA321;Dusk Stone (EVO)</string>
+    <string id="245109">&#xD;&#xA322;Dawn Stone (EVO)</string>
+
+    <!--Boost Items-->
+    <string id="245223">Amulet Coin (+50%)</string>
+    <string id="101130">Small Lucky Egg (+50%)</string>
+    <string id="245231">Lucky Egg (+100%)</string>
+
+    <!--Misc Items-->
+
+    <!--Important Perma Items-->
+    <string id="101652">&#xE;&#x0;Exp. Reamplifier (Train)</string>
+
+    <!--Summon Items-->
+    <string id="101752">&#xE;&#x1;{STRING_150491} Summoning Orb</string>
+    <string id="101758">&#xE;&#x2;Mystic Watch</string>
+
+    <!--Anniversary Items-->
+    <string id="101170">&#xE;&#x3;Anniversary Medallion</string>
+
+    <!--Halloween Items-->
+    <string id="101764">&#xE;&#x4;Dream Sphere</string>
+    <string id="101765">A hypnotizing sphere. Gazing into it makes you feel drowsy..\n\n Use to enter New moon Island and fight Darkrai.</string>
+
+    <string id="101762">&#xE;&#x5;Strange Chunk</string>
+        <string id="101763">A reward for defeating a Raid Boss. It seems attracted to other Strange Chunks.\n\n Collect all to create a {STRING_101764} and obtain Darkrai at New moon Island.</string>
+
+    <string id="100033">&#xE;&#x6;Kids Candy (Spooky)</string> <!--candy from kids-->
+        <string id="100034">A scary looking snack that can feed 1 to a Miniboss or 5 to the Pumpking\n\n Locations of the Pumpking:\n K: Lavender Town\n J: Ecruteak City\n H: Fallarbor Town\n S: Solaceon Town\n U: Driftveil City</string>
+
+    <string id="100080">&#xE;&#x7;Pumpking Candy (Special)</string> <!--candy from PK miniboss-->
+        <string id="100081">A fancy looking snack that can be feed to the Pumpking\n\n Locations of the Pumpking:\n K: Lavender Town\n J: Ecruteak City\n H: Fallarbor Town\n S: Solaceon Town\n U: Driftveil City</string>
+
+    <!--Xmas Items-->
+    <string id="101778">&#xE;&#x3;Wishing Star</string>
+    <string id="101779">A culmination of hopes and dreams.\n\n Use to enter Birth Island and fight Jirachi.</string>
+
+    <string id="101776">&#xE;&#x4;{STRING_0}'s Wish Tag</string>
+    <string id="101777">Although only marked with a footprint, you can feel it represents that which a {STRING_0} desires most.\n\n Collect all to create a {STRING_101778} and obtain Jirachi at Birth Island.</string>
+
+    <string id="101722">&#xE;&#x5;Lost Big Present</string>
+        <string id="101723">A big, fancy looking present.\n\nSanta's looking for these.\nCan be exchanged in bundles of 5.\n\n Locations of Santa:\n K: Vermilion City\n J: Olivine City\n H: Slateport City\n S: Hearthome City\n U: Castelia City</string>
+
+    <string id="101670">&#xE;&#x6;Lost Present</string>
+        <string id="101671">A fancy looking present.\n\nSanta's looking for these.\nCan be exchanged in bundles of 5.\n\n Locations of Santa:\n K: Vermilion City\n J: Olivine City\n H: Slateport City\n S: Hearthome City\n U: Castelia City</string>
+
+    <!--LNY Items-->
+    <string id="101684">&#xE;&#x3;Rabbit Zodiac Tablet (1/12)</string>
+        <string id="101685">A mysterious tablet embossed with a rabbit.\nCollecting more of these may lead to special encounters.\n\n Raid dens of the Rabbit:\n K:Berry Forest\n J:Route 35\n H:Route 123 (Surf)\n S:Route 217\n U:Dreamyard</string>
+    <string id="101682">&#xE;&#x4;Tiger Zodiac tablet (2/12)</string>
+        <string id="101683">A mysterious tablet embossed with a tiger.\nCollecting more of these may lead to special encounters.\n\n Raid dens of the Tiger:\n K: Route 7\n J: Route 47 (Surf,Waterfall)\n H: Route 115 (Surf)\n S: Route 222\n U: Route 1 (Surf)</string>
+    <string id="101700">&#xE;&#x5;Pig Zodiac Tablet (3/12)</string>
+        <string id="101701">A mysterious tablet embossed with a pig.\nCollecting more of these may lead to special encounters.\n\n Raid dens of the Pig:\n K: Mt.Ember (Surf,Strength,RockSmash)\n J: Ruins Of Alph\n H: Mt.Chimney\n S: Route 225 (Surf)\n U: GiantChasm</string>
+    <string id="101690">&#xE;&#x6;Horse Zodiac Tablet (4/12)</string>
+        <string id="101691">A mysterious tablet embossed with a horse.\nCollecting more of these may lead to special encounters.\n\n Raid dens of the Horse:\n K: Route 16 (Cut)\n J: Route 44\n H: Route 117\n S: Fuego Ironworks (Surf)\n U: Route 2 (Cut)</string>
+    <string id="101698">&#xE;&#x7;Dog Zodiac tablet (5/12)</string>
+        <string id="101699">A mysterious tablet embossed with a dog.\nCollecting more of these may lead to special encounters.\n\n Raid dens of the Dog:\n K: WaterPath\n J: Route 32\n H: Route 111\n S: Route 221 (Surf)\n U: Route 4</string>
+    <string id="101692">&#xE;&#x8;Goat Zodiac tablet (6/12)</string>
+        <string id="101693">A mysterious tablet embossed with a goat.\nCollecting more of these may lead to special encounters.\n\n Raid dens of the Goat:\n K: Route 10\n J: Route 45\n H: Route120 (Cut)\n S: Route 210 (RockClimb)\n U: Route 18</string>
+    <string id="101688">&#xE;&#x9;Snake Zodiac tablet (7/12)</string>
+        <string id="101689">A mysterious tablet embossed with a snake.\nCollecting more of these may lead to special encounters.\n\n Raid dens of the Snake:\n K: Mt.Moon \n J: DarkCave (Flash,Surf)\n H: GraniteCave\n S: IronIsland\n U: GuidanceChamber Mistralton Cave (Strength,RockSmash)</string>
+    <string id="101694">&#xE;&#x10;Monkey Zodiac tablet (8/12)</string>
+        <string id="101695">A mysterious tablet embossed with a monkey.\nCollecting more of these may lead to special encounters.\n\n Raid dens of the Monkey:\n K: ViridianForest\n J: IlexForest\n H: Petalburg Woods\n S: Eterna Forest\n U: Lostlorn Forest</string>
+    <string id="101680">&#xE;&#x11;Ox Zodiac tablet (9/12)</string>
+        <string id="101681">A mysterious tablet embossed with a ox.\nCollecting more of these may lead to special encounters.\n\n Raid dens of the Ox:\n K: Route 11\n J: Route 39\n H: Route 116 (Cut)\n S: Route 214\n U: audant Shrine</string>
+    <string id="101696">&#xE;&#x12;Rooster Zodiac tablet (10/12)</string>
+        <string id="101697">A mysterious tablet embossed with a rooster.\nCollecting more of these may lead to special encounters.\n\n Raid dens of the Rooster:\n K: SevaultCanyon\n J: Route 46 (RockClimb)\n H: Route 111 (MachBike)\n S: Route 207\n U: DesertResort</string>
+    <string id="101678">&#xE;&#x13;Rat Zodiac tablet (11/12)</string>
+        <string id="101679">A mysterious tablet embossed with a rat.\nCollecting more of these may lead to special encounters.\n\n Raid dens of the Rat:\n K: VictoryRoad (Strength)\n J: VictoryRoad (Strength)\n H: VictoryRoad\n S: RavagedPath (Surf,RockSmash)\n U: TwistMountain</string>
+    <string id="101686">&#xE;&#x14;Dragon Zodiac tablet (12/12)</string>
+        <string id="101687">A mysterious tablet embossed with a dragon.\nCollecting more of these may lead to special encounters.\n\n Raid dens of the Dragon:\n K: Route 21\n J: Dragon's Den (Surf,Whirlpool)\n H: Route 119\n S: Route 212 (Cut)\n U: Route 14 (Surf,Waterfall)</string>
+
+    <string id="101786">&#xE;&#x15;Rejuvenated Bouquet</string>
+    <string id="101787">A bundle of flowers.\n{STRING_143063} awaits.</string>
+
+    <string id="101784">&#xE;&#x16;Wilted Bouquet</string>
+    <string id="101785">A bundle of dying flowers.\nAlthough at the end of their lives, they yearn for one final Spring.\n\n Use this and head to {STRING_143063} to catch Shaymin!</string>
+
+    <string id="101702">&#xE;&#x17;Dying Flower</string>
+    <string id="101703">A dying flower found when defeating a challenging foe.\nMaybe something can revive it?\n\n Collect 12 to create a {STRING_101784} and catch Shaymin at {STRING_143063}.</string>
+
+    <string id="101788">&#xE;&#x18;Nian Tablet</string>
+    <string id="101790">&#xE;&#x19;Blank Tablet</string>
+
+                <!--IV Changing Items-->
+    <string id="245466">&#xE;&#xA22;Gracidea (IVs)</string>
+    <string id="101707">&#xE;&#xA23;Rainbow Quill (IVs)</string>
+    <string id="101724">&#xE;&#xA24;Elemental Orb (IVs)</string>
+    <string id="101756">&#xE;&#xA25;Dream Essence (IVs)</string>
+    <string id="245458">&#xE;&#xA26;Magma Stone (IVs)</string>
+    <string id="101780">&#xE;&#xA27;Blank Wish Tag (IVs)</string>
+    <string id="101250">&#xE;&#xA28;Deep Black Sphere (IVs)</string>
+
+                <!--Nature Herbs Items-->
+    <string id="930000">&#xE;&#xA40;Hardy Nature Herb</string>
+    <string id="930001">&#xE;&#xA41;Lonely Nature Herb</string>
+    <string id="930002">&#xE;&#xA42;Brave Nature Herb</string>
+    <string id="930003">&#xE;&#xA43;Adamant Nature Herb</string>
+    <string id="930004">&#xE;&#xA44;Naughty Nature Herb</string>
+    <string id="930005">&#xE;&#xA45;Bold Nature Herb</string>
+    <string id="930006">&#xE;&#xA46;Docile Nature Herb</string>
+    <string id="930007">&#xE;&#xA47;Relaxed Nature Herb</string>
+    <string id="930008">&#xE;&#xA48;Impish Nature Herb</string>
+    <string id="930009">&#xE;&#xA49;Lax Nature Herb</string>
+    <string id="930010">&#xE;&#xA50;Timid Nature Herb</string>
+    <string id="930011">&#xE;&#xA51;Hasty Nature Herb</string>
+    <string id="930012">&#xE;&#xA52;Serious Nature Herb</string>
+    <string id="930013">&#xE;&#xA53;Jolly Nature Herb</string>
+    <string id="930014">&#xE;&#xA54;Naive Nature Herb</string>
+    <string id="930015">&#xE;&#xA55;Modest Nature Herb</string>
+    <string id="930016">&#xE;&#xA56;Mild Nature Herb</string>
+    <string id="930017">&#xE;&#xA57;Quiet Nature Herb</string>
+    <string id="930018">&#xE;&#xA58;Bashful Nature Herb</string>
+    <string id="930019">&#xE;&#xA59;Rash Nature Herb</string>
+    <string id="930020">&#xE;&#xA60;Calm Nature Herb</string>
+    <string id="930021">&#xE;&#xA61;Gentle Nature Herb</string>
+    <string id="930022">&#xE;&#xA62;Sassy Nature Herb</string>
+    <string id="930023">&#xE;&#xA63;Careful Nature Herb</string>
+    <string id="930024">&#xE;&#xA64;Quirky Nature Herb</string>
+
+                <!--Random Pokemmo Items-->
+    <string id="4004">&#xE;&#xA100;Donator Status Ticket - 30 DAYS (RP)</string>
+    <string id="4002">&#xE;&#xA101;Donator Status Ticket - 15 DAYS (RP)</string>
+    <string id="4000">&#xE;&#xA102;Donator Status Ticket - 7 DAYS (RP)</string>
+    <string id="4014">&#xE;&#xA103;1,000RP Reward Point Voucher (RP)</string>
+    <string id="4012">&#xE;&#xA104;500RP Reward Point Voucher (RP)</string>
+    <string id="4010">&#xE;&#xA105;100RP Reward Point Voucher (RP)</string>
+    <string id="4006">&#xE;&#xA106;PC Expansion (RP)</string>
+    <string id="4008">&#xE;&#xA107;PC Expansion Drive (RP)</string>
+    <string id="4018">&#xE;&#xA108;Battle Box Expansion (RP)</string>
+    <string id="4016">&#xE;&#xA109;Battle Box Expansion Drive (RP)</string>
+    <string id="100002">&#xE;&#xA110;Name Change Contract (RP)</string>
+    <string id="100011">&#xE;&#xA111;Team Name Change Plaque (RP)</string>
+    <string id="101728">&#xE;&#xA112;Mystic Mirror</string>
+    <string id="100009">&#xE;&#xA113;Makeover Kit</string>
+    <string id="101106">&#xE;&#xA114;Genderswap Ticket</string>
+    <string id="101118">&#xE;&#xA115;Infinite Transformation Potion</string>
+    <string id="101116">&#xE;&#xA116;Transformation Potion</string>
+
+    <string id="101726">&#xE;&#xA118;Wishing Stone</string>
+    <string id="101625">&#xE;&#xA119;Jump Stone</string>
+    <string id="101176">&#xE;&#xA121;Prismatic Pearl</string>
+    <string id="101114">&#xE;&#xA122;Mysterious Gem Cluster</string>
+    <string id="101164">&#xE;&#xA123;Ability Patch (Fire)</string>
+    <string id="101165">&#xE;&#xA124;Ability Patch (Grass)</string>
+    <string id="101166">&#xE;&#xA125;Ability Patch (Water)</string>
+    <string id="100089">&#xE;&#xA126;Red Firework</string>
+    <string id="100090">&#xE;&#xA127;Purple Firework</string>
+    <string id="100091">&#xE;&#xA128;Yellow Firework</string>
+    <string id="100092">&#xE;&#xA129;Green Firework</string>
+
+    <string id="101050">&#xE;&#xA130;White Dye</string>
+    <string id="101051">&#xE;&#xA131;Black Dye</string>
+    <string id="101052">&#xE;&#xA132;Blue Dye</string>
+    <string id="101053">&#xE;&#xA133;Cyan Dye</string>
+    <string id="101054">&#xE;&#xA134;Teal Dye</string>
+    <string id="101055">&#xE;&#xA134;Green Dye</string>
+    <string id="101056">&#xE;&#xA135;Olive Dye</string>
+    <string id="101057">&#xE;&#xA136;Lime Dye</string>
+    <string id="101058">&#xE;&#xA137;Yellow Dye</string>
+    <string id="101059">&#xE;&#xA138;Orange Dye</string>
+    <string id="101060">&#xE;&#xA139;Brown Dye</string>
+    <string id="101061">&#xE;&#xA140;Red Dye</string>
+    <string id="101062">&#xE;&#xA141;Pink Dye</string>
+    <string id="101063">&#xE;&#xA142;Amethyst Dye</string>
+    <string id="101064">&#xE;&#xA143;Purple Dye</string>
+    <string id="101065">&#xE;&#xA144;Violet Dye</string>
+
+                <!--Particles-->
+    <string id="11000">&#xE;&#xA200;Shiny Particle Effect</string>
+    <string id="11001">&#xE;&#xA201;Dummy Particle Effect</string>
+    <string id="11002">&#xE;&#xA202;Hitodama Particle Effect</string>
+    <string id="11003">&#xE;&#xA203;Bats Particle Effect</string>
+    <string id="11004">&#xE;&#xA204;Ghosts Particle Effect</string>
+    <string id="11005">&#xE;&#xA205;The Eye Particle Effect</string>
+    <string id="11006">&#xE;&#xA206;Pumpking's Delight Particle Effect</string>
+    <string id="11007">&#xE;&#xA207;Rising Star Particle Effect</string>
+    <string id="11008">&#xE;&#xA208;Snowflake Particle Effect</string>
+    <string id="11009">&#xE;&#xA209;Present Particle Effect</string>
+    <string id="11010">&#xE;&#xA210;Paper Lantern Particle Effect</string>
+    <string id="11011">&#xE;&#xA211;Fireworks Particle Effect</string>
+    <string id="11012">&#xE;&#xA212;Pungent Stench Particle Effect</string>
+    <string id="11013">&#xE;&#xA213;Black Hole Particle Effect</string>
+    <string id="11014">&#xE;&#xA214;Witch's Haze Particle Effect</string>
+    <string id="11015">&#xE;&#xA215;Pumpkid's Treat Particle Effect</string>
+    <string id="11016">&#xE;&#xA216;Witch's Cat Particle Effect</string>
+    <string id="11017">&#xE;&#xA217;Pumpcat Particle Effect</string>
+    <string id="11018">&#xE;&#xA218;White Kitty Particle Effect</string>
+    <string id="11019">&#xE;&#xA219;Spinning Scythe Particle Effect</string>
+    <string id="11020">&#xE;&#xA220;Spider's Web Particle Effect</string>
+    <string id="11021">&#xE;&#xA221;Zombie Grip Particle Effect</string>
+    <string id="11022">&#xE;&#xA222;Zodiac Particle Effect</string>
+    <string id="11023">&#xE;&#xA223;Eerie Howl Particle Effect</string>
+    <string id="11024">&#xE;&#xA224;Graveyard Particle Effect</string>
+    <string id="11025">&#xE;&#xA225;King's Fall Particle Effect</string>
+    <string id="11026">&#xE;&#xA226;Red Dragon Particle Effect</string>
+    <string id="11027">&#xE;&#xA227;Anniversary Cake Particle Effect</string>
+    <string id="11028">&#xE;&#xA228;{STRING_250000} Friends Particle Effect</string>
+    <string id="11029">&#xE;&#xA229;Shiny {STRING_250000} Friends Particle Effect</string>
+    <string id="11030">&#xE;&#xA230;Menacing Spirit Particle Effect</string>
+    <string id="11031">&#xE;&#xA231;Shiny Menacing Spirit Particle Effect</string>
+    <string id="11032">&#xE;&#xA232;Xmas Decorations Particle Effect</string>
+    <string id="11033">&#xE;&#xA233;Spirit of Spring Particle Effect</string>
+    <string id="11034">&#xE;&#xA234;PLAYER_PARTICLE_TEST</string>
+    <string id="11035">&#xE;&#xA235;Phantom Particle Effect</string>
+    <string id="11036">&#xE;&#xA236;Shiny Phantom Particle Effect</string>
+    <string id="11037">&#xE;&#xA237;Dark Crystal Particle Effect</string>
+    <string id="11038">&#xE;&#xA238;Shiny Dark Crystal Particle Effect</string>
+    <string id="11199">&#xE;&#xA239;Secret Shiny Particle Effect</string>
+
+                <!--Mysterious Pokeballs-->
+    <string id="101730">&#xE;&#xA250;Mysterious Cherish Ball</string>
+    <string id="101754">&#xE;&#xA251;Mysterious Dusk Ball</string>
+    <string id="101769">&#xE;&#xA252;Mysterious Poké Ball</string>
+    <string id="101771">&#xE;&#xA253;Mysterious Great Ball</string>
+    <string id="101773">&#xE;&#xA254;Mysterious Ultra Ball</string>
+    <string id="101775">&#xE;&#xA255;Mysterious Premier Ball</string>
+
+    <string id="101783">&#xE;&#xA256;Mysterious Cherish Ball (2024)</string>
+
+    <string id="101714">&#xE;&#xA257;Mysterious Poké Ball (2023)</string>
+    <string id="101716">&#xE;&#xA258;Mysterious Great Ball (2023)</string>
+    <string id="101718">&#xE;&#xA259;Mysterious Ultra Ball (2023)</string>
+    <string id="101720">&#xE;&#xA260;Mysterious Premier Ball (2023)</string>
+
+    <string id="101668">&#xE;&#xA261;Mysterious Poké Ball (2022)</string>
+    <string id="101672">&#xE;&#xA262;Mysterious Great Ball (2022)</string>
+    <string id="101674">&#xE;&#xA263;Mysterious Ultra Ball (2022)</string>
+    <string id="101676">&#xE;&#xA264;Mysterious Premier Ball (2022)</string>
+
+                <!--Sealed/Event Items-->
+    <string id="100079">&#xE;&#xA300;Pumpking Goodie Bag</string>
+    <string id="100035">&#xE;&#xA301;Goodie Bag</string>
+    <string id="101767">&#xE;&#xA302;Pumpking Goodie Bag (2023)</string>
+    <string id="101766">&#xE;&#xA303;Goodie Bag (2023)</string>
+    <string id="101712">&#xE;&#xA304;Pumpking Goodie Bag (2022)</string>
+    <string id="101711">&#xE;&#xA305;Goodie Bag (2022)</string>
+    <string id="101650">&#xE;&#xA306;Pumpking Goodie Bag (2021)</string>
+    <string id="101649">&#xE;&#xA307;Goodie Bag (2021)</string>
+    <string id="101639">&#xE;&#xA308;Pumpking Goodie Bag (2020)</string>
+    <string id="101638">&#xE;&#xA309;Goodie Bag (2020)</string>
+    <string id="101630">&#xE;&#xA310;Pumpking Goodie Bag (2019)</string>
+    <string id="101629">&#xE;&#xA311;Goodie Bag (2019)</string>
+    <string id="101602">&#xE;&#xA312;Pumpking Goodie Bag (2018)</string>
+    <string id="101600">&#xE;&#xA313;Goodie Bag (2018)</string>
+    <string id="100077">&#xE;&#xA314;Goodie Bag (2016)</string>
+    <string id="100069">&#xE;&#xA315;Goodie Bag (2015)</string>
+
+    <string id="100084">&#xE;&#xA330;Santa's Present</string>
+    <string id="100043">&#xE;&#xA331;Xmas Present</string>
+    <string id="101254">&#xE;&#xA332;Santa's Present (2022)</string>
+    <string id="101253">&#xE;&#xA333;Xmas Present (2022)</string>
+    <string id="101184">&#xE;&#xA334;Santa's Present (2021)</string>
+    <string id="101183">&#xE;&#xA335;Xmas Present (2021)</string>
+    <string id="101157">&#xE;&#xA336;Santa's Present (2020)</string>
+    <string id="101158">&#xE;&#xA337;Xmas Present (2020)</string>
+    <string id="101145">&#xE;&#xA338;Santa's Present (2018)</string>
+    <string id="101144">&#xE;&#xA339;Xmas Present (2018)</string>
+    <string id="100082">&#xE;&#xA340;Xmas Present (2017)</string>
+    <string id="100075">&#xE;&#xA341;Xmas Present (2016)</string>
+    <string id="100071">&#xE;&#xA342;Xmas Present (2015)</string>
+
+    <string id="101134">&#xE;&#xA360;Lucky Red Envelope</string>
+    <string id="101132">&#xE;&#xA361;Red Envelope</string>
+    <string id="101257">&#xE;&#xA362;Lucky Red Envelope (2024)</string>
+    <string id="101255">&#xE;&#xA363;Red Envelope (2024)</string>
+    <string id="101190">&#xE;&#xA364;Lucky Red Envelope (2023)</string>
+    <string id="101188">&#xE;&#xA365;Red Envelope (2023)</string>
+    <string id="101186">&#xE;&#xA366;Lucky Red Envelope (2022)</string>
+    <string id="101185">&#xE;&#xA367;Red Envelope (2022)</string>
+    <string id="101162">&#xE;&#xA368;Lucky Red Envelope (2021)</string>
+    <string id="101160">&#xE;&#xA369;Red Envelope (2021)</string>
+    <string id="101155">&#xE;&#xA360;Lucky Red Envelope (2020)</string>
+    <string id="101153">&#xE;&#xA371;Red Envelope (2020)</string>
+    <string id="100087">&#xE;&#xA372;Lucky Red Envelope (2019)</string>
+    <string id="100085">&#xE;&#xA373;Red Envelope (2019)</string>
+
+    <string id="101174">&#xE;&#xA380;Golden Anniversary Chest</string>
+    <string id="101172">&#xE;&#xA381;Anniversary Chest</string>
+
+    <string id="100007">&#xE;&#xA590;Mystery Box</string>
+    <string id="101099">&#xE;&#xA591;PVP Mystery Box (Legacy)</string>
+    <string id="101100">&#xE;&#xA592;PVP Mystery Box</string>
+
+                        <!--Fossils Items-->
+    <string id="245101">&#xE;&#xA600;Helix Fossil</string>
+    <string id="135101">A fossil of an ancient {STRING_150138} that\nlived in the sea. It appears to be\npart of a seashell.</string>
+    <string id="245102">&#xE;&#xA601;Dome Fossil</string>
+    <string id="135102">A fossil of an ancient {STRING_150140} that\nlived in the sea. It appears to be\npart of a shell.</string>
+    <string id="245103">&#xE;&#xA602;Old Amber (Fossil)</string>
+    <string id="135103">A piece of amber that contains the\ngenetic material of an ancient {STRING_150142}.\nIt is clear with a reddish tint.</string>
+    <string id="245099">&#xE;&#xA603;Root Fossil</string>
+    <string id="135099">A fossil of an ancient {STRING_150345} that\nlived in the sea. It appears to be\npart of a plant root.</string>
+    <string id="245100">&#xE;&#xA604;Claw Fossil</string>
+    <string id="135100">A fossil of an ancient {STRING_150347} that\nlived in the sea. It appears to be\npart of a claw.</string>
+    <string id="245104">&#xE;&#xA605;Armor Fossil</string>
+    <string id="135104">A fossil from a prehistoric {STRING_150410}\nthat lived on the land. It appears to\nbe part of a collar.</string>
+    <string id="245105">&#xE;&#xA606;Skull Fossil</string>
+    <string id="135105">A fossil from a prehistoric {STRING_150408}\nthat lived on the land. It appears to\nbe part of a head.</string>
+    <string id="245572">&#xE;&#xA607;Cover Fossil</string>
+    <string id="135572">A fossil of an ancient {STRING_150564} that\nlived in the sea in ancient times.\nIt appears to be part of its back.</string>
+    <string id="245573">&#xE;&#xA608;Plume Fossil</string>
+    <string id="135573">A fossil of an ancient {STRING_150566} that\nflew in the sky in ancient times.\nIt appears to be part of its wing.</string>
+
+    <!--Money Items-->
+    <string id="245485">&#xF;&#x0;Red Apricorn</string>
+    <string id="135485">A red Apricorn.\nUsed to craft a {STRING_245493}\n at {STRING_144129} with Kurt for $1,250.\nIt assails your nostrils.</string>
+    <string id="245486">&#xF;&#x1;Blue Apricorn</string>
+    <string id="135486">A blue Apricorn.\nUsed to craft a {STRING_245494}\n at {STRING_144129} with Kurt for $1,000.\nIt smells a bit like grass.</string>
+    <string id="245487">&#xF;&#x2;Yellow Apricorn</string>
+    <string id="135487">A yellow Apricorn.\nUsed to craft a {STRING_245498}\n at {STRING_144129} with Kurt for $500.\nIt has an invigorating scent.</string>
+    <string id="245488">&#xF;&#x3;Green Apricorn</string>
+    <string id="135488">A green Apricorn.\nUsed to craft a {STRING_245497}\n at {STRING_144129} with Kurt for $500.\nIt has a mysterious, aromatic scent.</string>
+    <string id="245489">&#xF;&#x4;Pink Apricorn</string>
+    <string id="135489">A pink Apricorn.\nUsed to craft a {STRING_245496}\n at {STRING_144129} with Kurt for $1,250.\nIt has a nice, sweet scent.</string>
+    <string id="245490">&#xF;&#x5;White Apricorn</string>
+    <string id="135490">A white Apricorn.\nUsed to craft a {STRING_245492}\n at {STRING_144129} with Kurt for $500.\nIt doesn't smell like anything.</string>
+    <string id="245491">&#xF;&#x6;Black Apricorn</string>
+    <string id="135491">A black Apricorn\nUsed to craft a {STRING_245495}\n at {STRING_144129} with Kurt for $500.\nIt has an indescribable scent.</string>
+    <string id="245093">&#xF;&#xA13;Heart Scale</string>
+    <string id="245072">&#xF;&#xA14;Red Shard (Valuable)</string>
+    <string id="245073">&#xF;&#xA15;Blue Shard (Valuable)</string>
+    <string id="245074">&#xF;&#xA16;Yellow Shard (Valuable)</string>
+    <string id="245075">&#xF;&#xA17;Green Shard (Valuable)</string>
+    <string id="245580">&#xF;&#xA18;Balm Mushroom (Valuable)</string>
+    <string id="245087">&#xF;&#xA19;Big Mushroom (Valuable)</string>
+    <string id="245086">&#xF;&#xA20;Tiny Mushroom (Valuable)</string>
+    <string id="245089">&#xF;&#xA21;Big Pearl (Valuable)</string>
+    <string id="245582">&#xF;&#xA22;Pearl String (Valuable)</string>
+    <string id="245088">&#xF;&#xA23;Pearl (Valuable)</string>
+    <string id="245581">&#xF;&#xA24;Big Nugget (Valuable)</string>
+    <string id="245092">&#xF;&#xA25;Nugget (Valuable)</string>
+    <string id="245106">&#xF;&#xA26;Rare Bone (Valuable)</string>
+    <string id="245583">&#xF;&#xA27;Comet Shard (Valuable)</string>
+    <string id="245091">&#xF;&#xA28;Star Piece (Valuable)</string>
+    <string id="245090">&#xF;&#xA29;Stardust (Valuable)</string>
+    <string id="245071">&#xF;&#xA30;Shoal Shell (Valuable)</string>
+    <string id="245070">&#xF;&#xA31;Shoal Salt (Valuable)</string>
+    <string id="245571">&#xF;&#xA32;Pretty Feather (Valuable)</string>
+
+    <string id="245065">&#xF;&#xA33;Blue Flute (Valuable)</string>
+    <string id="245066">&#xF;&#xA34;Yellow Flute (Valuable)</string>
+    <string id="245067">&#xF;&#xA35;Red Flute (Valuable)</string>
+    <string id="245068">&#xF;&#xA36;Black Flute (Valuable)</string>
+    <string id="245069">&#xF;&#xA37;White Flute (Valuable)</string>
+
+    <string id="245590">&#xF;&#xA40;Relic Crown (Valuable)</string>
+    <string id="245589">&#xF;&#xA41;Relic Statue (Valuable)</string>
+    <string id="245588">&#xF;&#xA42;Relic Band (Valuable)</string>
+    <string id="245587">&#xF;&#xA43;Relic Vase (Valuable)</string>
+    <string id="245586">&#xF;&#xA44;Relic Gold (Valuable)</string>
+    <string id="245585">&#xF;&#xA45;Relic Silver (Valuable)</string>
+    <string id="245584">&#xF;&#xA46;Relic Copper (Valuable)</string>
+
+                <!--Halloween Cookies-->
+    <string id="101603">&#xA001;Broom Cookie</string>
+    <string id="101604">&#xA002;Bat Cookie</string>
+    <string id="101605">&#xA003;Pumpkin Cookie</string>
+    <string id="101606">&#xA004;Ghost Cookie</string>
+    <string id="101607">&#xA005;Cat Cookie</string>
+    <string id="101740">&#xA006;Witch Cookie</string>
+    <string id="101742">&#xA007;Werewolf Cookie</string>
+
+                <!--Revival Items-->
+    <string id="245029">&#xA050;Max Revive (Revive)</string>
+    <string id="245028">&#xA051;Revive (Revive)</string>
+    <string id="245037">&#xA052;Revival Herb (Revive)</string>
+    <string id="245044">&#xA053;Sacred Ash (Revive)</string>
+
+                <!--HP Healing Items-->
+    <string id="245023">&#xA100;Full Restore (HP)(Status)</string>
+    <string id="245024">&#xA101;Max Potion (HP)</string>
+    <string id="101636">&#xA102;Mooncake (HP)</string>
+    <string id="245035">&#xA103;Energy Root (HP)</string>
+    <string id="245025">&#xA104;Hyper Potion (HP)</string>
+    <string id="245033">&#xA105;Moomoo Milk (HP)</string>
+    <string id="100094">&#xA106;Mandarin (HP)</string>
+    <string id="101621">&#xA107;Dumplings (HP)</string>
+    <string id="245032">&#xA108;Lemonade (HP)</string>
+    <string id="245026">&#xA109;Super Potion (HP)</string>
+    <string id="245031">&#xA110;Soda Pop (HP)</string>
+    <string id="245034">&#xA111;EnergyPowder (HP)</string>
+    <string id="245030">&#xA112;Fresh Water (HP)</string>
+    <string id="245017">&#xA113;Potion (HP)</string>
+    <string id="245043">&#xA114;Berry Juice (HP)</string>
+    <string id="245134">&#xA115;Sweet Heart (HP)</string>
+    <string id="245504">&#xA116;RageCandyBar (HP)</string>
+
+    <!--Status Healing Items-->
+    <string id="245027">&#xA150;Full Heal (Status)(HP)</string>
+    <string id="245591">&#xA151;Casteliacone (Status)</string>
+    <string id="245022">&#xA152;Parlyz Heal (Status)</string>
+    <string id="245021">&#xA153;Awakening (Status)</string>
+    <string id="245018">&#xA154;Antidote (Status)</string>
+    <string id="245019">&#xA155;Burn Heal (Status)</string>
+    <string id="245020">&#xA156;Ice Heal (Status)</string>
+    <string id="245036">&#xA157;Heal Powder (Status)</string>
+    <string id="245042">&#xA158;Lava Cookie (Status)</string>
+    <string id="245054">&#xA159;Old Gateau (Status)</string>
+
+    <!--PP Items-->
+    <string id="245041">&#xA200;Max Elixir (PP)</string>
+    <string id="245040">&#xA201;Elixir (PP)</string>
+    <string id="245039">&#xA202;Max Ether (PP)</string>
+    <string id="245038">&#xA203;Ether (PP)</string>
+
+    <!--EXP Items-->
+    <string id="245050">&#xA250;Rare Candy</string>
+    <string id="101419">&#xA251;EXP Candy (XL)</string>
+    <string id="101418">&#xA252;EXP Candy (L)</string>
+    <string id="101417">&#xA253;EXP Candy (M)</string>
+    <string id="101416">&#xA254;EXP Candy (S)</string>
+    <string id="101415">&#xA255;EXP Candy (XS)</string>
+
+    <!--Medicine Items-->
+    <string id="100031">&#xA300;Ability Pill</string>
+
+                <!--Vitamins Items-->
+    <string id="241252">&#xA501;Max HP Up (HP)</string>
+    <string id="241251">&#xA502;Hyper HP Up (HP)</string>
+    <string id="241250">&#xA503;Super HP Up (HP)</string>
+    <string id="245045">&#xA504;HP Up (HP)</string>
+    <string id="245565">&#xA505;Health Feather (HP)</string>
+
+    <string id="241255">&#xA506;Max Protein (ATK)</string>
+    <string id="241254">&#xA507;Hyper Protein (ATK)</string>
+    <string id="241253">&#xA508;Super Protein (ATK)</string>
+    <string id="245046">&#xA509;Protein (ATK)</string>
+    <string id="245566">&#xA510;Muscle Feather (ATK)</string>
+
+    <string id="241258">&#xA511;Max Iron (DEF)</string>
+    <string id="241257">&#xA512;Hyper Iron (DEF)</string>
+    <string id="241256">&#xA513;Super Iron (DEF)</string>
+    <string id="245047">&#xA514;Iron (DEF)</string>
+    <string id="245567">&#xA515;Resist Feather (DEF)</string>
+
+    <string id="241264">&#xA516;Max Calcium (Sp.ATK)</string>
+    <string id="241263">&#xA517;Hyper Calcium (Sp.ATK)</string>
+    <string id="241262">&#xA518;Super Calcium (Sp.ATK)</string>
+    <string id="245049">&#xA519;Calcium (Sp.ATK)</string>
+    <string id="245568">&#xA520;Genius Feather (Sp.ATK)</string>
+
+    <string id="241267">&#xA521;Max Zinc (Sp.DEF)</string>
+    <string id="241266">&#xA522;Hyper Zinc (Sp.DEF)</string>
+    <string id="241265">&#xA523;Super Zinc (Sp.DEF)</string>
+    <string id="245052">&#xA524;Zinc (Sp.DEF)</string>
+    <string id="245569">&#xA525;Clever Feather (Sp.DEF)</string>
+
+    <string id="241261">&#xA526;Max Carbos (SPEED)</string>
+    <string id="241260">&#xA527;Hyper Carbos (SPEED)</string>
+    <string id="241259">&#xA528;Super Carbos (SPEED)</string>
+    <string id="245048">&#xA529;Carbos (SPEED)</string>
+    <string id="245570">&#xA530;Swift Feather (SPEED)</string>
+
+    <string id="245053">&#xA531;PP Max</string>
+    <string id="245051">&#xA532;PP Up</string>
+
+    <!--Battle Items-->
+    <string id="245057">&#xA001;X Attack</string>
+    <string id="245058">&#xA002;X Defend</string>
+    <string id="245061">&#xA003;X Special Atk</string>
+    <string id="245062">&#xA004;X Special Def</string>
+    <string id="245059">&#xA005;X Speed</string>
+    <string id="245060">&#xA006;X Accuracy</string>
+    <string id="245055">&#xA007;Guard Spec.</string>
+    <string id="245056">&#xA008;Dire Hit</string>
+    <string id="245063">&#xA009;Poké Doll</string>
+    <string id="245064">&#xA010;Fluffy Tail</string>
+    <string id="245577">&#xA011;Poké Toy</string>
+
+    <!--PokeBalls-->
+    <string id="245004">&#xA000;Poké Ball</string>
+    <string id="245003">&#xA001;Great Ball</string>
+    <string id="245002">&#xA002;Ultra Ball</string>
+    <string id="245012">&#xA003;Premier Ball</string>
+    <string id="245016">&#xA004;Cherish Ball</string>
+    <string id="245007">&#xA005;Dive Ball</string>
+    <string id="245576">&#xA006;Dream Ball</string>
+        <string id="135576">A {STRING_245004} which becomes more effective the longer a wild {STRING_0} is asleep.\n{STRING_245576} increases in effectiveness\ndepending on how long the target has been asleep.\n\nAwake: 1.0x\nSleep 1st   Turn: 1.5x\nSleep 2nd Turn: 2.5x\nSleep 3rd  Turn: 4.0x</string>
+    <string id="245013">&#xA007;Dusk Ball</string>
+    <string id="245492">&#xA008;Fast Ball</string>
+        <string id="135492">A {STRING_245004} which is excellent at capturing {STRING_0} with base Speed of 100 or more.</string>
+    <string id="245497">&#xA009;Friend Ball</string>
+        <string id="135497">A {STRING_245004} which makes a {STRING_0} very happy upon capture, giving them 78% happiness. These offer a catch rate of 2.5x on {STRING_0} which have a happiness evolution in their evolution line.</string>
+    <string id="245014">&#xA010;Heal Ball</string>
+    <string id="245495">&#xA011;Heavy Ball</string>
+        <string id="135495">A Poké Ball for catching very heavy\nPokémon.\n\n1.0x for species with &#x3C; [100kg | 220.46lbs]\n2.0x for species with &#x3C; [200kg | 440.92lbs]\n3.0x for species with &#x3C; [300kg | 661.38lbs]\n4.0x for species with &#x3E;= [300kg | 661.38lbs]</string>
+    <string id="245493">&#xA012;Level Ball</string>
+    <string id="245496">&#xA013;Love Ball</string>
+    <string id="245494">&#xA014;Lure Ball</string>
+    <string id="245011">&#xA015;Luxury Ball</string>
+    <string id="245498">&#xA016;Moon Ball</string>
+        <string id="135498">A Poké Ball for catching any Pokémon in an evolution line that includes a Moon Stone evolution.</string>
+    <string id="245008">&#xA017;Nest Ball</string>
+        <string id="135008">A somewhat different {STRING_240004} that\nworks especially well on lower level\n{STRING_0} in the wild.\n\n Starting from levels 1-16 {STRING_0} catch rate is 4.0x, each lvl up a {STRING_0} goes it losses 0.2x catch rate.\n\n lvl 1-16: 4.0x    lvl 17: 3.8x\n lvl 18: 3.6x        lvl 19: 3.4x\n lvl 20: 3.2x        lvl 21: 3.0x\n lvl 22: 2.8x        lvl 23: 2.6x\n lvl 24: 2.4x        lvl 25: 2.2x\n lvl 26: 2.0x        lvl 27: 1.8x\n lvl 28: 1.6x        lvl 29: 1.4x\n lvl 30: 1.2x</string>
+    <string id="245006">&#xA018;Net Ball</string>
+        <string id="135006">A somewhat different {STRING_240004} which works especially well on Water and Bug-type {STRING_0}. It's not affected by moves or abilities which change a {STRING_0}'s typing.</string>
+    <string id="245015">&#xA019;Quick Ball</string>
+        <string id="135015">A somewhat different Poké Ball that\nprovides a better catch rate if it is\nused at the start of a wild encounter.\nIt will always capture a {STRING_0} with a\ncatch rate of 154 or higher 100%</string>
+    <string id="245009">&#xA020;Repeat Ball</string>
+        <string id="135009">A {STRING_245004} which grows in strength every consecutive capture of a species of {STRING_0} by 0.1x until a max of 15 is caught in a row. It powers up even when using a different type of {STRING_245004}. Its power is reset to 1.0x if you capture something else, or if you don't capture anything for a few days.</string>
+    <string id="245010">&#xA021;Timer Ball</string>
+        <string id="135010">A somewhat different Ball that\nbecomes progressively better the\nmore turns there are in a battle.\nEach turn that passes the catch rate increases by 0.3x.\n\nTurn 1: 1.0x        Turn 2: 1.3x\nTurn 3: 1.6x        Turn 4: 1.9x\nTurn 5: 2.2x        Turn 6: 2.5x\nTurn 7: 2.8x        Turn 8: 3.1x\nTurn 9: 3.4x        Turn 10: 3.7x\nTurn 11: 4.0x</string>
+    <string id="245001">&#xA022;Master Ball</string>
+
+    <!--Berries Items-->
+        <!--Status-->
+        <string id="245149">&#xA000;Cheri Berry (Paralysis)</string>
+        <string id="245150">&#xA001;Chesto Berry (Sleep)</string>
+        <string id="245151">&#xA002;Pecha Berry (Poison)</string>
+        <string id="245152">&#xA003;Rawst Berry (Burn)</string>
+        <string id="245153">&#xA004;Aspear Berry (Frozen)</string>
+        <string id="245154">&#xA005;Leppa Berry (PP)</string>
+        <string id="245156">&#xA006;Persim Berry (Confusion)</string>
+        <string id="245157">&#xA007;Lum Berry (Status)</string>
+        <!--Healing-->
+        <string id="245155">&#xA008;Oran Berry (HP)</string>
+        <string id="245158">&#xA009;Sitrus Berry (HP)</string>
+        <string id="245208">&#xA010;Enigma Berry (HP)</string>
+        <string id="245159">&#xA011;Figy Berry (HP)</string>
+        <string id="245160">&#xA012;Wiki Berry (HP)</string>
+        <string id="245161">&#xA013;Mago Berry (HP)</string>
+        <string id="245162">&#xA014;Aguav Berry (HP)</string>
+        <string id="245163">&#xA015;Iapapa Berry (HP)</string>
+        <!--Super Effective Reducers-->
+        <string id="245184">&#xA016;Occa Berry (Fire)</string>
+        <string id="245185">&#xA017;Passho Berry (Water)</string>
+        <string id="245186">&#xA018;Wacan Berry (Electric)</string>
+        <string id="245187">&#xA019;Rindo Berry (Grass)</string>
+        <string id="245188">&#xA020;Yache Berry (Ice)</string>
+        <string id="245189">&#xA021;Chople Berry (Fighting)</string>
+        <string id="245190">&#xA022;Kebia Berry (Poison)</string>
+        <string id="245191">&#xA023;Shuca Berry (Ground)</string>
+        <string id="245192">&#xA024;Coba Berry (Flying)</string>
+        <string id="245193">&#xA025;Payapa Berry (Psychic)</string>
+        <string id="245194">&#xA026;Tanga Berry (Bug)</string>
+        <string id="245195">&#xA027;Charti Berry (Rock)</string>
+        <string id="245196">&#xA028;Kasib Berry (Ghost)</string>
+        <string id="245197">&#xA029;Haban Berry (Dragon)</string>
+        <string id="245198">&#xA030;Colbur Berry (Dark)</string>
+        <string id="245199">&#xA031;Babiri Berry (Steel)</string>
+        <string id="245200">&#xA032;Chilan Berry (Normal)</string>
+        <!--Stat boost-->
+        <string id="245201">&#xA033;Liechi Berry (+Atk)</string>
+        <string id="245202">&#xA034;Ganlon Berry (+Def)</string>
+        <string id="245203">&#xA035;Salac Berry (+Speed)</string>
+        <string id="245204">&#xA036;Petaya Berry (+Sp.Atk)</string>
+        <string id="245205">&#xA037;Apicot Berry (+Sp.Def)</string>
+        <string id="245206">&#xA038;Lansat Berry (+Crit)</string>
+        <string id="245207">&#xA039;Starf Berry (+Stat)</string>
+        <string id="245209">&#xA040;Micle Berry (+Accuracy)</string>
+        <string id="245210">&#xA041;Custap Berry (+Prio)</string>
+        <!--No u-->
+        <string id="245211">&#xA042;Jaboca Berry (Atk = Dmg)</string>
+        <string id="245212">&#xA043;Rowap Berry (SpAtk = Dmg)</string>
+        <!--EV Berries-->
+        <string id="245169">&#xA044;Pomeg Berry (HP)</string>
+        <string id="245170">&#xA045;Kelpsy Berry (ATK)</string>
+        <string id="245171">&#xA046;Qualot Berry (DEF)</string>
+        <string id="245172">&#xA047;Hondew Berry (Sp.ATK)</string>
+        <string id="245173">&#xA048;Grepa Berry (Sp.DEF)</string>
+        <string id="245174">&#xA049;Tamato Berry (SPEED)</string>
+        <!--Useless-->
+        <string id="245164">&#xA050;Razz Berry (Rare)</string>
+        <string id="245165">&#xA051;Bluk Berry (Rare)</string>
+        <string id="245166">&#xA052;Nanab Berry (Rare)</string>
+        <string id="245167">&#xA053;Wepear Berry (Rare)</string>
+        <string id="245168">&#xA054;Pinap Berry (Rare)</string>
+        <string id="245175">&#xA055;Cornn Berry (Rare)</string>
+        <string id="245176">&#xA056;Magost Berry (Rare)</string>
+        <string id="245177">&#xA057;Rabuta Berry (Rare)</string>
+        <string id="245178">&#xA058;Nomel Berry (Rare)</string>
+        <string id="245179">&#xA059;Spelon Berry (Rare)</string>
+        <string id="245180">&#xA060;Pamtre Berry (Rare)</string>
+        <string id="245181">&#xA061;Watmel Berry (Rare)</string>
+        <string id="245182">&#xA062;Durin Berry (Rare)</string>
+        <string id="245183">&#xA063;Belue Berry (Rare)</string>
+
+    <!--Harvest tool-->
+    <string id="100047">&#xA064;Unbreakable Harvesting Tool</string>
+    <string id="100045">&#xA065;Harvesting Tool</string>
+
+    <!--Seeds Items-->
+    <string id="100049">&#xA066;Plain Spicy Seed</string>
+    <string id="100051">&#xA067;Very Spicy Seed</string>
+    <string id="100053">&#xA068;Plain Dry Seed</string>
+    <string id="100055">&#xA069;Very Dry Seed</string>
+    <string id="100057">&#xA070;Plain Sweet Seed</string>
+    <string id="100059">&#xA071;Very Sweet Seed</string>
+    <string id="100061">&#xA072;Plain Bitter Seed</string>
+    <string id="100063">&#xA073;Very Bitter Seed</string>
+    <string id="100065">&#xA074;Plain Sour Seed</string>
+    <string id="100067">&#xA075;Very Sour Seed</string>
+
+    <!--PokeBlocks-->
+    <string id="270600">&#xA076;RED POKéBLOCK (Cool)</string>
+    <string id="101212">&#xA077;{STRING_270600} Plus</string>
+    <string id="270601">&#xA078;BLUE POKéBLOCK (Beauty)</string>
+    <string id="101214">&#xA079;{STRING_270601} Plus</string>
+    <string id="270602">&#xA080;PINK POKéBLOCK (Cute)</string>
+    <string id="101216">&#xA081;{STRING_270602} Plus</string>
+    <string id="270603">&#xA082;GREEN POKéBLOCK (Smart)</string>
+    <string id="101218">&#xA083;{STRING_270603} Plus</string>
+    <string id="270604">&#xA084;YELLOW POKéBLOCK (Tough)</string>
+    <string id="101220">&#xA085;{STRING_270604} Plus</string>
+    <string id="270612">&#xA086;WHITE POKéBLOCK</string>
+    <string id="101222">&#xA087;{STRING_270612} Plus</string>
+    <string id="101224">&#xA088;{STRING_270611}</string>
+    <!--Berry Powder-->
+    <string id="101112">&#xA089;Berry Powder</string>
+
+    <!--Key Items-->
+        <!--Kanto || Hoenn-->
+            <!--Usable-->
+                <string id="240360">&#xA000;Bicycle</string><!--Kanto & Hoenn-->
+                <string id="240262">&#xA001;Old Rod</string><!--Kanto & Hoenn-->
+                <string id="240263">&#xA002;Good Rod</string><!--Kanto & Hoenn-->
+                <string id="240264">&#xA003;Super Rod</string><!--Kanto & Hoenn-->
+                <string id="240268">&#xA004;Wailmer Pail</string><!--Hoenn-->
+                <string id="240261">&#xA005;Item finder</string><!--Kanto & Hoenn-->
+                <string id="240361">&#xA006;Town Map</string><!--Kanto & Hoenn-->
+                <string id="240260">&#xA007;A Coin Case</string><!--Kanto-->
+                <string id="240270">&#xA008;Soot Sack</string><!--Hoenn-->
+                     <string id="7">&#xA020;POKéNAV</string><!--Hoenn-->
+                <string id="240350">&#xA009;Poké Flute</string><!--Kanto-->
+                <string id="240362">&#xA009;Vs Seeker</string><!--Kanto-->
+            <!--Storyline Items Kanto-->
+                <string id="240265">S.S. Ticket</string>
+
+        <!--Johto-->
+            <!--Usable-->
+                <string id="249450">&#xA000;Bicycle</string>
+                <string id="249445">&#xA001;Old Rod</string>
+                <string id="249446">&#xA002;Good Rod</string>
+                <string id="249447">&#xA003;Super Rod</string>
+                <string id="249471">&#xA004;Dowsing MCHN</string>
+                <string id="249442">&#xA005;Town Map</string>
+                <string id="249444">&#xA006;Coin Case</string>
+                <string id="249435">&#xA007;Fashion Case</string>
+                <string id="249468">&#xA008;Apricorn Box</string>
+                <string id="249470">&#xA009;Berry Pots</string>
+                <string id="249477">&#xA010;SquirtBottle</string>
+                <string id="249465">&#xA011;Vs. Recorder</string>
+                <string id="249469">&#xA012;UNOWN Report</string>
+                <string id="249476">&#xA013;Basement Key</string>
+                <string id="249475">&#xA014;Card Key</string>
+                <string id="249472">&#xA015;Blue Card</string>
+                <string id="249474">&#xA016;Clear Bell</string>
+                <string id="249483">&#xA017;Rainbow Wing</string>
+                <string id="249478">&#xA018;Red Scale</string>
+                <string id="249535">&#xA019;Blue Orb</string>
+
+        <!--Sinnoh-->
+            <!--Usable-->
+                <string id="245471">&#xA000;Dowsing MCHN</string>
+            <!--Storyline-->
+                <string id="248450">&#xA000;Bicycle</string>
+                <string id="248445">&#xA001;Old Rod</string>
+                <string id="248446">&#xA002;Good Rod</string>
+                <string id="248447">&#xA003;Super Rod</string>
+                <string id="248428">&#xA004;Explorer Kit</string>
+                <string id="248442">&#xA005;Town Map</string>
+                <string id="248444">&#xA006;Coin Case</string>
+                <string id="248435">&#xA007;Fashion Case</string>
+                <string id="248443">&#xA008;Vs. Seeker</string>
+                <string id="248465">&#xA009;Vs. Recorder</string>
+                <string id="248437">&#xA010;Pal Pad</string>
+                <string id="248433">&#xA011;Journal</string>
+                <string id="248464">&#xA012;SecretPotion</string>
+                <string id="248440">&#xA013;Galactic Key</string>
+                <string id="248438">&#xA014;Works Key</string>
+                <string id="248451">&#xA015;Suite Key</string>
+
+        <!--Unova-->
+            <!--Usable-->
+                <string id="245447">&#xA000;Super Rod</string>
+                <string id="245448">&#xA001;Sprayduck</string>
+                <string id="245471">&#xA002;Dowsing MCHN</string>
+                <string id="245437">&#xA003;Pal Pad</string>
+                <string id="245578">&#xA004;Prop Case</string>
+                <string id="245621">&#xA005;Xtransceiver</string>
+            <!--Storyline-->
+                <string id="245450">&#xA000;Bicycle</string>
+                <string id="245442">&#xA001;Town Map</string>
+                <string id="245465">&#xA003;Vs. Recorder</string>
+
+<!--    &lt;!&ndash;Cosmetics&ndash;&gt;-->
+<!--        &lt;!&ndash;2015&ndash;&gt;-->
+<!--            &lt;!&ndash;Hat&ndash;&gt;-->
+<!--                <string id="21029">Knight Helmet</string>&lt;!&ndash;Limited&ndash;&gt;-->
+<!--                <string id="21089">Ghost Costume</string>&lt;!&ndash;Limited&ndash;&gt;-->
+<!--                <string id="21087">Jack-O-Lantern Mask</string>&lt;!&ndash;Limited&ndash;&gt;-->
+<!--                <string id="21091">Santa's Little Helper Hat</string>&lt;!&ndash;Limited&ndash;&gt;-->
+<!--                <string id="21090">Holly Hairclip</string>&lt;!&ndash;Limited&ndash;&gt;-->
+<!--                <string id="21088">Vampire Fangs</string>&lt;!&ndash;Limited&ndash;&gt;-->
+<!--            &lt;!&ndash;Shirt&ndash;&gt;-->
+<!--                <string id="26013">Santa's Little Helper Outfit</string>&lt;!&ndash;Limited&ndash;&gt;-->
+<!--            &lt;!&ndash;Back&ndash;&gt;-->
+<!--                <string id="25010">Witch's Broomstick</string>&lt;!&ndash;Limited&ndash;&gt;-->
+<!--                <string id="25011">Pumpkin Backpack</string>&lt;!&ndash;Limited&ndash;&gt;-->
+<!--                <string id="25012">Candy Cane</string>&lt;!&ndash;Limited&ndash;&gt;-->
+<!--        &lt;!&ndash;2014&ndash;&gt;-->
+<!--            &lt;!&ndash;Hat&ndash;&gt;-->
+<!--                <string id="21030">Kyu Hat</string>&lt;!&ndash;Limited&ndash;&gt;-->
+<!--            &lt;!&ndash;Hair&ndash;&gt;-->
+<!--                <string id="22042">THE ELECTRIC STORM</string>&lt;!&ndash;Limited&ndash;&gt;&lt;!&ndash;Colored&ndash;&gt;-->
+<!--            &lt;!&ndash;Shirt&ndash;&gt;-->
+<!--                <string id="26000">Desu's Lab Coat (Colour)</string>&lt;!&ndash;Limited&ndash;&gt;-->
+<!--                <string id="26011">Desu's Lab Coat</string>&lt;!&ndash;Limited&ndash;&gt;-->
+<!--        &lt;!&ndash;2013&ndash;&gt;-->
+<!--            &lt;!&ndash;Hat&ndash;&gt;-->
+<!--                <string id="21064">Party Hat</string>-->
+
+    <!--Natures-->
+        <string id="180000">Hardy [-]</string>
+        <string id="180001">Lonely [+Atk|-Def]</string>
+        <string id="180002">Brave [+Atk|-Spe]</string>
+        <string id="180003">Adamant [+Atk|-SpA]</string>
+        <string id="180004">Naughty [+Atk|-SpD]</string>
+        <string id="180005">Bold [+Def|-Atk]</string>
+        <string id="180006">Docile [-]</string>
+        <string id="180007">Relaxed [+Def|-Spe]</string>
+        <string id="180008">Impish [+Def|-SpA]</string>
+        <string id="180009">Lax [+Def|-SpD]</string>
+        <string id="180010">Timid [+Spe|-Atk]</string>
+        <string id="180011">Hasty [+Spe|-Def]</string>
+        <string id="180012">Serious [-]</string>
+        <string id="180013">Jolly [+Spe|-SpA]</string>
+        <string id="180014">Naive [+Spe|-SpD]</string>
+        <string id="180015">Modest [+SpA|-Atk]</string>
+        <string id="180016">Mild [+SpA|-Def]</string>
+        <string id="180017">Quiet [+SpA|-Spe]</string>
+        <string id="180018">Bashful [-]</string>
+        <string id="180019">Rash [+SpA|-SpD]</string>
+        <string id="180020">Calm [+SpD|-Atk]</string>
+        <string id="180021">Gentle [+SpD|-Def]</string>
+        <string id="180022">Sassy [+SpD|-Spe]</string>
+        <string id="180023">Careful [+SpD|-SpA]</string>
+        <string id="180024">Quirky [-]</string>
+
+<!--Abilities-->
+<!--    <string id="220001">The stench may cause\nthe target to flinch.</string> &lt;!&ndash;Stench&ndash;&gt;-->
+<!--    <string id="220002">The Pokémon makes it rain\nif it appears in battle.</string>-->
+<!--    <string id="220003">Its Speed stat is\ngradually boosted.</string>-->
+<!--    <string id="220004">The Pokémon is protected\nagainst critical hits.</string>-->
+<!--    <string id="220005">Can't be knocked out in 1 hit.</string>-->
+<!--    <string id="220006">Prevents the use of\nself-destructing moves.</string>-->
+<!--    <string id="220007">The Pokémon is protected\nfrom paralysis.</string>-->
+<!--    <string id="220008">Boosts Evasion while in Sandstorms, by 20%.</string>-->
+<!--    <string id="220009">Contact with the Pokémon\nmay cause paralysis.</string>-->
+<!--    <string id="220010">Restores HP if hit by an\nElectric-type move.</string>-->
+<!--    <string id="220011">Restores HP if hit by a\nWater-type move.</string>-->
+<!--    <string id="220012">Prevents Infatuation and Taunt. Can't be Intimidated.</string>-->
+<!--    <string id="220013">Negates all effects of weather, but does not stop its duration.</string>-->
+<!--    <string id="220014">The Pokémon's accuracy\nis boosted.</string>-->
+<!--    <string id="220015">Prevents the Pokémon\nfrom falling asleep.</string>-->
+<!--    <string id="220016">Changes type to the foe's move when hit.</string>-->
+<!--    <string id="220017">Prevents the Pokémon\nfrom getting poisoned.</string>-->
+<!--    <string id="220018">Immune to Fire, and powers up Fire-type moves if hit by one.</string>-->
+<!--    <string id="220019">Blocks the added effects\nof attacks taken.</string>-->
+<!--    <string id="220020">Can't be Confused. Can't be Intimidated.</string>-->
+<!--    <string id="220021">Negates all moves that\nforce switching out.</string>-->
+<!--    <string id="220022">Lowers the foe's\nAttack stat.</string>-->
+<!--    <string id="220023">Prevents foes escaping for up to 3 turns.</string>-->
+<!--    <string id="220024">Inflicts damage to the\nattacker on contact.</string>-->
+<!--    <string id="220025">Immune to non-super effective attacks. Only absorbs 2 hits if not in PvP.</string>-->
+<!--    <string id="220026">Immune to Ground-type moves, Spikes, and {STRING_210071}.</string>-->
+<!--    <string id="220027">Contact may poison or\ncause paralysis or sleep.</string>-->
+<!--    <string id="220028">Passes a burn, poison,\nor paralysis to the foe.</string>-->
+<!--    <string id="220029">Prevents foes reducing its stats.</string>-->
+<!--    <string id="220030">All status problems heal\nwhen it switches out.</string>-->
+<!--    <string id="220031">Immune to Electric-type moves, boosts Sp.Attack if hit by one.</string>-->
+<!--    <string id="220032">Boosts the likelihood of\nadded effects appearing.</string>-->
+<!--    <string id="220033">Doubles Speed while it's raining.</string>-->
+<!--    <string id="220034">Doubles Speed during harsh sunlight.</string>-->
+<!--    <string id="220035">Prevents Accuracy drops and ignores the opponent's Evasion.</string>-->
+<!--    <string id="220036">The Pokémon copies a\nfoe's Ability.</string>-->
+<!--    <string id="220037">Doubles the {STRING_0}'s Attack.</string>-->
+<!--    <string id="220038">Contact with the Pokémon\nmay poison the attacker.</string>-->
+<!--    <string id="220039">Will never Flinch. Can't be Intimidated.</string>-->
+<!--    <string id="220040">Prevents the Pokémon\nfrom becoming frozen.</string>-->
+<!--    <string id="220041">Prevents the Pokémon\nfrom getting a burn.</string>-->
+<!--    <string id="220042">Prevents Steel-type\nPokémon from escaping.</string>-->
+<!--    <string id="220043">Gives full immunity to all\nsound-based moves.</string>-->
+<!--    <string id="220044">The Pokémon gradually\nregains HP in rain.</string>-->
+<!--    <string id="220045">Summons a sandstorm, boosting Sp.Def of Rock-types by half.</string>-->
+<!--    <string id="220046">Doubles the foe's PP usage when they target it.</string>-->
+<!--    <string id="220047">Ups resistance to Fire-\nand Ice-type moves.</string>-->
+<!--    <string id="220048">Halves the amount of time spent asleep.</string>-->
+<!--    <string id="220049">Contact with the Pokémon\nmay burn the attacker.</string>-->
+<!--    <string id="220050">Enables a sure getaway\nfrom wild Pokémon.</string>-->
+<!--    <string id="220051">Prevents other Pokémon\nfrom lowering accuracy.</string>-->
+<!--    <string id="220052">Prevents other Pokémon\nfrom lowering Attack stat.</string>-->
+<!--    <string id="220053">May pick up items after defeating wild {STRING_0}.</string>-->
+<!--    <string id="220054">Pokémon can't attack\non consecutive turns.</string>-->
+<!--    <string id="220055">Boosts the Attack stat,\nbut lowers accuracy.</string>-->
+<!--    <string id="220056">Contact with the Pokémon\nmay cause infatuation.</string>-->
+<!--    <string id="220057">Ups Sp. Atk if another\nPokémon has Plus or Minus.</string>-->
+<!--    <string id="220058">Ups Sp. Atk if another\nPokémon has Plus or Minus.</string>-->
+<!--    <string id="220059">Castform transforms with\nthe weather.</string>-->
+<!--    <string id="220060">Protects the Pokémon\nfrom item theft.</string>-->
+<!--    <string id="220061">33.3% chance to heal status problems at the end of a turn.</string>-->
+<!--    <string id="220062">Boosts Attack by half if Statused. Ignores Burn's damage reduction.</string>-->
+<!--    <string id="220063">Boosts Defense by half if there is a Status problem.</string>-->
+<!--    <string id="220064">Damages attackers\nusing any draining move.</string>-->
+<!--    <string id="220065">Powers up Grass-type\nmoves in a pinch.</string>-->
+<!--    <string id="220066">Powers up Fire-type\nmoves in a pinch.</string>-->
+<!--    <string id="220067">Powers up Water-type\nmoves in a pinch.</string>-->
+<!--    <string id="220068">Powers up Bug-type\nmoves in a pinch.</string>-->
+<!--    <string id="220069">Protects the Pokémon\nfrom recoil damage.</string>-->
+<!--    <string id="220070">Turns the sunlight harsh\nif it is in battle.</string>-->
+<!--    <string id="220071">Prevents grounded foes from fleeing battle.</string>-->
+<!--    <string id="220072">Prevents the Pokémon\nfrom falling asleep.</string>-->
+<!--    <string id="220073">Prevents foes reducing its stats.</string>-->
+<!--    <string id="220074">Doubles the {STRING_0}'s Attack.</string>-->
+<!--    <string id="220075">The Pokémon is protected\nagainst critical hits.</string>-->
+<!--    <string id="220076">Eliminates the effects of\nweather.</string>-->
+<!--    <string id="220077">Raises evasion if the\nPokémon is confused.</string>-->
+<!--    <string id="220078">Raises Speed if hit by an\nElectric-type move.</string>-->
+<!--    <string id="220079">Deals more damage to a\nPokémon of same gender.</string>-->
+<!--    <string id="220080">Raises Speed each time\nthe Pokémon flinches.</string>-->
+<!--    <string id="220081">Raises evasion while in a snowstorm.</string>-->
+<!--    <string id="220082">Berries will trigger at half hp.</string>-->
+<!--    <string id="220083">Maxes Attack after\ntaking a critical hit.</string>-->
+<!--    <string id="220084">Raises Speed if a held\nitem is used.</string>-->
+<!--    <string id="220085">Weakens the power of\nFire-type moves.</string>-->
+<!--    <string id="220086">The Pokémon is prone to\nwild stat changes.</string>-->
+<!--    <string id="220087">Loses HP during Sunlight. Water attacks and Rain restores.</string>-->
+<!--    <string id="220088">Adjusts power according\nto a foe's defenses.</string>-->
+<!--    <string id="220089">Boosts the power of\npunching moves.</string>-->
+<!--    <string id="220090">Restores HP if the\nPokémon is poisoned.</string>-->
+<!--    <string id="220091">Powers up moves of the\nsame type.</string>-->
+<!--    <string id="220092">Increases the frequency\nof multi-strike moves.</string>-->
+<!--    <string id="220093">Heals status problems if\nit is raining.</string>-->
+<!--    <string id="220094">In sunshine, Sp. Atk is\nboosted but HP decreases.</string>-->
+<!--    <string id="220095">Boosts Speed if there is\na status problem.</string>-->
+<!--    <string id="220096">All the Pokémon's moves\nbecome the Normal type.</string>-->
+<!--    <string id="220097">Powers up moves if they\nbecome critical hits.</string>-->
+<!--    <string id="220098">The Pokémon only takes\ndamage from attacks.</string>-->
+<!--    <string id="220099">Ensures attacks by or\nagainst the Pokémon land.</string>-->
+<!--    <string id="220100">The Pokémon moves after\nall other Pokémon do.</string>-->
+<!--    <string id="220101">Powers up the Pokémon's\nweaker moves.</string>-->
+<!--    <string id="220102">Prevents problems with\nstatus in sunny weather.</string>-->
+<!--    <string id="220103">The Pokémon can't use\nany held items.</string>-->
+<!--    <string id="220104">Moves can be used\nregardless of Abilities.</string>-->
+<!--    <string id="220105">Heightens the critical-\nhit ratios of moves.</string>-->
+<!--    <string id="220106">Damages the foe which faints it with a contact move. Only activates once.</string>-->
+<!--    <string id="220107">Senses a foe's\ndangerous moves.</string>-->
+<!--    <string id="220108">Determines what moves\na foe has.</string>-->
+<!--    <string id="220109">Ignores any stat changes\nin the Pokémon.</string>-->
+<!--    <string id="220110">Powers up “not very\neffective" moves.</string>-->
+<!--    <string id="220111">Reduces damage from\nsupereffective attacks.</string>-->
+<!--    <string id="220112">Temporarily halves\nAttack and Speed.</string>-->
+<!--    <string id="220113">Allows hitting Ghost-types. Can't be Intimidated.</string>-->
+<!--    <string id="220114">Draws in all Water-type\nmoves to up Sp. Attack.</string>-->
+<!--    <string id="220115">The {STRING_0} gradually regains HP while it's snowing.</string>-->
+<!--    <string id="220116">Reduces damage from\nsupereffective attacks.</string>-->
+<!--    <string id="220117">The {STRING_0} summons a snowstorm when entering battle.</string>-->
+<!--    <string id="220118">The Pokémon may gather\nHoney from somewhere.</string>-->
+<!--    <string id="220119">The Pokémon can check\na foe's held item.</string>-->
+<!--    <string id="220120">Powers up moves that\nhave recoil damage.</string>-->
+<!--    <string id="220121">Changes type to match\nthe held Plate.</string>-->
+<!--    <string id="220122">Powers up party Pokémon\nwhen it is sunny.</string>-->
+<!--    <string id="220123">Reduces a sleeping\nfoe's HP.</string>-->
+<!--    <string id="220124">Steals an item when hit\nby another Pokémon.</string>-->
+<!--    <string id="220125">Removes added effects to\nincrease move damage.</string>-->
+<!--    <string id="220126">Makes stat changes have\nan opposite effect.</string>-->
+<!--    <string id="220127">Makes the foe nervous and\nunable to eat Berries.</string>-->
+<!--    <string id="220128">When its stats are lowered\nits Attack increases.</string>-->
+<!--    <string id="220129">Lowers stats when HP\nbecomes half or less.</string>-->
+<!--    <string id="220130">May disable a move used\non the Pokémon.</string>-->
+<!--    <string id="220131">May heal an ally's status\nconditions.</string>-->
+<!--    <string id="220132">Reduces damage done\nto allies.</string>-->
+<!--    <string id="220133">Physical attacks lower\nDefense and raise Speed.</string>-->
+<!--    <string id="220134">Doubles the Pokémon's\nweight.</string>-->
+<!--    <string id="220135">Halves the Pokémon's\nweight.</string>-->
+<!--    <string id="220136">Reduces damage by half when at full HP.</string>-->
+<!--    <string id="220137">Powers up physical\nattacks when poisoned.</string>-->
+<!--    <string id="220138">Powers up special attacks\nwhen burned.</string>-->
+<!--    <string id="220139">May create another\nBerry after one is used.</string>-->
+<!--    <string id="220140">Dodges all allied attacks.</string>-->
+<!--    <string id="220141">Raises one stat and\nlowers another.</string>-->
+<!--    <string id="220142">Protects from damaging weather and powder moves.</string>-->
+<!--    <string id="220143">May poison targets when a\nPokémon makes contact.</string>-->
+<!--    <string id="220144">Restores a little HP when\nwithdrawn from battle.</string>-->
+<!--    <string id="220145">Protects the Pokémon from\nDefense-lowering attacks.</string>-->
+<!--    <string id="220146">Boosts the Pokémon's\nSpeed in a sandstorm.</string>-->
+<!--    <string id="220147">Makes status-changing\nmoves more likely to miss.</string>-->
+<!--    <string id="220148">Boosts move power when\nthe Pokémon moves last.</string>-->
+<!--    <string id="220149">Comes out disguised as\nthe Pokémon in back.</string>-->
+<!--    <string id="220150">It transforms itself into\nthe Pokémon it is facing.</string>-->
+<!--    <string id="220151">Skips past barriers and Substitute to strike.</string>-->
+<!--    <string id="220152">Contact with this Pokémon\nspreads this Ability.</string>-->
+<!--    <string id="220153">Boosts Attack after\nknocking out any Pokémon.</string>-->
+<!--    <string id="220154">Raises Attack when hit by\na Dark-type move.</string>-->
+<!--    <string id="220155">Some move types scare\nit and boost its Speed.</string>-->
+<!--    <string id="220156">Reflects status-\nchanging moves.</string>-->
+<!--    <string id="220157">Boosts Attack when hit by\na Grass-type move.</string>-->
+<!--    <string id="220158">Gives priority to Status moves. Dark-type foes are immune to effects.</string>-->
+<!--    <string id="220159">Boosts certain moves'\npower in a sandstorm.</string>-->
+<!--    <string id="220160">Inflicts damage to the\nPokémon on contact.</string>-->
+<!--    <string id="220161">Changes the Pokémon's\nshape when HP is halved.</string>-->
+<!--    <string id="220162">Boosts the accuracy of its\nallies and itself.</string>-->
+<!--    <string id="220163">Moves can be used\nregardless of Abilities.</string>-->
+<!--    <string id="220164">Moves can be used\nregardless of Abilities.</string>-->
+
+
+<!--Move Descriptions-->
+    <!--<string id="120001">The target is physically pounded with\na long tail or a foreleg, etc.</string>   Pound-->
+    <!--<string id="120002">The target is attacked with a sharp chop.\nCritical hits land more easily.</string>     Karate Chop-->
+    <!--<<string id="120003">The target is slapped repeatedly, back\nand forth, two to five times in a row.</string>    DoubleSlap-->
+    <!--<string id="120004">The target is hit with a flurry of punches\nthat strike two to five times in a row.</string>    Comet Punch-->
+<!--    <string id="120005">The target is slugged by a punch thrown\nwith muscle-packed power.</string> &lt;!&ndash;Mega Punch&ndash;&gt;-->
+<!--    <string id="120006">Throws coins at the foe which are recovered after the battle. The amount of coins increases with the foe's level. It's only effective once per battle.</string> &lt;!&ndash;Pay Day&ndash;&gt;-->
+<!--    <string id="120007">The target is punched with a fiery fist.\nIt may also leave the target with a burn.</string> &lt;!&ndash;Fire Punch&ndash;&gt;-->
+<!--    <string id="120008">The target is punched with an icy fist.\nIt may also leave the target frozen.</string> &lt;!&ndash;Ice Punch&ndash;&gt;-->
+<!--    <string id="120009">The target is punched with an electrified\nfist. It may also leave the target\nwith paralysis.</string> &lt;!&ndash;Thunder Punch&ndash;&gt;-->
+<!--    <string id="120010">Hard, pointed, and sharp claws rake\nthe target to inflict damage.</string> &lt;!&ndash;Scratch&ndash;&gt;-->
+<!--    <string id="120011">The target is gripped and squeezed from\nboth sides to inflict damage.</string> &lt;!&ndash;Vice Grip&ndash;&gt;-->
+<!--    <string id="120012">A vicious, tearing attack with big pincers.\nThe target will faint instantly\nif this attack hits.</string> &lt;!&ndash;Guillotine&ndash;&gt;-->
+<!--    <string id="120013">A two-turn attack. Blades of wind hit\nopposing Pokémon on the second turn.\nCritical hits land more easily.</string> &lt;!&ndash;Razor Wind&ndash;&gt;-->
+<!--    <string id="120014">A frenetic dance to uplift the fighting\nspirit. It sharply raises the user's\nAttack stat.</string> -->
+<!--    <string id="120015">The target is cut with a scythe or a claw.\nIt can also be used to cut down\nthin trees.</string>-->
+<!--    <string id="120016">A gust of wind is whipped up by wings and\nlaunched at the target to inflict damage.</string>-->
+<!--    <string id="120017">The target is struck with large, imposing\nwings spread wide to inflict damage.</string>-->
+<!--    <string id="120018">The target is blown away, to be replaced\nby another Pokémon in its party. In the\nwild, the battle ends.</string>-->
+<!--    <string id="120019">The user soars, then strikes its target\non the second turn. It can also be\nused for flying to any familiar town.</string>-->
+<!--    <string id="120020">Things such as long bodies or tentacles\nare used to bind and squeeze\nthe target for four to five turns.</string>-->
+<!--    <string id="120021">The target is slammed with a long tail,\nvines, etc., to inflict damage.</string>-->
+<!--    <string id="120022">The target is struck with slender,\nwhiplike vines to inflict damage.</string>-->
+<!--    <string id="120023">The target is stomped with a big foot.\nIt may also make the target flinch.</string>-->
+<!--    <string id="120024">The target is quickly kicked twice in\nsuccession using both feet.</string>-->
+<!--    <string id="120025">The target is attacked by a kick launched\nwith muscle-packed power.</string>-->
+<!--    <string id="120026">The user jumps up high, then strikes\nwith a kick. If the kick misses, the\nuser hurts itself.</string>-->
+<!--    <string id="120027">The user lashes out with a quick, spinning\nkick. It may also make the target flinch.</string>-->
+<!--    <string id="120028">Sand is hurled in the target's face,\nreducing its accuracy.</string>-->
+<!--    <string id="120029">The user sticks out its head and attacks\nby charging straight into the target.\nIt may also make the target flinch.</string>-->
+<!--    <string id="120030">The target is jabbed with a sharply\npointed horn to inflict damage.</string>-->
+<!--    <string id="120031">The target is jabbed repeatedly with a\nhorn or beak two to five times in a row.</string>-->
+<!--    <string id="120032">The user stabs the target with a horn\nthat rotates like a drill.\nIf it hits, the target faints instantly.</string>-->
+<!--    <string id="120033">A physical attack in which the user\ncharges and slams into the target\nwith its whole body.</string>-->
+<!--    <string id="120034">The user drops onto the target\nwith its full body weight. It may also\nleave the target with paralysis.</string>-->
+<!--    <string id="120035">A long body or vines are used to wrap and\nsqueeze the target for four to five turns.</string>-->
+<!--    <string id="120036">A reckless, full-body charge attack for\nslamming into the target.\nIt also damages the user a little.</string>-->
+<!--    <string id="120037">The user rampages and attacks for two\nto three turns. It then becomes\nconfused, however.</string>-->
+<!--    <string id="120038">A reckless, life-risking tackle.\nIt also damages the user by a fairly large\namount, however.</string>-->
+<!--    <string id="120039">The user wags its tail cutely, making\nopposing Pokémon less wary and\nlowering their Defense stat.</string>-->
+<!--    <string id="120040">The user stabs the target\nwith a poisonous stinger.\nThis may also poison the target.</string>-->
+<!--    <string id="120041">The user damages the target twice in\nsuccession by jabbing it with two spikes.\nIt may also poison the target.</string>-->
+<!--    <string id="120042">Sharp spikes are shot at the target\nin rapid succession.\nThey hit two to five times in a row.</string>-->
+<!--    <string id="120043">The opposing team gains an intimidating\nleer with sharp eyes. The opposing team's\nDefense stats are reduced.</string>-->
+<!--    <string id="120044">The target is bitten\nwith viciously sharp fangs.\nIt may make the target flinch.</string>-->
+<!--    <string id="120045">The user growls in an endearing way,\nmaking the opposing team less wary.\nThe foes' Attack stats are lowered.</string>-->
+<!--    <string id="120046">The target is scared off and replaced by\nanother Pokémon in its party. In the\nwild, the battle ends.</string>-->
+<!--    <string id="120047">A soothing lullaby is sung in a calming\nvoice that puts the target into a deep\nslumber.</string>-->
+<!--    <string id="120048">The user generates odd sound waves from\nits body. It may confuse the target.</string>-->
+<!--    <string id="120049">The target is hit with a destructive shock\nwave that always inflicts 20 HP damage.</string>-->
+<!--    <string id="120050">For four turns, this move prevents the\ntarget from using the move it last used.</string>-->
+<!--    <string id="120051">The opposing team is attacked with a spray\nof harsh acid. The acid may also lower\nthe targets' Sp. Def stats.</string>-->
+<!--    <string id="120052">The target is attacked with small flames.\nIt may also leave the target with a burn.</string>-->
+<!--    <string id="120053">The target is scorched with an intense\nblast of fire. It may also leave the target\nwith a burn.</string>-->
+<!--    <string id="120054">The user cloaks its body with a white mist\nthat prevents any of its stats from being\ncut for five turns.</string>-->
+<!--    <string id="120055">The target is blasted with a\nforceful shot of water.</string>-->
+<!--    <string id="120056">The target is blasted by a huge volume\nof water launched under great pressure.</string>-->
+<!--    <string id="120057">It swamps the area around the user\nwith a giant wave.\nIt can also be used for crossing water.</string>-->
+<!--    <string id="120058">The target is struck with an icy-cold\nbeam of energy.\nIt may also freeze the target solid.</string>-->
+<!--    <string id="120059">A howling blizzard is summoned to strike\nthe opposing team. It may also freeze\nthem solid.</string>-->
+<!--    <string id="120060">The target is attacked with a peculiar ray.\nIt may also cause confusion.</string>-->
+<!--    <string id="120061">A spray of bubbles is forcefully ejected\nat the opposing team. It may also lower\ntheir Speed stats.</string>-->
+<!--    <string id="120062">The target is hit with a rainbow-colored\nbeam. This may also lower the target's\nAttack stat.</string>-->
+<!--    <string id="120063">The target is attacked with a powerful\nbeam. The user must rest on the next\nturn to regain its energy.</string>-->
+<!--    <string id="120064">The target is jabbed with a sharply\npointed beak or horn.</string>-->
+<!--    <string id="120065">A corkscrewing attack with the\nsharp beak acting as a drill.</string>-->
+<!--    <string id="120066">The user grabs the target and recklessly\ndives for the ground. It also hurts the\nuser slightly.</string>-->
+<!--    <string id="120067">A powerful low kick that makes the target\nfall over. It inflicts greater damage on\nheavier targets.</string>-->
+<!--    <string id="120068">A retaliation move that counters any\nphysical attack, inflicting double the\ndamage taken.</string>-->
+<!--    <string id="120069">The target is thrown using the power of\ngravity. It inflicts damage equal to\nthe user's level.</string>-->
+<!--    <string id="120070">The target is slugged with a punch thrown\nat maximum power. It can also be used\nto move heavy boulders.</string>-->
+<!--    <string id="120071">A nutrient-draining attack. The user's\nHP is restored by half the damage taken\nby the target.</string>-->
+<!--    <string id="120072">A nutrient-draining attack. The user's\nHP is restored by half the damage taken\nby the target.</string>-->
+<!--    <string id="120073">A seed is planted on the target. It steals\nsome HP from the target every turn.</string>-->
+<!--    <string id="120074">The user's body grows all at once,\nraising the Attack and Sp. Atk stats.</string>-->
+<!--    <string id="120075">Sharp-edged leaves are launched\nto slash at the opposing team.\nCritical hits land more easily.</string>-->
+<!--    <string id="120076">A two-turn attack. The user gathers\nlight, then blasts a bundled beam on the\nsecond turn.</string>-->
+<!--    <string id="120077">The user scatters a cloud of poisonous\ndust on the target. It may poison\nthe target.</string>-->
+<!--    <string id="120078">The user scatters a cloud of paralyzing\npowder. It may leave the target\nwith paralysis.</string>-->
+<!--    <string id="120079">The user scatters a big cloud\nof sleep-inducing dust\naround the target.</string>-->
+<!--    <string id="120080">The user attacks the target by scattering\npetals for two to three turns.\nThe user then becomes confused.</string>-->
+<!--    <string id="120081">The targets are bound with silk blown\nfrom the user's mouth. This silk reduces\nthe targets' Speed stat.</string>-->
+<!--    <string id="120082">This attack hits the target with a shock\nwave of pure rage. This attack always\ninflicts 40 HP damage.</string>-->
+<!--    <string id="120083">The target becomes trapped within a\nfierce vortex of fire that rages for four\nto five turns.</string>-->
+<!--    <string id="120084">A jolt of electricity is hurled\nat the target to inflict damage. It may\nalso leave the target with paralysis.</string>-->
+<!--    <string id="120085">A strong electric blast is loosed at the\ntarget. It may also leave the target\nwith paralysis.</string>-->
+<!--    <string id="120086">A weak electric charge is launched at\nthe target. It causes paralysis if it hits.</string>-->
+<!--    <string id="120087">A wicked thunderbolt is dropped\non the target to inflict damage. It may\nalso leave the target with paralysis.</string>-->
+<!--    <string id="120088">The user picks up and throws a small\nrock at the target to attack.</string>-->
+<!--    <string id="120089">The user sets off an earthquake that\nstrikes those around it.</string>-->
+<!--    <string id="120090">The user opens up a fissure in the ground\nand drops the target in.\nThe target instantly faints if it hits.</string>-->
+<!--    <string id="120091">The user burrows, then attacks\non the second turn.\nIt can also be used to exit dungeons.</string>-->
+<!--    <string id="120092">A move that leaves the target\nbadly poisoned.\nIts poison damage worsens every turn.</string>-->
+<!--    <string id="120093">The target is hit by a weak telekinetic\nforce. It may also leave the\ntarget confused.</string>-->
+<!--    <string id="120094">The target is hit by a strong telekinetic\nforce. It may also reduce the target's\nSp. Def stat.</string>-->
+<!--    <string id="120095">The user employs hypnotic suggestion\nto make the target fall into a deep sleep.</string>-->
+<!--    <string id="120096">The user meditates to awaken the power\ndeep within its body and raise its\nAttack stat.</string>-->
+<!--    <string id="120097">The user relaxes and lightens its body to\nmove faster. It sharply boosts\nthe Speed stat.</string>-->
+<!--    <string id="120098">The user lunges at the target at a speed\nthat makes it almost invisible. It is sure\nto strike first.</string>-->
+<!--    <string id="120099">As long as this move is in use, the power\nof rage raises the Attack stat each\ntime the user is hit in battle.</string>-->
+<!--    <string id="120100">When used by a Trainer, it switches the user out no matter what. Wild {STRING_0} may flee instantly. When used out of battle, it will warp you to the last {STRING_12}.</string>-->
+<!--    <string id="120101">The user makes the target see a\nfrightening mirage. It inflicts damage\nmatching the user's level.</string>-->
+<!--    <string id="120102">The user copies the target's last move.\nThe move can be used during battle\nuntil the Pokémon is switched out.</string>-->
+<!--    <string id="120103">An earsplitting screech harshly reduces\nthe target's Defense stat.</string>-->
+<!--    <string id="120104">By moving rapidly, the user makes illusory\ncopies of itself to raise its evasiveness.</string>-->
+<!--    <string id="120105">Restoring its own cells, the user\nrestores its own HP by half of\nits max HP.</string>-->
+<!--    <string id="120106">The user stiffens all the muscles in its\nbody to raise its Defense stat.</string>-->
+<!--    <string id="120107">The user compresses its body\nto make itself look smaller,\nwhich sharply raises its evasiveness.</string>-->
+<!--    <string id="120108">The user releases an obscuring cloud\nof smoke or ink. It reduces the\ntarget's accuracy.</string>-->
+<!--    <string id="120109">The target is exposed to a sinister\nray that triggers confusion.</string>-->
+<!--    <string id="120110">The user withdraws its body into its hard\nshell, raising its Defense stat.</string>-->
+<!--    <string id="120111">The user curls up to conceal weak spots\nand raise its Defense stat.</string>-->
+<!--    <string id="120112">The user throws up a sturdy wall that\nsharply raises its Defense stat.</string>-->
+<!--    <string id="120113">A wondrous wall of light is put up to\nsuppress damage from special attacks\nfor five turns.</string>-->
+<!--    <string id="120114">The user creates a haze that eliminates\nevery stat change among all the Pokémon\nengaged in battle.</string>-->
+<!--    <string id="120115">A wondrous wall of light is put up to\nsuppress damage from physical attacks\nfor five turns.</string>-->
+<!--    <string id="120116">The user takes a deep breath and\nfocuses so that critical hits land\nmore easily.</string>-->
+<!--    <string id="120117">The user endures attacks for two\nturns, then strikes back to cause\ndouble the damage taken.</string>-->
+<!--    <string id="120118">The user waggles a finger and stimulates\nits brain into randomly using nearly\nany move.</string>-->
+<!--    <string id="120119">The user attacks the target by copying the last move which the user was attacked by. It can only copy moves which damaged the user, though.</string>-->
+<!--    <string id="120120">The user attacks everything around it\nby causing an explosion.\nThe user faints upon using this move.</string>-->
+<!--    <string id="120121">A large egg is hurled at the target\nwith maximum force to inflict damage.</string>-->
+<!--    <string id="120122">The target is licked with a long tongue,\ncausing damage. It may also leave\nthe target with paralysis.</string>-->
+<!--    <string id="120123">The target is attacked with a\ndischarge of filthy gases.\nIt may also poison the target.</string>-->
+<!--    <string id="120124">Unsanitary sludge is hurled at the target.\nIt may also poison the target.</string>-->
+<!--    <string id="120125">The user clubs the target with a bone.\nIt may also make the target flinch.</string>-->
+<!--    <string id="120126">The target is attacked with an intense\nblast of all-consuming fire.\nIt may also leave the target with a burn.</string>-->
+<!--    <string id="120127">The user charges at the target\nand may make it flinch.\nIt can also be used to climb a waterfall.</string>-->
+<!--    <string id="120128">The target is clamped and squeezed by\nthe user's very thick and sturdy shell for\nfour to five turns.</string>-->
+<!--    <string id="120129">Star-shaped rays are shot at the opposing\nteam. This attack never misses.</string>-->
+<!--    <string id="120130">The user tucks in its head to raise its\nDefense in the first turn, then\nrams the target on the next turn.</string>-->
+<!--    <string id="120131">Sharp spikes are shot at the target\nin rapid succession.\nThey hit two to five times in a row.</string>-->
+<!--    <string id="120132">The target is attacked with long, creeping\ntentacles or vines.\nIt may also lower the target's Speed stat.</string>-->
+<!--    <string id="120133">The user temporarily empties its mind to\nforget its concerns.\nIt sharply raises the user's Sp. Def stat.</string>-->
+<!--    <string id="120134">The user distracts the target\nby bending a spoon.\nIt lowers the target's accuracy.</string>-->
+<!--    <string id="120135">Heals the user by half of its max HP.</string>-->
+<!--    <string id="120136">The target is attacked with a knee kick\nfrom a jump. If it misses, the user is hurt\ninstead.</string>-->
+<!--    <string id="120137">The user intimidates the target with the\npattern on its belly to cause paralysis.</string>-->
+<!--    <string id="120138">The user eats the dreams of a sleeping\ntarget. It absorbs half the damage\ncaused to heal the user's HP.</string>-->
+<!--    <string id="120139">A cloud of poison gas is sprayed\nin the face of opposing Pokémon.\nIt may poison those hit.</string>-->
+<!--    <string id="120140">Round objects are hurled at the target\nto strike two to five times in a row.</string>-->
+<!--    <string id="120141">The user drains the target's blood.\nThe user's HP is restored by half the\ndamage taken by the target.</string>-->
+<!--    <string id="120142">With a scary face, the user tries to\nforce a kiss on the target. If it\nsucceeds, the target falls asleep.</string>-->
+<!--    <string id="120143">A second-turn attack move where\ncritical hits land more easily.\nIt may also make the target flinch.</string>-->
+<!--    <string id="120144">The user transforms into a copy of the\ntarget right down to having\nthe same move set.</string>-->
+<!--    <string id="120145">A spray of countless bubbles is jetted at\nthe opposing team. It may also lower the\ntargets' Speed stats.</string>-->
+<!--    <string id="120146">The target is hit with rhythmically\nlaunched punches that may also\nleave it confused.</string>-->
+<!--    <string id="120147">The user scatters bursts of spores\nthat induce sleep.</string>-->
+<!--    <string id="120148">The user flashes a bright light that cuts\nthe target's accuracy.\nIt can also be used to illuminate caves.</string>-->
+<!--    <string id="120149">The target is attacked with an odd \npsychic wave.\nThe attack varies in intensity.</string>-->
+<!--    <string id="120150">The user just flops and splashes around\nto no effect at all...</string>-->
+<!--    <string id="120151">The user alters its cellular structure to\nliquefy itself, sharply raising its\nDefense stat.</string>-->
+<!--    <string id="120152">The target is hammered with a large pincer.\nCritical hits land more easily.</string>-->
+<!--    <string id="120153">The user explodes to inflict damage on\nthose around it.\nThe user faints upon using this move.</string>-->
+<!--    <string id="120154">The target is raked with sharp claws or\nscythes for two to five times in\nquick succession.</string>-->
+<!--    <string id="120155">The user throws the bone it holds. The\nbone loops to hit the target twice,\ncoming and going.</string>-->
+<!--    <string id="120156">The user goes to sleep for two turns.\nIt fully restores the user's HP and heals\nany status problem.</string>-->
+<!--    <string id="120157">Large boulders are hurled at the opposing\nteam to inflict damage. It may also make\nthe targets flinch.</string>-->
+<!--    <string id="120158">The user bites hard on the target\nwith its sharp front fangs.\nIt may also make the target flinch.</string>-->
+<!--    <string id="120159">The user reduces its polygon count to\nmake itself more jagged, raising the\nAttack stat.</string>-->
+<!--    <string id="120160">The user changes its type to match the type of its first move.</string>-->
+<!--    <string id="120161">The user strikes with a simultaneous\nthree-beam attack. May also burn, freeze,\nor leave the target with paralysis.</string>-->
+<!--    <string id="120162">The user chomps hard on the\ntarget with its sharp front fangs.\nIt cuts the target's HP to half.</string>-->
+<!--    <string id="120163">The target is attacked with a slash\nof claws or blades.\nCritical hits land more easily.</string>-->
+<!--    <string id="120164">The user makes a copy of itself using\nsome of its HP.\nThe copy serves as the user's decoy.</string>-->
+<!--    <string id="120165">A desperate attack for when the attacker has run out of PP. In PvE battles, its recoil becomes stronger the more times it's used.</string>-->
+<!--    <string id="120166">It enables the user to permanently learn\nthe move last used by the target.\nOnce used, Sketch disappears.</string>-->
+<!--    <string id="120167">A consecutive three-kick attack that\nbecomes more powerful with each \nsuccessive hit.</string>-->
+<!--    <string id="120168">An attack which steals the foe's held item if the user isn't already holding one. Its effects are temporary when stealing from Trainers.</string>-->
+<!--    <string id="120169">The user ensnares the target with thin,\ngooey silk so it can't flee from battle.</string>-->
+<!--    <string id="120170">The user senses the target's movements\nwith its mind to ensure its next\nattack does not miss the target.</string>-->
+<!--    <string id="120171">A sleeping target sees a nightmare\nthat inflicts some damage every turn.</string>-->
+<!--    <string id="120172">The user cloaks itself in fire and\ncharges at the target.\nIt may also leave the target with a burn.</string>-->
+<!--    <string id="120173">An attack that can be used only if the\nuser is asleep. The harsh noise may also\nmake the target flinch.</string>-->
+<!--    <string id="120174">A move which functions differently depending on the type of its user. When used by a Ghost, the target loses 1/4 of their maximum HP every turn, but the user immediately loses half of theirs. For other types, it will reduce Speed while increasing Attack &amp; Defense by 1 stage.</string>-->
+<!--    <string id="120175">The user flails about aimlessly to attack.\nIt becomes more powerful the less HP\nthe user has.</string>-->
+<!--    <string id="120176">The user changes its type to make itself\nresistant to the type of the attack the\nopponent used last.</string>-->
+<!--    <string id="120177">A vortex of air is shot at the target to\ninflict damage.\nCritical hits land more easily.</string>-->
+<!--    <string id="120178">The user releases cotton-like spores\nthat cling to the target,\nharshly reducing its Speed stat.</string>-->
+<!--    <string id="120179">An all-out attack that becomes more\npowerful the less HP the user has.</string>-->
+<!--    <string id="120180">The user unleashes its grudge on the move\nlast used by the target by cutting 4 PP\nfrom it.</string>-->
+<!--    <string id="120181">The user attacks with a chilling gust\nof powdery snow.\nIt may also freeze the targets.</string>-->
+<!--    <string id="120182">It enables the user to evade all attacks.\nIts chance of failing rises if it is used in\nsuccession.</string>-->
+<!--    <string id="120183">The user throws a punch at blinding\nspeed. It is certain to strike first.</string>-->
+<!--    <string id="120184">The user frightens the target with a scary\nface to harshly reduce its Speed stat.</string>-->
+<!--    <string id="120185">The user approaches the target\ndisarmingly, then throws a sucker punch.\nIt hits without fail.</string>-->
+<!--    <string id="120186">The user kisses the target with a sweet,\nangelic cuteness that causes confusion.</string>-->
+<!--    <string id="120187">The user maximizes its Attack stat in\nexchange for HP equal to half its max HP.</string>-->
+<!--    <string id="120188">Unsanitary sludge is hurled at the target.\nIt may also poison the target.</string>-->
+<!--    <string id="120189">The user hurls mud in the target's face to\ninflict damage and lower its accuracy.</string>-->
+<!--    <string id="120190">The user attacks by spraying ink in the\ntarget's face or eyes.\nIt may also lower the target's accuracy.</string>-->
+<!--    <string id="120191">The user lays a trap of spikes at the\nopposing team's feet. The trap hurts\nPokémon that switch into battle.</string>-->
+<!--    <string id="120192">The user fires an electric blast like a\ncannon to inflict damage and\ncause paralysis.</string>-->
+<!--    <string id="120193">Enables a Ghost-type target to be hit by\nNormal- and Fighting-type attacks. It also\nenables an evasive target to be hit.</string>-->
+<!--    <string id="120194">When this move is used, if the user faints,\nthe Pokémon that landed the knockout\nhit also faints.</string>-->
+<!--    <string id="120195">Any Pokémon that hears this song\nfaints in three turns, unless it switches\nout of battle.</string>-->
+<!--    <string id="120196">The user attacks with a gust of\nchilled air. It also reduces the targets'\nSpeed stat.</string>-->
+<!--    <string id="120197">It enables the user to evade all attacks.\nIts chance of failing rises if it is used\nin succession.</string>-->
+<!--    <string id="120198">The user strikes the target with a hard\nbone two to five times in a row.</string>-->
+<!--    <string id="120199">The user takes sure aim at the target.\nIt ensures the next attack does not fail\nto hit the target.</string>-->
+<!--    <string id="120200">The user rampages and attacks for two\nto three turns.\nIt then becomes confused, however.</string>-->
+<!--    <string id="120201">A five-turn sandstorm is summoned\nto hurt all combatants except the\nRock, Ground, and Steel types.</string>-->
+<!--    <string id="120202">A nutrient-draining attack. The user's\nHP is restored by half the damage\ntaken by the target.</string>-->
+<!--    <string id="120203">The user endures any attack with at least\n1 HP. Its chance of failing rises if it is\nused in succession.</string>-->
+<!--    <string id="120204">The user gazes at the target rather\ncharmingly, making it less wary.\nThe target's Attack is harshly lowered.</string>-->
+<!--    <string id="120205">The user continually rolls into the target\nover five turns. It becomes stronger\neach time it hits.</string>-->
+<!--    <string id="120206">A restrained attack that prevents the\ntarget from fainting.\nThe target is left with at least 1 HP.</string>-->
+<!--    <string id="120207">The user enrages and confuses the target.\nHowever, it also sharply raises the\ntarget's Attack stat.</string>-->
+<!--    <string id="120208">Heals the user by half of its max HP.</string>-->
+<!--    <string id="120209">The user throws an electrically charged\ntackle at the target. It may also leave\nthe target with paralysis.</string>-->
+<!--    <string id="120210">The target is slashed with scythes or\nclaws. Its power increases if it hits\nin succession.</string>-->
+<!--    <string id="120211">The target is hit with wings of steel.\nIt may also raise the user's Defense stat.</string>-->
+<!--    <string id="120212">The user pins the target with a dark,\narresting look.\nThe target becomes unable to flee.</string>-->
+<!--    <string id="120213">If it is the opposite gender of the user,\nthe target becomes infatuated and less\nlikely to attack.</string>-->
+<!--    <string id="120214">While it is asleep, the user randomly uses\none of the moves it knows.</string>-->
+<!--    <string id="120215">The user makes a soothing bell chime\nto heal the status problems of all the\nparty Pokémon.</string>-->
+<!--    <string id="120216">A full-power attack that grows more\npowerful the more the user likes\nits Trainer.</string>-->
+<!--    <string id="120217">The user attacks by giving the target a\ngift with a hidden trap. It restores\nHP sometimes, however.</string>-->
+<!--    <string id="120218">A full-power attack that grows more\npowerful the less the user likes\nits Trainer.</string>-->
+<!--    <string id="120219">The user creates a protective field that\nprevents status problems for five turns.</string>-->
+<!--    <string id="120220">The user adds its HP to the target's HP,\nthen equally shares the combined HP\nwith the target.</string>-->
+<!--    <string id="120221">The target is razed with a mystical fire\nof great intensity. It may also leave the\ntarget with a burn.</string>-->
+<!--    <string id="120222">The user looses a ground-shaking quake\naffecting everyone around the user.\nIts power varies.</string>-->
+<!--    <string id="120223">The user punches the target with full,\nconcentrated power.\nIt confuses the target if it hits.</string>-->
+<!--    <string id="120224">Using its tough and impressive horn,\nthe user rams into the target\nwith no letup.</string>-->
+<!--    <string id="120225">The user exhales a mighty gust that\ninflicts damage. It may also leave the\ntarget with paralysis.</string>-->
+<!--    <string id="120226">The user switches places with a {STRING_0} in your party, passing along some effects. Will not pass stat changes or status ailments.</string>-->
+<!--    <string id="120227">The user compels the target\nto keep using only the move\nit last used for three turns.</string>-->
+<!--    <string id="120228">An attack move that inflicts double damage\nif used on a target that is switching out\nof battle.</string>-->
+<!--    <string id="120229">A spinning attack which removes Spikes, Binding moves, Leech Seed, and the like. Boosts Speed after usage.</string>-->
+<!--    <string id="120230">Expels a sweet scent which lowers the foe's Evasion. It lures hordes of {STRING_0} when used in areas which have wild encounters, but requires more PP.</string>-->
+<!--    <string id="120231">The target is slammed with a steel-hard\ntail. It may also lower the target's\nDefense stat.</string>-->
+<!--    <string id="120232">The target is raked with steel claws.\nIt may also raise the user's Attack stat.</string>-->
+<!--    <string id="120233">The user attacks last.\nIn return, this throw move is\nguaranteed not to miss.</string>-->
+<!--    <string id="120234">The user restores its own HP.\nThe amount of HP regained varies\nwith the weather.</string>-->
+<!--    <string id="120235">The user restores its own HP.\nThe amount of HP regained varies\nwith the weather.</string>-->
+<!--    <string id="120236">The user restores its own HP.\nThe amount of HP regained varies\nwith the weather.</string>-->
+<!--    <string id="120237">An attack which varies in type depending on its user. Its type may be changed with 40 Gems.</string>-->
+<!--    <string id="120238">The user delivers a double chop with its\nforearms crossed.\nCritical hits land more easily.</string>-->
+<!--    <string id="120239">The user whips up a vicious tornado\nto tear at the opposing team.\nIt may also make targets flinch.</string>-->
+<!--    <string id="120240">The user summons a heavy rain\nthat falls for five turns,\npowering up Water-type moves.</string>-->
+<!--    <string id="120241">The user intensifies the sun for\nfive turns, powering up\nFire-type moves.</string>-->
+<!--    <string id="120242">Crunches the foe with its sharp teeth. It may lower their Defense stat.</string>-->
+<!--    <string id="120243">A retaliation move that counters any\nspecial attack, inflicting double the\ndamage taken.</string>-->
+<!--    <string id="120244">The user hypnotizes itself into\ncopying any stat change made\nby the target.</string>-->
+<!--    <string id="120245">The user charges the target at blinding\nspeed. This attack always goes\nbefore any other move.</string>-->
+<!--    <string id="120246">The user attacks with a prehistoric power.\nIt may also raise all the user's stats\nat once.</string>-->
+<!--    <string id="120247">The user hurls a shadowy blob at the\ntarget. It may also lower the target's\nSp. Def stat.</string>-->
+<!--    <string id="120248">Two turns after this move is used,\na hunk of psychic energy\nattacks the target.</string>-->
+<!--    <string id="120249">The user attacks with a punch that can\nshatter a rock. It may also lower the\ntarget's Defense stat.</string>-->
+<!--    <string id="120250">Traps foes in a violent swirling\nwhirlpool for four to five turns.</string>-->
+<!--    <string id="120251">The user gets all party Pokémon to attack\nthe target. The more party Pokémon,\nthe greater the number of attacks.</string>-->
+<!--    <string id="120252">An attack that hits first and makes the\ntarget flinch. It only works the first turn\nthe user is in battle.</string>-->
+<!--    <string id="120253">The user attacks in an uproar for\nthree turns. Over that time,\nno one can fall asleep.</string>-->
+<!--    <string id="120254">The user charges up power and raises\nboth its Defense and Sp. Def. The move\ncan be used three times.</string>-->
+<!--    <string id="120255">The power stored using the move Stockpile\nis released at once in an attack. The more\npower is stored, the greater the damage.</string>-->
+<!--    <string id="120256">The power stored using the move Stockpile\nis absorbed by the user to heal its HP.\nStoring more power heals more HP.</string>-->
+<!--    <string id="120257">The user attacks by exhaling hot breath\non the opposing team. It may also leave\ntargets with a burn.</string>-->
+<!--    <string id="120258">A snowstorm forms on the field for 5 turns. Snow boosts the Defense stat of Ice-types by 50%.</string>-->
+<!--    <string id="120259">The user torments and enrages the\ntarget, making it incapable of using\nthe same move twice in a row.</string>-->
+<!--    <string id="120260">Flattery is used to confuse the target.\nHowever, it also raises the target's\nSp. Atk stat.</string>-->
+<!--    <string id="120261">The user shoots a sinister, bluish-white\nflame at the target to inflict a burn.</string>-->
+<!--    <string id="120262">The user faints when using this move.\nIn return, it harshly lowers the target's\nAttack and Sp. Atk.</string>-->
+<!--    <string id="120263">An attack move that doubles its power if\nthe user is poisoned, burned, or\nhas paralysis.</string>-->
+<!--    <string id="120264">The user focuses its mind before\nlaunching a punch. It will fail if the user\nis hit before it is used.</string>-->
+<!--    <string id="120265">This attack inflicts double damage on a\ntarget with paralysis. It also cures the\ntarget's paralysis, however.</string>-->
+<!--    <string id="120266">The user draws attention to itself,\nmaking all targets take aim\nonly at the user.</string>-->
+<!--    <string id="120267">An attack that makes use of nature's\npower. Its effects vary depending on the\nuser's environment.</string>-->
+<!--    <string id="120268">The user charges up, doubling the power of the next Electric-type move. It also raises the Sp. Def of the user by 1 stage.</string>-->
+<!--    <string id="120269">The target is taunted into a rage that\nallows it to use only attack moves\nfor three turns.</string>-->
+<!--    <string id="120270">The user assists an ally by boosting\nthe power of its attack.</string>-->
+<!--    <string id="120271">The user catches the target off guard\nand swaps its held item with its own.</string>-->
+<!--    <string id="120272">The user mimics the target completely,\ncopying the target's natural ability.</string>-->
+<!--    <string id="120273">A turn after this move is used, it heals the {STRING_0} in the user's current position by half of the user's max HP.</string>-->
+<!--    <string id="120274">The user hurriedly and randomly uses a\nmove among those known by other\nPokémon in the party.</string>-->
+<!--    <string id="120275">The user lays roots that restore\nits HP on every turn. Because it is\nrooted, it can't switch out.</string>-->
+<!--    <string id="120276">The user attacks the target with great\npower. However, it also lowers the\nuser's Attack and Defense.</string>-->
+<!--    <string id="120277">A barrier reflects back to the target\nmoves like Leech Seed and moves\nthat damage status.</string>-->
+<!--    <string id="120278">The user recycles a held item that\nhas been used in battle so it can be\nused again.</string>-->
+<!--    <string id="120279">An attack move that inflicts double the\ndamage if the user has been hurt by the\nopponent in the same turn.</string>-->
+<!--    <string id="120280">The user attacks with a swift chop. It\ncan also break any barrier such as Light\nScreen and Reflect.</string>-->
+<!--    <string id="120281">The user lets loose a huge yawn that\nlulls the target into falling asleep\non the next turn.</string>-->
+<!--    <string id="120282">The user slaps down the target's\nheld item, preventing that item\nfrom being used in the battle.</string>-->
+<!--    <string id="120283">An attack move that cuts down the\ntarget's HP to equal the user's HP.</string>-->
+<!--    <string id="120284">The user attacks the opposing team with\nexplosive fury. The lower the user's HP,\nthe less powerful this attack becomes.</string>-->
+<!--    <string id="120285">The user employs its psychic power to\nexchange abilities with the target.</string>-->
+<!--    <string id="120286">If the opponents know any move also known\nby the user, the opponents are prevented\nfrom using it.</string>-->
+<!--    <string id="120287">The user rests to cure itself of a\npoisoning, burn, or paralysis.</string>-->
+<!--    <string id="120288">If the user faints, the user's grudge\nfully depletes the PP of the opponent's\nmove that knocked it out.</string>-->
+<!--    <string id="120289">The user steals the effects of any\nhealing or stat-changing move the\nopponent attempts to use.</string>-->
+<!--    <string id="120290">The user attacks the target with a\nsecret power. Its added effects vary\ndepending on the user's environment.</string>-->
+<!--    <string id="120291">Diving on the first turn, the user floats\nup and attacks on the second turn.\nIt can be used to dive deep in the ocean.</string>-->
+<!--    <string id="120292">The user looses a flurry of open-palmed\narm thrusts that hit two to five times in\na row.</string>-->
+<!--    <string id="120293">The user's type is changed depending on\nits environment, such as at water's edge,\nin grass, or in a cave.</string>-->
+<!--    <string id="120294">The user stares at flashing lights to\nfocus its mind, drastically raising its\nSp. Atk stat.</string>-->
+<!--    <string id="120295">The user lets loose a damaging burst\nof light. It may also reduce the target's\nSp. Def stat.</string>-->
+<!--    <string id="120296">A mistlike flurry of down envelops and\ndamages the target. It may also lower\nthe target's Sp. Atk.</string>-->
+<!--    <string id="120297">The user covers the target's body with a\nmass of down that harshly lowers its\nAttack stat.</string>-->
+<!--    <string id="120298">The user performs a wobbly dance that\nconfuses the Pokémon around it.</string>-->
+<!--    <string id="120299">The user launches a kick that lands a\ncritical hit more easily.\nIt may also leave the target with a burn.</string>-->
+<!--    <string id="120300">The user covers the field with mud. Electric-type move power is reduced by half while active.</string>-->
+<!--    <string id="120301">An attack which lasts 5 turns, becoming stronger every time it hits. Its power is doubled if {STRING_110111} was used.</string>-->
+<!--    <string id="120302">The user attacks by wildly swinging its\nthorny arms. It may also make the\ntarget flinch.</string>-->
+<!--    <string id="120303">The user slacks off, restoring its own HP\nby up to half of its maximum HP.</string>-->
+<!--    <string id="120304">The user lets loose a horribly echoing\nshout with the power to inflict damage.</string>-->
+<!--    <string id="120305">The user bites the target with toxic\nfangs. It may also leave the target\nbadly poisoned.</string>-->
+<!--    <string id="120306">The user slashes the target with hard\nand sharp claws.\nIt may also lower the target's Defense.</string>-->
+<!--    <string id="120307">The target is razed by a fiery explosion.\nThe user must rest on the\nnext turn, however.</string>-->
+<!--    <string id="120308">The target is hit with a watery blast.\nThe user must rest on the\nnext turn, however.</string>-->
+<!--    <string id="120309">The target is hit with a hard punch fired\nlike a meteor. It may also raise\nthe user's Attack.</string>-->
+<!--    <string id="120310">The user attacks the target while shouting\nin a startling fashion.\nIt may also make the target flinch.</string>-->
+<!--    <string id="120311">An attack move that varies in power and\ntype depending on the weather.</string>-->
+<!--    <string id="120312">The user releases a soothing scent that\nheals all status problems affecting\nthe user's party.</string>-->
+<!--    <string id="120313">The user feigns crying to fluster\nthe target, harshly lowering its\nSp. Def stat.</string>-->
+<!--    <string id="120314">The user launches razor-like wind to\nslash the opposing team.\nCritical hits land more easily.</string>-->
+<!--    <string id="120315">The user attacks the target at full power.\nThe attack's recoil harshly reduces the\nuser's Sp. Atk stat.</string>-->
+<!--    <string id="120316">Enables a Ghost-type target to be hit with\nNormal- and Fighting-type attacks. It also\nenables an evasive target to be hit.</string>-->
+<!--    <string id="120317">Boulders are hurled at the target. It also\nlowers the target's Speed by preventing\nits movement.</string>-->
+<!--    <string id="120318">The target is attacked with powdery\nscales blown by wind.\nIt may also raise all the user's stats.</string>-->
+<!--    <string id="120319">A horrible sound like scraping metal\nharshly reduces the target's\nSp. Def stat.</string>-->
+<!--    <string id="120320">The user plays a pleasant melody that\nlulls the target into a deep sleep.</string>-->
+<!--    <string id="120321">The user tickles the target into laughing,\nreducing its Attack and Defense stats.</string>-->
+<!--    <string id="120322">The user absorbs a mystical power from\nspace to raise its Defense and\nSp. Def stats.</string>-->
+<!--    <string id="120323">The user spouts water to damage the\nopposing team. The lower the user's HP,\nthe less powerful it becomes.</string>-->
+<!--    <string id="120324">The user attacks with a sinister beam of\nlight. It may also confuse the target.</string>-->
+<!--    <string id="120325">The user throws a punch from the shadows.\nThe punch lands without fail.</string>-->
+<!--    <string id="120326">The user attacks with an odd,\nunseeable power.\nIt may also make the target flinch.</string>-->
+<!--    <string id="120327">The user attacks the target with an\nuppercut thrown skyward with force.</string>-->
+<!--    <string id="120328">The user traps the target inside a harshly\nraging sandstorm for four to five turns.</string>-->
+<!--    <string id="120329">The target is attacked with a blast of\nabsolute-zero cold.\nThe target instantly faints if it hits.</string>-->
+<!--    <string id="120330">The user attacks by shooting muddy water\nat the opposing team.\nIt may also lower the targets' accuracy.</string>-->
+<!--    <string id="120331">The user forcefully shoots seeds at the\ntarget. Two to five seeds are shot in\nrapid succession.</string>-->
+<!--    <string id="120332">The user confounds the target with speed,\nthen slashes.\nThe attack lands without fail.</string>-->
+<!--    <string id="120333">The user launches sharp icicles at the\ntarget. It strikes two to five times in\na row.</string>-->
+<!--    <string id="120334">The user hardens its body's surface\nlike iron, sharply raising its\nDefense stat.</string>-->
+<!--    <string id="120335">The user blocks the target's way with arms\nspread wide to prevent escape.</string>-->
+<!--    <string id="120336">The user howls loudly, raising its team's Attack stat.</string>-->
+<!--    <string id="120337">The user slashes the target with huge,\nsharp claws.</string>-->
+<!--    <string id="120338">The user slams the target with\nan enormous tree.\nThe user can't move on the next turn.</string>-->
+<!--    <string id="120339">The user tenses its muscles to bulk up\nits body, boosting both its Attack and\nDefense stats.</string>-->
+<!--    <string id="120340">The user bounces up high, then drops on\nthe target on the second turn. It may\nalso leave the target with paralysis.</string>-->
+<!--    <string id="120341">The user attacks by hurling a blob of mud\nat the target.\nIt also reduces the target's Speed.</string>-->
+<!--    <string id="120342">The user hits the target with its tail.\nIt may also poison the target.\nCritical hits land more easily.</string>-->
+<!--    <string id="120343">An attack which steals the foe's held item if the user isn't already holding one. Its effects are temporary when stealing from Trainers.</string>-->
+<!--    <string id="120344">The user electrifies itself, then charges. \nIt causes considerable damage to the user\nand may leave the target with paralysis.</string>-->
+<!--    <string id="120345">The user scatters curious leaves\nthat chase the target.\nThis attack will not miss.</string>-->
+<!--    <string id="120346">The user soaks the field with water. Fire-type move power is reduced by half while active.</string>-->
+<!--    <string id="120347">The user quietly focuses its mind and\ncalms its spirit to raise its Sp. Atk and\nSp. Def stats.</string>-->
+<!--    <string id="120348">The user handles a sharp leaf like a\nsword and attacks by cutting its target.\nCritical hits land more easily.</string>-->
+<!--    <string id="120349">The user vigorously performs a mystic,\npowerful dance that boosts its Attack and\nSpeed stats.</string>-->
+<!--    <string id="120350">The user hurls hard rocks at the target.\nTwo to five rocks are launched in quick\nsuccession.</string>-->
+<!--    <string id="120351">The user strikes the target with a quick\njolt of electricity.\nThis attack cannot be evaded.</string>-->
+<!--    <string id="120352">The user attacks the target with\na pulsing blast of water.\nIt may also confuse the target.</string>-->
+<!--    <string id="120353">Two turns after this move is used, the\nuser blasts the target with a\nconcentrated bundle of light.</string>-->
+<!--    <string id="120354">The user attacks the target at full power.\nThe attack's recoil harshly reduces the\nuser's Sp. Atk stat.</string>-->
+<!--    <string id="120355">The user lands and rests its body.\nIt restores the user's HP by up to\nhalf of its max HP.</string>-->
+<!--    <string id="120356">Gravity is intensified for five turns,\nmaking moves involving flying unusable\nand negating Levitate.</string>-->
+<!--    <string id="120357">Enables a Dark-type target to be hit by\nPsychic-type attacks. It also enables\nan evasive target to be hit.</string>-->
+<!--    <string id="120358">This attack inflicts big damage on a\nsleeping target. It also wakes the target\nup, however.</string>-->
+<!--    <string id="120359">The user swings and hits with its strong\nand heavy fist.\nIt lowers the user's Speed, however.</string>-->
+<!--    <string id="120360">The user tackles the target with a\nhigh-speed spin. The slower the\nuser, the greater the damage.</string>-->
+<!--    <string id="120361">The user faints immediately. In return, the {STRING_0} which is next sent out will have its HP healed completely and Status removed. If the {STRING_0} is already full HP, the Wish will wait for the next {STRING_0} sent out.</string>-->
+<!--    <string id="120362">If the target's HP is down to about half,\nthis attack will hit with double\nthe power.</string>-->
+<!--    <string id="120363">The user draws power to attack by using\nits held Berry.\nThe Berry determines its type and power.</string>-->
+<!--    <string id="120364">An attack that hits a target using\nProtect or Detect. It also lifts\nthe effects of those moves.</string>-->
+<!--    <string id="120365">The user pecks the target. If the target\nis holding a Berry, the user eats it and\ngains its effect.</string>-->
+<!--    <string id="120366">The user whips up a turbulent whirlwind\nthat ups the Speed of all party Pokémon\nfor four turns.</string>-->
+<!--    <string id="120367">The user applies pressure to stress\npoints, sharply boosting one of\nits stats.</string>-->
+<!--    <string id="120368">The user retaliates with much greater\npower against the target\nthat last inflicted damage on it.</string>-->
+<!--    <string id="120369">After making its attack, the user\nrushes back to switch places with\na party Pokémon in waiting.</string>-->
+<!--    <string id="120370">The user fights the target up close\nwithout guarding itself. It also cuts\nthe user's Defense and Sp. Def.</string>-->
+<!--    <string id="120371">If the user moves after the target,\nthis attack's power will be doubled.</string>-->
+<!--    <string id="120372">If the target has already taken some\ndamage in the same turn, this attack's\npower is doubled.</string>-->
+<!--    <string id="120373">It prevents the target from using its held\nitem. Its Trainer is also prevented from\nusing items on it.</string>-->
+<!--    <string id="120374">The user flings its item at the foe, destroying it. In PvP, only consumable items are destroyed permanently. The move's power and effects vary depending on what item is thrown.</string>-->
+<!--    <string id="120375">Using its psychic power of suggestion,\nthe user transfers its status problems\nto the target.</string>-->
+<!--    <string id="120376">The fewer PP this move has, the greater\nits attack power.</string>-->
+<!--    <string id="120377">For five turns, the user prevents the\nopposing team from using any moves,\nAbilities, or held items that recover HP.</string>-->
+<!--    <string id="120378">The user powerfully wrings the target.\nThe more HP the target has, the greater\nthis attack's power.</string>-->
+<!--    <string id="120379">The user employs its psychic power to\nswitch its Attack with its Defense stat.</string>-->
+<!--    <string id="120380">The user hurls up its stomach acids on\nthe target. The fluid eliminates the effect\nof the target's Ability.</string>-->
+<!--    <string id="120381">The user chants an incantation toward\nthe sky, preventing opposing Pokémon\nfrom landing critical hits.</string>-->
+<!--    <string id="120382">The user tries to cut ahead of the target\nto steal and use the target's intended\nmove with greater power.</string>-->
+<!--    <string id="120383">The user mimics the move used immediately\nbefore it. The move fails if no other move\nhas been used yet.</string>-->
+<!--    <string id="120384">The user employs its psychic power to\nswitch changes to its Attack and\nSp. Atk with the target.</string>-->
+<!--    <string id="120385">The user employs its psychic power to\nswitch changes to its Defense and\nSp. Def with the target.</string>-->
+<!--    <string id="120386">This attack's power increases\nthe more the target has powered\nup with stat changes.</string>-->
+<!--    <string id="120387">This move can be used only after the user\nhas used all the other moves it knows\nin the battle.</string>-->
+<!--    <string id="120388">A seed that causes worry is planted on\nthe target. It prevents sleep by making\nits Ability Insomnia.</string>-->
+<!--    <string id="120389">This move enables the user to attack\nfirst. It fails if the target is not\nreadying an attack, however.</string>-->
+<!--    <string id="120390">The user lays a trap of poison spikes at\nthe opponent's feet. They poison\nopponents that switch into battle.</string>-->
+<!--    <string id="120391">The user employs its psychic power to\nswitch stat changes with the target.</string>-->
+<!--    <string id="120392">The user envelops itself in a veil made\nof water. It regains some HP on\nevery turn.</string>-->
+<!--    <string id="120393">The user levitates using electrically\ngenerated magnetism for five turns.</string>-->
+<!--    <string id="120394">The user cloaks itself in fire and charges\nat the target. The user sustains serious\ndamage and may leave the target burned.</string>-->
+<!--    <string id="120395">The target is attacked with a shock wave.\nIt may also leave the target\nwith paralysis.</string>-->
+<!--    <string id="120396">The user looses a blast of aura power\nfrom deep within its body at the target.\nThis move is certain to hit.</string>-->
+<!--    <string id="120397">The user polishes its body to reduce drag.\nIt can sharply raise the Speed stat.</string>-->
+<!--    <string id="120398">The target is stabbed with a tentacle or\narm steeped in poison. It may also\npoison the target.</string>-->
+<!--    <string id="120399">The user releases a horrible aura imbued\nwith dark thoughts.\nIt may also make the target flinch.</string>-->
+<!--    <string id="120400">The user slashes the target\nthe instant an opportunity arises.\nCritical hits land more easily.</string>-->
+<!--    <string id="120401">The user attacks by swinging its tail as if\nit were a vicious wave in a raging storm.</string>-->
+<!--    <string id="120402">The user slams a barrage of hard-shelled\nseeds down on the target from above.</string>-->
+<!--    <string id="120403">The user attacks with a blade of air that\nslices even the sky. It may also make the\ntarget flinch.</string>-->
+<!--    <string id="120404">The user slashes at the target by\ncrossing its scythes or claws as if\nthey were a pair of scissors.</string>-->
+<!--    <string id="120405">The user vibrates its wings to generate a\ndamaging sound wave. It may also lower\nthe target's Sp. Def stat.</string>-->
+<!--    <string id="120406">The target is attacked with a shock wave\ngenerated by the user's gaping mouth.</string>-->
+<!--    <string id="120407">The user tackles the target while\nexhibiting overwhelming menace.\nIt may also make the target flinch.</string>-->
+<!--    <string id="120408">The user attacks with a ray of light that\nsparkles as if it were made of gemstones.</string>-->
+<!--    <string id="120409">An energy-draining punch. The user's\nHP is restored by half the damage taken\nby the target.</string>-->
+<!--    <string id="120410">The user whirls its fists to send a wave\nof pure vacuum at the target. This move\nalways goes first.</string>-->
+<!--    <string id="120411">The user heightens its mental focus and\nunleashes its power.\nIt may also lower the target's Sp. Def.</string>-->
+<!--    <string id="120412">The user draws power from nature and\nfires it at the target.\nIt may also lower the target's Sp. Def.</string>-->
+<!--    <string id="120413">The user tucks in its wings and charges\nfrom a low altitude.\nThe user also takes serious damage.</string>-->
+<!--    <string id="120414">The user makes the ground under\nthe target erupt with power.\nIt may also lower the target's Sp. Def.</string>-->
+<!--    <string id="120415">The user trades held items with the target\nfaster than the eye can follow.</string>-->
+<!--    <string id="120416">The user charges at the target using\nevery bit of its power.\nThe user must rest on the next turn.</string>-->
+<!--    <string id="120417">The user stimulates its brain by thinking\nbad thoughts.\nIt sharply raises the user's Sp. Atk.</string>-->
+<!--    <string id="120418">The user strikes the target\nwith tough punches as fast as bullets.\nThis move always goes first.</string>-->
+<!--    <string id="120419">An attack move that inflicts double the\ndamage if the user has been hurt by the\ntarget in the same turn.</string>-->
+<!--    <string id="120420">The user flash freezes chunks of\nice and hurls them at the target.\nThis move always goes first.</string>-->
+<!--    <string id="120421">The user slashes with a sharp claw made\nfrom shadows.\nCritical hits land more easily.</string>-->
+<!--    <string id="120422">The user bites with electrified fangs.\nIt may also make the target flinch or\nleave it with paralysis.</string>-->
+<!--    <string id="120423">The user bites with cold-infused fangs.\nIt may also make the target flinch or\nleave it frozen.</string>-->
+<!--    <string id="120424">The user bites with flame-cloaked fangs.\nIt may also make the target flinch or leave\nit burned.</string>-->
+<!--    <string id="120425">The user extends its shadow and attacks\nthe target from behind.\nThis move always goes first.</string>-->
+<!--    <string id="120426">The user launches a hard-packed\nmud ball to attack.\nIt may also lower the target's accuracy.</string>-->
+<!--    <string id="120427">The user tears at the target with blades\nformed by psychic power.\nCritical hits land more easily.</string>-->
+<!--    <string id="120428">The user focuses its willpower to its head\nand attacks the target.\nIt may also make the target flinch.</string>-->
+<!--    <string id="120429">The user looses a flash of energy at\nthe target from its polished body.\nIt may also lower the target's accuracy.</string>-->
+<!--    <string id="120430">The user gathers all its light energy and\nreleases it at once. It may also lower the\ntarget's Sp. Def stat.</string>-->
+<!--    <string id="120431">The user attacks the target by smashing\ninto it with incredible force.\nIt may also confuse the target.</string>-->
+<!--    <string id="120432">A strong wind blows away the target's\nobstacles such as Reflect or Light Screen.\nIt also lowers the target's evasiveness.</string>-->
+<!--    <string id="120433">The user creates a bizarre area in which\nslower Pokémon get to move first for\nfive turns.</string>-->
+<!--    <string id="120434">Comets are summoned down from the sky\nonto the target. The attack's recoil\nharshly reduces the user's Sp. Atk stat.</string>-->
+<!--    <string id="120435">A flare of electricity is loosed to strike\nthe area around the user.\nIt may also cause paralysis.</string>-->
+<!--    <string id="120436">An inferno of scarlet flames torches\neverything around the user. It may\nleave targets with a burn.</string>-->
+<!--    <string id="120437">The user whips up a storm of leaves around\nthe target. The attack's recoil harshly\nreduces the user's Sp. Atk stat.</string>-->
+<!--    <string id="120438">The user violently whirls its vines or\ntentacles to harshly lash the target.</string>-->
+<!--    <string id="120439">The user launches a huge boulder at the\ntarget to attack. It must rest on the\nnext turn, however.</string>-->
+<!--    <string id="120440">A slashing attack with a poisonous blade\nthat may also leave the target poisoned.\nCritical hits land more easily.</string>-->
+<!--    <string id="120441">The user shoots filthy garbage\nat the target to attack.\nIt may also poison the target.</string>-->
+<!--    <string id="120442">The user slams the target\nwith its steel-hard head.\nIt may also make the target flinch.</string>-->
+<!--    <string id="120443">The user launches steel bombs that\nstick to the target.\nThis attack will not miss.</string>-->
+<!--    <string id="120444">The user stabs the foe with\nsharpened stones from below.\nIt has a high critical-hit ratio.</string>-->
+<!--    <string id="120445">If it is the opposite gender of the user,\nthe target is charmed into harshly\nlowering its Sp. Atk stat.</string>-->
+<!--    <string id="120446">The user lays a trap of levitating stones\naround the opponent's team. The trap\nhurts opponents that switch into battle.</string>-->
+<!--    <string id="120447">The user snares the target with grass and\ntrips it. The heavier the target,\nthe greater the damage.</string>-->
+<!--    <string id="120448">The user attacks using a sound wave\nbased on words it has learned.\nIt may also confuse the target.</string>-->
+<!--    <string id="120449">The user releases countless shots of\nlight at the target. Its type varies with\nthe kind of Plate the user is holding.</string>-->
+<!--    <string id="120450">The user bites the target. If the target\nis holding a Berry, the user eats it and\ngains its effect.</string>-->
+<!--    <string id="120451">The user attacks with an electric\ncharge. The user may use any remaining\nelectricity to raise its Sp. Atk stat.</string>-->
+<!--    <string id="120452">The user slams its rugged body into the\ntarget to attack. The user also sustains\nserious damage.</string>-->
+<!--    <string id="120453">The user lunges at the target at a speed\nthat makes it almost invisible. It is sure\nto strike first.</string>-->
+<!--    <string id="120454">The user calls out its underlings to\npummel the target.\nCritical hits land more easily.</string>-->
+<!--    <string id="120455">The user calls out its underlings to\nshield its body, raising its Defense\nand Sp. Def stats.</string>-->
+<!--    <string id="120456">The user calls out its underlings to\nheal it. The user regains up to half of its\nmax HP.</string>-->
+<!--    <string id="120457">The user attacks the target with a\nhazardous, full-power headbutt.\nThe user also takes terrible damage.</string>-->
+<!--    <string id="120458">The user slams the target with a long tail,\nvines, or tentacle.\nThe target is hit twice in a row.</string>-->
+<!--    <string id="120459">The user blasts the target with power\nthat distorts even time.\nThe user must rest on the next turn.</string>-->
+<!--    <string id="120460">The user tears the target along with the\nspace around it.\nCritical hits land more easily.</string>-->
+<!--    <string id="120461">The user faints. In return, the Pokémon\ntaking its place will have its status and\nHP fully restored.</string>-->
+<!--    <string id="120462">The target is crushed with great force.\nThe attack is more powerful the more\nHP the target has left.</string>-->
+<!--    <string id="120463">The target becomes trapped\nwithin a maelstrom of fire that rages\nfor four to five turns.</string>-->
+<!--    <string id="120464">Opposing Pokémon are dragged into\na world of total darkness that makes\nthem sleep.</string>-->
+<!--    <string id="120465">The user emits a shock wave from\nits body to attack its target. It may\nharshly lower the target's Sp. Def.</string>-->
+<!--    <string id="120466">The user blasts the target with a gust of\nrepulsive wind. It may also raise all the\nuser's stats at once.</string>-->
+<!--    <string id="120467">The user disappears, then strikes the\ntarget on the second turn.\nIt hits even if the target protects itself.</string>-->
+<!--    <string id="120468">The user sharpens its claws to\nboost its Attack stat and accuracy.</string>-->
+<!--    <string id="120469">The user's team is protected from wide-ranging attacks for one turn. If used consecutively with another protection move, {STRING_110182}, {STRING_110197}, and {STRING_110203} may fail.</string>-->
+<!--    <string id="120470">The user employs its psychic power to\naverage its Defense and Sp. Def stats\nwith those of its target's.</string>-->
+<!--    <string id="120471">The user employs its psychic power to\naverage its Attack and Sp. Atk stats\nwith those of the target's.</string>-->
+<!--    <string id="120472">The user creates a bizarre area in which\nPokémon's Defense and Sp. Def\nstats are swapped for five turns.</string>-->
+<!--    <string id="120473">The user materializes an odd\npsychic wave to attack the target.\nThis attack does physical damage.</string>-->
+<!--    <string id="120474">The user drenches the target in a special\npoisonous liquid. Its power is doubled\nif the target is poisoned.</string>-->
+<!--    <string id="120475">The user sheds part of its body\nto make itself lighter and sharply\nraise its Speed stat.</string>-->
+<!--    <string id="120476">The user scatters a cloud of irritating\npowder to draw attention to itself.\nOpponents aim only at the user.</string>-->
+<!--    <string id="120477">The user makes the target float with its\npsychic power. The target is easier to\nhit for three turns.</string>-->
+<!--    <string id="120478">The user creates a bizarre area\nin which Pokémon's held items\nlose their effects for five turns.</string>-->
+<!--    <string id="120479">The user throws a stone or projectile to\nattack an opponent. A flying Pokémon will\nfall to the ground when hit.</string>-->
+<!--    <string id="120480">The user strikes the target with a fierce\nblow. This attack always results in a\ncritical hit.</string>-->
+<!--    <string id="120481">The user attacks the target with a\nbursting flame. The bursting flame damages\nPokémon next to the target as well.</string>-->
+<!--    <string id="120482">It swamps the area around the user with a\ngiant sludge wave.\nIt may also poison those hit.</string>-->
+<!--    <string id="120483">The user lightly performs a beautiful,\nmystic dance. It boosts the user's\nSp. Atk, Sp. Def, and Speed stats.</string>-->
+<!--    <string id="120484">The user slams into the target with its\nheavy body. The more the user outweighs\nthe target, the greater its damage.</string>-->
+<!--    <string id="120485">Using an odd shock wave, the user\ninflicts damage on any Pokémon of the same\ntype in the area around it.</string>-->
+<!--    <string id="120486">The user hurls an electric orb\nat the target. The faster the user is\nthan the target, the greater the damage.</string>-->
+<!--    <string id="120487">The user shoots a torrent of water\nat the target and changes\nthe target's type to Water.</string>-->
+<!--    <string id="120488">The user cloaks itself with flame and\nattacks. Building up more power,\nit raises the user's Speed stat.</string>-->
+<!--    <string id="120489">The user coils up and concentrates.\nThis raises its Attack and Defense stats\nas well as its accuracy.</string>-->
+<!--    <string id="120490">The user attacks the target's legs\nswiftly, reducing the target's\nSpeed stat.</string>-->
+<!--    <string id="120491">The user spits fluid that works to melt\nthe target. This harshly reduces\nthe target's Sp. Def stat.</string>-->
+<!--    <string id="120492">The user turns the target's power\nagainst it. The higher the target's\nAttack stat, the greater the damage.</string>-->
+<!--    <string id="120493">The user's mysterious psychic wave\nchanges the target's Ability to Simple.</string>-->
+<!--    <string id="120494">The user dances with an odd rhythm that\ncompels the target to mimic it, making the\ntarget's Ability the same as the user's.</string>-->
+<!--    <string id="120495">The user helps the target and makes it\nuse its move right after the user.</string>-->
+<!--    <string id="120496">The user attacks the target with a song.\nOthers can join in the Round and make\nthe attack do greater damage.</string>-->
+<!--    <string id="120497">The user attacks the target with an\nechoing voice. If this move is used\nevery turn, it does greater damage.</string>-->
+<!--    <string id="120498">Looking for an opening, the user strikes\ncontinually. The target's stat changes\ndon't affect this attack's damage.</string>-->
+<!--    <string id="120499">The user attacks by throwing a clump of\nspecial mud. All status changes are\nreturned to normal.</string>-->
+<!--    <string id="120500">The user attacks the target with stored\npower. The more the user's stats are\nraised, the greater the damage.</string>-->
+<!--    <string id="120501">The user's team is protected from priority attacks for one turn. If used consecutively with another protection move, {STRING_110182}, {STRING_110197}, and {STRING_110203} may fail.</string>-->
+<!--    <string id="120502">The user teleports, switching places with its adjacent ally. It may fail if used consecutively.</string>-->
+<!--    <string id="120503">The user shoots boiling hot water at\nits target. It may also leave the target\nwith a burn.</string>-->
+<!--    <string id="120504">The user breaks its shell, lowering its\nDefense and Sp. Def stats but sharply\nraising Attack, Sp. Atk, and Speed stats.</string>-->
+<!--    <string id="120505">The user emits a healing pulse which\nrestores the target's HP by up to\nhalf of its max HP.</string>-->
+<!--    <string id="120506">This relentless attack does massive\ndamage to a target affected\nby status problems.</string>-->
+<!--    <string id="120507">The user takes the target into the sky,\nthen drops it during the next turn.\nThe target cannot attack while in the sky.</string>-->
+<!--    <string id="120508">The user rotates its gears, raising its\nAttack and sharply raising its Speed.</string>-->
+<!--    <string id="120509">The user throws the target and drags out\nanother Pokémon in its party.\nIn the wild, the battle ends.</string>-->
+<!--    <string id="120510">The user attacks the target with fire.\nIf the target is holding a Berry, the\nBerry becomes burnt up and unusable.</string>-->
+<!--    <string id="120511">The user suppresses the target and\nmakes its move go last.</string>-->
+<!--    <string id="120512">The user nimbly strikes the target.\nIf the user is not holding an item,\nthis attack inflicts massive damage.</string>-->
+<!--    <string id="120513">The user reflects the target's type,\nmaking it the same type as the target.</string>-->
+<!--    <string id="120514">The user gets revenge for a fainted ally.\nIf an ally fainted in the previous turn,\nthis attack's damage increases.</string>-->
+<!--    <string id="120515">The user risks everything to attack its\ntarget. The user faints but does damage\nequal to the user's HP.</string>-->
+<!--    <string id="120516">The user passes its held item to the\ntarget when the target isn't holding\nan item.</string>-->
+<!--    <string id="120517">The user attacks by engulfing the target\nin an intense fire. It leaves the target\nwith a burn.</string>-->
+<!--    <string id="120518">A column of water strikes the target. When\ncombined with its fire equivalent, the\ndamage increases and a rainbow appears.</string>-->
+<!--    <string id="120519">A column of fire hits opposing Pokémon.\nWhen used with its Grass equivalent, its\ndamage increases into a vast sea of fire.</string>-->
+<!--    <string id="120520">A column of grass hits opposing Pokémon.\nWhen used with its water equivalent, its\ndamage increases into a vast swamp.</string>-->
+<!--    <string id="120521">After making its attack, the user\nrushes back to switch places with\na party Pokémon in waiting.</string>-->
+<!--    <string id="120522">While resisting, the user attacks the\nopposing Pokémon. The targets'\nSp. Atk stat is reduced.</string>-->
+<!--    <string id="120523">The user stomps down on the ground\nand attacks everything in the area. Hit\nPokémon's Speed stat is reduced.</string>-->
+<!--    <string id="120524">The user blows a cold breath on the\ntarget. This attack always results in\na critical hit.</string>-->
+<!--    <string id="120525">The user knocks away the target and\ndrags out another Pokémon in its party.\nIn the wild, the battle ends.</string>-->
+<!--    <string id="120526">The user is roused, and its Attack\nand Sp. Atk stats increase.</string>-->
+<!--    <string id="120527">The user captures and attacks opposing\nPokémon by using an electric net. It\nreduces the targets' Speed stat.</string>-->
+<!--    <string id="120528">The user shrouds itself in electricity\nand smashes into its target.\nIt also damages the user a little.</string>-->
+<!--    <string id="120529">The user crashes into its target while\nrotating its body like a drill.\nCritical hits land more easily.</string>-->
+<!--    <string id="120530">The user attacks its target by hitting\nit with brutal strikes.\nThe target is hit twice in a row.</string>-->
+<!--    <string id="120531">The user unleashes a vicious blow after\nits cute act makes the target less wary.\nIt may also make the target flinch.</string>-->
+<!--    <string id="120532">The user drains the target's energy with\nits horns. The user's HP is restored\nby half the damage taken by the target.</string>-->
+<!--    <string id="120533">The user attacks by slicing with its long\nhorns. The target's stat changes\ndon't affect this attack's damage.</string>-->
+<!--    <string id="120534">The user cuts its target with sharp\nshells. This attack may also lower the\ntarget's Defense stat.</string>-->
+<!--    <string id="120535">The user slams its target with its flame-\ncovered body. The more the user outweighs\nthe target, the greater the damage.</string>-->
+<!--    <string id="120536">The user attacks its target by\nencircling it in sharp leaves. This attack\nmay also lower the target's accuracy.</string>-->
+<!--    <string id="120537">The user crushes its targets by rolling\nover them with its rolled-up body.\nThis attack may make the target flinch.</string>-->
+<!--    <string id="120538">The user protects itself by wrapping\nits body in soft cotton, drastically\nraising the user's Defense stat.</string>-->
+<!--    <string id="120539">The user lets loose a pitch-black shock\nwave at its target. It may also lower the\ntarget's accuracy.</string>-->
+<!--    <string id="120540">The user materializes an odd\npsychic wave to attack the target.\nThis attack does physical damage.</string>-->
+<!--    <string id="120541">The user attacks by striking the target\nwith its hard tail. It hits the target two\nto five times in a row.</string>-->
+<!--    <string id="120542">The user attacks by wrapping its opponent\nin a fierce wind that flies up into the sky.\nIt may also confuse the target.</string>-->
+<!--    <string id="120543">The user charges its head into its\ntarget, using its powerful guard hair.\nIt also damages the user a little.</string>-->
+<!--    <string id="120544">The user attacks by throwing\ntwo steel gears at its target.</string>-->
+<!--    <string id="120545">An inferno of scarlet flames torches\neverything around the user. It may\nleave targets with a burn.</string>-->
+<!--    <string id="120546">The user fires a beam of light at\nits target. The type changes depending\non the Drive the user holds.</string>-->
+<!--    <string id="120547">The user sings an ancient song and attacks\nby appealing to the hearts of those\nlistening. It may also induce sleep.</string>-->
+<!--    <string id="120548">The user cuts with its long horn. The odd\npower contained in the horn does physical\ndamage to the target.</string>-->
+<!--    <string id="120549">The user attacks by blowing freezing cold\nair at opposing Pokémon. This attack\nreduces the targets' Speed stat.</string>-->
+<!--    <string id="120550">The user charges its target, surrounding\nitself with a great amount of electricity.\nIt may leave the target with paralysis.</string>-->
+<!--    <string id="120551">The user attacks by engulfing the target\nin an intense, yet beautiful, blue flame.\nIt may leave the target with a burn.</string>-->
+<!--    <string id="120552">Cloaked in flames, the user dances\nand flaps its wings. It may also\nraise the user's Sp. Atk stat.</string>-->
+<!--    <string id="120553">On the second turn, the user hits the\ntarget with electrically charged ice.\nIt may leave the target with paralysis.</string>-->
+<!--    <string id="120554">On the second turn, an ultracold,\nfreezing wind surrounds the target.\nThis may leave the target with a burn.</string>-->
+<!--    <string id="120555">The user yells as if it is ranting about\nsomething, making the target's Sp. Atk\nstat decrease.</string>-->
+<!--    <string id="120556">The user attacks by harshly dropping\nan icicle onto the target.\nIt may also make the target flinch.</string>-->
+<!--    <string id="120557">With a hot flame on its forehead, the user\nhurls itself at its target. It lowers the\nuser's Defense, Sp. Def, and Speed stats.</string>-->
+<!--    <string id="120558">The user brings down a giant flame.\nThis attack does greater damage when\ninfluenced by an enormous thunderbolt.</string>-->
+<!--    <string id="120559">The user throws down a giant thunderbolt.\nThis attack does greater damage\nwhen influenced by an enormous flame.</string>-->
+
+</strings>

@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ds_strings_archive archive_type="0" lang="en" region_id="4">
+    <!--=Credits to SuperWorldSun for all strings-->
+    <!--=SupersStoryStrings Version-->
+
+<!--Safari-->
+
+    <!--Safari Attendant Top-->
+    <string block_id="0" entry_id="0" table_id="135">Welcome to the Safari Zone! For just ${01}, you can play the\nSafari Game.You can roam the wide-open Safari Zone\nand catch whatever you like. Would you like to play?</string>
+    <string block_id="0" entry_id="0" table_id="427">Ding-dong! Time's up!\nYour Safari Game is over.</string> <!--Safari Times up-->
+    <string block_id="0" entry_id="1" table_id="427">Ding-dong! You've run out of Safari Balls.\nYour Safari Game is over.</string> <!--Safari no balls-->
+    <string block_id="0" entry_id="2" table_id="427">Ding-dong! You're out of room for more Pokémon.\nYour Safari Game is over!</string> <!--Safari Skill issue-->
+    <string block_id="0" entry_id="2" table_id="135">That'll be ${01}, please!</string>
+    <string block_id="0" entry_id="3" table_id="135">OK.\nPlease come again!</string>
+    <string block_id="0" entry_id="4" table_id="135">Here are your Safari Balls!</string>
+    <string block_id="0" entry_id="5" table_id="135">{00} received {01} Safari Balls\nfrom the attendant.</string>
+    <string block_id="0" entry_id="6" table_id="135">We'll call for you when you run out of Safari Balls.\nWell, I hope you enjoy it! Go, and have fun!</string> <!--Picked Area-->
+
+            <!--Safari Old customer-->
+    <string block_id="0" entry_id="38" table_id="135">Each Area in the Safari has a Rare Pokémon that can change\neach day. Heres the list of Rotational Pokémon for each Area.\n\n-Plains: Zigzagoon, Shinx, Ponyta, Manectric,\nHoundoom, Surskit, Lotad, Houndour, Zangoose\n-Meadow: Riolu, Nosepass, Masquerain, Seedot,\nNuzlead, Chansey \n-Savannah: Azurill, Shroomish, Houndour, Zigzagoon,\nTorkal, Luxio, Cacnea \n\n-Peak: Aron, Bronzor, Vigoroth, Lineoone,\nZangoose, Spheal\n-Rocky Beach: Corphish, Manectric, Aron,Mareep,\nElectrike, Gible, Budew \n-Wetland: Buizel, Corphish, Shelgon, Pachirisu,\nSurskit, FarFetch'd, Lombre \n\n-Forest Area: Beldum, Bidoof, Budew, Electabuzz,\nBronzor, Shuppet\n-Swamp: Floatzel, Weepinbell, Furret, Voltorb,\nChimecho, Parasect, Pachirisu, Duskull\n-Marshland: Croagunk, Roselia, Seviper, Diglett,\nShuppet, Shuckle, Jumpluff, Carnivine\n\n-Wasteland: Solrock, Skorupi, illumise, Meditite,\nManectric, Breloom\n-Mountain: Duskull, Volbeat, Spheal, Spinda,\nChingling, Meditite, Lunatone, Metang, illumise\n-Desert: Hippopotas, Cacnea, Trapinch, Spinda,\nLotad, Carnivine\n\n</string>
+<!--TODO    <string block_id="0" entry_id="53" table_id="135">The odds of encountering a Rotational Pokémon is 10%.\nWith a lure its 15%! So don't forget to use them!</string>-->
+
+    <!--Apricorn Tree cooldown-->
+    <string block_id="0" entry_id="2" table_id="23">[ON COOLDOWN]\n[Recharge takes 6 IRL hours or 1 Game Day]\nThere are no Apricorns...</string>
+
+    <string block_id="0" entry_id="0" table_id="23">It's an Apricorn Tree!</string>
+    <string block_id="0" entry_id="1" table_id="23">...It's a {01}!</string>
+
+    <string block_id="0" entry_id="7" table_id="21">Red Apricorn</string>
+    <string block_id="0" entry_id="8" table_id="21">Yellow Apricorn</string>
+    <string block_id="0" entry_id="9" table_id="21">Blue Apricorn</string>
+    <string block_id="0" entry_id="10" table_id="21">Green Apricorn</string>
+    <string block_id="0" entry_id="11" table_id="21">Pink Apricorn</string>
+    <string block_id="0" entry_id="12" table_id="21">White Apricorn</string>
+    <string block_id="0" entry_id="13" table_id="21">Black Apricorn</string>
+
+
+<!--Npc-->
+    <!--Gym-->
+        <!--Falkner Battle-->
+            <string block_id="0" entry_id="0" table_id="558">[$8632]  /  +50%[$12948]  /  +75%[$15106]  /  +100%[$17264]\n \nFalkner: I'm Falkner, the Violet City Pokémon Gym Leader!\nPeople say you can clip Flying-type Pokémon's wings with a\njolt of electricity...I won't allow such insults to bird Pokémon!\nI'll show you the real power of the magnificent bird Pokémon!\n\n</string>
+        <!--Falkner End Battle-->
+            <string block_id="0" entry_id="85" table_id="728">\n\n</string>
+        <!--Falkner on Cooldown-->
+            <string block_id="0" entry_id="5" table_id="558">[ON COOLDOWN / 18 Hours]\n[$8632]  /  +50%[$12948]  /  +75%[$15106]  /  +100%[$17264]\n \nFalkner: There are Pokémon Gyms in cities and towns ahead.\nYou should test your skills at these Gyms. As for your next\nmove... I would suggest Azalea Town. I'm going to train harder\nto become the greatest Bird Keeper of all!</string>
+
+        <!--Bugsy Battle-->
+            <string block_id="0" entry_id="0" table_id="567">[$8736]  /  +50%[$13104]  /  +75%[$15288]  /  +100%[$17472]\n \nBugsy: I'm Bugsy! I never lose when it comes to Bug-type\nPokémon. My research is going to make me the authority on\nBug-type Pokémon! Let me demonstrate what I've learned\nfrom my studies.\n\n</string>
+        <!--Bugsy End Battle-->
+            <string block_id="0" entry_id="88" table_id="728">\n\n</string>
+        <!--Bugsy on Cooldown-->
+            <string block_id="0" entry_id="6" table_id="567">[ON COOLDOWN / 18 Hours]\n[$8736]  /  +50%[$13104]  /  +75%[$15288]  /  +100%[$17472]\n \nBugsy: Bug-type Pokémon are deep. There are many mysteries\nto explore. Study your top choices thoroughly.</string>
+
+        <!--Whitney Battle-->
+            <string block_id="0" entry_id="0" table_id="582">[$8840]  /  +50%[$13260]  /  +75%[$15470]  /  +100%[$17680]\n \nWhitney: Hi! I'm Whitney!...You!I saw you at the Radio Tower just\nnow. Everyone was into Pokémon, so I got into it, too! Pokémon\nare super cute! You want to battle? I'm warning you--I'm good!\n\n</string>
+        <!--Whitney End Battle-->
+            <string block_id="0" entry_id="91" table_id="728">\n\n</string>
+        <!--Whitney on Cooldown-->
+            <string block_id="0" entry_id="8" table_id="582">[ON COOLDOWN / 18 Hours]\n[$8840]  /  +50%[$13260]  /  +75%[$15470]  /  +100%[$17680]\n \nWhitney: Ah, that was a good cry! Come for a visit again! Bye-bye!</string>
+
+        <!--Morty Battle-->
+            <string block_id="0" entry_id="0" table_id="614">[$8944]  /  +50%[$13416]  /  +75%[$15652]  /  +100%[$17888]\n \nMorty: It's good of you to have come. Here in Ecruteak, Pokémon\nhave long been revered. It's said that a rainbow-hued Pokémon\nwill come down to appear before a truly powerful Trainer.\nI believed that tale, so I have secretly trained here all my life. As\na result, I can now see what others cannot. I see a shadow of the\nperson who will make the Pokémon appear. I believe that person\nis me! You're going to help me reach that level!\n\n</string>
+        <!--Morty End Battle-->
+            <string block_id="0" entry_id="94" table_id="728">\n\n</string>
+        <!--Morty on Cooldown-->
+            <string block_id="0" entry_id="6" table_id="614">[ON COOLDOWN / 18 Hours]\n[$8944]  /  +50%[$13416]  /  +75%[$15652]  /  +100%[$17888]\n \nMorty: I get it... The person the Kimono Girls were talking about\nmust be you... Never mind. You should be strong enough to go\nacross the sea. When you go west and then south, you'll reach\nOlivine City. Why don't you head for it?</string>
+
+        <!--Chuck Battle-->
+            <string block_id="0" entry_id="0" table_id="574">[$9048]  /  +50%[$13572]  /  +75%[$15834]  /  +100%[$18096]\n \nChuck: Ooomph! The pounding waterfall right onto my head...\nArrgh! Why did you stop the waterfall from pouring on me! You\njust spoiled my training! I have to warn you that I am a strong\nTrainer training every day under this waterfall! What? It has\nnothing to do with Pokémon?...That's true!......Come on.\nWe shall do battle!\n\n</string>
+        <!--Chuck End Battle-->
+            <string block_id="0" entry_id="100" table_id="728">\n\n</string>
+        <!--Chuck on Cooldown-->
+            <string block_id="0" entry_id="8" table_id="574">[ON COOLDOWN / 18 Hours]\n[$9048]  /  +50%[$13572]  /  +75%[$15834]  /  +100%[$18096]\n \nChuck: Wahahah! I enjoyed battling you! But a loss is a loss!\nFrom now on, I'm going to train 24 hours a day!</string>
+        <!--Chuck in waterfall-->
+            <string block_id="0" entry_id="9" table_id="574">[$9048]  /  +50%[$13572]  /  +75%[$15834]  /  +100%[$18096]\n \nHe's so into his training, he doesn't seem to notice you.</string>
+
+
+        <!--Jasmine Battle-->
+            <string block_id="0" entry_id="0" table_id="606">[$9152]  /  +50%[$13728]  /  +75%[$16016]  /  +100%[$18304]\n \nJasmine: Thank you for your help at the Lighthouse...But this is\ndifferent. Please allow me to introduce myself. I am Jasmine, a\nGym Leader. I use the...clang! Steel type!...Do you know about\nthe Steel type? They are very hard, cold, sharp, and really strong!\nUm... I'm not lying.\n\n</string>
+        <!--Jasmine End Battle-->
+            <string block_id="0" entry_id="97" table_id="728">\n\n</string>
+        <!--Jasmine on Cooldown-->
+            <string block_id="0" entry_id="6" table_id="606">[ON COOLDOWN / 18 Hours]\n[$9152]  /  +50%[$13728]  /  +75%[$16016]  /  +100%[$18304]\n \nJasmine: Um... I don't know how to say this, but good luck...</string>
+
+        <!--Pryce Battle-->
+            <string block_id="0" entry_id="0" table_id="622">[$9256]  /  +50%[$13884]  /  +75%[$16198]  /  +100%[$18512]\n \nPryce: Pokémon have many experiences in their lives, just like\nwe do. I, too, have seen and suffered much in my life. Since I am \nyour elder, let me show you what I mean. I have been training\nPokémon since before you were born. I do not lose easily. I,\nPryce--the Winter Trainer--shall demonstrate my power!\n\n</string>
+        <!--Pryce End Battle-->
+            <string block_id="0" entry_id="103" table_id="728">\n\n</string>
+        <!--Pryce on Cooldown-->
+            <string block_id="0" entry_id="6" table_id="622">[ON COOLDOWN / 18 Hours]\n[$9256]  /  +50%[$13884]  /  +75%[$16198]  /  +100%[$18512]\n \nPryce: It is you... Since you are here,\nwhy don't we take a picture together?</string>
+            <string block_id="0" entry_id="10" table_id="622">Your Photo Album is full.\nAccess your PC to delete some pictures.</string>
+            <string block_id="0" entry_id="9" table_id="622">Pryce: That's OK, too. Suit yourself.</string>
+
+        <!--Clair Battle-->
+            <string block_id="0" entry_id="0" table_id="631">[$9360]  /  +50%[$14040]  /  +75%[$16380]  /  +100%[$18720]\n \nClair: Yo! Champ in the making! The Gym has unstable footing.\nKeep your Pokémon in their Poké Balls. Now, Clair uses the\nmythical and sacred Dragon-type Pokémon. You can't damage\nthem very easily. But you know, they're supposed to be weak\nagainst Ice-type moves.\n\n</string>
+        <!--Clair End Battle-->
+            <string block_id="0" entry_id="106" table_id="728">\n\n</string>
+        <!--Clair on Cooldown-->
+            <string block_id="0" entry_id="9" table_id="631">[ON COOLDOWN / 18 Hours]\n[$9360]  /  +50%[$14040]  /  +75%[$16380]  /  +100%[$18720]\n \nClair: What's the matter? Aren't you headed to the Pokémon\nLeague? Your face...it tells me you have some unfinished\nbusiness... Wait a sec! You came from New Bark Town where\nProfessor Elm's Lab is, right? You may want to go back to\nNew Bark Town. Whatever you have to face from now, it'll be\nmore difficult. But don't you dare give up! If you do, I'll feel\neven worse about having lost to you!...Give it your all.</string>
+
+    <!--Elite Four-->
+        <!--Door Guard-->
+            <string block_id="0" entry_id="5" table_id="522">Once you enter this door, you will be facing one of the Elite Four.\nThey are really tough! You cannot exit once you enter.\nAre you ready? Be courageous and go for it!\n\n</string>
+            <string block_id="0" entry_id="6" table_id="522">Once you enter this door, you will be facing one of the Elite Four.\nThey are really tough! You cannot exit once you enter.\nAre you ready? Be courageous and go for it!</string>
+
+        <!--Will Battle-->
+            <string block_id="0" entry_id="0" table_id="523">Welcome to the Pokémon League!\nAllow me to introduce myself. I am Will. I have trained all around\nthe world, making my Psychic-type Pokémon powerful. And, at\nlast, I've been accepted into the Elite Four. I can only keep getting\nbetter! Losing is not an option!\n\n</string>
+        <!--Will End Battle-->
+            <string block_id="0" entry_id="222" table_id="728">\n\n</string>
+        <!--Will on Cooldown-->
+            <string block_id="0" entry_id="1" table_id="523">Even though I was defeated, I won't change my course.\nI will continue battling until I stand above all Trainers!\nNow move on and experience the true ferocity of the Elite Four.\n\n</string>
+            <string block_id="0" entry_id="2" table_id="523">Even though I was defeated, I won't change my course.\nI will continue battling until I stand above all Trainers!\nNow move on and experience the true ferocity of the Elite Four.\n\n</string>
+
+        <!--Koga Battle-->
+            <string block_id="0" entry_id="0" table_id="524">Fwahahahaha! I am Koga of the Elite Four. I live in shadows--a\nninja! My intricate style will confound and destroy you!\nConfusion, sleep, poison... Prepare to be the victim of my\nsinister techniques! Fwahahahaha! Pokémon are not merely\nabout brute force--you shall see soon enough!\n\n</string>
+        <!--Koga End Battle-->
+            <string block_id="0" entry_id="225" table_id="728">\n\n</string>
+        <!--Koga on Cooldown-->
+            <string block_id="0" entry_id="1" table_id="524">I subjected you to everything I could muster. But my efforts\nfailed. I must hone my skills. Go on to the next room, and put\nyour abilities to the test!\n\n</string>
+            <string block_id="0" entry_id="2" table_id="524">I subjected you to everything I could muster. But my efforts\nfailed. I must hone my skills. Go on to the next room, and put\nyour abilities to the test!\n\n</string>
+
+        <!--Bruno Battle-->
+            <string block_id="0" entry_id="0" table_id="525">I am Bruno of the Elite Four.\nI always train to the extreme because I believe in our potential.\nThat is how we became strong. Can you withstand our power?\nHm? I see no fear in you. You look determined. Perfect for\nbattle! Ready, {00}? You will bow down\nto our overwhelming power! Hoo hah!\n\n</string>
+        <!--Bruno End Battle-->
+            <string block_id="0" entry_id="228" table_id="728">\n\n</string>
+        <!--Bruno on Cooldown-->
+            <string block_id="0" entry_id="1" table_id="525">Having lost, I have no right to say anything...\nGo face your next challenge!\n\n</string>
+            <string block_id="0" entry_id="2" table_id="525">Having lost, I have no right to say anything...\nGo face your next challenge!</string>
+
+        <!--Karen Battle-->
+            <string block_id="0" entry_id="0" table_id="526">I am Karen of the Elite Four. You're {00}?\nHow amusing. I love Dark-type Pokémon. I'm known for my\noverpowering tactics. Think you can take them?\nJust try to entertain me. Let's go.\n\n</string>
+        <!--Karen End Battle-->
+            <string block_id="0" entry_id="231" table_id="728">\n\n</string>
+        <!--Karen on Cooldown-->
+            <string block_id="0" entry_id="1" table_id="526">Strong Pokémon. Weak Pokémon. That is only the selfish\nperception of people. Truly skilled Trainers should try to\nwin with the Pokémon they love best. I like your style. You\nunderstand what's important. Go on--the Champion is waiting.\n\n</string>
+            <string block_id="0" entry_id="2" table_id="526">Strong Pokémon. Weak Pokémon. That is only the selfish\nperception of people. Truly skilled Trainers should try to\nwin with the Pokémon they love best. I like your style. You\nunderstand what's important. Go on--the Champion is waiting.\n\n</string>
+
+        <!--Lance Battle-->
+            <string block_id="0" entry_id="0" table_id="527">Lance: I've been waiting for you. {00}!\nI knew that you, with your skills, would eventually reach me here.\nThere's no need for words now. We will battle to determine who is\nthe stronger of the two of us. As the most powerful Trainer and as\nthe Pokémon League Champion... I, Lance the dragon master,\naccept your challenge!\n\n</string>
+        <!--Lance End Battle-->
+            <string block_id="0" entry_id="234" table_id="728">\n\n</string>
+        <!--Lance on Cooldown-->
+            <string block_id="0" entry_id="2" table_id="527">...Whew. You have become truly powerful, {00}.\nYour Pokémon have responded to your strong and upstanding\nnature. As a Trainer, you will continue to grow strong with\nyour Pokémon.\n\n</string>
+
+        <!--Mary-->
+            <string block_id="0" entry_id="5" table_id="527">Mary: Oh, no! It's all over! Professor Oak, if you weren't so slow...\n\n</string>
+        <!--Oak-->
+            <string block_id="0" entry_id="6" table_id="527">Professor Oak: Ah, {00}! It's been a long while.\nYou certainly look more impressive. Your conquest of the League\nis just fantastic! Your dedication, trust, and love for your\nPokémon made this happen. Your Pokémon were outstanding,\ntoo. Because they believed in you as a Trainer, they persevered.\nCongratulations, {00}!\n\n</string>
+        <!--Mary-->
+            <string block_id="0" entry_id="8" table_id="527">Mary: Let's interview the brand-new Champion!\n\n</string>
+        <!--Lance-->
+            <string block_id="0" entry_id="9" table_id="527">Lance: This is getting to be a bit too noisy...\n{00}, could you come with me?\n\n</string>
+        <!--Mary-->
+            <string block_id="0" entry_id="11" table_id="527">Mary: Oh, wait! We haven't done the interview!</string>
+        <!--Lance-->
+            <string block_id="0" entry_id="0" table_id="528">Lance: It's been a long time since I last came here. This is where\nwe commemorate the League Champions for all eternity. Their\ncourageous Pokémon are also inducted. Here today, we\nwitnessed the rise of a new League Champion-- a Trainer who\nfeels compassion for, and trust toward, all Pokémon. A Trainer\nwho succeeded through perseverance and determination.\nThe new League Champion who has all the makings of\ngreatness! {00}, allow me to register you\nand your partners as Champions!\n\n</string>
+
+    <!--Nurse Joy-->
+        <!--Healing from NJ-->
+        <string block_id="0" entry_id="83" table_id="40">{09}</string>
+        <string block_id="0" entry_id="0" table_id="40">{09}</string>
+        <string block_id="0" entry_id="84" table_id="40">{09}</string>
+
+    <!--Waiting...-->
+            <string block_id="0" entry_id="1" table_id="40">{09}</string>
+        <!--Thanks for waiting-->
+            <string block_id="0" entry_id="2" table_id="40">{09}</string>
+        <!--Come back-->
+            <string block_id="0" entry_id="3" table_id="40">{09}</string>
+    <!--Kurt-->
+        <!--First talking-->
+            <string block_id="0" entry_id="4" table_id="571">Kurt: You have Apricorns for me?\nFine! I'll turn them into Poké Balls.</string>
+        <!--Ball Made-->
+            <string block_id="0" entry_id="8" table_id="571">Kurt: Ah, {00}!\nI just finished your Poké Ball. Here!</string>
+            <string block_id="0" entry_id="10" table_id="571">Kurt: That turned out great.\nTry catching Pokémon with it.</string>
+
+
+
+    <!--Goldenrod City Game Corner-->
+        <!--Mr. Game-->
+            <string block_id="0" entry_id="35" table_id="603">Go ahead and play my Coin game!\nMake my heart pound with excitement!</string>
+            <string block_id="0" entry_id="41" table_id="603">Mr. Game: Huh? Why don't you sit across from me\nand show me how you play?</string>
+        <!--Left guy-->
+            <string block_id="0" entry_id="9" table_id="603">Welcome!\nWe exchange your Coins for fabulous prizes! </string>
+
+    <!--Goldenrod tunnel-->
+        <!--Boy North of upper tunnel-->
+            <string block_id="0" entry_id="0" table_id="116">There are some shops downstairs!\n-Monday Mornings the Bargain shop is open.\n-Tuesday, Thursday,and Saturday the Older Barber's present.\n-Wednesday, Friday, and Sunday the Younger Barber's present\n-Saturday and Sunday the Herb Shop is open</string>
+        <!--Girl South of upper tunnel-->
+            <string block_id="0" entry_id="3" table_id="116">There are some shops downstairs...\n-Monday Mornings the Bargain shop is open.\n-Tuesday, Thursday,and Saturday the Older Barber's present.\n-Wednesday, Friday, and Sunday the Younger Barber's present\n-Saturday and Sunday the Herb Shop is open</string>
+
+        <!--Saturday Grandma Herb shop-->
+            <string block_id="0" entry_id="0" table_id="117">Hello, dear. I sell inexpensive herbal medicine.\nThey're good, but a trifle bitter.\nYour Pokémon may not like them. Hehehehe... </string>
+        <!--Older brother barber shop-->
+            <string block_id="0" entry_id="10" table_id="117">Welcome! I run the Pokémon Salon! I'm the older and\nbetter of the two Haircut Brothers. I can make your Pokémon\nbeautiful for just $500. Grooming gives a better look.\nYour Pokémon will become friendlier and more beautiful.\nWould you like me to do that? </string>
+        <!--Younger brother barber shop-->
+            <string block_id="0" entry_id="17" table_id="117">Welcome to the Pokémon Salon!I'm the younger and less\nexpensive of the two Haircut Brothers. I'll spruce up your\nPokémon for just $300. Grooming gives a better look.\nYour Pokémon will become friendlier and more beautiful.\nSo? How about it?</string>
+
+    <!--DayCare Lady (Route 34)-->
+        <string block_id="0" entry_id="21" table_id="439">I'm the Day-Care Lady. We can raise Pokémon for you.\nWould you like us to raise your Pokémon? </string>
+        <string block_id="0" entry_id="36" table_id="439">Oh? But you only have one Pokémon with you.\nYou can't go off without a Pokémon. Come back another time.</string>
+        <string block_id="0" entry_id="23" table_id="439">Fine, we'll raise your {00} for a while.\nCome back for it later.\n\n</string>
+        <string block_id="0" entry_id="24" table_id="439">We can raise two of your Pokémon.\nWould you like us to raise another? </string>
+        <string block_id="0" entry_id="32" table_id="439">Your Pokémon team is full.\nMake room, then come see me.</string>
+        <string block_id="0" entry_id="30" table_id="439">Ah, it's you! Good to see you.\nNow, about your Pokémon...\n\n</string>
+        <string block_id="0" entry_id="31" table_id="439">By level, your {00} has\ngrown by about {01}.\n\n</string>
+        <string block_id="0" entry_id="37" table_id="439">Do you want your Pokémon back? </string>
+        <string block_id="0" entry_id="33" table_id="439">If you want your {00} back,\nit will cost ${01}. </string>
+        <string block_id="0" entry_id="35" table_id="439">{01} took {00} back\nfrom the Day-Care Lady.\n\n</string>
+        <string block_id="0" entry_id="28" table_id="439">Do you want to take back the other one, too? </string>
+
+    <!--Breeder (Route 34)-->
+        <string block_id="0" entry_id="38" table_id="439">If you leave me that Pokémon, what are you gonna battle with?\nCome back another time.</string>
+    <!--Both breeders (Route 34)-->
+        <string block_id="0" entry_id="29" table_id="439">Very good. Come again.</string>
+
+    <!--HO-OH-->
+    <string block_id="0" entry_id="4" table_id="58">{09}</string>
+    <string id="16777274">{09}</string>
+    <!--Red-->
+    <string block_id="0" entry_id="0" table_id="126">{09}</string>
+
+    <!--HMs in Johto-->
+            <!--HM CUT-->
+            <string block_id="0" entry_id="0" table_id="211">{09}</string>
+            <string block_id="0" entry_id="1" table_id="211">{09}</string>
+            <string block_id="0" entry_id="2" table_id="211">This tree looks like it can be\ncut down!</string>
+            <!--HM CUT-->
+            <string block_id="0" entry_id="3" table_id="211">{09}</string>
+            <string block_id="0" entry_id="4" table_id="211">It's a rugged rock, but a Pokémon\nmay be able to smash it.</string>
+            <string block_id="0" entry_id="5" table_id="211">{09}</string>
+            <!--HM STRENGTH-->
+            <string block_id="0" entry_id="7" table_id="211">{09}</string>
+            <string block_id="0" entry_id="11" table_id="211">{09}</string>
+            <string block_id="0" entry_id="12" table_id="211">{09}</string>
+            <string block_id="0" entry_id="10" table_id="211">{09}</string>
+            <!--HM Surf-->
+            <string block_id="0" entry_id="14" table_id="211">{09}</string>
+            <string block_id="0" entry_id="15" table_id="211">{09}</string>
+            <string block_id="0" entry_id="16" table_id="211">Surf can't be used if you have someone with you.</string>
+            <!--HM Defog-->
+            <string block_id="0" entry_id="17" table_id="211">{09}</string>
+            <string block_id="0" entry_id="18" table_id="211">{09}</string>
+            <!--HM Rock Climb-->
+            <string block_id="0" entry_id="20" table_id="211">{09}</string>
+            <string block_id="0" entry_id="21" table_id="211">{09}</string>
+            <string block_id="0" entry_id="22" table_id="211">{09}</string>
+            <string block_id="0" entry_id="23" table_id="211">Rock Climb can't be used if you have someone with you.</string>
+            <!--HM Waterfall-->
+            <string block_id="0" entry_id="24" table_id="211">{09}</string>
+            <string block_id="0" entry_id="25" table_id="211">{09}</string>
+            <string block_id="0" entry_id="26" table_id="211">{09}</string>
+            <!--HM Flash-->
+            <string block_id="0" entry_id="28" table_id="211">{09}</string>
+            <!--HM Whirlpool-->
+            <string block_id="0" entry_id="29" table_id="211">{09}</string>
+            <string block_id="0" entry_id="30" table_id="211">{09}</string>
+            <string block_id="0" entry_id="31" table_id="211">The water is swirling and spinning around with a mighty roar.</string>
+            <!--HM Headbutt-->
+            <string block_id="0" entry_id="32" table_id="211">{09}</string>
+            <string block_id="0" entry_id="33" table_id="211">{09}</string>
+            <string block_id="0" entry_id="34" table_id="211">There's a large, formidable tree that looks like it can\nbe headbutted!</string>
+
+
+
+</ds_strings_archive>

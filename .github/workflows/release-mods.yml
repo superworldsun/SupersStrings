@@ -5,6 +5,10 @@ on:
     tags:
       - 'v*.*.*' # This workflow will run whenever a new tag like v1.0.0 is pushed
 
+permissions:
+  contents: write # This grants permission to write to the repository (required for creating releases)
+  pull-requests: write # Often useful, though not strictly required for this specific release creation
+
 jobs:
   build-and-release:
     runs-on: ubuntu-latest

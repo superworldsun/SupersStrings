@@ -1,0 +1,73 @@
+name: Create and Release Mods
+
+on:
+  push:
+    tags:
+      - 'v*.*.*' # This workflow will run whenever a new tag like v1.0.0 is pushed
+
+jobs:
+  build-and-release:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Create SupersStoryStrings Mod
+        run: |
+          # Change directory into the SupersStoryStrings/ source folder
+          cd SuperStoryStrings/
+          # Zip all contents (.) into the SupersStoryStrings.zip file,
+          # placing it one directory up (in the repo root).
+          # -r for recursion, -q for quiet output.
+          zip -r -q ../SupersStoryStrings.zip .
+          # Change back to the repository root
+          cd ../
+          # Rename the .zip file to .mod
+          mv SupersStoryStrings.zip SupersStoryStrings.mod
+          echo "SupersStoryStrings Mod created: SupersStoryStrings.mod"
+        working-directory: ${{ github.workspace }}
+
+      - name: Create SupersSpeedStrings Mod
+        run: |
+          # Change directory into the SupersSpeedStrings/ source folder
+          cd SupersSpeedStrings/
+          # Zip all contents (.) into the SuperSpeedStrings.zip file,
+          # placing it one directory up (in the repo root).
+          zip -r -q ../SupersSpeedStrings.zip .
+          # Change back to the repository root
+          cd ../
+          # Rename the .zip file to .mod
+          mv SupersSpeedStrings.zip SupersSpeedStrings.mod
+          echo "SupersSpeedStrings Mod created: SupersSpeedStrings.mod"
+        working-directory: ${{ github.workspace }}
+
+      - name: Create GitHub Release
+        id: create_release
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: ${{ github.ref_name }}
+          name: Release ${{ github.ref_name }}
+          prerelease: ${{ contains(github.ref_name, '-') }}
+          generate_release_notes: true
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Upload SuperStoryStrings Mod to Release
+        uses: actions/upload-release-asset@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          upload_url: ${{ steps.create_release.outputs.upload_url }}
+          asset_path: ./SupersStoryStrings.mod
+          asset_name: SupersStoryStrings.mod
+          asset_content_type: application/octet-stream
+
+      - name: Upload SupersSpeedStrings Mod to Release
+        uses: actions/upload-release-asset@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          upload_url: ${{ steps.create_release.outputs.upload_url }}
+          asset_path: ./SupersSpeedStrings.mod
+          asset_name: SupersSpeedStrings.mod
+          asset_content_type: application/octet-stream

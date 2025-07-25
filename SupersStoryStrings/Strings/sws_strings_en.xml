@@ -150,7 +150,7 @@
 
     <!--Field Moves-->
     <string id="8600">Restore pp?\n</string> <!-- Restore PP Question -->
-    <string id="8601">▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔\n\n\n\n\n\n\n\n\n\n{00} {01}\n\n\n\n\n\n\n\n\n\n▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁</string> <!-- Restore PP with Item -->
+    <string id="8601">▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔\n{00} {01}\n▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁</string> <!-- Restore PP with Item -->
 
     <!--HM's-->
     <string id="16780421">{09}</string> <!--Rock Smash in Unova-->

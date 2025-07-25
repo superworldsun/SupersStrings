@@ -5,10 +5,12 @@
 
     <!--Misc-->
     <string id="5019">☆Shiny {00}☆</string>
+    <string id="6910">This species of {STRING_0} is too shy to come out of the {STRING_245004}.\n \n[You need to download a Mod that contains Gen 5 follower sprites]</string>
     <string id="6802">You have been disconnected from the game server\nfor being AFK.</string>
+    <string id="16777287">A software update is available for your Pokedex! Downloading...\nYour Pokedex was updated with an Encounter Tracker!\n \n[To open the Tracker back open once closed...\n-Click the Pokedex button on the bottom (PC version)\n-Click Encounter Tracker button in menu (Mobile version)]</string>
 
-    <!--Picking Berries-->
-    <string id="16780331">{09}</string>
+    <string id="101802">The Egg Incubator has not been unlocked yet.\n \n[First meet the Daycare Man of any region to receive your first 5]</string>
+    <string id="16779099">Great! First, let me give you these incubators to hatch the eggs.\n \n[To receive more you can, defeat the Elite 4,\ndefeat Ho-Oh in a Rematch, and defeat Red in Mt. Silver]</string>
 
     <!--Most yes or no buttons-->
     <string id="50">▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔\n\n\n[ Yes ]\n\n\n▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁</string>
@@ -16,8 +18,9 @@
     <string id="52">▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔\n\n[ OK ]\n\n▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁</string>
 
     <!--Main menu logins-->
-    <string id="1000">▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔\n\n\n\n\n[ LOGIN ]\n\n\n\n\n▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁</string>
-    <string id="1003">▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔\n\n\n\n\nLogging in...\n\n\n\n\n▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁</string>
+    <string id="1000">▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔\n\n\n\n\n[ LOGIN ]\n\n\n\n\n▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁</string>
+    <string id="1003">▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔\n\n\n\n\nLogging in...\n\n\n\n\n▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁</string>
+    <string id="1026">Forget\nSaved\nPass\n</string>
 
     <!--PC Buttons & Other-->
     <string id="2350">{09}</string><!--Opening PC-->
@@ -50,6 +53,9 @@
             <string id="16780322">This plant is dead.\nIt looks like it was fully grown, but never picked.\nDo you want to clean up the plot?</string> <!--Never picked-->
             <string id="16780329">There are {01} {00}!\nWould you like to pick the {00}?</string>
 
+        <!--Picking Berries-->
+            <string id="16780331">{09}</string>
+
         <!--Baron Moray (prismatic pearl guy)-->
             <string id="16780430">Ho-Ho! Your eyes do not deceive you. Those are my incredibly\nrare Shiny {00} and {01}! My name is Baron Moray,\nworld-renowned connoisseur of Shiny {STRING_0}! I'm here to\noffer you a fantastic deal, you see! Trade your Shiny {STRING_0}\nto me, and I'll give you Prismatic Pearls in exchange.</string>
             <string id="16780447">I'm glad you asked! Prismatic Pearls allow your {STRING_0} to\ntransfer its Hidden Ability potential to another {STRING_0}\nof the same species. Prismatic Pearls are only able to be\nproduced by certain {STRING_150366}, and my family's {STRING_150366}\nfarm is the sole provider capable of making them at-scale!</string>
@@ -64,6 +70,19 @@
             <string id="16780460">Are you sure you want to transfer the Hidden Ability\nattribute from {00} to {01}?\n{02} Prismatic Pearls will be consumed.</string>
 
 <!--Npcs-->
+    <!--Fossil reviver(is used in all regions)-->
+    <string id="16807100">Hi! I'm researching {STRING_0} Fossils here.</string>
+    <string id="16807101">If you find any, bring them to me.\nI can revive them!</string>
+    <string id="16807102">You have a Fossil with you, don't you?\nDo you want me to bring it back to life?</string>
+    <string id="16807103">Come back if you change your mind.</string>
+    <string id="16807104">Oh! Oh! Look!\n{00} was revived from the {01}!</string>
+    <string id="16807105">Please take good care of it.</string>
+    <string id="16807106">{00} was sent to PC Box {01}.</string>
+    <string id="16807107">Sorry, but you don't have any room.\nCome back when you're able to take this {STRING_0}.</string>
+    <string id="16807108">Which Fossil should I revive?</string>
+    <string id="16807109">Do you want me to revive another fossil?</string>
+    <string id="16807110">Alright. Give me one moment..</string>
+
     <!--Johto Safari Zone Gate Npc choice select-->
     <string id="16780135">Where would you like to start?</string>
 
@@ -156,24 +175,26 @@
 <!--        <string id="101663">A premium lure which attracts wild {STRING_0} for 300 steps. It has several effects while active:\n\n- +25% encounter rates\n- Foes are stronger than normal encounters in the area\n- You may encounter more foes at the same time\n- 10% chance to encounter lure-exclusive species\n- Small hordes (3) may increase in size\n- If you encounter a Shiny {STRING_0}, "Secret Shiny" rates are increased by +25%\n\nConsumed upon use.</string>-->
     <string id="101664">&#xA009;Premium Max Lure</string>
 <!--        <string id="101665">A premium lure which attracts wild {STRING_0} for 400 steps. It has several effects while active:\n\n- +25% encounter rates\n- Foes are stronger than normal encounters in the area\n- You may encounter more foes at the same time\n- 10% chance to encounter lure-exclusive species\n- Small hordes (3) may increase in size\n- If you encounter a Shiny {STRING_0}, "Secret Shiny" rates are increased by +25%\n\nConsumed upon use.</string>-->
+    <string id="101799">&#xA010;Chum Bucket</string>
 
-    <string id="101302">&#xA010;{STRING_110019} Ocarina</string><!--Fly-->
-    <string id="101300">&#xA011;{STRING_110015} Ocarina</string><!--Cut-->
-    <string id="101310">&#xA012;{STRING_110249} Ocarina</string><!--Rock Smash-->
-    <string id="101306">&#xA013;{STRING_110070} Ocarina</string><!--Strength-->
-    <string id="101316">&#xA014;{STRING_110431} Ocarina</string><!--Rock Climb-->
-    <string id="101304">&#xA015;{STRING_110057} Ocarina</string><!--Surf-->
-    <string id="101312">&#xA016;{STRING_110127} Ocarina</string><!--Waterfall-->
-    <string id="101314">&#xA017;{STRING_110291} Ocarina</string><!--Dive-->
-    <string id="101320">&#xA018;{STRING_110250} Ocarina</string><!--Whirlpool-->
-    <string id="101308">&#xA019;{STRING_110148} Ocarina</string><!--Flash-->
-    <string id="101318">&#xA020;{STRING_110432} Ocarina</string><!--Defog-->
-    <string id="101322">&#xA021;{STRING_110091} Ocarina</string><!--Dig-->
-    <string id="101324">&#xA022;{STRING_110100} Ocarina</string><!--Teleport-->
-    <string id="101326">&#xA023;{STRING_110029} Ocarina</string><!--HeadButt-->
+    <string id="101302">&#xA011;{STRING_110019} Ocarina</string><!--Fly-->
+    <string id="101300">&#xA012;{STRING_110015} Ocarina</string><!--Cut-->
+    <string id="101310">&#xA013;{STRING_110249} Ocarina</string><!--Rock Smash-->
+    <string id="101306">&#xA014;{STRING_110070} Ocarina</string><!--Strength-->
+    <string id="101316">&#xA015;{STRING_110431} Ocarina</string><!--Rock Climb-->
+    <string id="101304">&#xA016;{STRING_110057} Ocarina</string><!--Surf-->
+    <string id="101312">&#xA017;{STRING_110127} Ocarina</string><!--Waterfall-->
+    <string id="101314">&#xA018;{STRING_110291} Ocarina</string><!--Dive-->
+    <string id="101320">&#xA019;{STRING_110250} Ocarina</string><!--Whirlpool-->
+    <string id="101308">&#xA020;{STRING_110148} Ocarina</string><!--Flash-->
+    <string id="101318">&#xA021;{STRING_110432} Ocarina</string><!--Defog-->
+    <string id="101322">&#xA022;{STRING_110091} Ocarina</string><!--Dig-->
+    <string id="101324">&#xA023;{STRING_110100} Ocarina</string><!--Teleport-->
+    <string id="101326">&#xA024;{STRING_110029} Ocarina</string><!--HeadButt-->
+    <string id="101328">&#xA025;{STRING_110230} Ocarina</string><!--SweetScent-->
 
-    <string id="245078">&#xA024;Escape Rope</string>
-    <string id="245094">&#xA025;Honey</string>
+    <string id="245078">&#xA026;Escape Rope</string>
+    <string id="245094">&#xA027;Honey</string>
 
     <!--Breeding Items-->
     <string id="245229">&#xB;&#xA000;Everstone</string>
@@ -438,10 +459,13 @@
 
     <!--Summon Items-->
     <string id="101752">&#xE;&#x1;{STRING_150491} Summoning Orb</string>
+
+    <!--Consumable Items-->
     <string id="101758">&#xE;&#x2;Mystic Watch</string>
+    <string id="101794">&#xE;&#x3;Temporary Egg Incubator</string>
 
     <!--Anniversary Items-->
-    <string id="101170">&#xE;&#x3;Anniversary Medallion</string>
+    <string id="101170">&#xE;&#x4;Anniversary Medallion</string>
 
     <!--Halloween Items-->
     <string id="101764">&#xE;&#x4;Dream Sphere</string>
@@ -457,55 +481,55 @@
         <string id="100081">A fancy looking snack that can be feed to the Pumpking\n\n Locations of the Pumpking:\n K: Lavender Town\n J: Ecruteak City\n H: Fallarbor Town\n S: Solaceon Town\n U: Driftveil City</string>
 
     <!--Xmas Items-->
-    <string id="101778">&#xE;&#x3;Wishing Star</string>
+    <string id="101778">&#xE;&#x4;Wishing Star</string>
     <string id="101779">A culmination of hopes and dreams.\n\n Use to enter Birth Island and fight Jirachi.</string>
 
-    <string id="101776">&#xE;&#x4;{STRING_0}'s Wish Tag</string>
+    <string id="101776">&#xE;&#x5;{STRING_0}'s Wish Tag</string>
     <string id="101777">Although only marked with a footprint, you can feel it represents that which a {STRING_0} desires most.\n\n Collect all to create a {STRING_101778} and obtain Jirachi at Birth Island.</string>
 
-    <string id="101722">&#xE;&#x5;Lost Big Present</string>
+    <string id="101722">&#xE;&#x6;Lost Big Present</string>
         <string id="101723">A big, fancy looking present.\n\nSanta's looking for these.\nCan be exchanged in bundles of 5.\n\n Locations of Santa:\n K: Vermilion City\n J: Olivine City\n H: Slateport City\n S: Hearthome City\n U: Castelia City</string>
 
-    <string id="101670">&#xE;&#x6;Lost Present</string>
+    <string id="101670">&#xE;&#x7;Lost Present</string>
         <string id="101671">A fancy looking present.\n\nSanta's looking for these.\nCan be exchanged in bundles of 5.\n\n Locations of Santa:\n K: Vermilion City\n J: Olivine City\n H: Slateport City\n S: Hearthome City\n U: Castelia City</string>
 
     <!--LNY Items-->
-    <string id="101684">&#xE;&#x3;Rabbit Zodiac Tablet (1/12)</string>
+    <string id="101684">&#xE;&#x4;Rabbit Zodiac Tablet (1/12)</string>
         <string id="101685">A mysterious tablet embossed with a rabbit.\nCollecting more of these may lead to special encounters.\n\n Raid dens of the Rabbit:\n K:Berry Forest\n J:Route 35\n H:Route 123 (Surf)\n S:Route 217\n U:Dreamyard</string>
-    <string id="101682">&#xE;&#x4;Tiger Zodiac tablet (2/12)</string>
+    <string id="101682">&#xE;&#x5;Tiger Zodiac tablet (2/12)</string>
         <string id="101683">A mysterious tablet embossed with a tiger.\nCollecting more of these may lead to special encounters.\n\n Raid dens of the Tiger:\n K: Route 7\n J: Route 47 (Surf,Waterfall)\n H: Route 115 (Surf)\n S: Route 222\n U: Route 1 (Surf)</string>
-    <string id="101700">&#xE;&#x5;Pig Zodiac Tablet (3/12)</string>
+    <string id="101700">&#xE;&#x6;Pig Zodiac Tablet (3/12)</string>
         <string id="101701">A mysterious tablet embossed with a pig.\nCollecting more of these may lead to special encounters.\n\n Raid dens of the Pig:\n K: Mt.Ember (Surf,Strength,RockSmash)\n J: Ruins Of Alph\n H: Mt.Chimney\n S: Route 225 (Surf)\n U: GiantChasm</string>
-    <string id="101690">&#xE;&#x6;Horse Zodiac Tablet (4/12)</string>
+    <string id="101690">&#xE;&#x7;Horse Zodiac Tablet (4/12)</string>
         <string id="101691">A mysterious tablet embossed with a horse.\nCollecting more of these may lead to special encounters.\n\n Raid dens of the Horse:\n K: Route 16 (Cut)\n J: Route 44\n H: Route 117\n S: Fuego Ironworks (Surf)\n U: Route 2 (Cut)</string>
-    <string id="101698">&#xE;&#x7;Dog Zodiac tablet (5/12)</string>
+    <string id="101698">&#xE;&#x8;Dog Zodiac tablet (5/12)</string>
         <string id="101699">A mysterious tablet embossed with a dog.\nCollecting more of these may lead to special encounters.\n\n Raid dens of the Dog:\n K: WaterPath\n J: Route 32\n H: Route 111\n S: Route 221 (Surf)\n U: Route 4</string>
-    <string id="101692">&#xE;&#x8;Goat Zodiac tablet (6/12)</string>
+    <string id="101692">&#xE;&#x9;Goat Zodiac tablet (6/12)</string>
         <string id="101693">A mysterious tablet embossed with a goat.\nCollecting more of these may lead to special encounters.\n\n Raid dens of the Goat:\n K: Route 10\n J: Route 45\n H: Route120 (Cut)\n S: Route 210 (RockClimb)\n U: Route 18</string>
-    <string id="101688">&#xE;&#x9;Snake Zodiac tablet (7/12)</string>
+    <string id="101688">&#xE;&#x10;Snake Zodiac tablet (7/12)</string>
         <string id="101689">A mysterious tablet embossed with a snake.\nCollecting more of these may lead to special encounters.\n\n Raid dens of the Snake:\n K: Mt.Moon \n J: DarkCave (Flash,Surf)\n H: GraniteCave\n S: IronIsland\n U: GuidanceChamber Mistralton Cave (Strength,RockSmash)</string>
-    <string id="101694">&#xE;&#x10;Monkey Zodiac tablet (8/12)</string>
+    <string id="101694">&#xE;&#x11;Monkey Zodiac tablet (8/12)</string>
         <string id="101695">A mysterious tablet embossed with a monkey.\nCollecting more of these may lead to special encounters.\n\n Raid dens of the Monkey:\n K: ViridianForest\n J: IlexForest\n H: Petalburg Woods\n S: Eterna Forest\n U: Lostlorn Forest</string>
-    <string id="101680">&#xE;&#x11;Ox Zodiac tablet (9/12)</string>
+    <string id="101680">&#xE;&#x12;Ox Zodiac tablet (9/12)</string>
         <string id="101681">A mysterious tablet embossed with a ox.\nCollecting more of these may lead to special encounters.\n\n Raid dens of the Ox:\n K: Route 11\n J: Route 39\n H: Route 116 (Cut)\n S: Route 214\n U: audant Shrine</string>
-    <string id="101696">&#xE;&#x12;Rooster Zodiac tablet (10/12)</string>
+    <string id="101696">&#xE;&#x13;Rooster Zodiac tablet (10/12)</string>
         <string id="101697">A mysterious tablet embossed with a rooster.\nCollecting more of these may lead to special encounters.\n\n Raid dens of the Rooster:\n K: SevaultCanyon\n J: Route 46 (RockClimb)\n H: Route 111 (MachBike)\n S: Route 207\n U: DesertResort</string>
-    <string id="101678">&#xE;&#x13;Rat Zodiac tablet (11/12)</string>
+    <string id="101678">&#xE;&#x14;Rat Zodiac tablet (11/12)</string>
         <string id="101679">A mysterious tablet embossed with a rat.\nCollecting more of these may lead to special encounters.\n\n Raid dens of the Rat:\n K: VictoryRoad (Strength)\n J: VictoryRoad (Strength)\n H: VictoryRoad\n S: RavagedPath (Surf,RockSmash)\n U: TwistMountain</string>
-    <string id="101686">&#xE;&#x14;Dragon Zodiac tablet (12/12)</string>
+    <string id="101686">&#xE;&#x15;Dragon Zodiac tablet (12/12)</string>
         <string id="101687">A mysterious tablet embossed with a dragon.\nCollecting more of these may lead to special encounters.\n\n Raid dens of the Dragon:\n K: Route 21\n J: Dragon's Den (Surf,Whirlpool)\n H: Route 119\n S: Route 212 (Cut)\n U: Route 14 (Surf,Waterfall)</string>
 
-    <string id="101786">&#xE;&#x15;Rejuvenated Bouquet</string>
+    <string id="101786">&#xE;&#x16;Rejuvenated Bouquet</string>
     <string id="101787">A bundle of flowers.\n{STRING_143063} awaits.</string>
 
-    <string id="101784">&#xE;&#x16;Wilted Bouquet</string>
+    <string id="101784">&#xE;&#x17;Wilted Bouquet</string>
     <string id="101785">A bundle of dying flowers.\nAlthough at the end of their lives, they yearn for one final Spring.\n\n Use this and head to {STRING_143063} to catch Shaymin!</string>
 
-    <string id="101702">&#xE;&#x17;Dying Flower</string>
+    <string id="101702">&#xE;&#x18;Dying Flower</string>
     <string id="101703">A dying flower found when defeating a challenging foe.\nMaybe something can revive it?\n\n Collect 12 to create a {STRING_101784} and catch Shaymin at {STRING_143063}.</string>
 
-    <string id="101788">&#xE;&#x18;Nian Tablet</string>
-    <string id="101790">&#xE;&#x19;Blank Tablet</string>
+    <string id="101788">&#xE;&#x19;Nian Tablet</string>
+    <string id="101790">&#xE;&#x20;Blank Tablet</string>
 
                 <!--IV Changing Items-->
     <string id="245466">&#xE;&#xA22;Gracidea (IVs)</string>
@@ -1108,6 +1132,7 @@
                 <string id="245450">&#xA000;Bicycle</string>
                 <string id="245442">&#xA001;Town Map</string>
                 <string id="245465">&#xA003;Vs. Recorder</string>
+                <string id="101792">&#xA004;Egg Incubator</string>
 
 <!--    &lt;!&ndash;Cosmetics&ndash;&gt;-->
 <!--        &lt;!&ndash;2015&ndash;&gt;-->

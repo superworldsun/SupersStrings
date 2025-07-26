@@ -71,17 +71,17 @@
 
 <!--Npcs-->
     <!--Fossil reviver(is used in all regions)-->
-    <string id="16807100">Hi! I'm researching {STRING_0} Fossils here.</string>
-    <string id="16807101">If you find any, bring them to me.\nI can revive them!</string>
-    <string id="16807102">You have a Fossil with you, don't you?\nDo you want me to bring it back to life?</string>
-    <string id="16807103">Come back if you change your mind.</string>
-    <string id="16807104">Oh! Oh! Look!\n{00} was revived from the {01}!</string>
-    <string id="16807105">Please take good care of it.</string>
-    <string id="16807106">{00} was sent to PC Box {01}.</string>
-    <string id="16807107">Sorry, but you don't have any room.\nCome back when you're able to take this {STRING_0}.</string>
-    <string id="16807108">Which Fossil should I revive?</string>
-    <string id="16807109">Do you want me to revive another fossil?</string>
-    <string id="16807110">Alright. Give me one moment..</string>
+        <string id="16807100">Hi! I'm researching {STRING_0} Fossils here.</string>
+        <string id="16807101">If you find any, bring them to me.\nI can revive them!</string>
+        <string id="16807102">You have a Fossil with you, don't you?\nDo you want me to bring it back to life?</string>
+        <string id="16807103">Come back if you change your mind.</string>
+        <string id="16807104">Oh! Oh! Look!\n{00} was revived from the {01}!</string>
+        <string id="16807105">Please take good care of it.</string>
+        <string id="16807106">{00} was sent to PC Box {01}.</string>
+        <string id="16807107">Sorry, but you don't have any room.\nCome back when you're able to take this {STRING_0}.</string>
+        <string id="16807108">Which Fossil should I revive?</string>
+        <string id="16807109">Do you want me to revive another fossil?</string>
+        <string id="16807110">Alright. Give me one moment..</string>
 
     <!--Johto Safari Zone Gate Npc choice select-->
     <string id="16780135">Where would you like to start?</string>
@@ -469,7 +469,7 @@
 
     <!--Halloween Items-->
     <string id="101764">&#xE;&#x4;Dream Sphere</string>
-    <string id="101765">A hypnotizing sphere. Gazing into it makes you feel drowsy..\n\n Use to enter New moon Island and fight Darkrai.</string>
+        <string id="101765">A hypnotizing sphere. Gazing into it makes you feel drowsy..\n\n Use to enter New moon Island and fight Darkrai.</string>
 
     <string id="101762">&#xE;&#x5;Strange Chunk</string>
         <string id="101763">A reward for defeating a Raid Boss. It seems attracted to other Strange Chunks.\n\n Collect all to create a {STRING_101764} and obtain Darkrai at New moon Island.</string>
@@ -482,10 +482,10 @@
 
     <!--Xmas Items-->
     <string id="101778">&#xE;&#x4;Wishing Star</string>
-    <string id="101779">A culmination of hopes and dreams.\n\n Use to enter Birth Island and fight Jirachi.</string>
+        <string id="101779">A culmination of hopes and dreams.\n\n Use to enter Birth Island and fight Jirachi.</string>
 
     <string id="101776">&#xE;&#x5;{STRING_0}'s Wish Tag</string>
-    <string id="101777">Although only marked with a footprint, you can feel it represents that which a {STRING_0} desires most.\n\n Collect all to create a {STRING_101778} and obtain Jirachi at Birth Island.</string>
+        <string id="101777">Although only marked with a footprint, you can feel it represents that which a {STRING_0} desires most.\n\n Collect all to create a {STRING_101778} and obtain Jirachi at Birth Island.</string>
 
     <string id="101722">&#xE;&#x6;Lost Big Present</string>
         <string id="101723">A big, fancy looking present.\n\nSanta's looking for these.\nCan be exchanged in bundles of 5.\n\n Locations of Santa:\n K: Vermilion City\n J: Olivine City\n H: Slateport City\n S: Hearthome City\n U: Castelia City</string>
@@ -520,13 +520,13 @@
         <string id="101687">A mysterious tablet embossed with a dragon.\nCollecting more of these may lead to special encounters.\n\n Raid dens of the Dragon:\n K: Route 21\n J: Dragon's Den (Surf,Whirlpool)\n H: Route 119\n S: Route 212 (Cut)\n U: Route 14 (Surf,Waterfall)</string>
 
     <string id="101786">&#xE;&#x16;Rejuvenated Bouquet</string>
-    <string id="101787">A bundle of flowers.\n{STRING_143063} awaits.</string>
+        <string id="101787">A bundle of flowers.\n{STRING_143063} awaits.</string>
 
     <string id="101784">&#xE;&#x17;Wilted Bouquet</string>
-    <string id="101785">A bundle of dying flowers.\nAlthough at the end of their lives, they yearn for one final Spring.\n\n Use this and head to {STRING_143063} to catch Shaymin!</string>
+        <string id="101785">A bundle of dying flowers.\nAlthough at the end of their lives, they yearn for one final Spring.\n\n Use this and head to {STRING_143063} to catch Shaymin!</string>
 
     <string id="101702">&#xE;&#x18;Dying Flower</string>
-    <string id="101703">A dying flower found when defeating a challenging foe.\nMaybe something can revive it?\n\n Collect 12 to create a {STRING_101784} and catch Shaymin at {STRING_143063}.</string>
+        <string id="101703">A dying flower found when defeating a challenging foe.\nMaybe something can revive it?\n\n Collect 12 to create a {STRING_101784} and catch Shaymin at {STRING_143063}.</string>
 
     <string id="101788">&#xE;&#x19;Nian Tablet</string>
     <string id="101790">&#xE;&#x20;Blank Tablet</string>

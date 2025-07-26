@@ -18,8 +18,8 @@
     <string id="52">▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔\n\n[ OK ]\n\n▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁</string>
 
     <!--Main menu logins-->
-    <string id="1000">▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔\n\n\n\n\n[ LOGIN ]\n\n\n\n\n▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁</string>
-    <string id="1003">▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔\n\n\n\n\nLogging in...\n\n\n\n\n▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁</string>
+    <string id="1000">▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔\n\n\n\n\n[ LOGIN ]\n\n\n\n\n▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁</string>
+    <string id="1003">▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔\n\n\n\n\nLogging in...\n\n\n\n\n▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁</string>
     <string id="1026">Forget\nSaved\nPass\n</string>
 
     <!--PC Buttons & Other-->
@@ -150,7 +150,7 @@
 
     <!--Field Moves-->
     <string id="8600">Restore pp?\n</string> <!-- Restore PP Question -->
-    <string id="8601">▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔\n\n\n\n\n\n\n\n\n\n{00} {01}\n\n\n\n\n\n\n\n\n\n▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁</string> <!-- Restore PP with Item -->
+    <string id="8601">▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔\n{00} {01}\n▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁</string> <!-- Restore PP with Item -->
 
     <!--HM's-->
     <string id="16780421">{09}</string> <!--Rock Smash in Unova-->
@@ -907,8 +907,8 @@
     <!--Battle Items-->
     <string id="245057">&#xA001;X Attack</string>
     <string id="245058">&#xA002;X Defend</string>
-    <string id="245061">&#xA003;X Special</string>
-    <string id="245062">&#xA004;X Sp. Def</string>
+    <string id="245061">&#xA003;X Special Atk</string>
+    <string id="245062">&#xA004;X Special Def</string>
     <string id="245059">&#xA005;X Speed</string>
     <string id="245060">&#xA006;X Accuracy</string>
     <string id="245055">&#xA007;Guard Spec.</string>

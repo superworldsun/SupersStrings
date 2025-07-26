@@ -49,6 +49,14 @@
         <!--Cnythia-->
             <string block_id="0" entry_id="1599" table_id="189">\n\n</string>
 
+
+<!--&lt;!&ndash;STORY WINING TEXT&ndash;&gt;-->
+<!--    &lt;!&ndash;Win Bianca First time&ndash;&gt;-->
+<!--    <string block_id="0" entry_id="111" table_id="189">\n\n</string>-->
+<!--    &lt;!&ndash;Win Cheren First time&ndash;&gt;-->
+<!--    <string block_id="0" entry_id="102" table_id="189">\n\n</string>-->
+
+
     <!--PokeDex-->
 
 <!--KANTO-->
@@ -1177,13 +1185,13 @@
     <string block_id="0" entry_id="373" table_id="268">226.2 lbs.   |   Catch rate: 45   |   50% M / 50% F\n\nWeak: Ice x4 | Rock x2 | Dragon x2\nResist: Ground x0 | Grass x4 | Fire x2 | Water x2 |\nGrass x2 | Electric x2</string>
     <!--Beldum-->
     <string block_id="0" entry_id="374" table_id="245">2'00"   |   Growth: Slow   |   Base EXP: 60</string>
-    <string block_id="0" entry_id="374" table_id="268">209.9 lbs.   |   Catch rate: 3   |   0% M / 0% F\n\nWeak: Fire x2 | Ground x2\nResist: Poison x0 | Psychic x4 | Normal x2 | Grass x2 |\nIce x2 | Flying x2 | Rock x2 | Dragon x2 | Steel x2</string>
+    <string block_id="0" entry_id="374" table_id="268">209.9 lbs.   |   Catch rate: 25   |   0% M / 0% F\n\nWeak: Fire x2 | Ground x2\nResist: Poison x0 | Psychic x4 | Normal x2 | Grass x2 |\nIce x2 | Flying x2 | Rock x2 | Dragon x2 | Steel x2</string>
     <!--Metang-->
     <string block_id="0" entry_id="375" table_id="245">3'11"   |   Growth: Slow   |   Base EXP: 147</string>
-    <string block_id="0" entry_id="375" table_id="268">446.4 lbs.   |   Catch rate: 3   |   0% M / 0% F\n\nWeak: Fire x2 | Ground x2\nResist: Poison x0 | Psychic x4 | Normal x2 | Grass x2 |\nIce x2 | Flying x2 | Rock x2 | Dragon x2 | Steel x2</string>
+    <string block_id="0" entry_id="375" table_id="268">446.4 lbs.   |   Catch rate: 20   |   0% M / 0% F\n\nWeak: Fire x2 | Ground x2\nResist: Poison x0 | Psychic x4 | Normal x2 | Grass x2 |\nIce x2 | Flying x2 | Rock x2 | Dragon x2 | Steel x2</string>
     <!--Metagross-->
     <string block_id="0" entry_id="376" table_id="245">5'03"   |   Growth: Slow   |   Base EXP: 270</string>
-    <string block_id="0" entry_id="376" table_id="268">1212.5 lbs.   |   Catch rate: 3   |   0% M / 0% F\n\nWeak: Fire x2 | Ground x2\nResist: Poison x0 | Psychic x4 | Normal x2 | Grass x2 |\nIce x2 | Flying x2 | Rock x2 | Dragon x2 | Steel x2</string>
+    <string block_id="0" entry_id="376" table_id="268">1212.5 lbs.   |   Catch rate: 15   |   0% M / 0% F\n\nWeak: Fire x2 | Ground x2\nResist: Poison x0 | Psychic x4 | Normal x2 | Grass x2 |\nIce x2 | Flying x2 | Rock x2 | Dragon x2 | Steel x2</string>
     <!--Regirock-->
     <string block_id="0" entry_id="377" table_id="245">5'07"   |   Growth: Slow   |   Base EXP: 261</string>
     <string block_id="0" entry_id="377" table_id="268">507.1 lbs.   |   Catch rate: 3   |   0% M / 0% F\n\nWeak: Water x2 | Grass x2 | Fighting x2 | Ground x2 |\nSteel x2\nResist: Normal x2 | Fire x2 | Poison x2 | Flying x2</string>

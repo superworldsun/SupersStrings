@@ -221,7 +221,7 @@
             <!--Battle Arena-->
                 <!--Battle Clerk-->
                     <string id="270885222">{09}</string>
-    <string id="270885452">In the BATTLE ARENA, we undertake the Set KO Tourney. All\nparticipants enter with a team of three POKéMON. The three\nPOKéMON must be lined up in the order in which they are to\nappear. During battle, the POKéMON will appear one at a\ntime in the preset order. Once a POKéMON enters battle, it must\nremain out until the match is decided. If a match remains\nundecided in three turns, it goes to judging. If you wish to\ninterrupt your challenge, please save the game. If you don't\nsave, you will not be able to continue with your challenge.\nIf you pull off the feat of beating seven TRAINERS in succession,\nwe will present you with Battle Points.</string>
+                    <string id="270885452">In the BATTLE ARENA, we undertake the Set KO Tourney. All\nparticipants enter with a team of three POKéMON. The three\nPOKéMON must be lined up in the order in which they are to\nappear. During battle, the POKéMON will appear one at a\ntime in the preset order. Once a POKéMON enters battle, it must\nremain out until the match is decided. If a match remains\nundecided in three turns, it goes to judging. If you wish to\ninterrupt your challenge, please save the game. If you don't\nsave, you will not be able to continue with your challenge.\nIf you pull off the feat of beating seven TRAINERS in succession,\nwe will present you with Battle Points.</string>
                     <string id="270886163">{09}</string>
                     <string id="270885354">{09}</string>
                     <string id="270886259">{09}</string>
@@ -250,7 +250,21 @@
             <!--Come again-->
                 <string id="271001563">{09}</string>
 
-            <!--Breeder end text-->
+        <!--DayCare Lady (Route 117)-->
+            <string id="271131380">{09}</string>
+            <string id="271132091">Oh? But you have just one POKéMON.\nCome back another time.</string>
+            <string id="271131504">{09}</string>
+            <string id="271131567">We can raise two of your POKéMON.\nWould you like us to raise one more?</string>
+            <string id="271131784">{09}</string>
+            <string id="271132150">Will you take your POKéMON back?</string>
+            <string id="271132021">{09}</string>
+            <string id="271132051">{09}</string>
+            <string id="271131727">Will you take back the other one, too?</string>
+
+            <!--Breeder-->
+            <string id="271132183">If you leave me that POKéMON, what will you battle with?\nCome back another time.</string>
+
+            <!--Both breeders and daycare-->
             <string id="271131670">{09}</string>
 
         <!--Pokemart Store-->

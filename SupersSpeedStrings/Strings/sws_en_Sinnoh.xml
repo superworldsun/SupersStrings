@@ -197,6 +197,7 @@
             <string block_id="0" entry_id="4" table_id="136">{09}</string>
             <string block_id="0" entry_id="10" table_id="136">{09}</string>
             <string block_id="0" entry_id="9" table_id="136">{09}</string>
+
         <!--Bug catcher at top stairs-->
             <string block_id="0" entry_id="3" table_id="137">Each Area in the Marsh has different Pokémon depending\non the day. Here is the list of areas and there rotations!\n\nArea 1\n \n-Sunday: Skorupi\n-Monday: Croagunk\n-Tuesday: Croagunk\n-Wednesday: Carnivine\n-Thursday: Croagunk\n-Friday: Skorupi\n-Saturday: Skorupi\n\nArea 2\n \n-Sunday: Skorupi\n-Monday: Skorupi\n-Tuesday: Croagunk\n-Wednesday: Croagunk\n-Thursday: Carnivine\n-Friday: Croagunk\n-Saturday: Skorupi\n\nArea 3\n \n-Sunday: Croagunk\n-Monday: Skorupi\n-Tuesday: Skorupi\n-Wednesday: Croagunk\n-Thursday: Croagunk\n-Friday: Carnivine\n-Saturday: Croagunk\n\nArea 4\n \n-Sunday: Carnivine\n-Monday: Croagunk\n-Tuesday: Skorupi\n-Wednesday: Skorupi\n-Thursday: Croagunk\n-Friday: Croagunk\n-Saturday: Carnivine\n\nArea 5\n \n-Sunday: Croagunk\n-Monday: Carnivine\n-Tuesday: Croagunk\n-Wednesday: Skorupi\n-Thursday: Skorupi\n-Friday: Croagunk\n-Saturday: Croagunk\n\nArea 6\n \n-Sunday: Croagunk\n-Monday: Croagunk\n-Tuesday: Carnivine\n-Wednesday: Croagunk\n-Thursday: Skorupi\n-Friday: Skorupi\n-Saturday: Croagunk</string>
         <!--Stone Signs inside marsh-->
@@ -214,14 +215,3 @@
 
 
 </ds_strings_archive>
-
-
-
-
-
-
-
-
-
-
-

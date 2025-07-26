@@ -98,21 +98,29 @@
             <string id="1544611">{09}</string>
             <string id="1544751">{09}</string>
 
-    <!--Nurse Joy-->
-        <!--Healing from NJ-->
-            <string id="1725571">{09}</string>
-        <!--Waiting...-->
-            <string id="1725665">{09}</string>
-        <!--Thanks for waiting-->
-            <string id="1725739">{09}</string>
-        <!--Come back-->
-            <string id="1725713">{09}</string>
+        <!--Nurse Joy-->
+            <!--Healing from NJ-->
+                <string id="1725571">{09}</string>
+            <!--Waiting...-->
+                <string id="1725665">{09}</string>
+            <!--Thanks for waiting-->
+                <string id="1725739">{09}</string>
+            <!--Come back-->
+                <string id="1725713">{09}</string>
 
-    <!--Shop Npc-->
+        <!--Shop Npc-->
             <string id="1729041">{09}</string>
             <string id="1724816">{09}</string>
 
-    <!--DayCare Lady-->
+        <!--DayCare Man (Route 5)-->
+            <string id="1695078">{09}</string>
+            <string id="1695292">You're back already? Your {02} needs to\nspend some more time with me.</string>
+            <string id="1695360">You owe me ${03} for the return\nof this POKéMON.</string>
+            <string id="1695407">{09}</string>
+            <string id="1695439">{09}</string>
+            <string id="1695477">Oh? You only have one POKéMON with you.</string>
+
+        <!--DayCare Lady (Four Island)-->
             <string id="1832932">{09}</string>
             <string id="1833056">{09}</string>
             <string id="1695225">{09}</string>
@@ -126,9 +134,11 @@
             <string id="1833605">{09}</string>
             <string id="1833704">Will you take your POKéMON back?</string>
             <string id="1833295">Will you take back the other one,\ntoo?</string>
+        <!--Breeder-->
+            <string id="1695517">If you leave me that POKéMON, what will you battle with?</string>
 
-    <!--Breeder end text-->
-    <string id="1695196">{09}</string>
+        <!--Breeder end text-->
+            <string id="1695196">{09}</string>
 
     <!--Safari-->
         <!--Left clerk-->

@@ -42,6 +42,10 @@
     <string id="5835">▔▔▔▔▔▔\n[ Read Mail ]\n▁▁▁▁▁▁</string>
     <string id="5834">▔▔▔▔▔▔\n[ Send Mail ]\n▁▁▁▁▁▁</string>
     <string id="5848">▔▔▔▔▔▔\n[ Sent Mail ]\n▁▁▁▁▁▁</string>
+    <string id="5897">▔▔▔▔▔▔▔▔\n[ Claim to Party ]\n▁▁▁▁▁▁▁▁</string>
+    <string id="5898">▔▔▔▔▔▔▔▔\n[ Claim to PC ]\n▁▁▁▁▁▁▁▁</string>
+    <string id="5899">▔▔▔▔▔▔▔▔\n[ Claim Items ]\n▁▁▁▁▁▁▁▁</string>
+    <string id="5900">▔▔▔▔▔▔▔▔\n[ Claim Money ]\n▁▁▁▁▁▁▁▁</string>
 
     <!--Hoenn Secret Base (No Secret Power)-->
     <string id="270776032">A small crevice is seen on the wall.\nA {STRING_110290} may allow you to break it open.</string>

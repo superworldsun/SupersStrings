@@ -72,7 +72,7 @@ jobs:
           upload_url: ${{ steps.create_release.outputs.upload_url }}
           # Dynamically set asset_path and asset_name
           asset_path: ./SupersStoryStrings-${{ steps.get_version.outputs.VERSION_NUMBER }}.mod
-          asset_name: SupersStoryStrings-${{ steps.get_version.outputs.VERSION_NUMBER }}.mod
+          asset_name: SupersStoryStrings-v${{ steps.get_version.outputs.VERSION_NUMBER }}.mod
           asset_content_type: application/octet-stream
 
       - name: Upload SupersSpeedStrings Mod to Release
@@ -83,5 +83,5 @@ jobs:
           upload_url: ${{ steps.create_release.outputs.upload_url }}
           # Dynamically set asset_path and asset_name
           asset_path: ./SupersSpeedStrings-${{ steps.get_version.outputs.VERSION_NUMBER }}.mod
-          asset_name: SupersSpeedStrings-${{ steps.get_version.outputs.VERSION_NUMBER }}.mod
+          asset_name: SupersSpeedStrings-v${{ steps.get_version.outputs.VERSION_NUMBER }}.mod
           asset_content_type: application/octet-stream

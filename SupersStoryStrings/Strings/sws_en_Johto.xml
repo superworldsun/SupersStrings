@@ -218,7 +218,8 @@
     <string block_id="0" entry_id="4" table_id="58">{09}</string>
     <string id="16777274">{09}</string>
     <!--Red-->
-    <string block_id="0" entry_id="0" table_id="126">{09}</string>
+    <string block_id="0" entry_id="0" table_id="126">[$110400]  /  +50%[$165600]  /  +75%[$193200]  /  +100%[$220800]\n \n..................\n..................\n\n</string>
+    <string block_id="0" entry_id="1" table_id="126">..................\n..................</string>
 
     <!--HMs in Johto-->
             <!--HM CUT-->

@@ -28,30 +28,30 @@ jobs:
           echo "Extracted version number: $VERSION_NUMBER"
           echo "VERSION_NUMBER=$VERSION_NUMBER" >> $GITHUB_OUTPUT # Store as an output
 
-      - name: Create SuperStoryStrings Mod
+      - name: Create SupersStoryStrings Mod
         run: |
           # Use the version number output from the previous step
           VERSION_SUFFIX="${{ steps.get_version.outputs.VERSION_NUMBER }}"
-          MOD_FILENAME="SuperStoryStrings-$VERSION_SUFFIX.mod"
+          MOD_FILENAME="SupersStoryStrings-$VERSION_SUFFIX.mod"
 
-          cd SuperStoryStrings/
+          cd SupersStoryStrings/
           zip -r -q "../${MOD_FILENAME}.zip" . # Use the full filename for the zip
           cd ../
           mv "${MOD_FILENAME}.zip" "${MOD_FILENAME}" # Rename .zip to .mod (it's already .mod)
-          echo "SuperStoryStrings Mod created: ${MOD_FILENAME}"
+          echo "SupersStoryStrings Mod created: ${MOD_FILENAME}"
         working-directory: ${{ github.workspace }}
 
-      - name: Create SuperSpeedStrings Mod
+      - name: Create SupersSpeedStrings Mod
         run: |
           # Use the version number output from the previous step
           VERSION_SUFFIX="${{ steps.get_version.outputs.VERSION_NUMBER }}"
-          MOD_FILENAME="SuperSpeedStrings-$VERSION_SUFFIX.mod"
+          MOD_FILENAME="SupersSpeedStrings-$VERSION_SUFFIX.mod"
 
-          cd SuperSpeedStrings/
+          cd SupersSpeedStrings/
           zip -r -q "../${MOD_FILENAME}.zip" .
           cd ../
           mv "${MOD_FILENAME}.zip" "${MOD_FILENAME}"
-          echo "SuperSpeedStrings Mod created: ${MOD_FILENAME}"
+          echo "SupersSpeedStrings Mod created: ${MOD_FILENAME}"
         working-directory: ${{ github.workspace }}
 
       - name: Create GitHub Release
@@ -64,24 +64,24 @@ jobs:
           generate_release_notes: true
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Upload SuperStoryStrings Mod to Release
+      - name: Upload SupersStoryStrings Mod to Release
         uses: actions/upload-release-asset@v1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           upload_url: ${{ steps.create_release.outputs.upload_url }}
           # Dynamically set asset_path and asset_name
-          asset_path: ./SuperStoryStrings-${{ steps.get_version.outputs.VERSION_NUMBER }}.mod
-          asset_name: SuperStoryStrings-${{ steps.get_version.outputs.VERSION_NUMBER }}.mod
+          asset_path: ./SupersStoryStrings-${{ steps.get_version.outputs.VERSION_NUMBER }}.mod
+          asset_name: SupersStoryStrings-${{ steps.get_version.outputs.VERSION_NUMBER }}.mod
           asset_content_type: application/octet-stream
 
-      - name: Upload SuperSpeedStrings Mod to Release
+      - name: Upload SupersSpeedStrings Mod to Release
         uses: actions/upload-release-asset@v1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           upload_url: ${{ steps.create_release.outputs.upload_url }}
           # Dynamically set asset_path and asset_name
-          asset_path: ./SuperSpeedStrings-${{ steps.get_version.outputs.VERSION_NUMBER }}.mod
-          asset_name: SuperSpeedStrings-${{ steps.get_version.outputs.VERSION_NUMBER }}.mod
+          asset_path: ./SupersSpeedStrings-${{ steps.get_version.outputs.VERSION_NUMBER }}.mod
+          asset_name: SupersSpeedStrings-${{ steps.get_version.outputs.VERSION_NUMBER }}.mod
           asset_content_type: application/octet-stream

@@ -166,6 +166,14 @@
         <!--Shop Npcs-->
             <string block_id="0" entry_id="37" table_id="213">{09}</string> <!--Shop Npc greeting-->
 
+    <!--Lady Blocking snowpoint temple-->
+    <!--Walk Past--><string block_id="0" entry_id="0" table_id="176">Only the chosen may enter the Snowpoint Temple.\nI'm sorry, but you will have to leave.\n \n[You must complete the Regional Seen dex for Sinnoh,\nonce you have talk to Professor Rowan and return here.]\n(No Legendary or Mythical required for completion)\n\n</string>
+    <!--Talk to them--><string block_id="0" entry_id="1" table_id="176">Only the chosen may enter the Snowpoint Temple.\nI'm sorry, but you will have to leave.\n \n[You must complete the Regional Seen dex for Sinnoh,\nonce you have talk to Professor Rowan and return here.]\n(No Legendary or Mythical required for completion)</string>
+
+    <!--Random Guy Blocking R224-->
+    <string block_id="0" entry_id="1" table_id="250">Let me size you up... You'll meet many, many Pokémon.\nThat's what you should be thinking.\nEventually, the world will appear bigger to you!\n \n[You must complete the Regional Seen dex for Sinnoh,\nonce you have talk to Professor Rowan and return here.]\n(No Legendary or Mythical required for completion)</string>
+
+
     <!--DayCare Lady-->
         <string block_id="0" entry_id="15" table_id="547">{09}</string>
         <string block_id="0" entry_id="16" table_id="547">{09}</string>
@@ -208,10 +216,240 @@
             <string block_id="0" entry_id="1" table_id="244">Great Marsh Area 5\n \n-Sunday: Croagunk\n-Monday: Carnivine\n-Tuesday: Croagunk\n-Wednesday: Skorupi\n-Thursday: Skorupi\n-Friday: Croagunk\n-Saturday: Croagunk</string>
             <string block_id="0" entry_id="2" table_id="245">Great Marsh Area 6\n \n-Sunday: Croagunk\n-Monday: Croagunk\n-Tuesday: Carnivine\n-Wednesday: Croagunk\n-Thursday: Skorupi\n-Friday: Skorupi\n-Saturday: Croagunk</string>
         <!--inside Marsh-->
-    <string block_id="0" entry_id="3" table_id="538">{09}</string>
-    <string block_id="0" entry_id="4" table_id="538">{09}</string>
-    <string block_id="0" entry_id="0" table_id="538">{09}</string>
-    <string block_id="0" entry_id="1" table_id="538">{09}</string>
+        <string block_id="0" entry_id="3" table_id="538">{09}</string>
+        <string block_id="0" entry_id="4" table_id="538">{09}</string>
+            <string block_id="0" entry_id="0" table_id="538">{09}</string>
+            <string block_id="0" entry_id="1" table_id="538">{09}</string>
+
+    <!--Route 225-->
+    <!--Bird keeper Audrey bottom left-->
+    <string block_id="0" entry_id="1591" table_id="617">\n\n</string>
+    <string block_id="0" entry_id="1592" table_id="617">\n\n</string>
+    <string block_id="0" entry_id="1593" table_id="617">\n\n</string>
+
+    <!--PKMN Ranger Ashlee top left-->
+    <string block_id="0" entry_id="1691" table_id="617">\n\n</string>
+    <string block_id="0" entry_id="1692" table_id="617">\n\n</string>
+    <string block_id="0" entry_id="1693" table_id="617">\n\n</string>
+
+    <!--Psychic Daisy top right-->
+    <string block_id="0" entry_id="1667" table_id="617">\n\n</string>
+    <string block_id="0" entry_id="1668" table_id="617">\n\n</string>
+    <string block_id="0" entry_id="1669" table_id="617">\n\n</string>
+
+    <!--PKMN Ranger Dwayne-->
+    <string block_id="0" entry_id="1687" table_id="617">\n\n</string>
+    <string block_id="0" entry_id="1688" table_id="617">\n\n</string>
+    <string block_id="0" entry_id="1689" table_id="617">\n\n</string>
+
+    <!--Ace Trainer Rodolfo-->
+    <string block_id="0" entry_id="1615" table_id="617">\n\n</string>
+    <string block_id="0" entry_id="1616" table_id="617">\n\n</string>
+    <string block_id="0" entry_id="1617" table_id="617">\n\n</string>
+
+    <!--Ace Trainer Quinn-->
+    <string block_id="0" entry_id="1631" table_id="617">\n\n</string>
+    <string block_id="0" entry_id="1632" table_id="617">\n\n</string>
+    <string block_id="0" entry_id="1633" table_id="617">\n\n</string>
+
+    <!--Ace Trainer Deanna-->
+    <string block_id="0" entry_id="1639" table_id="617">\n\n</string>
+    <string block_id="0" entry_id="1640" table_id="617">\n\n</string>
+    <string block_id="0" entry_id="1641" table_id="617">\n\n</string>
+
+
+
+    <!--Route 209-->
+    <!--Fisherman on bridge who gives the Good Rod-->
+    <string block_id="0" entry_id="10" table_id="480">Hmm!\n{00} is really good!\n\nWouldn't you agree?</string>
+    <string block_id="0" entry_id="11" table_id="480">Hmm!\nWe're of identical minds!\n\nHmm!\nTake this {00}!\n\n</string>
+    <string block_id="0" entry_id="12" table_id="480">Try fishing wherever there is a body of water.\nOh, incidentally, do you need me to explain how to use that fishing rod?</string>
+    <string block_id="0" entry_id="13" table_id="480">You don't like to fish?</string>
+    <string block_id="0" entry_id="14" table_id="480">First, you face any body of water, then you use your fishing rod.\nThen you have to get a nibble, it takes patience!</string>
+    <string block_id="0" entry_id="15" table_id="480">When you're fishing for Pokémon, the first hurdle is getting a bite.\nWhen you start to reel that Pokémon in, you've got to battle it.\nSo, fishing gives you twice the fun!</string>
+
+
+
+    <!--Fight Resort-->
+    <!--Fisherman who gives you the Super Rod Top Left-->
+    <string block_id="0" entry_id="42" table_id="192">Hmm! A Super Rod is really good!\nWouldn't you agree?</string>
+    <string block_id="0" entry_id="43" table_id="192">Hmm! We're of identical minds! Hmm!\nTake this {00}!\n\n</string>
+    <string block_id="0" entry_id="44" table_id="192">Wherever there's water, try your luck at fishing.</string>
+    <string block_id="0" entry_id="45" table_id="192">Don't you like to fish?</string><!--Dont Agree-->
+    <string block_id="0" entry_id="46" table_id="192">What's that? Any advice for fishing?\nWell, I'll tell you. It's all about the rod and technique!</string>
+
+
+    <!--Route 227-->
+
+    <!--Ace Trainer Saul-->
+    <string block_id="0" entry_id="1619" table_id="617">\n\n</string>
+    <string block_id="0" entry_id="1620" table_id="617">\n\n</string>
+    <string block_id="0" entry_id="1621" table_id="617">\n\n</string>
+
+    <!--PKMN Ranger Felicia-->
+    <string block_id="0" entry_id="1695" table_id="617">\n\n</string>
+    <string block_id="0" entry_id="1696" table_id="617">\n\n</string>
+    <string block_id="0" entry_id="1697" table_id="617">\n\n</string>
+
+    <!--Convo with Wake and Barry-->
+    <string block_id="0" entry_id="5" table_id="525">\n\n</string>
+    <string block_id="0" entry_id="6" table_id="525">\n\n</string>
+    <string block_id="0" entry_id="7" table_id="525">\n\n</string>
+    <string block_id="0" entry_id="8" table_id="525">\n\n</string>
+    <string block_id="0" entry_id="9" table_id="525">\n\n</string>
+    <string block_id="0" entry_id="10" table_id="525">\n\n</string>
+    <string block_id="0" entry_id="11" table_id="525">\n\n</string>
+
+    <!--Old Lady in house who heals HP-->
+    <string block_id="0" entry_id="0" table_id="526">\n\n</string>
+    <string block_id="0" entry_id="1" table_id="526">\n\n</string>
+    <string block_id="0" entry_id="3" table_id="526">\n\n</string>
+    <string block_id="0" entry_id="2" table_id="526">\n\n</string>
+
+
+    <!--Buck stops you-->
+    <string block_id="0" entry_id="0" table_id="525">\n\n</string>
+    <string block_id="0" entry_id="3" table_id="525">\n\n</string>
+    <string block_id="0" entry_id="1" table_id="525">\n\n</string>
+    <string block_id="0" entry_id="2" table_id="525">\n\n</string>
+    <string block_id="0" entry_id="4" table_id="525">\n\n</string>
+
+    <!--Ace Trainer Mikayla-->
+    <string block_id="0" entry_id="1651" table_id="617">\n\n</string>
+    <string block_id="0" entry_id="1652" table_id="617">\n\n</string>
+    <string block_id="0" entry_id="1653" table_id="617">\n\n</string>
+
+
+
+    <!--Black Belt Griffin-->
+    <string block_id="0" entry_id="1675" table_id="617">\n\n</string>
+    <string block_id="0" entry_id="1676" table_id="617">\n\n</string>
+    <string block_id="0" entry_id="1677" table_id="617">\n\n</string>
+
+    <!--Dragon Tamer Darien-->
+    <string block_id="0" entry_id="1603" table_id="617">\n\n</string>
+    <string block_id="0" entry_id="1604" table_id="617">\n\n</string>
+    <string block_id="0" entry_id="1605" table_id="617">\n\n</string>
+
+
+    <!--Eavesdropping Grunts-->
+    <string block_id="0" entry_id="0" table_id="261">\n\n</string>
+    <string block_id="0" entry_id="1" table_id="261">\n\n</string>
+    <string block_id="0" entry_id="2" table_id="261">\n\n</string>
+
+    <!--Stark Mountain-->
+    <!--Stark Mountain Entrance Sign--><string block_id="0" entry_id="9" table_id="261">Stark Mountain Eruption Zone!</string>
+
+    <!--First Entering, Getting stopped by Planets-->
+    <string block_id="0" entry_id="0" table_id="262">\n\n</string>
+    <string block_id="0" entry_id="2465" table_id="617">\n\n</string>
+    <string block_id="0" entry_id="1" table_id="262">\n\n</string>
+    <string block_id="0" entry_id="2" table_id="262">\n\n</string>
+    <string block_id="0" entry_id="2466" table_id="617">\n\n</string>
+    <string block_id="0" entry_id="3" table_id="262">\n\n</string>
+    <string block_id="0" entry_id="4" table_id="262">\n\n</string>
+    <string block_id="0" entry_id="5" table_id="262">\n\n</string>
+    <string block_id="0" entry_id="6" table_id="262">\n\n</string>
+    <string block_id="0" entry_id="7" table_id="262">\n\n</string>
+    <string block_id="0" entry_id="8" table_id="262">\n\n</string>
+    <string block_id="0" entry_id="9" table_id="262">\n\n</string>
+
+    <!--Buck Stopping you when entering next room-->
+    <string block_id="0" entry_id="0" table_id="263">\n\n</string>
+    <string block_id="0" entry_id="1" table_id="263">\n\n</string>
+    <!--Random Buck interactions-->
+    <string block_id="0" entry_id="2" table_id="263">\n\n</string>
+    <string block_id="0" entry_id="42" table_id="429">\n\n</string>
+    <string block_id="0" entry_id="43" table_id="429">\n\n</string>
+    <string block_id="0" entry_id="44" table_id="429">\n\n</string>
+    <string block_id="0" entry_id="45" table_id="429">\n\n</string>
+    <string block_id="0" entry_id="3" table_id="263">\n\n</string>
+    <string block_id="0" entry_id="4" table_id="263">\n\n</string>
+    <!--Reach the top before the room-->
+    <string block_id="0" entry_id="5" table_id="263">\n\n</string>
+
+
+    <!--Black Belt Ray-->
+    <string block_id="0" entry_id="1777" table_id="617">\n\n</string>
+    <string block_id="0" entry_id="1778" table_id="617">\n\n</string>
+    <string block_id="0" entry_id="1779" table_id="617">\n\n</string>
+
+    <!--Bird Keeper Krystal-->
+    <string block_id="0" entry_id="1738" table_id="617">\n\n</string>
+    <string block_id="0" entry_id="1739" table_id="617">\n\n</string>
+    <string block_id="0" entry_id="1740" table_id="617">\n\n</string>
+
+    <!--Dragon Tamer Drake-->
+    <string block_id="0" entry_id="1741" table_id="617">\n\n</string>
+    <string block_id="0" entry_id="1742" table_id="617">\n\n</string>
+    <string block_id="0" entry_id="1743" table_id="617">\n\n</string>
+
+    <!--Black Belt Jarret-->
+    <string block_id="0" entry_id="1780" table_id="617">\n\n</string>
+    <string block_id="0" entry_id="1781" table_id="617">\n\n</string>
+    <string block_id="0" entry_id="1782" table_id="617">\n\n</string>
+
+    <!--Ace Trainer Skylar-->
+    <string block_id="0" entry_id="1753" table_id="617">\n\n</string>
+    <string block_id="0" entry_id="1754" table_id="617">\n\n</string>
+    <string block_id="0" entry_id="1755" table_id="617">\n\n</string>
+
+
+    <!--Ace Trainer Natasha-->
+    <string block_id="0" entry_id="1765" table_id="617">\n\n</string>
+    <string block_id="0" entry_id="1766" table_id="617">\n\n</string>
+    <string block_id="0" entry_id="1767" table_id="617">\n\n</string>
+
+
+    <!--First Entering Heatrans Room (Story)-->
+    <string block_id="0" entry_id="0" table_id="264">\n\n</string>
+    <string block_id="0" entry_id="1" table_id="264">\n\n</string>
+    <string block_id="0" entry_id="2" table_id="264">\n\n</string>
+    <string block_id="0" entry_id="3" table_id="264">\n\n</string>
+    <string block_id="0" entry_id="4" table_id="264">\n\n</string>
+    <string block_id="0" entry_id="5" table_id="264">\n\n</string>
+    <string block_id="0" entry_id="6" table_id="264">\n\n</string>
+    <string block_id="0" entry_id="7" table_id="264">\n\n</string>
+    <string block_id="0" entry_id="8" table_id="264">\n\n</string>
+    <string block_id="0" entry_id="9" table_id="264">\n\n</string>
+    <string block_id="0" entry_id="10" table_id="264">\n\n</string>
+    <string block_id="0" entry_id="11" table_id="264">\n\n</string>
+    <string block_id="0" entry_id="12" table_id="264">\n\n</string>
+    <string block_id="0" entry_id="13" table_id="264">\n\n</string>
+    <string block_id="0" entry_id="14" table_id="264">\n\n</string>
+
+    <!--Being Placed outside after doing the Story Heatrans Room-->
+    <string block_id="0" entry_id="3" table_id="261">\n\n</string>
+    <string block_id="0" entry_id="4" table_id="261">\n\n</string>
+    <string block_id="0" entry_id="5" table_id="261">\n\n</string>
+    <string block_id="0" entry_id="6" table_id="261">\n\n</string>
+    <string block_id="0" entry_id="7" table_id="261">\n\n</string>
+    <string block_id="0" entry_id="8" table_id="261">\n\n</string>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 </ds_strings_archive>

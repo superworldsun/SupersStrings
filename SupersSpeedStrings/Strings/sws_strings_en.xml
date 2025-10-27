@@ -51,6 +51,7 @@
     <string id="270776032">A small crevice is seen on the wall.\nA {STRING_110290} may allow you to break it open.</string>
 
     <!--Berry Farming-->
+            <string id="8559">\nPlant Seeds\n</string>
             <string id="16780326">{09}</string> <!--planting first seed?-->
             <string id="16780314">{09}</string> <!--Dried to death-->
             <string id="16780319">{09}</string> <!--Watered to death-->
@@ -73,7 +74,18 @@
     <!--Using prismatic pearl-->
             <string id="16780460">Are you sure you want to transfer the Hidden Ability\nattribute from {00} to {01}?\n{02} Prismatic Pearls will be consumed.</string>
 
-<!--Npcs-->
+    <!--Fighting Raid Den-->
+        <string id="16805074">You see a faint outline of a {00} in the glowing light.\nYou can sense a challenging battle ahead.</string>
+
+    <!--Npcs-->
+    <!--Mom wants to take you home-->
+        <string id="16780130">\n\n</string>
+
+    <!--Cop Blocking you from Heatran if your dex isnt done-->
+        <string id="16777282">Sorry, kid. There's something dangerous in there.\nYou're not ready for it. Come back later.\n \n[You must complete the FULL Caught OT National dex,\nonce completed you may challenge Heatran]</string>
+
+
+    <!--Npcs-->
     <!--Fossil reviver(is used in all regions)-->
         <string id="16807100">{09}</string>
         <string id="16807101">{09}</string>
@@ -243,7 +255,7 @@
     <string id="245232">&#xC;&#xA00F;Scope Lens (ATK)</string>
         <string id="135232">An item to be held by a Pokémon.\nIt is a lens that boosts the holder's\ncritical-hit ratio by 1 stage.</string>
     <string id="245276">&#xC;&#xA010;Zoom Lens (ATK)</string>
-        <string id="135276">An item to be held by a Pokémon.\nIf the holder moves after its target,\nits accuracy will be boosted by %20.</string>
+        <string id="135276">An item to be held by a Pokémon.\nIf the holder moves after its target,\nits accuracy will be boosted by 20%.</string>
     <string id="245225">&#xC;&#xA011;Soul Dew (ATK)</string>
     <string id="245135">&#xC;&#xA012;Adamant Orb (ATK)</string>
     <string id="135135">A brightly gleaming orb to be held by\nDialga. It boosts the power of Dragon-\nand Steel-type moves by 20%.</string>

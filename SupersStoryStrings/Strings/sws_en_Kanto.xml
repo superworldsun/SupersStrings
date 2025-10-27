@@ -204,4 +204,217 @@
     <string id="1827396">Need HM-Strength!</string>
     <string id="1827460">{09}</string> <!--You can push boulders around-->
 
+    <!--STORY TEXT-->
+
+    <!--Cerulean City-->
+
+    <!--Cerulean Cave GateKeeper-->
+    <string id="1569561">This is CERULEAN CAVE.\nHorribly strong POKéMON live inside there.\nIt takes a very special TRAINER to be allowed inside there.\nYou'd have to be strong enough to become the\nPOKéMON LEAGUE CHAMPION for starters.\nAnd, you would have to have made a great achievement.\n \n[Beat the Elite 4 in Kanto]\n \n[Collect the Ruby and Sapphire for Bill in the\nSevi Islands Questline]</string>
+
+
+    <!--Island Quest Part 2 (Get the Sapphire)-->
+    <!--Island 1-->
+    <!--Bill-->
+    <string id="1708684">Oh, hey, {01}! Did you see?\nWe got the PC working! I've got a few things to show CELIO here.\nCan you go out on a stroll or something for a while more?</string>
+    <!--CELIO-->
+    <string id="1711031">This is my own ferry PASS. It will let you get to all the\nSEVII ISLANDS. {01}, please, I can't do it without\nyour help.\n \n[Head to Island 4, inside Icefall Cave, and continue up the\nwaterfall immediately inside]</string>
+    <!--Sapphire in hand-->
+        <!--CELIO-->
+    <string id="1711149">{01} handed the SAPPHIRE to CELIO.</string>
+    <string id="1711182">CELIO: So this is the gem that forms a pair with the RUBY...\n{01}, you've gone through a lot to get this, didn't you?\nYou don't have to tell me. I know it wasn't easy.\nThank you so much! Now it's my turn to work for you!\nPlease give me a little time.</string>
+    <string id="1711429">Okay, this is good...</string>
+    <string id="1711449">I did it! I linked up with LANETTE!</string>
+    <string id="1711485">{01}... {01}, I did it!\nI've managed to link up with TRAINERS in the HOENN region!\nFinally, the Network Machine is fully operational!\n{01}, I owe it all to you!\nThanks to you, my dream came true...</string>
+    <string id="1711673">I... I'm not crying. That's enough about me!\n{01}, you're going to keep looking for\nexotic POKéMON, right? I wish you the best of luck!</string>
+
+
+    <!--Island 2-->
+
+    <!--Game Corner-->
+        <!--Entering with bike quest Active-->
+    <string id="1713160">Now, where's LOSTELLE gotten to today?\nShe always brings me lunch every day right about now...</string>
+    <string id="1713253">Hm? You, there! Are you a friend of LOSTELLE's?\nHave you seen LOSTELLE around?\nI don't know where she might be.\nShe should've been here long ago.\nLOSTELLE's a cutie - she got my looks - so what if someone...\nWhat if something's happened to my LOSTELLE?!\nPlease, help me find her! Please go search THREE ISLAND!</string>
+    <string id="1713562">Hah? What is this GAME CORNER? How much sadder can this get?\nThose clowns... They said they'd be waiting on the\nisland, so where are they? Hey, you!\nIs this the only THREE ISLAND around here?</string>
+    <string id="1713752">Try waking up before you crawl out of bed, you punk.\nThis is TWO ISLAND! Move it! Get your filthy motorbike out of\nmy place!</string>
+    <string id="1713877">Huh... Oh, oh, gotcha.\nTch... These islands are confusing...</string>
+    <string id="1713932">Would you look at that?\nThat punk scuffed up my floor.</string>
+    <!--Talking to Guy after interaction-->
+    <string id="1713987">Hey, but listen! I'm begging you, you have to go to THREE ISLAND.\nIf anything were to happen to my LOSTELLE...\nMy place is the house with the red roof on THREE ISLAND.\nShe may just show up late here, so I can't run off anywhere.\nThat's why I have to get you to do me this big favor.</string>
+
+    <!--Counter Guy-->
+    <string id="1714268">I'm sorry. We're not running any games today.</string>
+
+
+    <!--Island 3-->
+
+    <!--Island 3 Bikers blocking the path-->
+    <string id="1581248">We don't need you people bringing your noise and trouble here!\nWe're asking you to go back to KANTO!\n \n[Go to Island 2 Game Corner, the furthest right building]</string>
+    <string id="1581349">Hey, go cry somewhere else. Our boss is on his way.\nWhen he gets here, we'll give you a k-rad motorbike show you\nwon't soon forget!\n \n[Go to Island 2 Game Corner, the furthest right building]</string>
+    <string id="1581481">W-what!? Not on your life! Get off the island now!\n \n[Go to Island 2 Game Corner, the furthest right building]</string>
+    <string id="1581532">Who's gonna make me?\n \n[Go to Island 2 Game Corner, the furthest right building]</string>
+
+    <!--Bikers around town before they leave-->
+    <string id="1581195">Hyahoo! From this day on, this island belongs to us!\n \n[Go to Island 2 Game Corner, the furthest right building]</string>
+    <string id="1614433">We're the KANTO RIDER FEDERATION! Vroom! Vavavavooom!\nVroom! My bike's wimpy, so I have to make exhaust noises\nmyself!\n \n[Go to Island 2 Game Corner, the furthest right building]</string>
+    <string id="1614552">Hey, hey, lady!\nFork over some spending money!\n \n[Go to Island 2 Game Corner, the furthest right building]</string>
+
+    <!--Lady being harassed-->
+    <string id="1614599">Aiyeeh! Wh-who are you?! I... I'll call the police!\n \n[Go to Island 2 Game Corner, the furthest right building]</string>
+
+
+
+    <!--Biker Conflict-->
+    <string id="1581553">Are you the boss?\nGo back to KANTO right now!</string>
+    <string id="1581599">Hah? I just got here, pal. What's with the hostile attitude?\nIt's mighty cold of you!</string>
+    <string id="1581685">Your gang of followers have been raising havoc on their bikes.\nDo you have any idea how much trouble they've caused us on\nthe island?</string>
+    <string id="1581819">No, man, I don't get it at all.\nLook at this place. What do you do for entertainment?\nYou ought to be thanking us for livening up this sleepy village.\nBut hey, if you insist, you can try making us leave.</string>
+    <string id="1582023">Grr... You cowards...\nSo tough in a pack...</string>
+    <string id="1582061">You, what are you staring at? Don't you know it's not polite?\nYou wanna make something of it or what?\n \n[Make sure you're ready, its 4 battles back to back]</string>
+    <string id="1582163">That's smart. Keep your nose out of this.</string>
+    <string id="1582205">Heh, I like your guts.\nYou'll be losing money to me, but...</string>
+    <string id="1582263">\n\n</string><!--Lost Battle-->
+    <string id="1582287">Aww, man... Don't you dare laugh!</string>
+    <string id="1582319">Aren't you from KANTO? You should be on our side!</string>
+    <string id="1582369">\n\n</string><!--Lost Battle-->
+    <string id="1582390">What's the matter with you, getting all hot like that?\nTotally uncool, man!</string>
+    <string id="1582466">We invited the boss out here, but you had to mess it up!\nYou embarrassed us, man!</string>
+    <string id="1582548">\n\n</string><!--Lost Battle-->
+    <string id="1582562">Boss, I'm telling you, you've gotta\ndo something about this kid!</string>
+    <string id="1582627">I've been watching you, and I'd say you've done enough.\nWhat are you, their friend or something?\nThen I guess you'll be battling me in their place.</string>
+    <string id="1582775">\n\n</string><!--Lost Battle-->
+    <string id="1582877">Humph! Yeah, go right on hanging\naround with these hayseeds!</string>
+
+    <!--Left Blond after bikers-->
+    <string id="1582938">Thank you! Those goons were nothing but bad trouble.\nOh, look, your POKéMON got hurt on my account.</string>
+    <string id="1583038">{01} was given a FULL RESTORE.</string>
+    <string id="1583089">You've got seriously impressive POKéMON with you.</string>
+    <!--Right Blond after bikers-->
+    <string id="1583139">It'd be fantastic if someone as strong as you lived here.\nI hope you'll at least stay here a while.\n...I beg your pardon? You're looking for LOSTELLE?\nLOSTELLE went off towards BOND BRIDGE a while ago.</string>
+
+
+
+    <!--Island 4-->
+    <!--Interaction with Blue when first arriving-->
+    <string id="1583927">{06}: Hey! {01}!\nWhat are you doing here in the SEVII ISLANDS?\nYou should quit copying me, you know?\nAnyways, I already got my POKéMON EGG, so I'm done with this island.\nHeh, I bet you don't even know about POKéMON EGGS.\nYou'll never fill your NATIONAL POKéDEX that way.\nBy the way, I saw someone we both know on this island.\nWhy don't you go look around if it makes you curious?\nMe, I don't have the time to waste.\nBe smelling ya!</string>
+
+
+    <!--Inside IceFall Cave 4-->
+    <string id="1552463">LORELEI: Keep your filthy hands off the POKéMON in the cave!\nDo as I say, or you'll have me to answer to!</string>
+    <string id="1552569">Aww, shut it, lady, and leave us be.\nDon't let your glasses get all steamed up!</string>
+    <string id="1552649">LORELEI: {01}?! What are you doing here?\nNo, we can catch up later. Right now, I need your help.\nHelp me kick these poachers out before they do anything else.\nThey've been catching POKéMON here, then selling them off!\nAre you ready? You take that one, please!</string>
+    <string id="1552907">W-what?! Who says we can't do what we want with the\nPOKéMON we catch?</string>
+
+
+    <string id="1552977">\n\n</string> <!--Beat the Rocket Grunt in Icefall Cave-->
+    <string id="1553001">LORELEI: Humph. So despicably weak. You! Tell me!\nWhere have you taken the captured POKéMON?\nI'm smashing your ring once and for all!</string>
+    <string id="1553135">N-no way! I'm not telling you that!</string>
+    <string id="1553171">LORELEI: If you won't confess, we'll deep-freeze you.\nMy LAPRAS is furious for what you've done to its friends.\nGo, LAPRAS! ICE BEAM...</string>
+    <string id="1553305">Wawaah! Okay! I'll talk!\nThe POKéMON are in the ROCKET WAREHOUSE on FIVE ISLAND.\nThere! I said it! We'll be going now!\n...But I doubt you'll ever make it into the ROCKET WAREHOUSE!\nHeheheheh!</string>
+    <string id="1553495">{01}, thank you. But this is awful...\nI was born and raised here on these islands.\nI had no idea that those horrible criminals were loose here...\n \n[For the second password, go to\nIsland 6 -> Ruin Valley -> Dotted Hole]</string>
+
+
+    <!--Island 5-->
+
+
+    <!--five isle meadow-->
+
+    <!--First grunt outside-->
+    <string id="1617032">This area's strictly off-limits! Out, out!</string>
+    <string id="1617075">\n\n</string>
+    <string id="1617093">You don't have any business here! Go home!</string>
+    <!--Second grunt outside-->
+    <string id="1617350">You'd be wasting time even if you were to get by me.</string>
+    <string id="1617403">\n\n</string>
+    <string id="1617430">You won't be able to get in without the passwords anyway.</string>
+
+    <!--Rocket Grunt near door-->
+    <string id="1617136">There's nothing past here except our WAREHOUSE.\nSo what brings you here?</string>
+    <string id="1617209">\n\n</string>
+    <string id="1617241">You're wanting to know what's inside this WAREHOUSE?\nIt's better you didn't know. For your own sake, I mean.</string><!--After beaten-->
+
+    <!--Warehouse Door-->
+    <string id="1616782">{01} entered a password.\n«GOLDEEN need log.»\n... ...  ... ...  ... ...\nAnother password is needed to open the door...\n \n[For the second password, go to\nIsland 6 -> Ruin Valley -> Dotted Hole]</string>
+    <string id="1616884">{01} entered two passwords.\n«GOLDEEN need log.»\n«Yes, nah, CHANSEY.»\n... ...  ... ...  ... ...\nThe WAREHOUSE's door opened!</string>
+    <string id="1616994">The WAREHOUSE's door is already open.</string>
+
+    <!--Grunt inside warehouse Top Left-->
+    <string id="1553878">Oh, now your POKéMON look strong. You're willing to sell them?\nOh? You wanted to battle?</string>
+    <string id="1553967">\n\n</string>
+    <string id="1553986">We can give you a great price. Sell us your POKéMON!</string>
+
+    <!--Grunt inside warehouse Middle Left-->
+    <string id="1553741">Did you come here knowing it's TEAM ROCKET's WAREHOUSE?</string>
+    <string id="1553797">\n\n</string>
+    <string id="1553830">TEAM ROCKET broke up? What planet are you from?</string>
+
+    <!--Grunt inside warehouse Middle Right-->
+    <string id="1554039">I got word about you from the others.\nBut there's no way a kid like you'd know our BOSS GIOVANNI!</string>
+    <string id="1554137">\n\n</string>
+    <string id="1554159">Don't mess in the doings of adults, you jumped-up pip-squeak!</string>
+
+    <!--Team Rocket Admin inside warehouse Right Middle (Changes Tiles if Defeated)-->
+    <string id="1554221">I don't know or care if what I'm doing is right or wrong...\nI just put my faith in GIOVANNI and do as I am told.</string>
+    <string id="1554332">\n\n</string>
+    <string id="1554350">You're doing things according to your beliefs and morals.\nI understand now...</string>
+    <string id="1554426">I've made it so you can come back in through there.\nWhy don't you go get rested and refreshed for what lies ahead?\nThe ADMIN after me outranks me thoroughly as a TRAINER.\nYou'd better steel yourself for one harsh challenge.</string>
+
+    <!--Team Rocket Admin At PC upper right middle-->
+    <string id="1554650">That's quite enough of you playing the hero, kid.\nSpreading lies about how TEAM ROCKET has disbanded...\nIt's such an obvious attempt to cause confusion in our ranks.\nFortunately, we're not so ignorant to fall for the lies of a child!\nAnd now, I'll show you how scary an angry adult can be!</string>
+    <string id="1554939">\n\n</string>
+    <string id="1555044">We will abandon this WAREHOUSE...\nBut don't think this is over. I won't let this be the end.\nI will find GIOVANNI. And I will resurrect TEAM ROCKET!\nI will... Until then, farewell!</string>
+
+    <!--Science guy at PC Top Right-->
+    <string id="1555375">I almost managed to sell the SAPPHIRE for huge money...\nThen, you just had to come along and blow the whole deal apart!\nFufu... Fufufufu... There's no forgiveness for you!</string>
+    <string id="1555541">\n\n</string>
+    <string id="1555564">If I can't sell it, it's worthless!\nGo ahead, take it!</string>
+    <string id="1555619">What do you want now? Go on, get lost, leave me be.\n \n[Return to Island 1 and Talk to Celio]</string>
+
+
+    <!--Island 6-->
+
+    <!--Water Path-->
+    <!--Hiker NPC -->
+    <string id="1620781">Tell me, where are the mountains around these parts?</string>
+    <string id="1620834">\n\n</string><!--Lost Battle-->
+    <string id="1620875">Aren't there any mountains around these parts?</string>
+
+
+    <!--Ruin Valley-->
+    <!--Hiker NPC Top left-->
+    <string id="1622172">A battle with you, so high up!</string>
+    <string id="1622203">\n\n</string><!--Lost Battle-->
+    <string id="1622250">Experience the joy of climbing!</string>
+
+    <!--Scientist bottom left-->
+    <string id="1622282">I'm pretty familiar with the land around these parts.</string>
+    <string id="1622336">\n\n</string>
+    <string id="1622394">The door to the ruins... It has these strange patterns\nengraved on the outside. I don't know what they mean, though.</string>
+
+    <!--Ruin Maniac Stanly Top Middle-->
+    <string id="1621597">There appear to be many secrets still unsolved in this world.</string>
+    <string id="1621659">\n\n</string>
+    <string id="1621664">I suggest to you that you, too, give a thought to the secrets and\nmysteries of our world once a day.</string>
+
+    <!--Ruin Maniac Foster Middle-->
+    <string id="1621765">I'm curious, what compelled you to come here?</string>
+    <string id="1621811">\n\n</string>
+    <string id="1621868">There are several ruins on the SEVII ISLANDS.\nThe majority of them date back a long way.</string>
+
+
+    <!--Ruin Maniac Larry Lower-->
+    <string id="1621957">It's been said that there are\nmysterious stones on this island.\n\nI suspect it has something to do\nwith the ruins here.</string>
+    <string id="1622075">\n\n</string>
+    <string id="1622092">Those ruins over there...\nI haven't had any luck in finding how I can get inside.</string>
+
+    <!--Door in the middle of Ruin Valley-->
+    <string id="1621440">The door doesn't budge at all.\nCheck it more thoroughly?</string>
+    <string id="1621521">On closer inspection, there are several dots on the door...\n \n[Use HM Cut on the door,\nselect your pokemon with the HM, click Cut]</string>
+    <string id="1621579">The door is open.\n \n[The path is, Up, Left, Right, Down]</string>
+
+    <!--science guy at the bottom-->
+    <string id="1555863">Fufu... Fufufufu... I guessed right.\nI was right in tailing you!</string>
+    <string id="1555924">I knew that there was a SAPPHIRE here, so it belongs to me!\nI'll sell it to TEAM ROCKET for serious money.\n...D-don't glare at me like that!\nIf you want it back, why don't you go get it after I sell it?\nI'll even tell you one of the passwords to TEAM ROCKET's\nWAREHOUSE. The WAREHOUSE password I know is\n«Yes, nah, CHANSEY.» I'm done. Don't think badly of me!\n \n[Head to Five Island Meadows Rocket WareHouse]</string>
+
+    <string id="1553635">There are many POKéMON locked away in the pen...</string>
+
 </strings>

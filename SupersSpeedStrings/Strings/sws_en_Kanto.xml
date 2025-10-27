@@ -204,4 +204,217 @@
     <string id="1827396">{09}</string>
     <string id="1827460">{09}</string> <!--You can push boulders around-->
 
+    <!--STORY TEXT-->
+
+    <!--Cerulean City-->
+
+    <!--Cerulean Cave GateKeeper-->
+    <string id="1569561">This is CERULEAN CAVE.\nHorribly strong POKéMON live inside there.\nIt takes a very special TRAINER to be allowed inside there.\nYou'd have to be strong enough to become the\nPOKéMON LEAGUE CHAMPION for starters.\nAnd, you would have to have made a great achievement.\n \n[Beat the Elite 4 in Kanto]\n \n[Collect the Ruby and Sapphire for Bill in the\nSevi Islands Questline]</string>
+
+
+    <!--Island Quest Part 2 (Get the Sapphire)-->
+    <!--Island 1-->
+    <!--Bill-->
+    <string id="1708684">\n\n</string>
+    <!--CELIO-->
+    <string id="1711031">\n\n</string>
+    <!--Sapphire in hand-->
+        <!--CELIO-->
+    <string id="1711149">\n\n</string>
+    <string id="1711182">\n\n</string>
+    <string id="1711429">\n\n</string>
+    <string id="1711449">\n\n</string>
+    <string id="1711485">\n\n</string>
+    <string id="1711673">\n\n</string>
+
+
+    <!--Island 2-->
+
+    <!--Game Corner-->
+        <!--Entering with bike quest Active-->
+    <string id="1713160">\n\n</string>
+    <string id="1713253">\n\n</string>
+    <string id="1713562">\n\n</string>
+    <string id="1713752">\n\n</string>
+    <string id="1713877">\n\n</string>
+    <string id="1713932">\n\n</string>
+    <!--Talking to Guy after interaction-->
+    <string id="1713987">\n\n</string>
+
+    <!--Counter Guy-->
+    <string id="1714268">\n\n</string>
+
+
+    <!--Island 3-->
+
+    <!--Island 3 Bikers blocking the path-->
+    <string id="1581248">\n\n</string>
+    <string id="1581349">\n\n</string>
+    <string id="1581481">\n\n</string>
+    <string id="1581532">\n\n</string>
+
+    <!--Bikers around town before they leave-->
+    <string id="1581195">\n\n</string>
+    <string id="1614433">\n\n</string>
+    <string id="1614552">\n\n</string>
+
+    <!--Lady being harassed-->
+    <string id="1614599">\n\n</string>
+
+
+
+    <!--Biker Conflict-->
+    <string id="1581553">\n\n</string>
+    <string id="1581599">\n\n</string>
+    <string id="1581685">\n\n</string>
+    <string id="1581819">\n\n</string>
+    <string id="1582023">\n\n</string>
+    <string id="1582061">\n\n</string>
+    <string id="1582163">\n\n</string>
+    <string id="1582205">\n\n</string>
+    <string id="1582263">\n\n</string><!--Lost Battle-->
+    <string id="1582287">\n\n</string>
+    <string id="1582319">\n\n</string>
+    <string id="1582369">\n\n</string><!--Lost Battle-->
+    <string id="1582390">\n\n</string>
+    <string id="1582466">\n\n</string>
+    <string id="1582548">\n\n</string><!--Lost Battle-->
+    <string id="1582562">\n\n</string>
+    <string id="1582627">\n\n</string>
+    <string id="1582775">\n\n</string><!--Lost Battle-->
+    <string id="1582877">\n\n</string>
+
+    <!--Left Blond after bikers-->
+    <string id="1582938">\n\n</string>
+    <string id="1583038">\n\n</string>
+    <string id="1583089">\n\n</string>
+    <!--Right Blond after bikers-->
+    <string id="1583139">\n\n</string>
+
+
+
+    <!--Island 4-->
+    <!--Interaction with Blue when first arriving-->
+    <string id="1583927">\n\n</string>
+
+
+    <!--Inside IceFall Cave 4-->
+    <string id="1552463">\n\n</string>
+    <string id="1552569">\n\n</string>
+    <string id="1552649">\n\n</string>
+    <string id="1552907">\n\n</string>
+
+
+    <string id="1552977">\n\n</string> <!--Beat the Rocket Grunt in Icefall Cave-->
+    <string id="1553001">\n\n</string>
+    <string id="1553135">\n\n</string>
+    <string id="1553171">\n\n</string>
+    <string id="1553305">\n\n</string>
+    <string id="1553495">\n\n</string>
+
+
+    <!--Island 5-->
+
+
+    <!--five isle meadow-->
+
+    <!--First grunt outside-->
+    <string id="1617032">\n\n</string>
+    <string id="1617075">\n\n</string>
+    <string id="1617093">\n\n</string>
+    <!--Second grunt outside-->
+    <string id="1617350">\n\n</string>
+    <string id="1617403">\n\n</string>
+    <string id="1617430">\n\n</string>
+
+    <!--Rocket Grunt near door-->
+    <string id="1617136">\n\n</string>
+    <string id="1617209">\n\n</string>
+    <string id="1617241">\n\n</string><!--After beaten-->
+
+    <!--Warehouse Door-->
+    <string id="1616782">{01} entered a password.\n«GOLDEEN need log.»\n... ...  ... ...  ... ...\nAnother password is needed to open the door...\n \n[For the second password, go to\nIsland 6 -> Ruin Valley -> Dotted Hole]</string>
+    <string id="1616884">\n\n</string>
+    <string id="1616994">\n\n</string>
+
+    <!--Grunt inside warehouse Top Left-->
+    <string id="1553878">\n\n</string>
+    <string id="1553967">\n\n</string>
+    <string id="1553986">\n\n</string>
+
+    <!--Grunt inside warehouse Middle Left-->
+    <string id="1553741">\n\n</string>
+    <string id="1553797">\n\n</string>
+    <string id="1553830">\n\n</string>
+
+    <!--Grunt inside warehouse Middle Right-->
+    <string id="1554039">\n\n</string>
+    <string id="1554137">\n\n</string>
+    <string id="1554159">\n\n</string>
+
+    <!--Team Rocket Admin inside warehouse Right Middle (Changes Tiles if Defeated)-->
+    <string id="1554221">\n\n</string>
+    <string id="1554332">\n\n</string>
+    <string id="1554350">\n\n</string>
+    <string id="1554426">\n\n</string>
+
+    <!--Team Rocket Admin At PC upper right middle-->
+    <string id="1554650">\n\n</string>
+    <string id="1554939">\n\n</string>
+    <string id="1555044">\n\n</string>
+
+    <!--Science guy at PC Top Right-->
+    <string id="1555375">\n\n</string>
+    <string id="1555541">\n\n</string>
+    <string id="1555564">\n\n</string>
+    <string id="1555619">\n\n</string>
+
+
+    <!--Island 6-->
+
+    <!--Water Path-->
+    <!--Hiker NPC -->
+    <string id="1620781">\n\n</string>
+    <string id="1620834">\n\n</string><!--Lost Battle-->
+    <string id="1620875">\n\n</string>
+
+
+    <!--Ruin Valley-->
+    <!--Hiker NPC Top left-->
+    <string id="1622172">\n\n</string>
+    <string id="1622203">\n\n</string><!--Lost Battle-->
+    <string id="1622250">\n\n</string>
+
+    <!--Scientist bottom left-->
+    <string id="1622282">\n\n</string>
+    <string id="1622336">\n\n</string>
+    <string id="1622394">\n\n</string>
+
+    <!--Ruin Maniac Stanly Top Middle-->
+    <string id="1621597">\n\n</string>
+    <string id="1621659">\n\n</string>
+    <string id="1621664">\n\n</string>
+
+    <!--Ruin Maniac Foster Middle-->
+    <string id="1621765">\n\n</string>
+    <string id="1621811">\n\n</string>
+    <string id="1621868">\n\n</string>
+
+
+    <!--Ruin Maniac Larry Lower-->
+    <string id="1621957">\n\n</string>
+    <string id="1622075">\n\n</string>
+    <string id="1622092">\n\n</string>
+
+    <!--Door in the middle of Ruin Valley-->
+    <string id="1621440">\n\n</string>
+    <string id="1621521">On closer inspection, there are several dots on the door...\n \n[Use HM Cut on the door,\nselect your pokemon with the HM, click Cut]</string>
+    <string id="1621579">The door is open.\n \n[The path is, Up, Left, Right, Down]</string>
+
+    <!--science guy at the bottom-->
+    <string id="1555863">\n\n</string>
+    <string id="1555924">\n\n</string>
+
+    <string id="1553635">\n\n</string>
+
 </strings>

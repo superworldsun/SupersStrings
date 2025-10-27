@@ -4,9 +4,26 @@
     <!--=SupersStoryStrings Version-->
     <!--=Credits to C4v for sourcing pokedex catch rate-->
 
+    <!--Normal Exp gained or Exp Share-->
+    <string block_id="0" entry_id="42" table_id="15">\n\n</string>
+
+    <!--Reamplifier (Or any boosted exp added)-->
+    <string block_id="0" entry_id="43" table_id="15">\n\n</string>
+
+    <!--Pokemon wants to Learn a move-->
+    <string block_id="0" entry_id="32" table_id="157">{00} wants to learn the move {01}.\n Replace a move with {01}?</string>
+
+    <!--Learned a move-->
+    <string block_id="0" entry_id="40" table_id="157">\n\n</string>
+    <string block_id="0" entry_id="41" table_id="157">{00} learned {01}!</string>
+
+    <!--Did not learn the move-->
+    <string block_id="0" entry_id="38" table_id="157">\n\n</string>
+
     <!-- Sweet Scent-->
     <string block_id="0" entry_id="52" table_id="8">{09}</string> <!--Using Sweet Scent-->
     <string block_id="0" entry_id="53" table_id="8">{09}</string> <!--Using Sweet Scent-->
+
     <!--Gyms-->
         <!--Chili End Battle-->
             <string block_id="0" entry_id="128" table_id="189">\n\n</string>

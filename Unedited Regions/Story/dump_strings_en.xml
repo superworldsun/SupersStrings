@@ -1981,6 +1981,7 @@
     <string id="5910">Items Returned to Sender</string>
     <string id="5911">Items that you have mailed to another player have been returned to you.</string>
     <string id="5912">Items returned from: </string>
+    <string id="5952">You must battle other trainers before you may rematch this trainer.</string>
     <string id="5953">You have been mailed the matchmaking reward {00}.</string>
     <string id="5954">You have been mailed the matchmaking reward {00} BP.</string>
     <string id="5955">You have been mailed the matchmaking reward {00} {01}(s).</string>
@@ -2102,7 +2103,7 @@
     <string id="6075">You have been restricted from {00} chat for {01} second(s).</string>
     <string id="6076">You are currently muted for {00} second(s).</string>
     <string id="6077">Mute reason: {00}</string>
-    <string id="6078">You have been restricted from Matchmaking and Tournament play for {00}.</string>
+    <string id="6078">You have been restricted from Matchmaking for {00} for unfair play.</string>
     <string id="6079">[This message has been removed by a moderator.]</string>
     <string id="6080">Some actions have been restricted for {00}\nbecause you fainted when disconnecting.</string>
     <string id="6081">None of your {STRING_0} know {00}!</string>
@@ -3241,6 +3242,7 @@
     <string id="21386">Deer Skull</string>
     <string id="21387">Demon Queen Crown</string>
     <string id="21388">Froggy</string>
+    <string id="21389">Red Lotus Crown</string>
     <string id="22000">Default Hair</string>
     <string id="22001">Afro</string>
     <string id="22004">Bun</string>
@@ -4247,6 +4249,7 @@
     <string id="101807">Halloween Mystery Box</string>
     <string id="101808">A strange box which contains an unknown reward.\n\nMay contain exclusive items for Halloween 2025. Use to open.</string>
     <string id="101809">A scary looking goodie bag which contains an unknown reward.\n\nMay contain exclusive items for Halloween 2025. Use to open.</string>
+    <string id="101810">A feather left behind by a dream-maker. It may be used to alter the IVs of certain {STRING_0} by 1.\n\nConsumed upon use.</string>
     <string id="110000">-----</string>
     <string id="110001">Pound</string>
     <string id="110002">Karate Chop</string>
@@ -4884,6 +4887,8 @@
     <string id="111080">Interrupt Effect</string>
     <string id="111081">Slowing Web</string>
     <string id="111082">Inverse Waves</string>
+    <string id="111083">Shifting Barrier</string>
+    <string id="111084">Mirror Bind</string>
     <string id="112000">Moe Moe Kyun</string>
     <string id="112001">Moe Moe Kyun (Single)</string>
     <string id="112002">Moe Moe Kyun (Enemies + Ally)</string>
@@ -5021,6 +5026,7 @@
     <string id="113424">Fire Fang☆</string>
     <string id="113427">Psycho Cut☆</string>
     <string id="113428">Zen Headbutt☆</string>
+    <string id="113433">Trick Room☆</string>
     <string id="113435">Discharge☆</string>
     <string id="113438">Power Whip☆</string>
     <string id="113439">Rock Wrecker☆</string>
@@ -5697,6 +5703,8 @@
     <string id="121080">--</string>
     <string id="121081">--</string>
     <string id="121082">--</string>
+    <string id="121083">--</string>
+    <string id="121084">--</string>
     <string id="122000">HNNNNNNNNNNNNNNNNNNNNNNNG</string>
     <string id="122001">HNNNNNNNNNNNNNNNNNNNNNNNG</string>
     <string id="122002">HNNNNNNNNNNNNNNNNNNNNNNNG</string>
@@ -5834,6 +5842,7 @@
     <string id="123424">The user bites with flame-cloaked fangs.\nIt may also make the target flinch or leave\nit burned.</string>
     <string id="123427">The user tears at the target with blades\nformed by psychic power.\nCritical hits land more easily.</string>
     <string id="123428">The user focuses its willpower to its head\nand attacks the target.\nIt may also make the target flinch.</string>
+    <string id="123433">The user creates a bizarre area in which\nslower Pokémon get to move first for\nfive turns.</string>
     <string id="123435">A flare of electricity is loosed to strike\nthe area around the user.\nIt may also cause paralysis.</string>
     <string id="123438">The user violently whirls its vines or\ntentacles to harshly lash the target.</string>
     <string id="123439">The user launches a huge boulder at the\ntarget to attack. It must rest on the\nnext turn, however.</string>
@@ -13081,6 +13090,15 @@
     <string id="200627">{00}'s Eject Pack fired off!</string>
     <string id="200628">{00} held up the Pumpkin Carving Knife!\n{01} froze in fear!</string>
     <string id="200629">{00} is building its energy..</string>
+    <string id="200630">{00} enveloped itself in a protective aura!\nIt can't be hurt by the same type of damage twice in a row!</string>
+    <string id="200631">All of your {STRING_0} reflected their\nallies' fate!</string>
+    <string id="200632">{00} is being weighed down by its\nshadows...</string>
+    <string id="200633">{00}'s {01} shared its fate!</string>
+    <string id="200635">It had no effect on the {00}...</string>
+    <string id="200636">{00} is glaring intently\nat {01}..</string>
+    <string id="200637">{00} became enraged at\nat {01}!</string>
+    <string id="200638">{00} put all of its effort\ninto defeating {01}!</string>
+    <string id="200639">{00}'s protective barrier shielded it from\n{01} moves!</string>
     <string id="201000">{00} learned\n{01}!</string>
     <string id="201001">{00} and {01}\nare not compatible.\n\n{01} can't be learned.</string>
     <string id="201007">{00} already knows\n{01}.</string>
@@ -19859,6 +19877,7 @@
     <string id="16800060">A mysterious {STRING_0} summoned by the wisps\nis beckoning you towards {00} region!</string>
     <string id="16800061">Carving Knife</string>
     <string id="16800062">Uses left: {00}</string>
+    <string id="16800063">{STRING_150491} (Hard Mode)</string>
     <string id="16800100">Spooky Candy Progress</string>
     <string id="16800101">A mysterious girl in {STRING_140004} is collecting candy!\nCollect {STRING_100033} from trick-or-treaters and turn them in for {STRING_100035}S.</string>
     <string id="16800102">The little ghost girl in {STRING_140004} has collected enough candy!\nShe wants to thank you personally for your contribution.</string>

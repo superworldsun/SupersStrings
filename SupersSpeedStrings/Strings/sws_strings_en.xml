@@ -78,6 +78,92 @@
         <string id="16805074">You see a faint outline of a {00} in the glowing light.\nYou can sense a challenging battle ahead.</string>
 
     <!--Npcs-->
+        <!--Event Npcs-->
+            <!--Halloween-->
+        <string id="16800231">\n\n</string>
+
+    <!--school Teacher-->
+    <string id="16800233">\n\n</string>
+    <string id="16800230">\n\n</string>
+
+    <!--interacting with the normal Jack-o lanterns-->
+    <string id="16800203">It's a spooky Jack-o'-lantern!\n"Made in {00}"\nis carved into the back.\n \n[{00} is Where the Pumpking is located\nas well as Pokemon Swarm Turn ins!]</string>
+
+    <!--school kids interact-->
+    <string id="16800234">\n\n</string>
+    <string id="16800248">\n\n</string>
+    <string id="16800249">\n\n</string>
+    <string id="16800247">\n\n</string>
+    <!--school kids interact-->
+    <string id="16800231">\n\n</string>
+
+    <!--school kids asking for your pokemon-->
+    <string id="16800236">\n\n</string>
+    <string id="16800237">\n\n</string>
+    <string id="16800238">\n\n</string>
+    <string id="16800239">\n\n</string>
+    <string id="16800240">\n\n</string>
+
+    <!--Turn in pokemon to the kid-->
+    <string id="16800245">\n\n</string>
+
+    <string id="16800243">\n\n</string>
+
+
+    <!--saying no to the kids-->
+    <string id="16800242">\n\n</string>
+    <string id="16800250">\n\n</string>
+    <string id="16800251">\n\n</string>
+    <string id="16800252">\n\n</string>
+    <string id="16800253">\n\n</string>
+
+
+    <!--Trick or Treater Kid npc Battle-->
+    <string id="16800025">\n\n</string>
+    <string id="16800026">\n\n</string>
+    <string id="16800027">\n\n</string>
+
+    <!--Beat a kid-->
+    <string id="16800024">\n\n</string>
+    <!--gives item-->
+    <string id="16800028">\n\n</string>
+    <!--gets Mysterious Shard-->
+    <string id="16800255">\n\n</string>
+    <string id="16800256">\n\n</string>
+
+    <!--Shards moving-->
+    <string id="16800258">\n\n</string>
+    <string id="16800259">\n\n</string>
+    <string id="16800260">\n\n</string>
+
+    <!--Pumpking-->
+    <string id="16800040">\n\n</string>
+    <string id="16800041">\n\n</string>
+    <string id="16800042">\n\n</string>
+    <!--PK taking the L-->
+    <string id="16800037">\n\n</string>
+    <!--Pumpking easy mode-->
+    <!--P1-->
+    <string id="16800030">\n\n</string>
+    <!--P2-->
+    <string id="16800031">\n\n</string>
+    <string id="16800032">\n\n</string>
+    <!--P3-->
+    <string id="16800033">\n\n</string>
+    <string id="16800034">\n\n</string>
+    <!--Pumpking Hard mode-->
+    <!--P1-->
+    <string id="16800043">\n\n</string>
+    <!--P2-->
+    <string id="16800044">\n\n</string>
+    <!--P3-->
+    <string id="16800045">\n\n</string>
+
+    <!--Pumpking miniboss-->
+    <string id="16800210">\n\n</string>
+    <string id="16800222">\n\n</string>
+
+
     <!--Mom wants to take you home-->
         <string id="16780130">\n\n</string>
 
@@ -817,15 +903,6 @@
     <string id="245585">&#xF;&#xA45;Relic Silver (Valuable)</string>
     <string id="245584">&#xF;&#xA46;Relic Copper (Valuable)</string>
 
-                <!--Halloween Cookies-->
-    <string id="101603">&#xA001;Broom Cookie</string>
-    <string id="101604">&#xA002;Bat Cookie</string>
-    <string id="101605">&#xA003;Pumpkin Cookie</string>
-    <string id="101606">&#xA004;Ghost Cookie</string>
-    <string id="101607">&#xA005;Cat Cookie</string>
-    <string id="101740">&#xA006;Witch Cookie</string>
-    <string id="101742">&#xA007;Werewolf Cookie</string>
-
                 <!--Revival Items-->
     <string id="245029">&#xA050;Max Revive (Revive)</string>
     <string id="245028">&#xA051;Revive (Revive)</string>
@@ -926,12 +1003,23 @@
     <string id="245061">&#xA003;X Special Atk</string>
     <string id="245062">&#xA004;X Special Def</string>
     <string id="245059">&#xA005;X Speed</string>
-    <string id="245060">&#xA006;X Accuracy</string>
-    <string id="245055">&#xA007;Guard Spec.</string>
-    <string id="245056">&#xA008;Dire Hit</string>
-    <string id="245063">&#xA009;Poké Doll</string>
-    <string id="245064">&#xA010;Fluffy Tail</string>
-    <string id="245577">&#xA011;Poké Toy</string>
+
+    <!--Halloween Cookies-->
+        <string id="101605">&#xA006;Pumpkin Cookie</string>
+        <string id="101606">&#xA007;Ghost Cookie</string>
+        <string id="101603">&#xA008;Broom Cookie</string>
+        <string id="101604">&#xA009;Bat Cookie</string>
+        <string id="101607">&#xA010;Cat Cookie</string>
+        <string id="101740">&#xA011;Witch Cookie</string>
+        <string id="101742">&#xA012;Werewolf Cookie</string>
+
+    <string id="245060">&#xA013;X Accuracy</string>
+    <string id="245055">&#xA014;Guard Spec.</string>
+    <string id="245056">&#xA015;Dire Hit</string>
+
+    <string id="245063">&#xA016;Poké Doll</string>
+    <string id="245064">&#xA017;Fluffy Tail</string>
+    <string id="245577">&#xA018;Poké Toy</string>
 
     <!--PokeBalls-->
     <string id="245004">&#xA000;Poké Ball</string>

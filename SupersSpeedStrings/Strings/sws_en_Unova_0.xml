@@ -694,7 +694,7 @@
     <string block_id="0" entry_id="207" table_id="268">142.9 lbs.   |   Catch rate: 60   |   50% M / 50% F\n\nWeak: Ice x4 | Water x2\nResist: Electric x0 | Ground x0 | Fighting x2 |\nPoison x2 | Bug x2</string>
     <!--Steelix-->
     <string block_id="0" entry_id="208" table_id="245">30'02"   |   Growth: Medium Fast   |   Base EXP: 179</string>
-    <string block_id="0" entry_id="208" table_id="268">881.8 lbs.   |   Catch rate: 25   |   50% M / 50% F\n\nWeak: Fire x4 | Water x2 | Fighting x2 | Ground x2\nResist: Electric x0 | Poison x0 | Rock x4 | Normal x2 |\nFlying x2 | Psychic x2 | Bug x2 | Ghost x2 | Dragon x2 |\nDark x2 | Steel x2</string>
+    <string block_id="0" entry_id="208" table_id="268">881.8 lbs.   |   Catch rate: 25   |   50% M / 50% F\n\nWeak: Fire x2 | Water x2 | Fighting x2 | Ground x2\nResist: Electric x0 | Poison x0 | Rock x4 | Normal x2 |\nFlying x2 | Psychic x2 | Bug x2 | Ghost x2 | Dragon x2 |\nDark x2 | Steel x2</string>
     <!--Snubbull-->
     <string block_id="0" entry_id="209" table_id="245">2'00"   |   Growth: Fast   |   Base EXP: 60</string>
     <string block_id="0" entry_id="209" table_id="268">17.2 lbs.   |   Catch rate: 190   |   25% M / 75% F\n\nWeak: Fighting 2x\nResist: Ghost 0x</string>
@@ -1666,7 +1666,7 @@
     <string block_id="0" entry_id="529" table_id="268">18.7 lbs.   |   Catch rate: 120   |   50% M / 50% F\n\nWeak: Water x2 | Grass x2 | Ice x2\nResist: Electric x0 | Poison x2 | Rock x2</string>
     <!--Excadrill-->
     <string block_id="0" entry_id="530" table_id="245">2'04"   |   Growth: Medium Fast   |   Base EXP: 178</string>
-    <string block_id="0" entry_id="530" table_id="268">89.1 lbs.   |   Catch rate: 60   |   50% M / 50% F\n\nWeak: Fire x4 | Water x2 | Fighting x2 | Ground x2\nResist: Electric x0 | Poison x0 | Rock x4 | Normal x2 |\nFlying x2 | Psychic x2 | Bug x2 | Ghost x2 | Dragon x2 |\nDark x2 | Steel x2</string>
+    <string block_id="0" entry_id="530" table_id="268">89.1 lbs.   |   Catch rate: 60   |   50% M / 50% F\n\nWeak: Fire x2 | Water x2 | Fighting x2 | Ground x2\nResist: Electric x0 | Poison x0 | Rock x4 | Normal x2 |\nFlying x2 | Psychic x2 | Bug x2 | Ghost x2 | Dragon x2 |\nDark x2 | Steel x2</string>
     <!--Audino-->
     <string block_id="0" entry_id="531" table_id="245">3'07"   |   Growth: Fast   |   Base EXP: 390 </string>
     <string block_id="0" entry_id="531" table_id="268">68.3 lbs.   |   Catch rate: 255   |   50% M / 50% F\n\nWeak: Fighting 2x\nResist: Ghost 0x</string>

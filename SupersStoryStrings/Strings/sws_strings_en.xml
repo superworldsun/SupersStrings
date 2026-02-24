@@ -14,6 +14,7 @@
 
     <!--Most yes or no buttons-->
     <string id="50">▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔\n\n\n[ Yes ]\n\n\n▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁</string>
+<!--    <string id="50">▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔\n\n\n\n\n\n\n\n\n[ Yes ]\n\n\n\n\n\n\n\n\n▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁</string>-->
     <string id="51">▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔\n[ No ]\n▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁</string>
     <string id="52">▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔\n\n[ OK ]\n\n▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁</string>
 
@@ -39,9 +40,9 @@
     <string id="49">▔▔▔▔\n[ All ]\n▁▁▁▁</string>
     <string id="5841">▔▔▔▔▔\n[ Clear ]\n▁▁▁▁▁</string>
     <string id="5844">▔▔▔▔▔▔\n[ Reply\n▁▁▁▁▁▁</string>
-    <string id="5835">▔▔▔▔▔▔\n[ Read Mail ]\n▁▁▁▁▁▁</string>
-    <string id="5834">▔▔▔▔▔▔\n[ Send Mail ]\n▁▁▁▁▁▁</string>
-    <string id="5848">▔▔▔▔▔▔\n[ Sent Mail ]\n▁▁▁▁▁▁</string>
+    <string id="5835">[ Read Mail ]\n</string>
+    <string id="5834">[ Send Mail ]\n</string>
+    <string id="5848">[ Sent Mail ]\n</string>
     <string id="5897">▔▔▔▔▔▔▔▔\n[ Claim to Party ]\n▁▁▁▁▁▁▁▁</string>
     <string id="5898">▔▔▔▔▔▔▔▔\n[ Claim to PC ]\n▁▁▁▁▁▁▁▁</string>
     <string id="5899">▔▔▔▔▔▔▔▔\n[ Claim Items ]\n▁▁▁▁▁▁▁▁</string>
@@ -80,11 +81,19 @@
     <!--Npcs-->
         <!--Event Npcs-->
             <!--Halloween-->
+
+        <!--Ghost girl after event is over for candy turn ins-->
+        <string id="16800208">Happy Halloween!\nDo you have any candy to turn in?</string>
+        <string id="16800209">See you next year!</string>
+
+        <!--misc-->
         <string id="16800231">Hi! We're on a field trip to show these kids that even\nscary looking {STRING_0} can be good friends!\nCan you capture some of the {STRING_0} swarming around\nand bring them back to us?</string>
 
     <!--school Teacher-->
     <string id="16800233">Woah, this {00} looks perfect!\nMy students will love it!\nCan I take it?</string>
     <string id="16800230">Thanks for your help! They're so excited about the spooky\n{STRING_0} they want some for themselves!\nOh, one of your {STRING_0} found this on the playground.\nBetter you take it!</string>
+    <string id="16800254">That's great! Thank you!\nMy students would love these even more.</string>
+
 
     <!--interacting with the normal Jack-o lanterns-->
     <string id="16800203">It's a spooky Jack-o'-lantern!\n"Made in {00}"\nis carved into the back.\n \n[{00} is Where the Pumpking is located\nas well as Pokemon Swarm Turn ins!]</string>
@@ -163,6 +172,17 @@
     <string id="16800210">Spirits of Halloween have taken over this\nJack-o'-lantern! Their power is overwhelming!\nBut, they only seem interested in Spooky Candy..</string>
     <string id="16800222">Spirits of Halloween have taken over this\nJack-o'-lantern! Their power is overwhelming!\nDo you want to toss a Spooky Candy to the pumpkin?</string>
 
+    <!--Xmas Event-->
+    <!--Santa-->
+    <string id="16804153">Ho-ho-no! {STRING_150225} crashed our sleigh while trying to deliver\nthis year's presents! They're scattered all over {00}.\nIf you see any, please pick them up and return them to me!</string>
+
+    <!--Flesh and blood Elf for swarm turn ins-->
+    <string id="16804155">Thanks for your help. You've recaptured {00} helpers so far.\nThese things are picky, aren't they?\nI'll make them change their mind if you bring me 5 helpers.</string>
+    <string id="16804158">{00} looks good.\nWant to turn it in?</string>
+    <string id="16804160">Do you want to turn in {00} to the Manager?\nYou won't get this {STRING_0} back.</string>
+    <string id="16804161">Give me {00} more and I'll "talk" with them.</string>
+    <string id="16804159">Great, let me grab a wrench.\nOh, and take this for your trouble.</string>
+
 
     <!--Mom wants to take you home-->
         <string id="16780130">What's that? Did you forget something in {00}?\nDo you want to go back to {00}?</string>
@@ -170,7 +190,7 @@
     <!--Cop Blocking you from Heatran if your dex isnt done-->
         <string id="16777282">Sorry, kid. There's something dangerous in there.\nYou're not ready for it. Come back later.\n \n[You must complete the FULL Caught OT National dex,\nonce completed you may challenge Heatran]</string>
 
-
+    <!--Npcs-->
     <!--Fossil reviver(is used in all regions)-->
         <string id="16807100">Hi! I'm researching {STRING_0} Fossils here.</string>
         <string id="16807101">If you find any, bring them to me.\nI can revive them!</string>
@@ -227,17 +247,35 @@
     <!--Elite four door guard-->
     <string id="16777231">Sorry, this instance is still on cooldown. You can enter again in\n{00}.</string>
 
-    <!--LNY-->
+    <!--LNY Lunar New year Event-->
         <!--Grandma Turn in-->
-        <string id="16805082">Would you kindly bring some {STRING_0} from swarms?\n For 8 of them, I'll offer you a {STRING_101730}.</string> <!--No pokemon in party-->
-        <string id="16805085">Ah.. I love the spring.\nHave you caught more of those unruly\n{STRING_0} for me?</string> <!--Pokemon in party-->
-        <string id="16805083">Ohoho~ Thank you!\nIt'll be {00} more until the next reward.</string> <!--Submit Pokemon-->
-        <string id="16805092">Ohoho~ Thank you!\nHere, take this.</string> <!--Submit Pokemon and hit reward-->
+            <string id="16805082">Would you kindly bring some {STRING_0} from swarms?\n For 8 of them, I'll offer you a {STRING_101730}.</string> <!--No Pokemon in party-->
+            <string id="16805082">Would you kindly bring me those unruly {STRING_0}?\nFor 8 of them, I'll offer you a {STRING_101730}.</string> <!--No Pokemon in party-->
+            <string id="16805081">Ah.. I love the spring.\nBut the swarming {STRING_0} outside make the worst noises at night.</string>
+            <string id="16805085">Ah.. I love the spring.\nHave you caught more of those unruly {STRING_0} for me?</string> <!--Pokemon in party to trade-->
+            <string id="16805083">Ohoho~ Thank you!\nIt'll be {00} more until the next reward.</string> <!--Submit Pokemon-->
+            <string id="16805092">Ohoho~ Thank you!\nHere, take this.</string> <!--Submit Pokemon and hit reward-->
+            <string id="16805087">Let me know when you want to make a trade.</string> <!--No Pokemon to trade-->
+            <string id="16805094">That's your last {STRING_0}!</string> <!--Last pokemon in party-->
+
+        <!--Shrine Giver-->
+            <string id="16805020">Happy Lunar New Year!\nOr it would be, if things were peaceful...\nThe {STRING_0} at the {STRING_142070} are fighting over who should be celebrated next year and are causing a ruckus!\nCalm them down for me, would you?\nI'll lend you one of my {STRING_0}.</string>
+
+        <!--Objects-->
+            <string id="16805009">A paper lantern to help celebrate the new year.\n"Made in {00}" is printed on the back.</string>
+            <string id="16805011">A firework to help celebrate the new year.\n"Made in {00}" is etched on the back.</string>
+            <string id="16805158">A horse statue which commemorates the new year.\n"Made in {00}" is engraved on the back.</string>
 
     <!--Pirate-->
     <string id="16780100">Where to?</string> <!--Choose Region-->
     <string id="16780104">Blimey.</string> <!--Said no-->
     <string id="16780103">Aye, we be off then!</string> <!--Departure-->
+
+    <string id="250000">[ Kanto ]\n▁▁▁▁▁▁</string>
+    <string id="250004">[ Johto ]\n▁▁▁▁▁▁</string>
+    <string id="250001">[ Hoenn ]\n▁▁▁▁▁▁</string>
+    <string id="250003">[ Sinnoh ]\n▁▁▁▁▁▁</string>
+    <string id="250002">[ Unova ]\n▁▁▁▁▁▁</string>
 
     <!--Stylist-->
     <string id="16780170">Hi, I'm your personal stylist! Would you like a makeover?</string>
@@ -575,11 +613,20 @@
     <string id="101762">&#xE;&#x5;Strange Chunk</string>
         <string id="101763">A reward for defeating a Raid Boss. It seems attracted to other Strange Chunks.\n\n Collect all to create a {STRING_101764} and obtain Darkrai at New moon Island.</string>
 
-    <string id="100033">&#xE;&#x6;Kids Candy (Spooky)</string> <!--candy from kids-->
-        <string id="100034">A scary looking snack that can feed 1 to a Miniboss or 5 to the Pumpking\n\n Locations of the Pumpking:\n K: Lavender Town\n J: Ecruteak City\n H: Fallarbor Town\n S: Solaceon Town\n U: Driftveil City</string>
+    <string id="101750">&#xE;&#x6;Pumpkin Carving Knife</string>
 
-    <string id="100080">&#xE;&#x7;Pumpking Candy (Special)</string> <!--candy from PK miniboss-->
-        <string id="100081">A fancy looking snack that can be feed to the Pumpking\n\n Locations of the Pumpking:\n K: Lavender Town\n J: Ecruteak City\n H: Fallarbor Town\n S: Solaceon Town\n U: Driftveil City</string>
+    <string id="16800061">&#xE;&#x7;Carving Knife</string>
+
+    <string id="101744">&#xE;&#x8;Mysterious Shard</string>
+
+    <string id="101746">&#xE;&#x9;Mysterious Handle</string>
+
+    <string id="100033">&#xE;&#x10;Kids Candy (Spooky)</string> <!--candy from kids-->
+    <string id="100034">A scary looking snack that can feed 1 to a Miniboss or 5 to the Pumpking\n\n Locations of the Pumpking:\n K: Lavender Town\n J: Ecruteak City\n H: Fallarbor Town\n S: Solaceon Town\n U: Driftveil City</string>
+
+    <string id="100080">&#xE;&#x11;Pumpking Candy (Special)</string> <!--candy from PK miniboss-->
+    <string id="100081">A fancy looking snack that can be feed to the Pumpking\n\n Locations of the Pumpking:\n K: Lavender Town\n J: Ecruteak City\n H: Fallarbor Town\n S: Solaceon Town\n U: Driftveil City</string>
+
 
     <!--Xmas Items-->
     <string id="101778">&#xE;&#x4;Wishing Star</string>
@@ -596,29 +643,29 @@
 
     <!--LNY Items-->
     <string id="101684">&#xE;&#x4;Rabbit Zodiac Tablet (1/12)</string>
-        <string id="101685">A mysterious tablet embossed with a rabbit.\nCollecting more of these may lead to special encounters.\n\n Raid dens of the Rabbit:\n K:Berry Forest\n J:Route 35\n H:Route 123 (Surf)\n S:Route 217\n U:Dreamyard</string>
+        <string id="101685">A mysterious tablet embossed with a rabbit.\nCollecting more of these may lead to special encounters.\n\n Raid dens of the Rabbit:&#x06D4;\n K:Berry Forest&#x06D4;\n J:Route 35&#x06D4;\n H:Route 123 (Surf)&#x06D4;\n S:Route 217&#x06D4;\n U:Dreamyard</string>
     <string id="101682">&#xE;&#x5;Tiger Zodiac tablet (2/12)</string>
-        <string id="101683">A mysterious tablet embossed with a tiger.\nCollecting more of these may lead to special encounters.\n\n Raid dens of the Tiger:\n K: Route 7\n J: Route 47 (Surf,Waterfall)\n H: Route 115 (Surf)\n S: Route 222\n U: Route 1 (Surf)</string>
+        <string id="101683">A mysterious tablet embossed with a tiger.\nCollecting more of these may lead to special encounters.\n\n Raid dens of the Tiger:&#x06D4;\n K: Route 7&#x06D4;\n J: Route 47 (Surf,Waterfall)&#x06D4;\n H: Route 115 (Surf)&#x06D4;\n S: Route 222&#x06D4;\n U: Route 1 (Surf)</string>
     <string id="101700">&#xE;&#x6;Pig Zodiac Tablet (3/12)</string>
-        <string id="101701">A mysterious tablet embossed with a pig.\nCollecting more of these may lead to special encounters.\n\n Raid dens of the Pig:\n K: Mt.Ember (Surf,Strength,RockSmash)\n J: Ruins Of Alph\n H: Mt.Chimney\n S: Route 225 (Surf)\n U: GiantChasm</string>
+        <string id="101701">A mysterious tablet embossed with a pig.\nCollecting more of these may lead to special encounters.\n\n Raid dens of the Pig:&#x06D4;\n K: Mt.Ember (Surf,Strength,RockSmash)&#x06D4;\n J: Ruins Of Alph&#x06D4;\n H: Mt.Chimney&#x06D4;\n S: Route 225 (Surf)&#x06D4;\n U: Giant Chasm</string>
     <string id="101690">&#xE;&#x7;Horse Zodiac Tablet (4/12)</string>
-        <string id="101691">A mysterious tablet embossed with a horse.\nCollecting more of these may lead to special encounters.\n\n Raid dens of the Horse:\n K: Route 16 (Cut)\n J: Route 44\n H: Route 117\n S: Fuego Ironworks (Surf)\n U: Route 2 (Cut)</string>
+        <string id="101691">A mysterious tablet embossed with a horse.\nCollecting more of these may lead to special encounters.\n\n Raid dens of the Horse:&#x06D4;\n K: Route 16 (Cut)&#x06D4;\n J: Route 44&#x06D4;\n H: Route 117&#x06D4;\n S: Fuego Ironworks (Surf)&#x06D4;\n U: Route 2 (Cut)</string>
     <string id="101698">&#xE;&#x8;Dog Zodiac tablet (5/12)</string>
-        <string id="101699">A mysterious tablet embossed with a dog.\nCollecting more of these may lead to special encounters.\n\n Raid dens of the Dog:\n K: WaterPath\n J: Route 32\n H: Route 111\n S: Route 221 (Surf)\n U: Route 4</string>
+        <string id="101699">A mysterious tablet embossed with a dog.\nCollecting more of these may lead to special encounters.\n\n Raid dens of the Dog:&#x06D4;\n K: Water Path&#x06D4;\n J: Route 32&#x06D4;\n H: Route 111&#x06D4;\n S: Route 221 (Surf)&#x06D4;\n U: Route 4</string>
     <string id="101692">&#xE;&#x9;Goat Zodiac tablet (6/12)</string>
-        <string id="101693">A mysterious tablet embossed with a goat.\nCollecting more of these may lead to special encounters.\n\n Raid dens of the Goat:\n K: Route 10\n J: Route 45\n H: Route120 (Cut)\n S: Route 210 (RockClimb)\n U: Route 18</string>
+        <string id="101693">A mysterious tablet embossed with a goat.\nCollecting more of these may lead to special encounters.\n\n Raid dens of the Goat:&#x06D4;\n K: Route 10&#x06D4;\n J: Route 45&#x06D4;\n H: Route 120 (Cut)&#x06D4;\n S: Route 210 (RockClimb)&#x06D4;\n U: Route 18</string>
     <string id="101688">&#xE;&#x10;Snake Zodiac tablet (7/12)</string>
-        <string id="101689">A mysterious tablet embossed with a snake.\nCollecting more of these may lead to special encounters.\n\n Raid dens of the Snake:\n K: Mt.Moon \n J: DarkCave (Flash,Surf)\n H: GraniteCave\n S: IronIsland\n U: GuidanceChamber Mistralton Cave (Strength,RockSmash)</string>
+        <string id="101689">A mysterious tablet embossed with a snake.\nCollecting more of these may lead to special encounters.\n\n Raid dens of the Snake:&#x06D4;\n K: Mt.Moon&#x06D4;\n J: Dark Cave (Flash,Surf)&#x06D4;\n H: Granite Cave&#x06D4;\n S: Iron Island&#x06D4;\n U: Guidance Chamber Mistralton Cave (Strength,RockSmash)</string>
     <string id="101694">&#xE;&#x11;Monkey Zodiac tablet (8/12)</string>
-        <string id="101695">A mysterious tablet embossed with a monkey.\nCollecting more of these may lead to special encounters.\n\n Raid dens of the Monkey:\n K: ViridianForest\n J: IlexForest\n H: Petalburg Woods\n S: Eterna Forest\n U: Lostlorn Forest</string>
+        <string id="101695">A mysterious tablet embossed with a monkey.\nCollecting more of these may lead to special encounters.\n\n Raid dens of the Monkey:&#x06D4;\n K: Viridian Forest&#x06D4;\n J: Ilex Forest&#x06D4;\n H: Petalburg Woods&#x06D4;\n S: Eterna Forest&#x06D4;\n U: Lostlorn Forest</string>
     <string id="101680">&#xE;&#x12;Ox Zodiac tablet (9/12)</string>
-        <string id="101681">A mysterious tablet embossed with a ox.\nCollecting more of these may lead to special encounters.\n\n Raid dens of the Ox:\n K: Route 11\n J: Route 39\n H: Route 116 (Cut)\n S: Route 214\n U: audant Shrine</string>
+        <string id="101681">A mysterious tablet embossed with a ox.\nCollecting more of these may lead to special encounters.\n\n Raid dens of the Ox:&#x06D4;\n K: Route 11&#x06D4;\n J: Route 39&#x06D4;\n H: Route 116 (Cut)&#x06D4;\n S: Route 214&#x06D4;\n U: Abundant Shrine</string>
     <string id="101696">&#xE;&#x13;Rooster Zodiac tablet (10/12)</string>
-        <string id="101697">A mysterious tablet embossed with a rooster.\nCollecting more of these may lead to special encounters.\n\n Raid dens of the Rooster:\n K: SevaultCanyon\n J: Route 46 (RockClimb)\n H: Route 111 (MachBike)\n S: Route 207\n U: DesertResort</string>
+        <string id="101697">A mysterious tablet embossed with a rooster.\nCollecting more of these may lead to special encounters.\n\n Raid dens of the Rooster:&#x06D4;\n K: Sevault Canyon&#x06D4;\n J: Route 46 (RockClimb)&#x06D4;\n H: Route 111 (MachBike)&#x06D4;\n S: Route 207&#x06D4;\n U: Desert Resort</string>
     <string id="101678">&#xE;&#x14;Rat Zodiac tablet (11/12)</string>
-        <string id="101679">A mysterious tablet embossed with a rat.\nCollecting more of these may lead to special encounters.\n\n Raid dens of the Rat:\n K: VictoryRoad (Strength)\n J: VictoryRoad (Strength)\n H: VictoryRoad\n S: RavagedPath (Surf,RockSmash)\n U: TwistMountain</string>
+        <string id="101679">A mysterious tablet embossed with a rat.\nCollecting more of these may lead to special encounters.\n\n Raid dens of the Rat:&#x06D4;\n K: Victory Road (Strength)&#x06D4;\n J: Victory Road (Strength)&#x06D4;\n H: Victory Road&#x06D4;\n S: Ravaged Path (Surf,RockSmash)&#x06D4;\n U: Twist Mountain</string>
     <string id="101686">&#xE;&#x15;Dragon Zodiac tablet (12/12)</string>
-        <string id="101687">A mysterious tablet embossed with a dragon.\nCollecting more of these may lead to special encounters.\n\n Raid dens of the Dragon:\n K: Route 21\n J: Dragon's Den (Surf,Whirlpool)\n H: Route 119\n S: Route 212 (Cut)\n U: Route 14 (Surf,Waterfall)</string>
+        <string id="101687">A mysterious tablet embossed with a dragon.\nCollecting more of these may lead to special encounters.\n\n Raid dens of the Dragon:&#x06D4;\n K: Route 21&#x06D4;\n J: Dragon's Den (Surf,Whirlpool)&#x06D4;\n H: Route 119&#x06D4;\n S: Route 212 (Cut)&#x06D4;\n U: Route 14 (Surf,Waterfall)</string>
 
     <string id="101786">&#xE;&#x16;Rejuvenated Bouquet</string>
         <string id="101787">A bundle of flowers.\n{STRING_143063} awaits.</string>
@@ -637,9 +684,12 @@
     <string id="101707">&#xE;&#xA23;Rainbow Quill (IVs)</string>
     <string id="101724">&#xE;&#xA24;Elemental Orb (IVs)</string>
     <string id="101756">&#xE;&#xA25;Dream Essence (IVs)</string>
-    <string id="245458">&#xE;&#xA26;Magma Stone (IVs)</string>
-    <string id="101780">&#xE;&#xA27;Blank Wish Tag (IVs)</string>
-    <string id="101250">&#xE;&#xA28;Deep Black Sphere (IVs)</string>
+    <string id="245453">&#xE;&#xA26;Lunar Wing (IVs)</string>
+    <string id="245458">&#xE;&#xA27;Magma Stone (IVs)</string>
+    <string id="101780">&#xE;&#xA28;Blank Wish Tag (IVs)</string>
+    <string id="101818">&#xE;&#xA29;Relic Note (IVs)</string>
+    <string id="101824">&#xE;&#xA30;Plume of Feathers (IVs)</string>
+    <string id="101250">&#xE;&#xA31;Deep Black Sphere (IVs)</string>
 
                 <!--Nature Herbs Items-->
     <string id="930000">&#xE;&#xA40;Hardy Nature Herb</string>
@@ -757,6 +807,8 @@
     <string id="11037">&#xE;&#xA237;Dark Crystal Particle Effect</string>
     <string id="11038">&#xE;&#xA238;Shiny Dark Crystal Particle Effect</string>
     <string id="11199">&#xE;&#xA239;Secret Shiny Particle Effect</string>
+    <string id="11039">&#xE;&#xA240;Lotus Field Particle Effect</string>
+    <string id="11040">&#xE;&#xA241;Blood Lotus Field Particle Effect</string>
 
                 <!--Mysterious Pokeballs-->
     <string id="101730">&#xE;&#xA250;Mysterious Cherish Ball</string>
@@ -766,64 +818,80 @@
     <string id="101773">&#xE;&#xA254;Mysterious Ultra Ball</string>
     <string id="101775">&#xE;&#xA255;Mysterious Premier Ball</string>
 
-    <string id="101783">&#xE;&#xA256;Mysterious Cherish Ball (2024)</string>
+    <string id="101823">&#xE;&#xA256;Mysterious Cherish Ball (2025)</string>
+    <string id="101783">&#xE;&#xA257;Mysterious Cherish Ball (2024)</string>
+    <string id="101803">&#xE;&#xA258;Mysterious Dusk Ball (2024)</string>
 
-    <string id="101714">&#xE;&#xA257;Mysterious Poké Ball (2023)</string>
-    <string id="101716">&#xE;&#xA258;Mysterious Great Ball (2023)</string>
-    <string id="101718">&#xE;&#xA259;Mysterious Ultra Ball (2023)</string>
-    <string id="101720">&#xE;&#xA260;Mysterious Premier Ball (2023)</string>
+    <string id="101811">&#xE;&#xA259;Mysterious Poké Ball (2024)</string>
+    <string id="101813">&#xE;&#xA260;Mysterious Great Ball (2024)</string>
+    <string id="101815">&#xE;&#xA261;Mysterious Ultra Ball (2024)</string>
 
-    <string id="101668">&#xE;&#xA261;Mysterious Poké Ball (2022)</string>
-    <string id="101672">&#xE;&#xA262;Mysterious Great Ball (2022)</string>
-    <string id="101674">&#xE;&#xA263;Mysterious Ultra Ball (2022)</string>
-    <string id="101676">&#xE;&#xA264;Mysterious Premier Ball (2022)</string>
+    <string id="101714">&#xE;&#xA262;Mysterious Poké Ball (2023)</string>
+    <string id="101716">&#xE;&#xA263;Mysterious Great Ball (2023)</string>
+    <string id="101718">&#xE;&#xA264;Mysterious Ultra Ball (2023)</string>
+    <string id="101720">&#xE;&#xA265;Mysterious Premier Ball (2023)</string>
+
+    <string id="101668">&#xE;&#xA266;Mysterious Poké Ball (2022)</string>
+    <string id="101672">&#xE;&#xA267;Mysterious Great Ball (2022)</string>
+    <string id="101674">&#xE;&#xA268;Mysterious Ultra Ball (2022)</string>
+    <string id="101676">&#xE;&#xA269;Mysterious Premier Ball (2022)</string>
 
                 <!--Sealed/Event Items-->
     <string id="100079">&#xE;&#xA300;Pumpking Goodie Bag</string>
     <string id="100035">&#xE;&#xA301;Goodie Bag</string>
-    <string id="101767">&#xE;&#xA302;Pumpking Goodie Bag (2023)</string>
-    <string id="101766">&#xE;&#xA303;Goodie Bag (2023)</string>
-    <string id="101712">&#xE;&#xA304;Pumpking Goodie Bag (2022)</string>
-    <string id="101711">&#xE;&#xA305;Goodie Bag (2022)</string>
-    <string id="101650">&#xE;&#xA306;Pumpking Goodie Bag (2021)</string>
-    <string id="101649">&#xE;&#xA307;Goodie Bag (2021)</string>
-    <string id="101639">&#xE;&#xA308;Pumpking Goodie Bag (2020)</string>
-    <string id="101638">&#xE;&#xA309;Goodie Bag (2020)</string>
-    <string id="101630">&#xE;&#xA310;Pumpking Goodie Bag (2019)</string>
-    <string id="101629">&#xE;&#xA311;Goodie Bag (2019)</string>
-    <string id="101602">&#xE;&#xA312;Pumpking Goodie Bag (2018)</string>
-    <string id="101600">&#xE;&#xA313;Goodie Bag (2018)</string>
-    <string id="100077">&#xE;&#xA314;Goodie Bag (2016)</string>
-    <string id="100069">&#xE;&#xA315;Goodie Bag (2015)</string>
+    <string id="101807">&#xE;&#xA303;Halloween Mystery Box</string>
+
+    <string id="101806">&#xE;&#xA304;Pumpking Goodie Bag (2024)</string>
+    <string id="101805">&#xE;&#xA305;Goodie Bag (2024)</string>
+    <string id="101767">&#xE;&#xA306;Pumpking Goodie Bag (2023)</string>
+    <string id="101766">&#xE;&#xA307;Goodie Bag (2023)</string>
+    <string id="101712">&#xE;&#xA308;Pumpking Goodie Bag (2022)</string>
+    <string id="101711">&#xE;&#xA309;Goodie Bag (2022)</string>
+    <string id="101650">&#xE;&#xA310;Pumpking Goodie Bag (2021)</string>
+    <string id="101649">&#xE;&#xA311;Goodie Bag (2021)</string>
+    <string id="101639">&#xE;&#xA312;Pumpking Goodie Bag (2020)</string>
+    <string id="101638">&#xE;&#xA313;Goodie Bag (2020)</string>
+    <string id="101630">&#xE;&#xA314;Pumpking Goodie Bag (2019)</string>
+    <string id="101629">&#xE;&#xA315;Goodie Bag (2019)</string>
+    <string id="101602">&#xE;&#xA316;Pumpking Goodie Bag (2018)</string>
+    <string id="101600">&#xE;&#xA317;Goodie Bag (2018)</string>
+    <string id="100077">&#xE;&#xA318;Goodie Bag (2016)</string>
+    <string id="100069">&#xE;&#xA319;Goodie Bag (2015)</string>
 
     <string id="100084">&#xE;&#xA330;Santa's Present</string>
     <string id="100043">&#xE;&#xA331;Xmas Present</string>
-    <string id="101254">&#xE;&#xA332;Santa's Present (2022)</string>
-    <string id="101253">&#xE;&#xA333;Xmas Present (2022)</string>
-    <string id="101184">&#xE;&#xA334;Santa's Present (2021)</string>
-    <string id="101183">&#xE;&#xA335;Xmas Present (2021)</string>
-    <string id="101157">&#xE;&#xA336;Santa's Present (2020)</string>
-    <string id="101158">&#xE;&#xA337;Xmas Present (2020)</string>
-    <string id="101145">&#xE;&#xA338;Santa's Present (2018)</string>
-    <string id="101144">&#xE;&#xA339;Xmas Present (2018)</string>
-    <string id="100082">&#xE;&#xA340;Xmas Present (2017)</string>
-    <string id="100075">&#xE;&#xA341;Xmas Present (2016)</string>
-    <string id="100071">&#xE;&#xA342;Xmas Present (2015)</string>
+    <string id="101820">&#xE;&#xA332;Xmas Mystery Box</string>
+    <string id="101259">&#xE;&#xA333;Xmas Present (2024)</string>
+    <string id="101260">&#xE;&#xA334;Santa's Present (2024)</string>
+    <string id="101254">&#xE;&#xA335;Santa's Present (2022)</string>
+    <string id="101253">&#xE;&#xA336;Xmas Present (2022)</string>
+    <string id="101184">&#xE;&#xA337;Santa's Present (2021)</string>
+    <string id="101183">&#xE;&#xA338;Xmas Present (2021)</string>
+    <string id="101157">&#xE;&#xA339;Santa's Present (2020)</string>
+    <string id="101158">&#xE;&#xA340;Xmas Present (2020)</string>
+    <string id="101145">&#xE;&#xA341;Santa's Present (2018)</string>
+    <string id="101144">&#xE;&#xA342;Xmas Present (2018)</string>
+    <string id="100082">&#xE;&#xA343;Xmas Present (2017)</string>
+    <string id="100075">&#xE;&#xA344;Xmas Present (2016)</string>
+    <string id="100071">&#xE;&#xA345;Xmas Present (2015)</string>
 
     <string id="101134">&#xE;&#xA360;Lucky Red Envelope</string>
     <string id="101132">&#xE;&#xA361;Red Envelope</string>
-    <string id="101257">&#xE;&#xA362;Lucky Red Envelope (2024)</string>
-    <string id="101255">&#xE;&#xA363;Red Envelope (2024)</string>
-    <string id="101190">&#xE;&#xA364;Lucky Red Envelope (2023)</string>
-    <string id="101188">&#xE;&#xA365;Red Envelope (2023)</string>
-    <string id="101186">&#xE;&#xA366;Lucky Red Envelope (2022)</string>
-    <string id="101185">&#xE;&#xA367;Red Envelope (2022)</string>
-    <string id="101162">&#xE;&#xA368;Lucky Red Envelope (2021)</string>
-    <string id="101160">&#xE;&#xA369;Red Envelope (2021)</string>
-    <string id="101155">&#xE;&#xA360;Lucky Red Envelope (2020)</string>
-    <string id="101153">&#xE;&#xA371;Red Envelope (2020)</string>
-    <string id="100087">&#xE;&#xA372;Lucky Red Envelope (2019)</string>
-    <string id="100085">&#xE;&#xA373;Red Envelope (2019)</string>
+    <string id="101266">&#xE;&#xA362;Lunar New Year Mystery Box</string>
+    <string id="101264">&#xE;&#xA363;Lucky Red Envelope (2025)</string>
+    <string id="101262">&#xE;&#xA364;Red Envelope (2025)</string>
+    <string id="101257">&#xE;&#xA365;Lucky Red Envelope (2024)</string>
+    <string id="101255">&#xE;&#xA366;Red Envelope (2024)</string>
+    <string id="101190">&#xE;&#xA367;Lucky Red Envelope (2023)</string>
+    <string id="101188">&#xE;&#xA368;Red Envelope (2023)</string>
+    <string id="101186">&#xE;&#xA369;Lucky Red Envelope (2022)</string>
+    <string id="101185">&#xE;&#xA370;Red Envelope (2022)</string>
+    <string id="101162">&#xE;&#xA371;Lucky Red Envelope (2021)</string>
+    <string id="101160">&#xE;&#xA372;Red Envelope (2021)</string>
+    <string id="101155">&#xE;&#xA373;Lucky Red Envelope (2020)</string>
+    <string id="101153">&#xE;&#xA374;Red Envelope (2020)</string>
+    <string id="100087">&#xE;&#xA375;Lucky Red Envelope (2019)</string>
+    <string id="100085">&#xE;&#xA376;Red Envelope (2019)</string>
 
     <string id="101174">&#xE;&#xA380;Golden Anniversary Chest</string>
     <string id="101172">&#xE;&#xA381;Anniversary Chest</string>
@@ -1002,7 +1070,7 @@
     <string id="245061">&#xA003;X Special Atk</string>
     <string id="245062">&#xA004;X Special Def</string>
     <string id="245059">&#xA005;X Speed</string>
-    
+
         <!--Halloween Cookies-->
         <string id="101605">&#xA006;Pumpkin Cookie</string>
         <string id="101606">&#xA007;Ghost Cookie</string>
@@ -1028,7 +1096,7 @@
     <string id="245016">&#xA004;Cherish Ball</string>
     <string id="245007">&#xA005;Dive Ball</string>
     <string id="245576">&#xA006;Dream Ball</string>
-        <string id="135576">A {STRING_245004} which becomes more effective the longer a wild {STRING_0} is asleep.\n{STRING_245576} increases in effectiveness\ndepending on how long the target has been asleep.\n\nAwake: 1.0x\nSleep 1st   Turn: 1.5x\nSleep 2nd Turn: 2.5x\nSleep 3rd  Turn: 4.0x</string>
+        <string id="135576">A {STRING_245004} which becomes more effective the longer a wild {STRING_0} is asleep.\n{STRING_245576} increases in effectiveness\ndepending on how long the target has been asleep.\n\nAwake: 1.0x&#x06D4;\nSleep 1st   Turn: 1.5x&#x06D4;\nSleep 2nd Turn: 2.5x&#x06D4;\nSleep 3rd  Turn: 4.0x</string>
     <string id="245013">&#xA007;Dusk Ball</string>
     <string id="245492">&#xA008;Fast Ball</string>
         <string id="135492">A {STRING_245004} which is excellent at capturing {STRING_0} with base Speed of 100 or more.</string>
@@ -1044,7 +1112,7 @@
     <string id="245498">&#xA016;Moon Ball</string>
         <string id="135498">A Poké Ball for catching any Pokémon in an evolution line that includes a Moon Stone evolution.</string>
     <string id="245008">&#xA017;Nest Ball</string>
-        <string id="135008">A somewhat different {STRING_240004} that\nworks especially well on lower level\n{STRING_0} in the wild.\n\n Starting from levels 1-16 {STRING_0} catch rate is 4.0x, each lvl up a {STRING_0} goes it losses 0.2x catch rate.\n\n lvl 1-16: 4.0x    lvl 17: 3.8x\n lvl 18: 3.6x        lvl 19: 3.4x\n lvl 20: 3.2x        lvl 21: 3.0x\n lvl 22: 2.8x        lvl 23: 2.6x\n lvl 24: 2.4x        lvl 25: 2.2x\n lvl 26: 2.0x        lvl 27: 1.8x\n lvl 28: 1.6x        lvl 29: 1.4x\n lvl 30: 1.2x</string>
+        <string id="135008">A somewhat different {STRING_240004} that\nworks especially well on lower level\n{STRING_0} in the wild.\n\n Starting from levels 1-16 {STRING_0} catch rate is 4.0x, each lvl up a {STRING_0} goes it losses 0.2x catch rate.\n\n lvl 1-16: 4.0x    lvl 17: 3.8x&#x06D4;\n lvl 18: 3.6x        lvl 19: 3.4x&#x06D4;\n lvl 20: 3.2x        lvl 21: 3.0x&#x06D4;\n lvl 22: 2.8x        lvl 23: 2.6x&#x06D4;\n lvl 24: 2.4x        lvl 25: 2.2x&#x06D4;\n lvl 26: 2.0x        lvl 27: 1.8x&#x06D4;\n lvl 28: 1.6x        lvl 29: 1.4x&#x06D4;\n lvl 30: 1.2x</string>
     <string id="245006">&#xA018;Net Ball</string>
         <string id="135006">A somewhat different {STRING_240004} which works especially well on Water and Bug-type {STRING_0}. It's not affected by moves or abilities which change a {STRING_0}'s typing.</string>
     <string id="245015">&#xA019;Quick Ball</string>
@@ -1052,7 +1120,7 @@
     <string id="245009">&#xA020;Repeat Ball</string>
         <string id="135009">A {STRING_245004} which grows in strength every consecutive capture of a species of {STRING_0} by 0.1x until a max of 15 is caught in a row. It powers up even when using a different type of {STRING_245004}. Its power is reset to 1.0x if you capture something else, or if you don't capture anything for a few days.</string>
     <string id="245010">&#xA021;Timer Ball</string>
-        <string id="135010">A somewhat different Ball that\nbecomes progressively better the\nmore turns there are in a battle.\nEach turn that passes the catch rate increases by 0.3x.\n\nTurn 1: 1.0x        Turn 2: 1.3x\nTurn 3: 1.6x        Turn 4: 1.9x\nTurn 5: 2.2x        Turn 6: 2.5x\nTurn 7: 2.8x        Turn 8: 3.1x\nTurn 9: 3.4x        Turn 10: 3.7x\nTurn 11: 4.0x</string>
+        <string id="135010">A somewhat different Ball that\nbecomes progressively better the\nmore turns there are in a battle.\nEach turn that passes the catch rate increases by 0.3x.\n&#x06D4;\nTurn 1: 1.0x        Turn 2: 1.3x&#x06D4;\nTurn 3: 1.6x        Turn 4: 1.9x&#x06D4;\nTurn 5: 2.2x        Turn 6: 2.5x&#x06D4;\nTurn 7: 2.8x        Turn 8: 3.1x&#x06D4;\nTurn 9: 3.4x        Turn 10: 3.7x&#x06D4;\nTurn 11: 4.0x</string>
     <string id="245001">&#xA022;Master Ball</string>
 
     <!--Berries Items-->

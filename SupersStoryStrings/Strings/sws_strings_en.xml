@@ -253,6 +253,7 @@
             <string id="16805082">Would you kindly bring me those unruly {STRING_0}?\nFor 8 of them, I'll offer you a {STRING_101730}.</string> <!--No Pokemon in party-->
             <string id="16805081">Ah.. I love the spring.\nBut the swarming {STRING_0} outside make the worst noises at night.</string>
             <string id="16805085">Ah.. I love the spring.\nHave you caught more of those unruly {STRING_0} for me?</string> <!--Pokemon in party to trade-->
+            <string id="16805084">Are you sure?\nYou won't get this {STRING_0} back.</string> <!--Asking to trade-->
             <string id="16805083">Ohoho~ Thank you!\nIt'll be {00} more until the next reward.</string> <!--Submit Pokemon-->
             <string id="16805092">Ohoho~ Thank you!\nHere, take this.</string> <!--Submit Pokemon and hit reward-->
             <string id="16805087">Let me know when you want to make a trade.</string> <!--No Pokemon to trade-->

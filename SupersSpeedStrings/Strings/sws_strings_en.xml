@@ -253,6 +253,7 @@
             <string id="16805082">\n\n</string> <!--No Pokemon in party-->
             <string id="16805081">\n\n</string>
             <string id="16805085">\n\n</string> <!--Pokemon in party to trade-->
+            <string id="16805084">\n\n</string> <!--Asking to trade-->
             <string id="16805083">\n\n</string> <!--Submit Pokemon-->
             <string id="16805092">\n\n</string> <!--Submit Pokemon and hit reward-->
             <string id="16805087">\n\n</string> <!--No Pokemon to trade-->
